@@ -3,6 +3,7 @@ layout: variorum
 vim: ts=3
 style-local: true
 scripts-local: true
+permalink: /variorum/index.html
 ---
 
 <div class="container-fluid">
