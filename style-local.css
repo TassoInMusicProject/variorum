@@ -3,6 +3,9 @@ html, body {
 	font-size: 16px !important;
 }
 
+.indent {
+	margin-left: 25px !important;
+}
 
 #TEI {
 	font-family: simonetta;
