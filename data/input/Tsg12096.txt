@@ -1,0 +1,80 @@
+@@BEGIN: VARIORUM
+@ID: Tsg12096
+
+@@BEGIN: ENTRY
+@FILENAME:	Tsg12096-lm-A4
+@TYPE:		Manuscript
+@SIGLUM:	N.A.4
+@LOCATION:	Biblioteca Ariostea, Ferrara, Italy
+@DATE:		mid-1580s
+@DESCRIPTION:	autograph by Orazio Ariosto
+@@BEGIN: VERSES
+@VERSE:
+	Giunto à la tomba, ove al suo spirto vivo
+	Dolorosa prigione, il Ciel prescrisse
+	{Pallido, freddo, muto e quasi} privo
+	{Di movimento} al marmo il {volto} affisse
+	Al fin, sgorgando un lacrimoso rivo,
+	In un languido hoimè proruppe; e disse.
+	O sasso amato, {et honorato} tanto,
+	Che {dentro} hai la mia fiamma, e fuori il pianto.
+@@END: VERSES
+@@END: ENTRY
+
+
+
+@@BEGIN: ENTRY
+@FILENAME:	Tsg12096-lp-casalmaggiore_1581
+@TYPE:		Print
+@PRINT_NUMBER:	Casalmaggiore 1581
+@PRINT_TITLE:	<i>Gerusalemme liberata de Sig.
+		Torquato Tasso Al Sereniss. Sig. Don
+		Alfonso II Duca V. Di Ferrara. Tratta da
+		Fedeliss. Copia, et Ultimamente emendata
+		di mano dell&#39;istesso Auttore.</i>
+@PUBLISHER:	Canacci e Viotti
+@PUB_PLACE:	Casalmaggiore
+@PUB_DATE:	1581
+@@BEGIN: VERSES
+@VERSE:
+	Giunto à la tomba, ove al suo spirto vivo
+	Dolorosa prigione, il Ciel prescrisse
+	{Pallido: freddo: muto: e quasi} privo
+	{Di movimento:} al marmo il {volto} affisse
+	Al fin, sgorgando un lacrimoso rivo,
+	In un languido hoimè proruppe; e disse.
+	O sasso amato, {et honorato} tanto,
+	Che {dentro} hai la mia fiamma, e fuori il pianto.
+@@END: VERSES
+@@END: ENTRY
+
+
+
+@@BEGIN: ENTRY
+@FILENAME:	Tsg12096a-canto
+@TYPE:		Music
+@COMPOSER:	Wert, Giaches de
+@SOURCE:	<i>Il settimo libro de madrigali a cinque voci</i>
+@PUBLISHER:	Angelo Gardano
+@PUB_PLACE:	Venice
+@PUB_DATE:	1581
+@RISM:		W0884
+@PARTBOOK:	Canto
+@@BEGIN: VERSES
+@VERSE:
+	Giunto à la tomba, ove al suo spirto vivo
+	Dolorosa prigione, il Ciel prescrisse
+	{Di color di calor di moto} privo
+	{Gia marmo in vista} al marmo il {viso} affisse
+	Al fin, sgorgando un lacrimoso rivo,
+	In un languido hoimè proruppe; e disse.
+	O sasso amato, {tanto amaro} tanto,
+	Che {dietro} hai la mia fiamma, e fuori il pianto.
+@@END: VERSES
+@@END: ENTRY
+
+
+@@END: VARIORUM
+
+
+

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="file:/home/rviglian/Projects/tasso/schema/tassotei.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Giunto a la tomba</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>University of Massachusetts Amherst</publisher>
+                <availability status="free">
+                    <p>CC BY SA</p>
+                </availability>
+                <idno type="local">A2</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="A2">
+                    <msIdentifier>
+                        <region>Italy</region>
+                        <settlement>Ferrara</settlement>
+                        <repository>Biblioteca Ariostea</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <locus>f. 5r</locus>
+                            <p>Autograph by Orazio Ariosto</p>
+                        </msItem>
+                    </msContents>
+                    <history>
+                        <origin>
+                            <origDate notBefore="1585" notAfter="1587">mid-1580s</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body xml:space="preserve">
+            <div type="dedication">
+                <p xml:id="p1"></p>
+            </div>
+            <div>
+                <lg>
+                    <l xml:id="l1">Giunto à la tomba, ove al suo spirto vivo</l>
+                    <l xml:id="l2">Dolorosa prigione, il Ciel prescrisse</l>
+                    <l xml:id="l3"><seg xml:id="v1">Pallido, freddo, muto e quasi</seg> privo</l>
+                    <l xml:id="l4"><seg xml:id="v2">Di movimento</seg> al marmo il <seg xml:id="v3">volto</seg> affisse</l>
+                    <l xml:id="l5">Al fin, sgorgando un lacrimoso rivo,</l>
+                    <l xml:id="l6">In un languido hoimè proruppe; e disse.</l>
+                    <l xml:id="l7">O sasso amato, <seg xml:id="v4">et honorato</seg> tanto,</l>
+                    <l xml:id="l8">Che <seg xml:id="v5">dentro</seg> hai la mia fiamma, e fuori il pianto.</l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>
