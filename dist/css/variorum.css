@@ -55,7 +55,9 @@ body {
 .worktitle {
   padding: 0;
   margin: 0;
-  font-family: "Vesper Libre";
+  font-size: 175%;
+  /* font-family: "Vesper Libre"; */
+  font-family: simonetta;
 }
 
 .variant {

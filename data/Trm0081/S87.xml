@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Costei, che su la fronte ha sparsa al vento</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">87</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S87">
+					<title>Delle rime del Sig. Torquato Tasso. Parte prima. Di novo dal medesimo in questa nuova impressione ordinate, corrette, accresciute, et date in luce. Con l'esposizione dello stesso autore</title>
+					<publisher>Pietro Maria Marchetti</publisher>
+					<pubPlace>Brescia</pubPlace>
+					<date when="1592">1592</date>
+					<biblScope unit="page">129</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Assomiglia à la sua Donna, la quale egli havea veduta co’ capegli sparsi sù la fronte.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Costei, che sù la fronte ha sparso al vento</l>
+					<l xml:id="l2">L’errante chioma d’òr, Fortuna pare;</l>
+					<l xml:id="l3">Anzi è vera Fortuna, e può beare,</l>
+					<l xml:id="l4">E misero può far il più contento.</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Dispensatrice nò d’oro, ò d’argento,</l>
+					<l xml:id="l6">Ò di gemme, che mandi estraneo Mare:</l>
+					<l xml:id="l7">Ma tesori d’Amor, cose più care</l>
+					<l xml:id="l8">Fura, dona, e ritoglie in un momento:</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Cieca non già, ma solo a’ miei martìri,</l>
+					<l xml:id="l10">Par, che s’infinga tale, e cieco huom rende</l>
+					<l xml:id="l11">Con due luci serene, e sfavillanti.</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">Chiedi qual sia la rota, ove gli amanti</l>
+					<l xml:id="l13">Travolve, e ’l corso lor ferma, e sospende?</l>
+					<l xml:id="l14">La rota fanno hor de’ begli occhi i giri.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

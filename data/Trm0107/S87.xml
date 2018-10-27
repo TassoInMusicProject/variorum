@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Arsi gran tempo, e del mio foco indegno</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">87</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S87">
+					<title>Delle rime del Sig. Torquato Tasso. Parte prima. Di novo dal medesimo in questa nuova impressione ordinate, corrette, accresciute, et date in luce. Con l'esposizione dello stesso autore</title>
+					<publisher>Pietro Maria Marchetti</publisher>
+					<pubPlace>Brescia</pubPlace>
+					<date when="1592">1592</date>
+					<biblScope unit="page">158</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Nel medesimo soggetto, mostra di sperare la vendetta nel silentio, e ne l’oblivione.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Arsi gran tempo, e del mio foco indegno,</l>
+					<l xml:id="l2">Esca fù sol vana bellezza ,e frale,</l>
+					<l xml:id="l3">E qual palustre augello il canto, e l’ale</l>
+					<l xml:id="l4">Volsi di fango asperse ad humil segno.</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Hor che può gelo d’honorato sdegno</l>
+					<l xml:id="l6">Spegner la face, e quell’ardor mortale;</l>
+					<l xml:id="l7">Con altra fiamma hoai s’inalza ,e sale</l>
+					<l xml:id="l8">Sovra le stelle il mio non pigro ingegno.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Lasso, e conosco ben, che quanto io dissi,</l>
+					<l xml:id="l10">Fù voce d’huom, cui ne’ tormenti astringa</l>
+					<l xml:id="l11">Giudice ingiusto à traviar dal vero.</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">Perfida ancor ne la tua fraude, io spero,</l>
+					<l xml:id="l13">Che dove pria giacesti, ella ti spinga</l>
+					<l xml:id="l14">Ne gli oscuri d’oblio profondi abissi.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

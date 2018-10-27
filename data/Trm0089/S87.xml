@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Mentre Madonna s'appoggi&ograve; pensosa</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">87</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S87">
+					<title>Delle rime del Sig. Torquato Tasso. Parte prima. Di novo dal medesimo in questa nuova impressione ordinate, corrette, accresciute, et date in luce. Con l'esposizione dello stesso autore</title>
+					<publisher>Pietro Maria Marchetti</publisher>
+					<pubPlace>Brescia</pubPlace>
+					<date when="1592">1592</date>
+					<biblScope unit="page">127</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Chiama felice un’Ape, la quale havea morso un labro de la sua Donna: mentre ella, dopo lungo passeggiare, sedeva in un Giardino.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Mentre Madonna s’appoggiò pensosa,</l>
+					<l xml:id="l2">Dopo i suoi lieti, e volontari errori,</l>
+					<l xml:id="l3">Al fiorito soggiorno, i dolci humori</l>
+					<l xml:id="l4">Depredò, sussurrando, Ape ingegnosa.</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">E ne’ labri nudria l’aura amorosa</l>
+					<l xml:id="l6">Al Sol de gli occhi suoi perpetui fiori:</l>
+					<l xml:id="l7">E volando, à dolcissimi colori,</l>
+					<l xml:id="l8">Ella sugger pensò vermiglia rosa.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Ah troppo bello error, troppo felice.</l>
+					<l xml:id="l10">Quel, ch’à l’ardente, & immortal desio,</l>
+					<l xml:id="l11">Già tant’anni si nega, à lei pur lice.</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">Vile Ape, Amor, cara mercè rapio,</l>
+					<l xml:id="l13">Che più ti resta; s’altri il mel n’elice,</l>
+					<l xml:id="l14">Da temprar il tuo assentio, e ’l dolor mio?</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

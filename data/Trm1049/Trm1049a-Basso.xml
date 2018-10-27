@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Queste note son nove, e queste Amore</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm1049a</idno>
+			<idno type="label">Trm1049a (Basso)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm1049a-Basso">
+					<title>Il primo libro de madrigali a tre voci</title>
+					<author role="composer">Zenaro, Giulio</author>
+					<publisher>Vincenzi &amp; Amadino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1589">1589</date>
+					<idno type="RISM">Z 160</idno>
+					<biblScope unit="page">12</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Queste notte son <seg xml:id="l1v1">noue</seg> E <seg xml:id="l1v2">quest</seg>'Amore</l>
+					<l xml:id="l2">Comintia in noui modi</l>
+					<l xml:id="l3">Queste note son nodi</l>
+					<l xml:id="l4">Che mi fa la <seg xml:id="l4v1">donna mia</seg> intorn'al core</l>
+					<l xml:id="l5"><seg xml:id="l5v1">[OMITTED]</seg></l>
+					<l xml:id="l6"><seg xml:id="l6v1">[OMITTED]</seg></l>
+					<l xml:id="l7"><seg xml:id="l7v1">E li</seg> stringe il piacer E la speranza</l>
+					<l xml:id="l8">Tal che de liberta nulla mi auanza.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

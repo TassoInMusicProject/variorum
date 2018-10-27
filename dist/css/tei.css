@@ -1,5 +1,6 @@
 tei-TEI{
-	font-family: "Vesper Libre";
+	/* font-family: "Vesper Libre"; */
+	font-family: simonetta;
 	font-size:150%;
 }
 
@@ -9,7 +10,7 @@ tei-teiHeader {
 
 tei-lg {
 	display: block;
-	line-height: 2em;
+	line-height: 1.75rem;
 }
 
 tei-lg > tei-l:not(:first-child) {
@@ -24,9 +25,15 @@ tei-del {
 	text-decoration: line-through;
 }
 
+tei-div {
+	margin-right: 100px;
+}
+
 tei-div[type=dedication] {
 	font-size: smaller;
 	font-style: italic;
+	display: block;
+	margin-bottom: 15px;
 }
 
 tei-supplied::before {

@@ -12182,27 +12182,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 var Application = function Application() {
     _classCallCheck(this, Application);
 
-    // var baseDir = 'data/';
-    // new _variorum2.default({ "files": [baseDir + 'E2.xml', baseDir + 'E3.xml', baseDir + 'S71.xml', baseDir + 'Trm0319a-Canto.xml', baseDir + 'Trm0319a-Basso.xml'],
-    // "collation": baseDir + 'collation.xml' });
-
-    var baseDir = 'data/Trm1049/';
-    new _variorum2.default({ 
-        "files": [
-                baseDir + 'E2.xml',
-                baseDir + 'S141.xml',
-                baseDir + 'S166.xml',
-                baseDir + 'S169.xml',
-                baseDir + 'S28.xml',
-                baseDir + 'Trm1049a-Basso.xml',
-                baseDir + 'Trm1049a-Canto.xml',
-                baseDir + 'Trm1049a-Tenore.xml',
-                baseDir + 'Trm1049b-Basso.xml',
-                baseDir + 'Trm1049b-Canto.xml'
-            ],
-
-            "collation": baseDir + 'collation.xml' 
-        });
+    var baseDir = 'data/';
+    new _variorum2.default({ "files": [baseDir + 'E2.xml', baseDir + 'E3.xml', baseDir + 'S71.xml', baseDir + 'Trm0319a-Canto.xml', baseDir + 'Trm0319a-Basso.xml'],
+        "collation": baseDir + 'collation.xml' });
 };
 
 (0, _jquery2.default)(function () {
@@ -12338,7 +12320,6 @@ exports.default = Variorum;
 },{"../data/TEIfile-model.js":48,"../data/TEIfiles-coll.js":49,"../data/collation-model.js":50,"../views/TEIfile-view.js":60,"../views/TEIfiles-view.js":61,"../views/variants-view.js":63,"backbone":2,"jquery":64}],55:[function(require,module,exports){
 'use strict';
 
-
 Object.defineProperty(exports, "__esModule", {
     value: true
 });
@@ -12349,104 +12330,7 @@ var Handlebars = _interopRequireWildcard(_handlebars);
 
 function _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj; } else { var newObj = {}; if (obj != null) { for (var key in obj) { if (Object.prototype.hasOwnProperty.call(obj, key)) newObj[key] = obj[key]; } } newObj.default = obj; return newObj; } }
 
-// var TEIfiles_mus_tpl = '\n{{#each . }}\n    <li>\n    <a href="#sm{{@index}}" data-toggle="collapse"">{{this.idno}} <span class="glyphicon glyphicon-chevron-right"></span></a>\n    <ul class="nav nav-sidebar collapse" id="sm{{@index}}">\n    {{#each this.data }}\n      <li {{#if this.selected}}class="active"{{/if}} id="nav_{{this.source}}"><a class="indent" href="#source/{{this.source}}">{{this.label}}</a></li>\n    {{/each}}\n    </ul>\n    </li>\n{{/each}}';
-
-var TEIfiles_mus_tpl = '\n{{#each . }}\
-    <li>\
-    <a href="#sm{{@index}}" data-toggle="collapse"">{{this.idno}}\
-        <span class="glyphicon glyphicon-chevron-right"></span></a>\
-    <ul class="nav nav-sidebar collapse" id="sm{{@index}}">\
-    {{{printVoiceList this.data}}}  \
-    </ul>\
-    </li>\
-{{/each}}';
-
-Handlebars.registerHelper("printVoiceList", function(datalist) {
-    var sortlist = {};
-    sortlist["Canto"     ] = [];  // 250
-    sortlist["Canto_1"   ] = [];  // 5
-    sortlist["Canto_2"   ] = [];  // 5
-    sortlist["Alto"      ] = [];  // 236
-    sortlist["Alto_1"    ] = [];  // 1
-    sortlist["Alto_2"    ] = [];  // 1
-    sortlist["Tenore"    ] = [];  // 262
-    sortlist["Tenore_1"  ] = [];  // 3
-    sortlist["Tenore_2"  ] = [];  // 3
-    sortlist["Basso"     ] = [];  // 261
-    sortlist["Basso_1"   ] = [];  // 1
-    sortlist["Basso_2"   ] = [];  // 1
-    sortlist["Quinto"    ] = [];  // 218
-    sortlist["Sesto"     ] = [];  // 38
-    sortlist["Settimo"   ] = [];  // 3
-    sortlist["Ottavo"    ] = [];  // 2
-    sortlist["Nono"      ] = [];  // 1
-    sortlist["Decimo"    ] = [];  // 1
-    sortlist["Undicesimo"] = [];  // 1
-    sortlist["Dodicesimo"] = [];  // 1
-    sortlist["Basso_continuo" ] = [];  // 17
-
-    var order = [];
-    order[ 0] = "Canto";
-    order[ 1] = "Canto_1";
-    order[ 2] = "Canto_2";
-    order[ 3] = "Alto";
-    order[ 4] = "Alto_1";
-    order[ 5] = "Alto_2";
-    order[ 6] = "Tenore";
-    order[ 7] = "Tenore_1";
-    order[ 8] = "Tenore_2";
-    order[ 9] = "Basso";
-    order[10] = "Basso_1";
-    order[11] = "Basso_2";
-    order[12] = "Quinto";
-    order[13] = "Sesto";
-    order[14] = "Settimo";
-    order[15] = "Ottavo";
-    order[16] = "Nono";
-    order[17] = "Decimo";
-    order[18] = "Undicesimo";
-    order[19] = "Dodicesimo";
-    order[20] = "Basso_continuo";
-
-    var output = "";
-    var i;
-    var j;
-
-    for (i=0; i<datalist.length; i++) {
-        var key = datalist[i].source.match(/-(.*?)$/)[1];
-        // maybe add check for undefined voice here
-        sortlist[key].push(datalist[i]);
-    }
-
-    for (i=0; i<order.length; i++) {
-        var items = sortlist[order[i]];
-        for (j=0; j<items.length; j++) {
-            var item = items[j];
-            output += '<li';
-            if (item.selected) {
-                output += ' class="active"';
-            }
-            output += ' id="nav_' + item.source + '">';
-            output += '<a class="indent"';
-            output += ' href="#source/' + item.source + '">';
-            output += item.label.match(/\((.*?)\)/)[1];
-            output += '</a></li>\n';
-        }
-    }
-	return new Handlebars.SafeString(output);
-});
-
-
-
-Handlebars.registerHelper("musiclabel", function(label) {
-    var output = label.match(/\((.*?)\)/)[1];
-	return new Handlebars.SafeString(output);
-});
-
-
-
-
-// GOT HERE ggg 
+var TEIfiles_mus_tpl = '\n{{#each . }}\n    <li>\n    <a href="#sm{{@index}}" data-toggle="collapse"">{{this.idno}} <span class="glyphicon glyphicon-chevron-right"></span></a>\n    <ul class="nav nav-sidebar collapse" id="sm{{@index}}">\n    {{#each this.data }}\n      <li {{#if this.selected}}class="active"{{/if}} id="nav_{{this.source}}"><a class="indent" href="#source/{{this.source}}">{{this.label}}</a></li>\n    {{/each}}\n    </ul>\n    </li>\n{{/each}}';
 
 exports.default = Handlebars.compile(TEIfiles_mus_tpl);
 
@@ -12480,65 +12364,7 @@ var Handlebars = _interopRequireWildcard(_handlebars);
 
 function _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj; } else { var newObj = {}; if (obj != null) { for (var key in obj) { if (Object.prototype.hasOwnProperty.call(obj, key)) newObj[key] = obj[key]; } } newObj.default = obj; return newObj; } }
 
-// var TEImetadata_tpl = '\n<h2 class="worktitle">{{title}}</h2>\n<ul class="TEImetadata list-unstyled">\n  {{#if ms}}\n  \t<li>{{ms.idno}}</li>\n  \t<li>{{ms.repository}}, {{ms.settlement}} {{ms.region}}</li>\n  \t<li>{{ms.origDate}}</li>\n    <li>{{ms.locus}}</li>\n  {{/if}}\n  {{#if print}}\n  \t<li><em>{{print.title}}</em></li>\n  \t{{#if print.author}}<li>{{print.author}}</li>{{/if}}\n  \t<li>{{print.publisher}}, {{print.pubPlace}} {{print.region}}</li>\n  \t<li>{{print.date}}</li>\n  \t{{#if print.idno}}<li>RISM: {{print.idno}}</li>{{/if}}\n    {{#if print.biblScope}}<li>p. {{print.biblScope}}</li>{{/if}}\n  {{/if}}\n</ul>';
-
-var TEImetadata_tpl = '<h2 class="worktitle">{{title}}</h2>\
-<ul style="padding-right:100px; padding-top:25px; padding-bottom:15px;" class="TEImetadata list-unstyled">\
-  {{#if ms}}\
-    <li>{{ms.idno}}</li>\
-    <li>{{ms.repository}}, {{ms.settlement}} {{ms.region}}</li>\
-    <li>{{ms.origDate}}</li>\
-    <li>{{ms.locus}}</li>\
-  {{/if}}\
-  {{#if print}}\
-  {{#if print.author}}<li>{{{printAuthor print.author}}}</li>{{/if}}\
-    <li><em>{{print.title}}</em></li>\
-    <li>{{{printPublicationInfo print.publisher print.pubPlace print.region print.date}}} \
-  {{#if print.idno}}<li>RISM: {{print.idno}}</li>{{/if}}\
-    {{#if print.biblScope}}<li>{{{printPage print.biblScope}}}</li>{{/if}}\
-  {{/if}}\
-    </ul>';
-
-Handlebars.registerHelper("printPage", function(page) {
-    var output = "";
-    var matches;
-    if (matches = page.match(/(.*), (\d+)(.*)/)) {
-        output += matches[1] + ", " + "p. " + matches[2] + matches[3];
-    } else if (matches = page.match(/^\d+/)) {
-        output += "p. " + page;
-    } else {
-        output += page;
-    }
-
-	return new Handlebars.SafeString(output);
-});
-
-
-Handlebars.registerHelper("printAuthor", function(author) {
-    var output = "";
-    var matches;
-    if (matches = author.match(/(.*)\s*,\s*(.*)/)) {
-        output += matches[2] + " " + matches[1];
-    } else {
-        output += author;
-    }
-	return new Handlebars.SafeString(output);
-});
-
-Handlebars.registerHelper("printPublicationInfo", function(publisher, place, region, date) {
-    var output = "";
-console.log("PLACE,", place);
-    if (place) {
-        output += place + ": ";
-    }
-    output += publisher;
-    if (date) {
-        output += ", " + date;
-    }
-	return new Handlebars.SafeString(output);
-});
-
-
+var TEImetadata_tpl = '\n<h2 class="worktitle">{{title}}</h2>\n<ul class="TEImetadata list-unstyled">\n  {{#if ms}}\n  \t<li>{{ms.idno}}</li>\n  \t<li>{{ms.repository}}, {{ms.settlement}} {{ms.region}}</li>\n  \t<li>{{ms.origDate}}</li>\n    <li>{{ms.locus}}</li>\n  {{/if}}\n  {{#if print}}\n  \t<li><em>{{print.title}}</em></li>\n  \t{{#if print.author}}<li>{{print.author}}</li>{{/if}}\n  \t<li>{{print.publisher}}, {{print.pubPlace}} {{print.region}}</li>\n  \t<li>{{print.date}}</li>\n  \t{{#if print.idno}}<li>RISM: {{print.idno}}</li>{{/if}}\n    {{#if print.biblScope}}<li>p. {{print.biblScope}}</li>{{/if}}\n  {{/if}}\n</ul>';
 
 exports.default = Handlebars.compile(TEImetadata_tpl);
 
@@ -12561,149 +12387,7 @@ Handlebars.registerHelper('list', function (context, options) {
 	}).join(", ");
 });
 
-// var reading_tpl = '\n{{#each .}}\n<div>\n\t<p><a href="#/source/{{this.source}}">{{this.label}}</a></p>\n\t{{#if this.agrees}}<p><span class="agrees">agrees with displayed</span></p>{{/if}}\n\t{{#if this.agreeing}}agrees with\n\t\t{{#list this.agreeing}}{{this}}{{/list}}\n\t{{/if}}\n\t<p class="variant_text">{{this.text}}</p>\n\t<hr/>\n</div>\n{{/each}}';
-
-var reading_tpl = "\n{{{displayVariantsByGroup this}}}\n";
-
-Handlebars.registerHelper('displayVariantsByGroup', function (obj) {
-    var output = "";
-
-    var variants = [];
-    var i;
-    for (i=0; i<obj.length; i++) {
-        var key = cleanText(obj[i].text);
-        if (variants[key]) {
-            variants[key]++;
-        } else {
-            variants[key] = 1;
-        }
-        obj[i].vkey = key;
-    }
-    // console.log("VARIANT KEYS", variants);
-    for (var property in variants) {
-        if (!variants.hasOwnProperty(property)) {
-            continue;
-        }
-        output += generateCombinedView(property, obj);
-    }
-
-	return new Handlebars.SafeString(output);
-});
-
-
-
-function generateCombinedView(vkey, list) {
-    var newlist = [];
-    for (var i=0; i<list.length; i++) {
-        if (list[i].vkey === vkey) {
-            newlist.push(list[i]);
-        }
-    }
-    if (newlist.length == 0) {
-        return "";
-    }
-
-    var output = "";
-    output += "<div>";
-    output += "<p>";
-    output += generateIdList(newlist);
-    output += '</p>';
-    output += '<p class="variant_text">'
-    output += newlist[0].text;
-    output += "</p>";
-    output += "<hr/>";
-    output += "</div>";
-
-    return output;
-}
-
-function generateIdList(list) {
-    var output = "";
-    var entries = getEntryList(list);
-    for (var i=0; i<entries.length; i++) {
-        output += entries[i];
-        if (i < entries.length - 1) {
-            output += ', ';
-        }
-    }
-    return output;
-}
-
-function getEntryList(list) {
-    var output = [];
-    var entry;
-    var entry2;
-    var tag;
-    var tag2;
-    var voice;
-    var abbr;
-    var matches;
-    for (var i=0; i<list.length; i++) {
-        entry = "";
-
-        if (matches = list[i].label.match(/(.*) \((.*)\)/)) {
-            tag = matches[1];
-            entry += matches[1];
-            entry += ":";
-
-            // abbr needs to be refined
-            abbr = matches[2].replace(/^([A-Z])[a-z]+/, "$1");
-
-            entry += '<a href="#/source/';
-            entry += list[i].source;
-            entry += '">';
-            entry += abbr;
-            entry += '</a>';
-
-            while (i < list.length) {
-                i++;
-                if (i >= list.length) {
-                    break;
-                }
-                if (matches = list[i].label.match(/(.*) \((.*)\)/)) {
-                    tag2 = matches[1];
-                    voice = matches[2];
-                    if (tag2 !== tag) {
-                        break;
-                    }
-                    // Another voice in the same work
-                    abbr = matches[2].replace(/^([A-Z])[a-z]+/, "$1");
-
-                    entry += '<a href="#/source/';
-                    entry += list[i].source;
-                    entry += '">';
-                    entry += abbr;
-                    entry += '</a>';
-                
-                } else {
-                    break;
-                }
-            }
-            i--;
-
-            // entry += ")";
-        } else {
-
-            entry += '<a href="#/source/';
-            entry += list[i].source;
-            entry += '">';
-            entry += list[i].label;
-            entry += '</a>';
-
-        }
-
-        output.push(entry);
-    }
-
-    return output;
-}
-
-function cleanText(text) {
-    if (!text) {
-        return text;
-    }
-    return text.replace(/[.!&()?\/\\\[\]]/g, "").toUpperCase();
-}
+var reading_tpl = '\n{{#each .}}\n<div>\n\t<p><a href="#/source/{{this.source}}">{{this.label}}</a></p>\n\t{{#if this.agrees}}<p><span class="agrees">agrees with displayed</span></p>{{/if}}\n\t{{#if this.agreeing}}agrees with\n\t\t{{#list this.agreeing}}{{this}}{{/list}}\n\t{{/if}}\n\t<p class="variant_text">{{this.text}}</p>\n\t<hr/>\n</div>\n{{/each}}';
 
 exports.default = Handlebars.compile(reading_tpl);
 
@@ -12940,21 +12624,6 @@ var TEIfilesView = function (_Backbone$View) {
                     lit_p.push(model.toJSON());
                 }
             });
-
-            // Sort lit_p by number after the initial "S":
-            lit_p = lit_p.sort(function(a, b) {
-                var A = parseInt(a.source.replace(/^S/, ""));
-                var B = parseInt(b.source.replace(/^S/, ""));
-                return A - B;
-            });
-
-            // Sort lit_ms alphabetically.
-            lit_ms = lit_ms.sort(function(a, b) {
-                var A = a.source;
-                var B = b.source;
-                return A - B;
-            });
-
 
             // Group musical sources by their idno
             var grouped_mus = [].concat(_toConsumableArray(mus.reduce(function (hash, _ref) {
