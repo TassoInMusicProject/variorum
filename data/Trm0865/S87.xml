@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Deh! perch&eacute; amar chi voi con pari affetto</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">87</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S87">
+					<title>Delle rime del Sig. Torquato Tasso. Parte prima. Di novo dal medesimo in questa nuova impressione ordinate, corrette, accresciute, et date in luce. Con l'esposizione dello stesso autore</title>
+					<publisher>Pietro Maria Marchetti</publisher>
+					<pubPlace>Brescia</pubPlace>
+					<date when="1592">1592</date>
+					<biblScope unit="page">16	</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Persuade una Gentildonna à non amare d’altro, che di vicendevole amore.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Deh perche amor chi voi con pari affetto</l>
+					<l xml:id="l2">Non ami, e sospirar che non sospiri?</l>
+					<l xml:id="l3">E distillare in lagrime i martiri</l>
+					<l xml:id="l4">Per tal, che mai per voi non bagni il petto?</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">E ’npallidir per chi non cangi aspetto?</l>
+					<l xml:id="l6">E volger gli occhi in cosi dolci giri</l>
+					<l xml:id="l7">Ad un crudel, ch’in voi non gli raggiri</l>
+					<l xml:id="l8">Com’à suo caro, e desiato oggetto?</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">S’Amor à voglia altrui s’estingue, e infiamma</l>
+					<l xml:id="l10">Spengete il vostro mal gradito, e rio,</l>
+					<l xml:id="l11">E de begli occhi rasciugate il duolo.</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">E geli il cor gentil per lungo oblio,</l>
+					<l xml:id="l13">E se pur dee sentir novella fiamma,</l>
+					<l xml:id="l14">S’accenda si, mà non s’accenda ei solo.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Donna, se ben le chiome ho gi&agrave; ripiene</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">87</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S87">
+					<title>Delle rime del Sig. Torquato Tasso. Parte prima. Di novo dal medesimo in questa nuova impressione ordinate, corrette, accresciute, et date in luce. Con l'esposizione dello stesso autore</title>
+					<publisher>Pietro Maria Marchetti</publisher>
+					<pubPlace>Brescia</pubPlace>
+					<date when="1592">1592</date>
+					<biblScope unit="page">51	</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Dimostra con la comparatione d’Etna, e de la selce come un vecchio Cavaliero freddo esteriormente per la vecchiezza, habbia nel core il foco amoroso.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Donna, perch’io le chiome habbia ripiene</l>
+					<l xml:id="l2">D’algente neve, il cor però non verna,</l>
+					<l xml:id="l3">Sasselo Amor, che tacito ’l governa,</l>
+					<l xml:id="l4">E ’l suo ardore immortal’ in lui mantiene.</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Cosi monte su ’l dorso alto sostene</l>
+					<l xml:id="l6">Le brine, e ’l gelo, e dentro hà fiamma eterna:</l>
+					<l xml:id="l7">E fuor gelida pietra, in parte interna</l>
+					<l xml:id="l8">Nasconde il foco, e ne l’occulte vene.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Ben, se ’l petto talhor m’ange, e percote</l>
+					<l xml:id="l10">Colpo de’ tuoi begli occhi, a più d’un segno</l>
+					<l xml:id="l11">Mostra le fiamme accese il mio sembiante.</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">Mà tu rispiarmi i colpi, e sono ignote</l>
+					<l xml:id="l13">Forse è gentil pietà, forse è disdegno,</l>
+					<l xml:id="l14">Ch’osi troppo sperar canuto Amante.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

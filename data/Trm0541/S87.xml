@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Tolse <span class="name">Barbara</span> gente il pregio a Roma</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">87</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S87">
+					<title>Delle rime del Sig. Torquato Tasso. Parte prima. Di novo dal medesimo in questa nuova impressione ordinate, corrette, accresciute, et date in luce. Con l'esposizione dello stesso autore</title>
+					<publisher>Pietro Maria Marchetti</publisher>
+					<pubPlace>Brescia</pubPlace>
+					<date when="1592">1592</date>
+					<biblScope unit="page">1	</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Loda la Signora Barbara Sanseverina Contessa de Sala, gentildonna di bellezza, e di valore inestimabile.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Tolse Barbara gente il pregio à Roma</l>
+					<l xml:id="l2">De l’arme, e de l’Impero, e serva fella:</l>
+					<l xml:id="l3">O nome à lei fatale, ecco novella</l>
+					<l xml:id="l4">Barbara vincitrice, anco la doma.</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Et à qual più s’honora, e più si noma,</l>
+					<l xml:id="l6">Togliendo il vanto, e ’l titol d’esser bella,</l>
+					<l xml:id="l7">Spiega le squadre in campidoglio, e quella</l>
+					<l xml:id="l8">De suoi prigioni incatenata e doma.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Sono i guerrieri suoi dolce rigore,</l>
+					<l xml:id="l10">Con pudica beltà, sdegno cortese,</l>
+					<l xml:id="l11">Che quando sfida altrui, tanto gli piace.</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">I vinti, un sesso, e l’altro, e l’un d’Amore,</l>
+					<l xml:id="l13">L’altro d’invidia, e con la stessa face,</l>
+					<l xml:id="l14">Agghiaccia hor l’uno, onde già l’altro accese.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Del puro lume onde i celesti giri</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">87</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S87">
+					<title>Delle rime del Sig. Torquato Tasso. Parte prima. Di novo dal medesimo in questa nuova impressione ordinate, corrette, accresciute, et date in luce. Con l'esposizione dello stesso autore</title>
+					<publisher>Pietro Maria Marchetti</publisher>
+					<pubPlace>Brescia</pubPlace>
+					<date when="1592">1592</date>
+					<biblScope unit="page">26</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Loda gli occhi della sua donna, dicendo che son di purissimo lume, come il cielo, la cui fiamma non arde, e non consuma, e mossi da Amore, come da loro intelligenza.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Del puro lume, onde i celesti giri,</l>
+					<l xml:id="l2">Fece, e ’l sole, e le Stelle il Mastro eterno.</l>
+					<l xml:id="l3">Formò i vostri occhi ancora, et al governo</l>
+					<l xml:id="l4">Vi pose Amor, perche informi, e giri.</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">E solo un raggio, che di lor si miri,</l>
+					<l xml:id="l6">Lunge sgombra da noi la notte, e ’l verno</l>
+					<l xml:id="l7">De gli affetti terreni, e ’l foco interno</l>
+					<l xml:id="l8">Di leggiadri v’accende alti desiri.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">La fiamma fà gli spirti à lei sembianti,</l>
+					<l xml:id="l10">E non consuma i nostri cori, ò sface,</l>
+					<l xml:id="l11">Ben che purghi le voglie impure, e miste.</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">Non è tema, ò dolor, che mai n’attriste,</l>
+					<l xml:id="l13">Serena è come voi la nostra pace,</l>
+					<l xml:id="l14">E son pianti di gioia, i nostri pianti.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

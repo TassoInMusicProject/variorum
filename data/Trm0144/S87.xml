@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Ore fermate il volo</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">87</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S87">
+					<title>Delle rime del Sig. Torquato Tasso. Parte prima. Di novo dal medesimo in questa nuova impressione ordinate, corrette, accresciute, et date in luce. Con l'esposizione dello stesso autore</title>
+					<publisher>Pietro Maria Marchetti</publisher>
+					<pubPlace>Brescia</pubPlace>
+					<date when="1592">1592</date>
+					<biblScope unit="page">249</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Ragiona con l’aure, e con l’hore affettuosamente.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Hore fermate il volo</l>
+					<l xml:id="l2">Nel lucido Oriente,</l>
+					<l xml:id="l3">Mentre se ’n vola il Ciel rapidamente;</l>
+					<l xml:id="l4">E carolando intorno</l>
+					<l xml:id="l5">A l’Alba mattutina,</l>
+					<l xml:id="l6">Ch’esce da la marina,</l>
+					<l xml:id="l7">L’humana vita ritardate, e ’l giorno.</l>
+					<l xml:id="l8">E voi, aure veloci,</l>
+					<l xml:id="l9">Portate i miei sospiri</l>
+					<l xml:id="l10">Là, dove laura spiri;</l>
+					<l xml:id="l11">E riportate à me sue chiare voci</l>
+					<l xml:id="l12">Sì, che l’ascolti io solo,</l>
+					<l xml:id="l13">Sol voi presenti, e ’l Signor nostro Amore,</l>
+					<l xml:id="l14">Aure soavi, & hore.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

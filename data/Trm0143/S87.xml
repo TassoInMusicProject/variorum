@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Ecco mormorar l'onde</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">87</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S87">
+					<title>Delle rime del Sig. Torquato Tasso. Parte prima. Di novo dal medesimo in questa nuova impressione ordinate, corrette, accresciute, et date in luce. Con l'esposizione dello stesso autore</title>
+					<publisher>Pietro Maria Marchetti</publisher>
+					<pubPlace>Brescia</pubPlace>
+					<date when="1592">1592</date>
+					<biblScope unit="page">250</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Discrive l’apparir de l’Aurora; e de la sua Donna.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Ecco mormorar l’onde.</l>
+					<l xml:id="l2">E tremolar le fronde</l>
+					<l xml:id="l3">A l’aura mattutina, e gli arboscelli;</l>
+					<l xml:id="l4">E sovra i verdi rami i vaghi augelli</l>
+					<l xml:id="l5">Cantar soavemente,</l>
+					<l xml:id="l6">E rider l’Oriente,</l>
+					<l xml:id="l7">Ecco già l’Alba appare</l>
+					<l xml:id="l8">E si specchia nel Mare,</l>
+					<l xml:id="l9">E rasserena il Cielo</l>
+					<l xml:id="l10">E le campagne imperla, il dolce gelo;</l>
+					<l xml:id="l11">E gli alti monti indora.</l>
+					<l xml:id="l12">O bella, e vaga Aurora,</l>
+					<l xml:id="l13">L’aura è tua Messaggiera: e tu de l’aura,</l>
+					<l xml:id="l14">Ch’ogn’arso cor ristaura.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>
