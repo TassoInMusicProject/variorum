@@ -12187,10 +12187,14 @@ var Application = function Application() {
     // "collation": baseDir + 'collation.xml' });
 
     // var baseDir = 'data/Trm1049/';
-    // var baseDir = 'data/' + CGI.id + '/';
+    var baseDir = 'data/' + CGI.id + '/';
+    var filelist = [];
+    for (var i=0; i<VARIORUM_FILES.length; i++) {
+        filelist[i] = "data/" + CGI.id + "/" + VARIORUM_FILES[i];
+    }
 
     new _variorum2.default({ 
-            "files": VARIORUM_FILES,
+            "files": filelist,
             "collation": COLLATION_FILE
         });
 

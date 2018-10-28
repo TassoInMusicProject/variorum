@@ -45,7 +45,8 @@ function getCgiParameters() {
 //
 
 function loadFileListForVariorum() {
-	url = "https://github.com/TassoInMusicProject/variorum/blob/tasso/data/";
+	// url = "https://www.tassomusic.org/variorum/data/";
+	url = "/variorum/data/";
 	url += CGI.id;
 	url += "/collation.json";
 	var request = new XMLHttpRequest();
