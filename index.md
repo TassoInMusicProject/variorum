@@ -11,6 +11,8 @@ permalink: /variorum/index.html
 
 		<!-- div class="col-sm-3 col-md-2 sidebar" id="select_source" -->
 		<div class="col-sm-3 col-md-2" id="select_source">
+			<div style="height:50px"></div>
+
 			<h4>Literary Manuscripts</h4>
 			<ul class="nav nav-sidebar" id="lit_ms"> </ul>
 
