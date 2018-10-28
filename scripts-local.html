@@ -1,6 +1,86 @@
 
 
+{% include_relative listeners.html %}
 
 <script>
-/// GOT HERE
+// vim: ts=3
+
+var CGI = {};
+var VARIORUM_FILES = [];
+var COLLATION_FILE = "";
+
+//////////////////////////////
+//
+// getCgiParameters -- Returns an associative array containing the
+//     page's URL's CGI parameters
+//
+
+function getCgiParameters() {
+   var url = window.location.search.substring(1);
+   var output = {};
+   var settings = url.split('&');
+   if ((settings.length == 1) && (settings[0] === "")) {
+      return output;
+   }
+   for (var i=0; i<settings.length; i++) {
+      var pair = settings[i].split('=');
+      pair[0] = decodeURIComponent(pair[0]);
+      pair[1] = decodeURIComponent(pair[1]);
+      if (typeof output[pair[0]] === 'undefined') {
+         output[pair[0]] = pair[1];
+      } else if (typeof output[pair[0]] === 'string') {
+         var arr = [ output[pair[0]], pair[1] ];
+         output[pair[0]] = arr;
+      } else {
+         output[pair[0]].push(pair[1]);
+      }
+   }
+   return output;
+}
+
+
+//////////////////////////////
+//
+// loadFileListForVariorum --
+//
+
+function loadFileListForVariorum() {
+
+	url = "https://api.github.com/repos/TassoInMusicProject/variorum/contents/data/";
+	url += CGI.id;
+	var request = new XMLHttpRequest();
+	request.open("GET", url);
+	request.send();
+	request.onload = function() {
+		var filelist = JSON.parse(this.responseText);
+		VARIORUM_FILES = [];
+		for (var i=0; i<filelist.length; i++) {
+			var name = filelist[i].name;
+			if (!name) {
+				continue;
+			}
+			if (name == "collation.xml") {
+				continue;
+			}
+			if (!name.match(/\.xml$/)) {
+				continue;
+			}
+			VARIORUM_FILES.push("data/" + CGI.id + "/" + name);
+		}
+		console.log("Variorum files to load:", VARIORUM_FILES);
+		COLLATION_FILE = "data/" + CGI.id + "/collation.xml";
+
+		var script = document.createElement("script");
+		script.type = "text/javascript";
+		script.src = "dist/js/variorum.js";
+		script.onload = function() { console.log("LOADED VARIORUM SCRIPT"); }
+		document.head.appendChild(script);
+	};
+
+
+}
+
 </script>
+
+
+

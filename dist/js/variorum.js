@@ -12186,7 +12186,15 @@ var Application = function Application() {
     // new _variorum2.default({ "files": [baseDir + 'E2.xml', baseDir + 'E3.xml', baseDir + 'S71.xml', baseDir + 'Trm0319a-Canto.xml', baseDir + 'Trm0319a-Basso.xml'],
     // "collation": baseDir + 'collation.xml' });
 
-    var baseDir = 'data/Trm1049/';
+    // var baseDir = 'data/Trm1049/';
+    // var baseDir = 'data/' + CGI.id + '/';
+
+    new _variorum2.default({ 
+            "files": VARIORUM_FILES,
+            "collation": COLLATION_FILE
+        });
+
+/*
     new _variorum2.default({ 
         "files": [
                 baseDir + 'E2.xml',
@@ -12200,9 +12208,11 @@ var Application = function Application() {
                 baseDir + 'Trm1049b-Basso.xml',
                 baseDir + 'Trm1049b-Canto.xml'
             ],
-
             "collation": baseDir + 'collation.xml' 
         });
+*/
+
+
 };
 
 (0, _jquery2.default)(function () {
@@ -12286,7 +12296,7 @@ var Variorum = function (_Backbone$Router) {
                 }).done(function () {
 
                     // All loaded, proceed here
-                    console.log('all loaded');
+                    console.log('variorum loaded');
 
                     // I don't like starting the history here, but loading TEI data at startup complicates things.
                     Backbone.history.start();
@@ -12527,7 +12537,6 @@ Handlebars.registerHelper("printAuthor", function(author) {
 
 Handlebars.registerHelper("printPublicationInfo", function(publisher, place, region, date) {
     var output = "";
-console.log("PLACE,", place);
     if (place) {
         output += place + ": ";
     }

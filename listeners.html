@@ -1,0 +1,16 @@
+
+<script>
+// vim: ts=3
+
+document.addEventListener("DOMContentLoaded", function() {
+	CGI = getCgiParameters();
+	if (!CGI["id"]) {
+		CGI.id = "Trm1049";
+	}
+	console.log("CGI:", CGI);
+	loadFileListForVariorum();
+});
+
+
+
+</script>
