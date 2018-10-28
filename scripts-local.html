@@ -45,7 +45,28 @@ function getCgiParameters() {
 //
 
 function loadFileListForVariorum() {
+	url = "https://github.com/TassoInMusicProject/variorum/blob/tasso/data/";
+	url += CGI.id;
+	url += "/collation.json";
+	var request = new XMLHttpRequest();
+	request.open("GET", url);
+	request.send();
+	request.onload = function() {
+		var filelist = JSON.parse(this.responseText);
+		VARIORUM_FILES = filelist;
+		console.log("Variorum files to load:", VARIORUM_FILES);
+		COLLATION_FILE = "data/" + CGI.id + "/collation.xml";
+		var script = document.createElement("script");
+		script.type = "text/javascript";
+		script.src = "dist/js/variorum.js";
+		script.onload = function() { console.log("LOADED VARIORUM SCRIPT"); }
+		document.head.appendChild(script);
+	};
+}
 
+// Github version: (has a limit of 60 downloads/hour/ip address:
+
+function loadFileListForVariorumGithub() {
 	url = "https://api.github.com/repos/TassoInMusicProject/variorum/contents/data/";
 	url += CGI.id;
 	var request = new XMLHttpRequest();
@@ -69,15 +90,12 @@ function loadFileListForVariorum() {
 		}
 		console.log("Variorum files to load:", VARIORUM_FILES);
 		COLLATION_FILE = "data/" + CGI.id + "/collation.xml";
-
 		var script = document.createElement("script");
 		script.type = "text/javascript";
 		script.src = "dist/js/variorum.js";
 		script.onload = function() { console.log("LOADED VARIORUM SCRIPT"); }
 		document.head.appendChild(script);
 	};
-
-
 }
 
 </script>

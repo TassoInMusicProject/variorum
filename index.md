@@ -1,5 +1,5 @@
 ---
-layout: variorum
+layout: plainvar
 vim: ts=3
 style-local: true
 scripts-local: true
