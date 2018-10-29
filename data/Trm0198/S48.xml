@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Chi la felice pianta d'or&iuml;ente</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">48</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S48">
+					<title>Delle Rime del Sig. Torquato Tasso. Parte quarta, e quinta. Nuovamente stampate</title>
+					<publisher>Antonio Orero</publisher>
+					<pubPlace>Genoa</pubPlace>
+					<date when="1586">1586</date>
+					<biblScope unit="page">133</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Chi la felice pianta d’Oriente</l>
+					<l xml:id="l2">Portò ne l’Occidente?</l>
+					<l xml:id="l3">E di qual mano aventurosa è questo</l>
+					<l xml:id="l4">Maraviglioso inesto?</l>
+					<l xml:id="l5">Felice, chi raccoglie</l>
+					<l xml:id="l6">Pepe nel lauro tra le verdi foglie,</l>
+					<l xml:id="l7">Ond’amor, e Natura, & Arte unite</l>
+					<l xml:id="l8">Fanne amicitia, e lite.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

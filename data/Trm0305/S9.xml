@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Ne i vostri dolci baci</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">9</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S9">
+					<title>Rime del Signor Torquato Tasso. Parte prima. Insieme con altri componimenti del medesimo</title>
+					<publisher>Aldo [Manuzio]</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1582">1582</date>
+					<biblScope unit="page">52</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Ne i vostri dolci baci</l>
+					<l xml:id="l2">De l’Api è il dolce mele,</l>
+					<l xml:id="l3">E vi è il morso de l’Api anco crudele.</l>
+					<l xml:id="l4">Dunque addolcito, e punto</l>
+					<l xml:id="l5">Da voi parto in un punto.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

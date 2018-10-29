@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Ardi, Amor, se ti piace</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">8</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S8">
+					<title>Rime del Signor Torquato Tasso. Parte prima. Insieme con altri componimenti del medesimo</title>
+					<publisher>Aldo [Manuzio]</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1581">1581</date>
+					<biblScope unit="page">135</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Ardi, Amor, se ti piace</l>
+					<l xml:id="l2">L’alma mia, non che il fianco,</l>
+					<l xml:id="l3">Ch’io non farò di sofferir mai stanco.</l>
+					<l xml:id="l4">Ma sembri la tua face</l>
+					<l xml:id="l5">Folgor, ch’a dentro passa,</l>
+					<l xml:id="l6">E fuor di se vestigio a pena lassa,</l>
+					<l xml:id="l7">Portino in me tuoi sdegni</l>
+					<l xml:id="l8">Anzi martir, che segni:</l>
+					<l xml:id="l9">Pur, se restar vestigi</l>
+					<l xml:id="l10">Debbon di quell martire, onde m’affliggi?</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

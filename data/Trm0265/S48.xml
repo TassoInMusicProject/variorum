@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Mentre la donna mia cangiando aspetto</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">48</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S48">
+					<title>Delle Rime del Sig. Torquato Tasso. Parte quarta, e quinta. Nuovamente stampate</title>
+					<publisher>Antonio Orero</publisher>
+					<pubPlace>Genoa</pubPlace>
+					<date when="1586">1586</date>
+					<biblScope unit="page">133</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Mentre la donna mia cangiando aspetto</l>
+					<l xml:id="l2">Di bianco nel vermiglio</l>
+					<l xml:id="l3">Mostra l’interno affetto,</l>
+					<l xml:id="l4">E par hor fresca rosa, hor bianco giglio,</l>
+					<l xml:id="l5">Dico se cosi muta il bel colore,</l>
+					<l xml:id="l6">Non è ferma nel core;</l>
+					<l xml:id="l7">Ma’l variar è cosi dolce e vago,</l>
+					<l xml:id="l8">Che d’altro io non m’appago.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

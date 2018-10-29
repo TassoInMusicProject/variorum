@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Facelle son d'immortal luce ardenti</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">7</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S7">
+					<title>Scelta di rime di diversi eccellenti poeti, di nuouo raccolte, e date in luce</title>
+					<publisher>Zabata</publisher>
+					<pubPlace>Genoa</pubPlace>
+					<date when="1579">1579</date>
+					<biblScope unit="page">278-79	</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">TORQUATO TASSO</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Facelle son di mortal luce ardenti</l>
+					<l xml:id="l2">Gli occhi che volgi in si soavi giri</l>
+					<l xml:id="l3">E fiamma è l’aura, che tu muovi e spiri</l>
+					<l xml:id="l4">A formar chiari angelici concenti</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">E fuoco son le lagrime cadenti</l>
+					<l xml:id="l6">Che talhor versi, e fuoco i tuoi sospiri</l>
+					<l xml:id="l7">E quanti tu col dolce sguardo miri</l>
+					<l xml:id="l8">E quanti rendi al dolce suono intenti.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Sol io fra i vivi raggi, e fra le note</l>
+					<l xml:id="l10">Onde avampa ciaschun, nulla mi scaldo</l>
+					<l xml:id="l11">Ne trova onde nudrirsi in me l’ardore.</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">Ne gia son io gelido marmo, e saldo</l>
+					<l xml:id="l13">Ma consumato in altro incendio il core</l>
+					<l xml:id="l14">Hor che ‘n cener è tutto, arder non puote.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

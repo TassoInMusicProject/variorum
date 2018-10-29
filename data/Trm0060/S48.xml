@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Lunge da voi, mio core</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">48</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S48">
+					<title>Delle Rime del Sig. Torquato Tasso. Parte quarta, e quinta. Nuovamente stampate</title>
+					<publisher>Antonio Orero</publisher>
+					<pubPlace>Genoa</pubPlace>
+					<date when="1586">1586</date>
+					<biblScope unit="page">4</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Dice morir mille volte mentre è lontano dalla sua Donna, però chiama felice chi muore una sola</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Lunge da voi mio core</l>
+					<l xml:id="l2">Mille volte m’uccide il mio dolore.</l>
+					<l xml:id="l3">Perche la mia partita</l>
+					<l xml:id="l4">Mi tolse l’alma, e s’io ripenso in lei</l>
+					<l xml:id="l5">Mi ritoglie la vita,</l>
+					<l xml:id="l6">E tutte morte sono i pensier miei.</l>
+					<l xml:id="l7">O miseria infinita,</l>
+					<l xml:id="l8">E quell felice ch’una volta muore.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

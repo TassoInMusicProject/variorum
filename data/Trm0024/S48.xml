@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Gi&agrave; non son io contento</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">48</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S48">
+					<title>Delle Rime del Sig. Torquato Tasso. Parte quarta, e quinta. Nuovamente stampate</title>
+					<publisher>Antonio Orero</publisher>
+					<pubPlace>Genoa</pubPlace>
+					<date when="1586">1586</date>
+					<biblScope unit="page">2</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">[Nella lontananza della sua Donna dice di non potere havere alcun piacere lontan da lei, se non quello che’egli sente nel patir per lei]</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Già non son’io contento</l>
+					<l xml:id="l2">Lunge da voi, che sete il mio tormento,</l>
+					<l xml:id="l3">In cosi dolce modo</l>
+					<l xml:id="l4">M’arde il pensier, ma s’egli à voi mi giunge,</l>
+					<l xml:id="l5">Io vi rimiro, & odo</l>
+					<l xml:id="l6">All’ora più vicin, che son più lunge,</l>
+					<l xml:id="l7">Et amo, & ardo, e godo</l>
+					<l xml:id="l8">Più del mio foco se maggior il sento.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

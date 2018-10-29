@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Questa vostra pietate</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">9</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S9">
+					<title>Rime del Signor Torquato Tasso. Parte prima. Insieme con altri componimenti del medesimo</title>
+					<publisher>Aldo [Manuzio]</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1582">1582</date>
+					<biblScope unit="page">64-65</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Questa vostra pietate</l>
+					<l xml:id="l2">Non refrigerio al core,</l>
+					<l xml:id="l3">Ma dà forza a l’ardore,</l>
+					<l xml:id="l4">Dunque d’esser pietosa homai cessate</l>
+					<l xml:id="l5">In così strana guisa,</l>
+					<l xml:id="l6">Che ne sia l’alma uccisa,</l>
+					<l xml:id="l7">Perch’ella vi desia</l>
+					<l xml:id="l8">O in estremo crudele, ò in tutto pia.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

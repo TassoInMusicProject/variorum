@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Bella <span class="name">Angioletta</span> da le vaghe piume</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">10</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S10">
+					<title>Rime del Signor Torquato Tasso. Parte seconda. Insieme con altri componimenti del medesimo</title>
+					<publisher>Aldo [Manuzio]</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1582">1582</date>
+					<biblScope unit="page">5</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Bella Angioletta da le vaghe piume</l>
+					<l xml:id="l2">Prestane al grave pondo</l>
+					<l xml:id="l3">Tante, ch’io esca fuor di questo fondo,</l>
+					<l xml:id="l4">O possa in qualche ramo</l>
+					<l xml:id="l5">Di te cantando dire, Io amo, io amo.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

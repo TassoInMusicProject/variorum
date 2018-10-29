@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Mentr'io mirava fiso</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">48</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S48">
+					<title>Delle Rime del Sig. Torquato Tasso. Parte quarta, e quinta. Nuovamente stampate</title>
+					<publisher>Antonio Orero</publisher>
+					<pubPlace>Genoa</pubPlace>
+					<date when="1586">1586</date>
+					<biblScope unit="page">122</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Mentre io mirava fiso</l>
+					<l xml:id="l2">De la mia Donna gli occhi ardenti e belli,</l>
+					<l xml:id="l3">Due vaghi spiritelli</l>
+					<l xml:id="l4">Fiammeggiando n’usciro à l’improviso,</l>
+					<l xml:id="l5">E dopò mille scorsi e mille giri,</l>
+					<l xml:id="l6">Mille fughe d’intorno,</l>
+					<l xml:id="l7">E mille aguati dentro al seno adorno,</l>
+					<l xml:id="l8">Mi trassero del cor mille sospiri:</l>
+					<l xml:id="l9">Ond’io con dolci & amorosi rai</l>
+					<l xml:id="l10">Pietà pietà gridai.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Di nettare amoroso ebro la mente</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">11</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S11">
+					<title>Scielta delle rime del Sig. Torquato Tasso. Parte prima [e seconda]</title>
+					<publisher>Vittorio Baldini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1582">1582</date>
+					<biblScope unit="page">Parte Prima, 35</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Di Nettare amoroso ebro la mente</l>
+					<l xml:id="l2">Ratto fui, ne so come, in chiusa chiostra,</l>
+					<l xml:id="l3">E due belle d’amor guerriere in giostra</l>
+					<l xml:id="l4">Vidi con l’arme, ond’egli è si possente.</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Vidi, che in dolce arringo alteramente</l>
+					<l xml:id="l6">Fer pria di lor beltà leggiadra mostra,</l>
+					<l xml:id="l7">Poi, muovendosi incontra, ove s’innnostra</l>
+					<l xml:id="l8">La bocca, si ferir di bacio ardente.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Sonar le labra, e vi restaro i segni</l>
+					<l xml:id="l10">Di colpi impressi. Amor, deh perche à voto</l>
+					<l xml:id="l11">Tant’arme, e tai percosse usar da scherzo?</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">Provinsi in vera pugna, e non si sdegni</l>
+					<l xml:id="l13">Scontro d’amante. Amor, me tuo devoto</l>
+					<l xml:id="l14">Opponi à l’una, ò fra le due fa terzo.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

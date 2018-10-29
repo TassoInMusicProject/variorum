@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Quel labbro che le rose han colorito</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">8</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S8">
+					<title>Rime del Signor Torquato Tasso. Parte prima. Insieme con altri componimenti del medesimo</title>
+					<publisher>Aldo [Manuzio]</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1581">1581</date>
+					<biblScope unit="page">34</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Sopra i labbri della Signora Contessa di Scandiano</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Quel labbro, che le rose han colorito,</l>
+					<l xml:id="l2">Molle si proge, e tumidetto in fuore,</l>
+					<l xml:id="l3">Spinto per arte, mi cred’io, d’Amore</l>
+					<l xml:id="l4">A fare a i baci insidioso intuito.</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Amanti, alcun non sia cotanto ardito,</l>
+					<l xml:id="l6">Ch’osi appressarsi, ove tra fiore, & fiore</l>
+					<l xml:id="l7">Si sta, qual angue, ad attoscarvi il core</l>
+					<l xml:id="l8">Quel fiero intento; io’l veggio, et ve l’addito:</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Io, ch’altre volte fui ne l’amorose</l>
+					<l xml:id="l10">Insidie colto, hor ben le riconosco,</l>
+					<l xml:id="l11">Et le discopro, o Giovinetti, a voi:</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">Quasi pomi di Tantalo, le rose</l>
+					<l xml:id="l13">Fansi à l’incontro, & s’allontanan poi,</l>
+					<l xml:id="l14">Sol resta Amor, che spira fiamma, e tosco.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

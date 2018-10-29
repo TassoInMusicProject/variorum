@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Arsi gran tempo, e del mio foco indegno</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">9</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S9">
+					<title>Rime del Signor Torquato Tasso. Parte prima. Insieme con altri componimenti del medesimo</title>
+					<publisher>Aldo [Manuzio]</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1582">1582</date>
+					<biblScope unit="page">17</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Arsi gran tempo, e del mio foco indegno</l>
+					<l xml:id="l2">Esca fù sol beltà terrena, e frale,</l>
+					<l xml:id="l3">E qual palustre augel pur sempre l’ale</l>
+					<l xml:id="l4">Volsi di fango asperse ad humil segno.</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Hor che può gelo di sì giusto sdegno</l>
+					<l xml:id="l6">Spegner nel cor l’incendio aspro, e mortale,</l>
+					<l xml:id="l7">Scosso d’ogni vil soma al Ciel ne sale</l>
+					<l xml:id="l8">Con pronto volo il mio non pigro ingegno.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Lasso, e conosco hor ben, che quanto i dissi</l>
+					<l xml:id="l10">Fù voce d’huom, cui ne’ tormenti astringa</l>
+					<l xml:id="l11">Giudice ingiusto a traviar dal vero.</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">Perfida, ancor ne la mia lingua io spero,</l>
+					<l xml:id="l13">Che donde pria ti trasse, ella ti spinga</l>
+					<l xml:id="l14">D’un cieco oblio ne’ piu profondi abissi.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

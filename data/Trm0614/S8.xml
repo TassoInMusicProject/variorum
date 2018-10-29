@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Al vostro dolce azzurro</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">8</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S8">
+					<title>Rime del Signor Torquato Tasso. Parte prima. Insieme con altri componimenti del medesimo</title>
+					<publisher>Aldo [Manuzio]</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1581">1581</date>
+					<biblScope unit="page">51</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Al vostro dolce azurro</l>
+					<l xml:id="l2">Ceda, o luci serene,</l>
+					<l xml:id="l3">Qual più bel negro Italia in pregio tiene.</l>
+					<l xml:id="l4">Occhi, Cielo d’Amore,</l>
+					<l xml:id="l5">Sole di questo core,</l>
+					<l xml:id="l6">Sono gli altri appo voi notte, & inferno.</l>
+					<l xml:id="l7">Azurro è’ Cielo eterno</l>
+					<l xml:id="l8">E quel, ch’è bello, il bello ha sol da lui,</l>
+					<l xml:id="l9">Ei bello è sol, perch’assomiglia à vui.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

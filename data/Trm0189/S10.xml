@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Secco &egrave; l'arbor gentile</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">10</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S10">
+					<title>Rime del Signor Torquato Tasso. Parte seconda. Insieme con altri componimenti del medesimo</title>
+					<publisher>Aldo [Manuzio]</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1582">1582</date>
+					<biblScope unit="page">51-2</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Secco è l’arbor gentile,</l>
+					<l xml:id="l2">Che mai le frondi, e’l verde</l>
+					<l xml:id="l3">O per gelo, ò per fulmine non perde.</l>
+				</lg>
+				<lg>
+					<l xml:id="l4">O mutula è la legge</l>
+					<l xml:id="l5">De la Natura, o’l sole</l>
+					<l xml:id="l6">Men può di quel che suole,</l>
+					<l xml:id="l7">E sol le stelle Amore, e’l mondo regge.</l>
+				</lg>
+				<lg>
+					<l xml:id="l8">E co’l piombo, e con l’oro</l>
+					<l xml:id="l9">Miracoli rinova,</l>
+					<l xml:id="l10">E fà vendetta nova</l>
+					<l xml:id="l11">D’antico oltraggio ne l’amato alloro.</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">Ma, se nel lieto Aprile</l>
+					<l xml:id="l13">Rinverdir al mio crin non dee corona,</l>
+					<l xml:id="l14">Secchisi anco per merto in Helicona.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

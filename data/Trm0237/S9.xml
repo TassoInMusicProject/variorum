@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Negro era intorno e 'n bianche falde il cielo</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">9</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S9">
+					<title>Rime del Signor Torquato Tasso. Parte prima. Insieme con altri componimenti del medesimo</title>
+					<publisher>Aldo [Manuzio]</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1582">1582</date>
+					<biblScope unit="page">36</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Negro era intorno, e’n bianche falde il Cielo</l>
+					<l xml:id="l2">Piovea converso, quando in alto ascese</l>
+					<l xml:id="l3">Madonna per mostrarsi a me cortese,</l>
+					<l xml:id="l4">Et le fiamme mirar, che sì mal celo;</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Quand’ecco su bei crin stille di gelo</l>
+					<l xml:id="l6">Sembrar perle su l’oro ad arte stese;</l>
+					<l xml:id="l7">Ma le mie luci al dolce obietto intese</l>
+					<l xml:id="l8">Chiuse, ahi, la pioggia, & lor di se fe velo;</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Deh, quando in gioco d’Alpe, o d’Appennino</l>
+					<l xml:id="l10">Avvenne, o in Hiperborea eccelsa Rupe</l>
+					<l xml:id="l11">Sì duro caso, a cui sì forte incresce?</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">Lasso, io rimasi allhor, qual Peregrino,</l>
+					<l xml:id="l13">A cui s’annotti in valli horride, & cupe,</l>
+					<l xml:id="l14">Mentre monti di neve il turbo mesce.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

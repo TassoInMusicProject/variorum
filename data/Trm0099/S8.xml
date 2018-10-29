@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Geloso amante apro mill'occhi e giro</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">8</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S8">
+					<title>Rime del Signor Torquato Tasso. Parte prima. Insieme con altri componimenti del medesimo</title>
+					<publisher>Aldo [Manuzio]</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1581">1581</date>
+					<biblScope unit="page">67</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Geloso Amante apro mill’occhi, e giro,</l>
+					<l xml:id="l2">E mill’orecchie ad’ ogni suono intenti,</l>
+					<l xml:id="l3">E sol di cieco horror larve, e spaventi,</l>
+					<l xml:id="l4">Quasi animal, ch’adombre, odo, e rimiro.</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">S’apre un riso costei, se’n dolce giro</l>
+					<l xml:id="l6">Lieta rivolge i begli occhi lucenti,</l>
+					<l xml:id="l7">Se tinta di pietà gli altrui lamenti</l>
+					<l xml:id="l8">Accoglie, o move un detto, od un sospiro,</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Temo, ch’altri ne goda, e che m’invole</l>
+					<l xml:id="l10">L’aura, e la luce: e sol mi duol, che spieghi,</l>
+					<l xml:id="l11">Raggio di sua bellezza in alcun lato.</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">Si neghi a me, pur ch’a ciascun si neghi,</l>
+					<l xml:id="l13">Che, quando altrui non splenda il mio bel Sole,</l>
+					<l xml:id="l14">Ne le tenebre ancor vivrò beato.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

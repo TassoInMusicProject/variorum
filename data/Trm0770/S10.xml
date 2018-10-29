@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>N&eacute; di feconda conca in ricco mare</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">10</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S10">
+					<title>Rime del Signor Torquato Tasso. Parte seconda. Insieme con altri componimenti del medesimo</title>
+					<publisher>Aldo [Manuzio]</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1582">1582</date>
+					<biblScope unit="page">44</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Nè di feconda conca ricco Mare</l>
+					<l xml:id="l2">Perla uscì mai si luminosa, e bella,</l>
+					<l xml:id="l3">Nè si vago monil giamai fece ella</l>
+					<l xml:id="l4">Al’altre unita pretiose, e care,</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Come costei, ch’haver simil non pare,</l>
+					<l xml:id="l6">Di regio albergo esce in età novella,</l>
+					<l xml:id="l7">Nè gemma pur fra l’altre par, ma stella,</l>
+					<l xml:id="l8">Che risplenda nel Ciel fra le men chiare.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Quella, ch’innanzi l’Alba in Oriente</l>
+					<l xml:id="l10">L’alme amorose à sospirar invita,</l>
+					<l xml:id="l11">E riede poi con Himeneo la fera,</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">Somiglia appunto in giovinile schiera,</l>
+					<l xml:id="l13">La fronte, e gli occhi candida, e lucente</l>
+					<l xml:id="l14">Pretiosa, e mirabil Margarita.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

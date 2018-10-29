@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Del puro lume onde i celesti giri</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">11</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S11">
+					<title>Scielta delle rime del Sig. Torquato Tasso. Parte prima [e seconda]</title>
+					<publisher>Vittorio Baldini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1582">1582</date>
+					<biblScope unit="page">Parte Prima, 75</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Del puro lume, onde i celesti giri</l>
+					<l xml:id="l2">Fece il Sol, e le Stelle il mastro eterno,</l>
+					<l xml:id="l3">Formò i vostri occhi ancora, & al governo</l>
+					<l xml:id="l4">Vi pose amor, perche gl’informi, e giri.</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">E sol un raggio, che di lor si miri,</l>
+					<l xml:id="l6">Lungi sgombra da noi la notte, e’l verno</l>
+					<l xml:id="l7">De gl’affetti mondani, e un fuoco interno</l>
+					<l xml:id="l8">V’accende di leggiadri, almi desiri.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">La fiamma da lor desta, a lor sembianti</l>
+					<l xml:id="l10">L’anime rende, e l’arde, e non le sface,</l>
+					<l xml:id="l11">Mà le fa pure di terrene, e miste.</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">Non è tema, ò dolor, che mai m’attriste,</l>
+					<l xml:id="l13">Serena è come voi la nostra pace,</l>
+					<l xml:id="l14">E son pianti di gioia i nostri pianti.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

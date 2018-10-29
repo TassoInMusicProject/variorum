@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Donna, quanto pi&ugrave; a dentro</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">48</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S48">
+					<title>Delle Rime del Sig. Torquato Tasso. Parte quarta, e quinta. Nuovamente stampate</title>
+					<publisher>Antonio Orero</publisher>
+					<pubPlace>Genoa</pubPlace>
+					<date when="1586">1586</date>
+					<biblScope unit="page">119</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Donna quanto più à dentro</l>
+					<l xml:id="l2">Conobbi il vostro core</l>
+					<l xml:id="l3">Tanto à darvi credenza io son più tardo.</l>
+					<l xml:id="l4">Ne stimo quell di fuore,</l>
+					<l xml:id="l5">Io dico un vago inchino, un dolce sguardo,</l>
+					<l xml:id="l6">Un dir nel foco io ardo,</l>
+					<l xml:id="l7">Un scolorir di viso,</l>
+					<l xml:id="l8">Un dolente sospiro, un lieto riso.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Tarquinia, se rimiri</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">9</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S9">
+					<title>Rime del Signor Torquato Tasso. Parte prima. Insieme con altri componimenti del medesimo</title>
+					<publisher>Aldo [Manuzio]</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1582">1582</date>
+					<biblScope unit="page">51</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Mentre, mia stella, miri</l>
+					<l xml:id="l2">I bei celesti giri,</l>
+					<l xml:id="l3">Il Cielo esser vorrei,</l>
+					<l xml:id="l4">Perche ne gli occhi miei</l>
+					<l xml:id="l5">Fiso tu rivolgessi</l>
+					<l xml:id="l6">Le tue dolci faville,</l>
+					<l xml:id="l7">Io vagheggiar potessi</l>
+					<l xml:id="l8">Mille bellezze tue, con luci mille.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

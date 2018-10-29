@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Costei, che su la fronte ha sparsa al vento</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">9</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S9">
+					<title>Rime del Signor Torquato Tasso. Parte prima. Insieme con altri componimenti del medesimo</title>
+					<publisher>Aldo [Manuzio]</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1582">1582</date>
+					<biblScope unit="page">34</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Costei, che’n su la fronte ha sparso al vento</l>
+					<l xml:id="l2">L’errante chioma d’or, Fortuna pare;</l>
+					<l xml:id="l3">Anzi è vera Fortuna, et può beare,</l>
+					<l xml:id="l4">E puo miseri farne in un momento,</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Dispensatrice nò d’oro, o d’argento,</l>
+					<l xml:id="l6">O di cose, che mandi estraneo Mare;</l>
+					<l xml:id="l7">Ma i thesori d’Amor cose piu care</l>
+					<l xml:id="l8">Fura, dona, e ritoglie à suo talento:</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Cieca non già; se non, quando à i martiti</l>
+					<l xml:id="l10">Nostri s’infinge tal, ciechi ne rende</l>
+					<l xml:id="l11">Con due luci serene, e fiammeggianti.</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">Chiedi, qual sia la rota, ove gli Amanti</l>
+					<l xml:id="l13">Travolve, e’l dubbio lor fato sospende?</l>
+					<l xml:id="l14">La rota sua son de’ begli occhi i giri.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

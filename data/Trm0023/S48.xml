@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Io non posso gioire</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">48</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S48">
+					<title>Delle Rime del Sig. Torquato Tasso. Parte quarta, e quinta. Nuovamente stampate</title>
+					<publisher>Antonio Orero</publisher>
+					<pubPlace>Genoa</pubPlace>
+					<date when="1586">1586</date>
+					<biblScope unit="page">2</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Nella lontananza della sua Donna dice di non potere havere alcun piacere lontan da lei, se non quello che’egli sente nel patir per lei</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Io non posso gioire</l>
+					<l xml:id="l2">Lunge da voi, che sete il mio desire;</l>
+					<l xml:id="l3">Ma’l mio pensier fallace</l>
+					<l xml:id="l4">Passa monti, campagne, e mare, e fiumi,</l>
+					<l xml:id="l5">E m’avicina, e sface</l>
+					<l xml:id="l6">Al dolce foco de’ bei vostri lumi,</l>
+					<l xml:id="l7">E’l languir si mi piace,</l>
+					<l xml:id="l8">Ch’infinito diletto hò nel martire.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

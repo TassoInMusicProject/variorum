@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Tre son le Grazie ancelle</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">8</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S8">
+					<title>Rime del Signor Torquato Tasso. Parte prima. Insieme con altri componimenti del medesimo</title>
+					<publisher>Aldo [Manuzio]</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1581">1581</date>
+					<biblScope unit="page">146</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Madrigale</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Tre son le Gratie ancelle,</l>
+					<l xml:id="l2">Se non è falso il grido,</l>
+					<l xml:id="l3">Ond’è servita l’alma dea di Gnido.</l>
+				</lg>
+				<lg>
+					<l xml:id="l4">Tu, che Ciprigna sei,</l>
+					<l xml:id="l5">Se non quant’honestà ti fa piu cara,</l>
+					<l xml:id="l6">Concedi dunque l’una a i desir miei.</l>
+				</lg>
+				<lg>
+					<l xml:id="l7">N’hai quattro, e vie piu belle,</l>
+					<l xml:id="l8">E fia modestia rara,</l>
+					<l xml:id="l9">Se donna a i Divi d’agguagliarsi impara.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

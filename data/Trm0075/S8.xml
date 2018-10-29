@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Poich&eacute; madonna sdegna</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">8</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S8">
+					<title>Rime del Signor Torquato Tasso. Parte prima. Insieme con altri componimenti del medesimo</title>
+					<publisher>Aldo [Manuzio]</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1581">1581</date>
+					<biblScope unit="page">7</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Poi che madonna sdegna</l>
+					<l xml:id="l2">Fuor d’ogni suo costume</l>
+					<l xml:id="l3">Volger in me de’ suoi begli occhi il Sole;</l>
+				</lg>
+				<lg>
+					<l xml:id="l4">Qualch’arte, Amor, m’insegna,</l>
+					<l xml:id="l5">Ond’io del vago lume</l>
+					<l xml:id="l6">Alcun bel raggio ascosamente invole,</l>
+					<l xml:id="l7">E gli occhi egri console.</l>
+					<l xml:id="l8">Nè giusto fia, che teco ella se’n doglia:</l>
+					<l xml:id="l9">Che, se furommi il core,</l>
+					<l xml:id="l10">Fia’l mio furto minore</l>
+					<l xml:id="l11">Quando in dolce vendetta un guardo i toglia.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

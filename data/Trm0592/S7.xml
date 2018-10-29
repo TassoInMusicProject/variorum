@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Negli anni acerbi tua purpurea rosa</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">7</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S7">
+					<title>Scelta di rime di diversi eccellenti poeti, di nuouo raccolte, e date in luce</title>
+					<publisher>Zabata</publisher>
+					<pubPlace>Genoa</pubPlace>
+					<date when="1579">1579</date>
+					<biblScope unit="page">281</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">TORQUATO [TASSO]</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Ne gli acerbi anni tua purpurea rosa</l>
+					<l xml:id="l2">Sembravi tù, che a i rai tepidi, a l’ora</l>
+					<l xml:id="l3">Non apre il sen, ma nel suo verde ancora</l>
+					<l xml:id="l4">Verginella s’asconde, e vergognosa.</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">O piu tosto par ei, che mortal cosa</l>
+					<l xml:id="l6">Non s’assomigli à te, celeste Aurora</l>
+					<l xml:id="l7">Ch’imperla le campagne, e i monti indora</l>
+					<l xml:id="l8">Lucida in bel sereno, e rugiadosa.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Hor la men verde età nulla a te toglie</l>
+					<l xml:id="l10">Ne te, benche negletta in manto adorno</l>
+					<l xml:id="l11">Giovinetta beltà vince, o pareggia.</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">Cosi piu vago è fior, poi che le foglie</l>
+					<l xml:id="l13">Spiega dorate, e ’l Sol nel mezo giorno</l>
+					<l xml:id="l14">Via più che nel mattine luce, e fiammeggia.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>
