@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Voi volete ch'io v'ami</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">Flc2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Flc2">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Bergamo</settlement>
+						<repository>Civica Biblioteca Angelo Mai</repository>
+						<idno>Tassiana N.6.5</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 171v</locus>
+							<p>codex containing 132 poems by Tasso, 20 of which may be autograph</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Voi volete ch’io v’ami,</l>
+					<l xml:id="l2">E non volete, che per voi sospiri:</l>
+					<l xml:id="l3">Questi son pur d’Amor novi martiri.</l>
+				</lg>
+				<lg>
+					<l xml:id="l4">Se con gl'occhi m’ardete,</l>
+					<l xml:id="l5">E l’alma è vaga di si dolce ardore</l>
+					<l xml:id="l6">Come pò star la fiamma chiusa al core?</l>
+				</lg>
+				<lg>
+					<l xml:id="l7">Se il mio foco vi piace,</l>
+					<l xml:id="l8">E s’io mostrarlo co’ sospir m’ingegno,</l>
+					<l xml:id="l9">Perche, crudel, cosi li avete a sdegno?</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

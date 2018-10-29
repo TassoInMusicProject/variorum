@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Amarilli s'io te miro</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">Flc2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Flc2">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Bergamo</settlement>
+						<repository>Civica Biblioteca Angelo Mai</repository>
+						<idno>Tassiana N.6.5</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 171r</locus>
+							<p>codex containing 132 poems by Tasso, 20 of which may be autograph</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Amarilli, s’io te miro</l>
+					<l xml:id="l2">Miro il sol degl'occhi miei,</l>
+					<l xml:id="l3">Tanto bella, e vaga sei,</l>
+					<l xml:id="l4">Ch’io per altra non sospiro.</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Se tu ridi, il dolce riso</l>
+					<l xml:id="l6">M’apre il ciel di primavera,</l>
+					<l xml:id="l7">O sei cruda, o lusinghiera</l>
+					<l xml:id="l8">Sempre hò innanzi il tuo bel viso.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Se tu parli et io ti sento</l>
+					<l xml:id="l10">Sento un’aura in mezzo Aprile</l>
+					<l xml:id="l11">Si soave, e si gentile,</l>
+					<l xml:id="l12">Che fà dolce il mio tormento.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

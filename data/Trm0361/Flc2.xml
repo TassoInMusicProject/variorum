@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Io son la Primavera</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">Flc2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Flc2">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Bergamo</settlement>
+						<repository>Civica Biblioteca Angelo Mai</repository>
+						<idno>Tassiana N.6.5</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 172v</locus>
+							<p>codex containing 132 poems by Tasso, 20 of which may be autograph</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Io son la Primavera,</l>
+					<l xml:id="l2">Che lieta, o vaghe donne, a voi ritorno</l>
+					<l xml:id="l3">Co'l mio bel manto adorno</l>
+					<l xml:id="l4">Per vestir le campagne d’erbe, e fiori,</l>
+					<l xml:id="l5">E svegliarvi nel cor novelli amori.</l>
+				</lg>
+				<lg>
+					<l xml:id="l6">A me Zefiro spira,</l>
+					<l xml:id="l7">A me ride la terra, e ’l ciel sereno,</l>
+					<l xml:id="l8">Volan di seno, in seno</l>
+					<l xml:id="l9">Gli amoretti vezzosi a mille, a mille,</l>
+					<l xml:id="l10">Chi armato di stral, chi di faville.</l>
+				</lg>
+				<lg>
+					<l xml:id="l11">E voi ancor gioite</l>
+					<l xml:id="l12">Godete al mio venir tra risi, e canti,</l>
+					<l xml:id="l13">Amate i vostri amanti,</l>
+					<l xml:id="l14">Hor che ’l bel viso amato april v’infiora;</l>
+					<l xml:id="l15">PRIMAVERA per voi non torna ogn'hora.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Occhi miei mal accorti</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">Flc2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Flc2">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Bergamo</settlement>
+						<repository>Civica Biblioteca Angelo Mai</repository>
+						<idno>Tassiana N.6.5</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 167v</locus>
+							<p>codex containing 132 poems by Tasso, 20 of which may be autograph</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Occhi miei mal accorti,</l>
+					<l xml:id="l2">A gran ragione di voi sol mi doglio,</l>
+					<l xml:id="l3">Ché voi sete cagion del mio cordoglio.</l>
+				</lg>
+				<lg>
+					<l xml:id="l4">Per voi sol, che mirate,</l>
+					<l xml:id="l5">Io son ferito da lo stral d’Amore,</l>
+					<l xml:id="l6">E per voi se ne va veloce al core:</l>
+				</lg>
+				<lg>
+					<l xml:id="l7">Dunque voi nel mirare</l>
+					<l xml:id="l8">Siate piú accorti, perche non conviene</l>
+					<l xml:id="l9">Ch’io di vostro gioir porti le pene.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>
