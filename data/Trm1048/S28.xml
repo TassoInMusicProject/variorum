@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Queste note io vi dono</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">28</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S28">
+					<title>Gioie di rime, e prose del Sig. Torquato Tasso, nuovamente poste in luce. Per ordine dell'altre sue opere. Quinta, e sesta parte</title>
+					<publisher>Giulio Vasalini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1587">1587</date>
+					<biblScope unit="page">14	</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Nella dedicatione d’una scielta di Madrigali in musica alla Signora Donna Marfisa da Este; ad istanza d’un Gentilhuomo suo amico</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Queste note io vi dono</l>
+					<l xml:id="l2">Marfisa, e queste carte, e questo inchiostro,</l>
+					<l xml:id="l3">E questa penna, e questo spirto è vostro,</l>
+					<l xml:id="l4">E l’alto nome, e’l nume,</l>
+					<l xml:id="l5">A cui sacro lo stile, il cor, gli accenti,</l>
+					<l xml:id="l6">Degno, ch’à quattro venti</l>
+					<l xml:id="l7">Il portin più felici, e bianche piume.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

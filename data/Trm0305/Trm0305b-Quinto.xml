@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Ne i vostri dolci baci</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0305b</idno>
+			<idno type="label">Trm0305b (Quinto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0305b-Quinto">
+					<title>Il secondo libro de madrigali a cinque voci</title>
+					<author role="composer">Mazza, Francesco</author>
+					<publisher>Vincenzi &amp; Amadino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1584">1584</date>
+					<idno type="RISM">M 1502</idno>
+					<biblScope unit="page">3</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Ne i vostri dolci baci</l>
+					<l xml:id="l2">De l’Api è ‘l dolce mele</l>
+					<l xml:id="l3">Et vi è ‘l morso de l’Api ancor crudele</l>
+					<l xml:id="l4">Dunque adolcito & punto</l>
+					<l xml:id="l5">Da voi parto in un punto.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

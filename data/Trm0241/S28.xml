@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Mentre i dipinti augelli</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">28</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S28">
+					<title>Gioie di rime, e prose del Sig. Torquato Tasso, nuovamente poste in luce. Per ordine dell'altre sue opere. Quinta, e sesta parte</title>
+					<publisher>Giulio Vasalini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1587">1587</date>
+					<biblScope unit="page">27</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Alla Signora Lucretia Senese</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Mentre i dipinti augelli,</l>
+					<l xml:id="l2">Cara Licori mia,</l>
+					<l xml:id="l3">Fra le superbe piante, e gli arboscelli</l>
+					<l xml:id="l4">Facean bella armonia,</l>
+					<l xml:id="l5">Et hora questi, hor quelli</l>
+					<l xml:id="l6">Alternano à prova I vaghi accenti,</l>
+					<l xml:id="l7">Diss’io pien di stupore,</l>
+					<l xml:id="l8">Questa è la scola, cu’è maestro Amore.</l>
+					<l xml:id="l9">Deh, perche non apprendo I bei lamenti</l>
+					<l xml:id="l10">Ne’ miei dolci tormenti?</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

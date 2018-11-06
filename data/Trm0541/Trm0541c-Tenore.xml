@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Tolse <span class="name">Barbara</span> gente il pregio a Roma</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0541c</idno>
+			<idno type="label">Trm0541c (Tenore)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0541c-Tenore">
+					<title>Il terzo libro de madrigali a cinque voci</title>
+					<author role="composer">Striggio, Alessandro</author>
+					<publisher>Gardano</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1596">1596</date>
+					<idno type="RISM">S 6972</idno>
+					<biblScope unit="page">17-18</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Tolse Barbara gent’il pregio a Roma</l>
+					<l xml:id="l2">Del Imperio e dell’armi e serva fella</l>
+					<l xml:id="l3">(O nome a lei fatale) ecco novella</l>
+					<l xml:id="l4">Barbara vincitrice anco la doma</l>
+					<l xml:id="l5">Et a qual più famosa in lei si noma</l>
+					<l xml:id="l6">Tolto lo scettro e ‘l titolo di bella</l>
+					<l xml:id="l7">Spiega sua squadr’in Campidoglio e quella</l>
+					<l xml:id="l8">Dei suoi prigioni incatenata e doma.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Sono i guerrieri suoi molle rigore</l>
+					<l xml:id="l10">E con casta beltà sdegno cortese</l>
+					<l xml:id="l11">Che quanto sfida più tanto più piace</l>
+					<l xml:id="l12">I vinti un sesso e l’altro [TACET]</l>
+					<l xml:id="l13">L’altro d’invidia or com’è che la face</l>
+					<l xml:id="l14">Stessa agghiacciò l’un si l’altro accese.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

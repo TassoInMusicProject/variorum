@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Giamai pi&ugrave; dolce raggio</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">28</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S28">
+					<title>Gioie di rime, e prose del Sig. Torquato Tasso, nuovamente poste in luce. Per ordine dell'altre sue opere. Quinta, e sesta parte</title>
+					<publisher>Giulio Vasalini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1587">1587</date>
+					<biblScope unit="page">14</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Loda la bellezza della Signora Laura Peperara</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Giamai più dolce raggio</l>
+					<l xml:id="l2">Non spiega il Sole in un fiorito Maggio</l>
+					<l xml:id="l3">Di quel, che le tue rose, e i tuoi ligustri</l>
+					<l xml:id="l4">Fà sì chiari, & illustri;</l>
+					<l xml:id="l5">Nè caggiono giamai la state, e’l verno;</l>
+					<l xml:id="l6">Tal c’hai l’Aprile eterno;</l>
+					<l xml:id="l7">Perpetua primavera hai nel bel visi,</l>
+					<l xml:id="l8">E’l Sole è’l tuo dolce riso.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

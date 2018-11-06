@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>N&eacute; di feconda conca in ricco mare</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">21</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S21">
+					<title></title>
+					<publisher></publisher>
+					<pubPlace></pubPlace>
+					<date when=""></date>
+					<biblScope unit="page">44</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Nè di feconda conca in ricco Mare</l>
+					<l xml:id="l2">Perla uscì mai si luminosa, e bella,</l>
+					<l xml:id="l3">Nè si vago monil giamai fece ella</l>
+					<l xml:id="l4">A l’altre unita pretiose, e care,</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Come costei, ch’haver simil non pare,</l>
+					<l xml:id="l6">Di regio albergo esce in età novella,</l>
+					<l xml:id="l7">Nè gemma pur fra l’altre par, ma stella,</l>
+					<l xml:id="l8">Che risplenda nel Ciel fra le men chiare.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Quella, ch’innanzi l’Alba in Oriente</l>
+					<l xml:id="l10">L’alme amorose à sospirar invita,</l>
+					<l xml:id="l11">E riede poi con Hemineo la fera,</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">Somiglia appunto in giovenile schiera,</l>
+					<l xml:id="l13">La fronte, e gli occhi candida, e lucente</l>
+					<l xml:id="l14">Pretiosa, e mirabil Margarita.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

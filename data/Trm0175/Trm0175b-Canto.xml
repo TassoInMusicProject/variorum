@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Vaghe Ninfe del Po, Ninfe sorelle</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0175b</idno>
+			<idno type="label">Trm0175b (Canto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0175b-Canto">
+					<title>Madrigali a tre. Libro secondo</title>
+					<author role="composer">Il Verso, Antonio</author>
+					<publisher>Amadino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1605">1605</date>
+					<idno type="RISM">I 11</idno>
+					<biblScope unit="page">10	</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Vaghe Ninfe del Pò Ninfe sorelle</l>
+					<l xml:id="l2">E voi de boschi e voi de la marina</l>
+					<l xml:id="l3">E voi de fonti e de l’alpestre cime</l>
+					<l xml:id="l4">Tessiam’hor care ghirlandette e belle</l>
+					<l xml:id="l5">A questa giovinetta peregrina</l>
+					<l xml:id="l6">Voi di fronde e di fiori & io di rime</l>
+					<l xml:id="l7">E mentre sua beltà lodo & honoro,</l>
+					<l xml:id="l8">Cingete à Laura voi le treccie d'oro.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

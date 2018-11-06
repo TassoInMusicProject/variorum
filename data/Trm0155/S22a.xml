@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Se l'imagine vostra</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">22a</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S22a">
+					<title>Rime et prose del Signor Torquato Tasso. Parte terza. Novamente poste in luce</title>
+					<publisher>Giulio Vasalini</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1584">1584</date>
+					<biblScope unit="page">40r</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Se l’imagine vostra</l>
+					<l xml:id="l2">In me dipinge Amore,</l>
+					<l xml:id="l3">Per che l’opra chiedo io d’altro pittore?</l>
+				</lg>
+				<lg>
+					<l xml:id="l4">Ben puote il mio pennsiero</l>
+					<l xml:id="l5">Mirar la forma interna,</l>
+					<l xml:id="l6">Ma non sarà, che l’occhio unqua la scerna.</l>
+				</lg>
+				<lg>
+					<l xml:id="l7">Dunque primo del vero</l>
+					<l xml:id="l8">L’habbia almen finta il senso</l>
+					<l xml:id="l9">Perch’io rimiri in voi mentre penso.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

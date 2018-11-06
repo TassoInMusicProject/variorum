@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title><span class="name">Angioletta</span> cortese</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">21</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S21">
+					<title></title>
+					<publisher></publisher>
+					<pubPlace></pubPlace>
+					<date when=""></date>
+					<biblScope unit="page">5</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Angioletta cortese,</l>
+					<l xml:id="l2">Odi dal terzo Cielo</l>
+					<l xml:id="l3">Le mie calde parole, e’l vivo Zelo,</l>
+					<l xml:id="l4">E porta innanzi a Giove</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Le mie preghiere nove,</l>
+					<l xml:id="l6">Si che da lui fien con pietade intese.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

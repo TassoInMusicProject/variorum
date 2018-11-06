@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Amor, se fia giamai che dolce i' t&oacute;cchi</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0046a</idno>
+			<idno type="label">Trm0046a (Tenore)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0046a-Tenore">
+					<title>Il terzo libro de madrigali a quattro, et a cinque voci</title>
+					<author role="composer">Guami, Francesco</author>
+					<publisher>Gardano</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1598">1598</date>
+					<idno type="RISM">G 4800</idno>
+					<biblScope unit="page">6-7</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Amor, se fia giamai che dolce i tocchi</l>
+					<l xml:id="l2">Il terso avorio de la bianca mano</l>
+					<l xml:id="l3">E ‘l lampeggiar del riso humile e piano</l>
+					<l xml:id="l4">Veggia d’appresso e 'l folgorar de gli occhi</l>
+					<l xml:id="l5">E notar possa come quindi scocchi</l>
+					<l xml:id="l6">Lo stral tuo dolc’e mai non parta in vano</l>
+					<l xml:id="l7">E come al cor dal bel sembiante humano</l>
+					<l xml:id="l8">D'amorose faville un nembo fiochi</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Tuo fia questo legame ond’hora il braccio</l>
+					<l xml:id="l10">Non pur ma via più stretto il core avolgo</l>
+					<l xml:id="l11">Caro furto, onde ‘l crin Madonna cinse</l>
+					<l xml:id="l12">Gradisci il voto che più forte laccio</l>
+					<l xml:id="l13">Da man più dotta ordito alma non strinse</l>
+					<l xml:id="l14">Ne perche à te lo doni indi mi sciolgo.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

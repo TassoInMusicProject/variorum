@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Sovra un lucido rio</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">28</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S28">
+					<title>Gioie di rime, e prose del Sig. Torquato Tasso, nuovamente poste in luce. Per ordine dell'altre sue opere. Quinta, e sesta parte</title>
+					<publisher>Giulio Vasalini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1587">1587</date>
+					<biblScope unit="page">15</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Sovra un lucido rio</l>
+					<l xml:id="l2">Si dolea per amore</l>
+					<l xml:id="l3">Un pastorel mirando il suo bel viso.</l>
+				</lg>
+				<lg>
+					<l xml:id="l4">Perche, diceva, anch’io</l>
+					<l xml:id="l5">Non mi converto in fiore,</l>
+					<l xml:id="l6">Benche non ami, come fè Narciso.</l>
+				</lg>
+				<lg>
+					<l xml:id="l7">Ch’in quella forma almeno</l>
+					<l xml:id="l8">Mi raccorrebbe la mia donna in seno.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

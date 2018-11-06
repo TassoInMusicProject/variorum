@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Non &egrave; questa la mano</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0047f</idno>
+			<idno type="label">Trm0047f (Basso)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0047f-Basso">
+					<title>Il secondo libro de madrigali a cinque voci</title>
+					<author role="composer">Mazza, Francesco</author>
+					<publisher>Vincenzi &amp; Amadino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1584">1584</date>
+					<idno type="RISM">M 1502</idno>
+					<biblScope unit="page">20</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">[TACET]</l>
+					<l xml:id="l2">[TACET]</l>
+					<l xml:id="l3">[TACET]</l>
+					<l xml:id="l4">Ecco che pur si trova</l>
+					<l xml:id="l5">Nelle mie man ristretta</l>
+					<l xml:id="l6">Ne forza d’arte per fuggir le giova</l>
+					<l xml:id="l7">Ne tien face o saetta</l>
+					<l xml:id="l8">Che da me la difenda</l>
+					<l xml:id="l9">[TACET]</l>
+					<l xml:id="l10">[TACET]</l>
+					<l xml:id="l11">Et se piaghe mi diè baci le renda.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

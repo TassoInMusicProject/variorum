@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Fugg&igrave;a di poggio in poggio</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">28</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S28">
+					<title>Gioie di rime, e prose del Sig. Torquato Tasso, nuovamente poste in luce. Per ordine dell'altre sue opere. Quinta, e sesta parte</title>
+					<publisher>Giulio Vasalini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1587">1587</date>
+					<biblScope unit="page">56</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Fuggia di poggio in poggio</l>
+					<l xml:id="l2">La mia dolce nemica,</l>
+					<l xml:id="l3">Et essa mi seguia bella, e pudica.</l>
+					<l xml:id="l4">Al fin mi giunse tra l’herbette, e l’acque,</l>
+					<l xml:id="l5">E mi trafisse il core, e non mi spiacque;</l>
+					<l xml:id="l6">Perche dir non saprei,</l>
+					<l xml:id="l7">S’hebbi vita più dolce, ò morte in lei,</l>
+					<l xml:id="l8">Mia vita se parlò, morte, tacque.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Se l'alma &egrave; prigioniera</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">21</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S21">
+					<title></title>
+					<publisher></publisher>
+					<pubPlace></pubPlace>
+					<date when=""></date>
+					<biblScope unit="page">8</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Alla Signora Leonora S. Vitale</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Se l’alma è prigioniera</l>
+					<l xml:id="l2">De la vostra beltade,</l>
+					<l xml:id="l3">Viva almen Donna il corpo in libertade.</l>
+				</lg>
+				<lg>
+					<l xml:id="l4">L’una prigione homai,</l>
+					<l xml:id="l5">O l’altra si dischiuda,</l>
+					<l xml:id="l6">Perche l’una per l’altra è via più cruda.</l>
+				</lg>
+				<lg>
+					<l xml:id="l7">Ma qual destra giamai</l>
+					<l xml:id="l8">Cosi destra, e leggiera</l>
+					<l xml:id="l9">Aprir l’una potrà, ch’io non ne pera.</l>
+				</lg>
+				<lg>
+					<l xml:id="l10">L’altra non di pietade</l>
+					<l xml:id="l11">Può ben si dolce aprire,</l>
+					<l xml:id="l12">Che l’alma brami in servitù morire.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

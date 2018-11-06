@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Se 'l mio core &egrave; con voi, come desia</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0026a</idno>
+			<idno type="label">Trm0026a (Canto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0026a-Canto">
+					<title>Il sesto libro de madrigli a cinque voci</title>
+					<author role="composer">Ingegneri, Marco Antonio</author>
+					<publisher>Amadino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1606">1606</date>
+					<idno type="RISM">I 59</idno>
+					<biblScope unit="page">13</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Se ’l mio cor è con voi come desia</l>
+					<l xml:id="l2">Dov’è l’anima mia</l>
+					<l xml:id="l3">Credo sia col pensier’e ’l pensier vago</l>
+					<l xml:id="l4">E con la bella imago</l>
+					<l xml:id="l5">E l’imagine bella</l>
+					<l xml:id="l6">Della vostra bellezz’e ne la mente</l>
+					<l xml:id="l7">Viv’è ver’è presente</l>
+					<l xml:id="l8">E vi spir’e favella</l>
+					<l xml:id="l9">Ma pur senz’il mio cor’è la mia vita</l>
+					<l xml:id="l10">Dolente e sbigotita.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

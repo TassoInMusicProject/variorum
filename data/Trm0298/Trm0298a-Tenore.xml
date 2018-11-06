@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Mentr'io mirava fiso</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0298a</idno>
+			<idno type="label">Trm0298a (Tenore)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0298a-Tenore">
+					<title>Il secondo libro de madrigali a cinque voci</title>
+					<author role="composer">Cortellini, Camillo</author>
+					<publisher>Rossi</publisher>
+					<pubPlace>Bologna</pubPlace>
+					<date when="1584">1584</date>
+					<idno type="RISM">C 4174</idno>
+					<biblScope unit="page">20-21</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Mentr'io mirava fisso</l>
+					<l xml:id="l2">De la mia donna gli occhi ardenti, e belli</l>
+					<l xml:id="l3">[TACET]</l>
+					<l xml:id="l4">Fiammeggiando n'usciro à l'improviso</l>
+					<l xml:id="l5">E leggiadretti e snelli</l>
+					<l xml:id="l6">Facendo mille scherzi e milli giri</l>
+					<l xml:id="l7">Mille fughe d’intorno</l>
+					<l xml:id="l8">E mille aguati dentro al seno adorno,</l>
+					<l xml:id="l9">Mi trassero del cor mille sospiri;</l>
+					<l xml:id="l10">Ond'io con dolci; & amorosi lai</l>
+					<l xml:id="l11">Pietà, pietà, gridai.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

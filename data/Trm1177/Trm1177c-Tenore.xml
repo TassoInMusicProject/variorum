@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Che soave rapina</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm1177c</idno>
+			<idno type="label">Trm1177c (Tenore)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm1177c-Tenore">
+					<title>Il primo libro de madrigali a cinque voci</title>
+					<author role="composer">Billi, Lucio</author>
+					<publisher>Amadino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1602">1602</date>
+					<idno type="RISM">B 2645</idno>
+					<biblScope unit="page">6</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">[TACET]</l>
+					<l xml:id="l2">[TACET]</l>
+					<l xml:id="l3">A l’armonia divina</l>
+					<l xml:id="l4">Mentre sciogliea si vaghi spirti Amore</l>
+					<l xml:id="l5">Onde fra me dicea da me diviso</l>
+					<l xml:id="l6">Se quest’è il Paradiso</l>
+					<l xml:id="l7">[TACET] Che fra l’acque e fra l’arene</l>
+					<l xml:id="l8">In ciel son le sirene.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

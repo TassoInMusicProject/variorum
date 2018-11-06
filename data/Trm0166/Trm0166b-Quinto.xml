@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Se taccio, il duol s'avanza</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0166b</idno>
+			<idno type="label">Trm0166b (Quinto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0166b-Quinto">
+					<title>Il secondo libro de madrigali a cinque voci</title>
+					<author role="composer">Mazza, Francesco</author>
+					<publisher>Vincenzi &amp; Amadino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1584">1584</date>
+					<idno type="RISM">M 1502</idno>
+					<biblScope unit="page">2</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Se taccio il duol s’avanza</l>
+					<l xml:id="l2">Se parlo accresco l’ira</l>
+					<l xml:id="l3">Donna bell’& crudel che mi martira</l>
+					<l xml:id="l4">Ma prendo al fin speranza</l>
+					<l xml:id="l5">Che l’humiltà vi pieghi</l>
+					<l xml:id="l6">Che nel silentio ancor son voci & prieghi</l>
+					<l xml:id="l7">Et prego amor che spieghi</l>
+					<l xml:id="l8">Nel mio doglioso aspetto</l>
+					<l xml:id="l9">Con lettre di pietà l’occulto affetto.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

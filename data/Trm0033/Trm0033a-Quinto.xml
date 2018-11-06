@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Io veggio in cielo scintillar le stelle</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0033a</idno>
+			<idno type="label">Trm0033a (Quinto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0033a-Quinto">
+					<title>Il secondo libro de madrigali a cinque voci</title>
+					<author role="composer">Mazza, Francesco</author>
+					<publisher>Vincenzi &amp; Amadino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1584">1584</date>
+					<idno type="RISM">M 1502</idno>
+					<biblScope unit="page">4-5</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Io veggio in cielo scintillar le stelle</l>
+					<l xml:id="l2">[TACET] & lampeggiar tremanti</l>
+					<l xml:id="l3">[TACET]</l>
+					<l xml:id="l4">Rimiriamo tal’hor vive fiammelle</l>
+					<l xml:id="l5">Aman forse la suso o pur son’elle</l>
+					<l xml:id="l6">Pietose a i nostri affanni a i dolci pianti</l>
+					<l xml:id="l7">[TACET]</l>
+					<l xml:id="l8">Là dov’altrui d’amor god’& favelle.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Pietose luci Se Leandro in mare</l>
+					<l xml:id="l10">O traviato peregrin fuss’io</l>
+					<l xml:id="l11">Tra boschi attenderei da voi soccorso</l>
+					<l xml:id="l12">Cosi con la sua luce il sol piu chiare</l>
+					<l xml:id="l13">Vi faccia siate scorte al desir mio</l>
+					<l xml:id="l14">& guidate de passi il dubbio corso.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

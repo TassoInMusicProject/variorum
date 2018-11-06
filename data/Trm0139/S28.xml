@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Messaggera de l'alba</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">28</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S28">
+					<title>Gioie di rime, e prose del Sig. Torquato Tasso, nuovamente poste in luce. Per ordine dell'altre sue opere. Quinta, e sesta parte</title>
+					<publisher>Giulio Vasalini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1587">1587</date>
+					<biblScope unit="page">43</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Fa comparatione della Signora Laura Peperara all’Aura</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Messaggiera de l’Alba</l>
+					<l xml:id="l2">E quest’aura terrena,</l>
+					<l xml:id="l3">E torbida talhor, talhor serena.</l>
+				</lg>
+				<lg>
+					<l xml:id="l4">L’aura mia par celeste,</l>
+					<l xml:id="l5">Così bella io la veggio</l>
+					<l xml:id="l6">Dopo l’Aurora in fresco; e verde seggio.</l>
+				</lg>
+				<lg>
+					<l xml:id="l7">Di fior l’una riveste</l>
+					<l xml:id="l8">Il dilettoso Aprile,</l>
+					<l xml:id="l9">L’altra fiorir fà l’amoroso stile.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

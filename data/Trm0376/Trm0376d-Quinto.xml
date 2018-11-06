@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Dolcemente dormiva la mia Clori</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0376d</idno>
+			<idno type="label">Trm0376d (Quinto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0376d-Quinto">
+					<title>Il primo libro de madrigali a sei voci</title>
+					<author role="composer">Mazza, Francesco</author>
+					<publisher>Gardano</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1590">1590</date>
+					<idno type="RISM">M 1503</idno>
+					<biblScope unit="page">6-7</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Dolcemente dormiva la mia Clori</l>
+					<l xml:id="l2">E 'ntorno al suo bel volto</l>
+					<l xml:id="l3">Givan scherzando i pargoletti amori</l>
+					<l xml:id="l4">Mirav'io da me tolto</l>
+					<l xml:id="l5">Con gran diletto lei</l>
+					<l xml:id="l6">Quando dir mi sentì Stolto, che fai?</l>
+					<l xml:id="l7">Tempo perduto non s'acquista mai</l>
+					<l xml:id="l8">All’hor’io mi chinai cosi pian piano</l>
+					<l xml:id="l9">E baciandol’il viso</l>
+					<l xml:id="l10">provai quanta dolcezza ha’l paradiso.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

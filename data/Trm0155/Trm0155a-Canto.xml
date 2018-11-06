@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Se l'imagine vostra</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0155a</idno>
+			<idno type="label">Trm0155a (Canto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0155a-Canto">
+					<title>Il secondo libro de madrigali a cinque voci</title>
+					<author role="composer">Mazza, Francesco</author>
+					<publisher>Vincenzi &amp; Amadino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1584">1584</date>
+					<idno type="RISM">M 1502</idno>
+					<biblScope unit="page">19</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Se l’imagine vostra</l>
+					<l xml:id="l2">in me dipinge Amore</l>
+					<l xml:id="l3">Perche l’opra chied’io d’altro pittore</l>
+					<l xml:id="l4">Ben puot’il mio pensiero</l>
+					<l xml:id="l5">Mirar la forma interna</l>
+					<l xml:id="l6">Ma non sarà che l’occhi’unqua la scerna</l>
+					<l xml:id="l7">Dunque privo del vero</l>
+					<l xml:id="l8">L’habbi almen finta il senso</l>
+					<l xml:id="l9">Perch’io rimir’in voi mentre vi penso.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

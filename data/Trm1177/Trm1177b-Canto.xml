@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Che soave rapina</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm1177b</idno>
+			<idno type="label">Trm1177b (Canto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm1177b-Canto">
+					<title>Il secondo libro de madrigali a sei voci</title>
+					<author role="composer">Bozi, Paolo</author>
+					<publisher>Amadino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1599">1599</date>
+					<idno type="RISM">B 4204</idno>
+					<biblScope unit="page">18</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Che soave rapina</l>
+					<l xml:id="l2">Fu quella del mio core</l>
+					<l xml:id="l3">All’armonia divina</l>
+					<l xml:id="l4">Mentre scioliea s vaghi spirti Amore</l>
+					<l xml:id="l5">Onde fra me dicea da me diviso</l>
+					<l xml:id="l6">Se quest’e ‘l paradiso</l>
+					<l xml:id="l7">Più dolce che fra l’acqu’e fra l’arene</l>
+					<l xml:id="l8">In ciel son le sirene.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

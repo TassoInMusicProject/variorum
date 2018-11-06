@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Donna cortese e bella</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0338a</idno>
+			<idno type="label">Trm0338a (Quinto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0338a-Quinto">
+					<title>Il secondo libro de madrigali a cinque voci</title>
+					<author role="composer">Mazza, Francesco</author>
+					<publisher>Vincenzi &amp; Amadino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1584">1584</date>
+					<idno type="RISM">M 1502</idno>
+					<biblScope unit="page">11</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Alma cortese & bella</l>
+					<l xml:id="l2">Deh non voler ch’io moia</l>
+					<l xml:id="l3">Di temenza & di noia</l>
+					<l xml:id="l4">Libera il corpo et fa l’anima ancella</l>
+					<l xml:id="l5">Et se disdegn’o signorìa si bassa</l>
+					<l xml:id="l6">Altrui mi dona o lassa</l>
+					<l xml:id="l7">Che tra pastori fors’& tra bifolci</l>
+					<l xml:id="l8">Havro l’hore piu dolci.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

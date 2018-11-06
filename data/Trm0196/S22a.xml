@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Felice primavera</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">22a</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S22a">
+					<title>Rime et prose del Signor Torquato Tasso. Parte terza. Novamente poste in luce</title>
+					<publisher>Giulio Vasalini</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1584">1584</date>
+					<biblScope unit="page">4r</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Felice primavera</l>
+					<l xml:id="l2">Di bei pensier fiorisce nel mio core</l>
+					<l xml:id="l3">Novo Lauro d’Amore.</l>
+					<l xml:id="l4">A cui ride la terra, e’l Ciel d’intorno;</l>
+					<l xml:id="l5">E di bel manto adorno</l>
+					<l xml:id="l6">Di giacinti, e viole il Pò si veste.</l>
+					<l xml:id="l7">Danzan le Ninfe honeste, e i pastorelli,</l>
+					<l xml:id="l8">E i sussurranti augelli infra le fronde</l>
+					<l xml:id="l9">Al mormorar de l’onde; e vaghi fiori</l>
+					<l xml:id="l10">Donan le Gratie à i pargoletti Amori.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

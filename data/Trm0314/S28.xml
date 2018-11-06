@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Perch&eacute; di seno in seno</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">28</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S28">
+					<title>Gioie di rime, e prose del Sig. Torquato Tasso, nuovamente poste in luce. Per ordine dell'altre sue opere. Quinta, e sesta parte</title>
+					<publisher>Giulio Vasalini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1587">1587</date>
+					<biblScope unit="page">70</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Perche di seno in seno</l>
+					<l xml:id="l2">Così trasporti, Amore,</l>
+					<l xml:id="l3">Questo vermiglio, lieto, e vago fiore?</l>
+				</lg>
+				<lg>
+					<l xml:id="l4">Ben dei saper, che l’uno</l>
+					<l xml:id="l5">Tutto d’honesto foco,</l>
+					<l xml:id="l6">E pien di casto gelo, è l’altro loco.</l>
+				</lg>
+				<lg>
+					<l xml:id="l7">Ma, s’egli danno alcuno</l>
+					<l xml:id="l8">Non hà tra fiamma, e ghiaccio,</l>
+					<l xml:id="l9">Perche tra l’uno, e l’altro i mi dispiaccio?</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Donna, quella saetta</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0167a</idno>
+			<idno type="label">Trm0167a (Canto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0167a-Canto">
+					<title>Il secondo libro de madrigali a cinque voci</title>
+					<author role="composer">Mazza, Francesco</author>
+					<publisher>Vincenzi &amp; Amadino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1584">1584</date>
+					<idno type="RISM">M 1502</idno>
+					<biblScope unit="page">9</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Donna quella saetta</l>
+					<l xml:id="l2">Onde gia mi percosse il mio signore</l>
+					<l xml:id="l3">Accese il mio voler d’immenso ardore</l>
+					<l xml:id="l4">Hor ben che spenta sia nel petto mio</l>
+					<l xml:id="l5">La brama e ’l foco pur’i bram’& ardo</l>
+					<l xml:id="l6">Per voi che fiera quanto bella sete</l>
+					<l xml:id="l7">Ma la fiamma de l’alma e ’l suo desio</l>
+					<l xml:id="l8">Già non deriva da soave sguardo</l>
+					<l xml:id="l9">Et non è quel che forse voi credete</l>
+					<l xml:id="l10">Bramo si ma vendetta</l>
+					<l xml:id="l11">Et se pur de gioir non per amore</l>
+					<l xml:id="l12">Ma per disdegn’omai gioisca il cuore.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

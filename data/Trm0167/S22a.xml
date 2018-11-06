@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Donna, quella saetta</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">22a</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S22a">
+					<title>Rime et prose del Signor Torquato Tasso. Parte terza. Novamente poste in luce</title>
+					<publisher>Giulio Vasalini</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1584">1584</date>
+					<biblScope unit="page">51v</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Donna, quella saetta,</l>
+					<l xml:id="l2">Onde già mi percosse il mio Signore,</l>
+					<l xml:id="l3">Accese il mio voler d’immenso ardore.</l>
+				</lg>
+				<lg>
+					<l xml:id="l4">Hor benche spenta sia nel petto mio</l>
+					<l xml:id="l5">La brama, e’l foco, pur’i bramo, & ardo</l>
+					<l xml:id="l6">Per voi, che fiera quanto bella sete.</l>
+				</lg>
+				<lg>
+					<l xml:id="l7">Ma la fiamma de l’alma, e’l suo desio</l>
+					<l xml:id="l8">Già non deriva da soave sguardo</l>
+					<l xml:id="l9">E non è quel, che voi forse credete.</l>
+				</lg>
+				<lg>
+					<l xml:id="l10">Bramo sì, ma vendetta,</l>
+					<l xml:id="l11">E se pur de’ gioir, non per amore,</l>
+					<l xml:id="l12">Ma per disdegno homai gioisca il core.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Io non posso gioire</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0023b</idno>
+			<idno type="label">Trm0023b (Quinto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0023b-Quinto">
+					<title>Il primo libro de madrigali a sei voci</title>
+					<author role="composer">Mazza, Francesco</author>
+					<publisher>Gardano</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1590">1590</date>
+					<idno type="RISM">M 1503</idno>
+					<biblScope unit="page">19</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Io non posso gioire</l>
+					<l xml:id="l2">Lunge da voi che sete il mio desire</l>
+					<l xml:id="l3">Ma ‘l mio pensier fallace</l>
+					<l xml:id="l4">Passa monti campagne mar’& fiumi</l>
+					<l xml:id="l5">E mi avvicina e sface</l>
+					<l xml:id="l6">Al dolce foco de bei vostri lumi</l>
+					<l xml:id="l7">E ‘l languir s mi piace</l>
+					<l xml:id="l8">Ch’infinito diletto hò nel martire.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

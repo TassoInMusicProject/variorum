@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Lunge da voi, ben mio</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0059a</idno>
+			<idno type="label">Trm0059a (Tenore)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0059a-Tenore">
+					<title>Il primo libro de madrigali a sei voci</title>
+					<author role="composer">Mazza, Francesco</author>
+					<publisher>Gardano</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1590">1590</date>
+					<idno type="RISM">M 1503</idno>
+					<biblScope unit="page">17</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Lunge da voi ben mio</l>
+					<l xml:id="l2">Non hò vita ne cor’e non son’io</l>
+					<l xml:id="l3">Non son’aime non sono</l>
+					<l xml:id="l4">quel ch'altra volta fui Ma un'ombra mesta</l>
+					<l xml:id="l5">un lagrimevol suono</l>
+					<l xml:id="l6">[TACET]</l>
+					<l xml:id="l7">[TACET]</l>
+					<l xml:id="l8">Ma resta il male onde morir desio.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

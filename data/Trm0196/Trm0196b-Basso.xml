@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Felice primavera</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0196b</idno>
+			<idno type="label">Trm0196b (Basso)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0196b-Basso">
+					<title>Il secondo libro de madrigali a cinque voci</title>
+					<author role="composer">Mazza, Francesco</author>
+					<publisher>Vincenzi &amp; Amadino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1584">1584</date>
+					<idno type="RISM">M 1502</idno>
+					<biblScope unit="page">15</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">[TACET]</l>
+					<l xml:id="l2">[TACET]</l>
+					<l xml:id="l3">Novo lauro d’Amore</l>
+					<l xml:id="l4">A cui ride la terr’e ’l ciel d’intorno</l>
+					<l xml:id="l5">E di bel manto adorno</l>
+					<l xml:id="l6">Di Giacinti & Viole il Pò si veste</l>
+					<l xml:id="l7">Danzan le Ninfe honeste e i Pastorelli</l>
+					<l xml:id="l8">E i susurranti augelli infra le fronde</l>
+					<l xml:id="l9">Al mormorar de l’ond’e i vaghi fiori</l>
+					<l xml:id="l10">Donan le gratie a i pargoletti amori.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Qui dove i sacri e verdeggianti allori</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">22</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S22">
+					<title>Rime et prose del Signor Torquato Tasso. Parte terza. Novamente poste in luce</title>
+					<publisher>Giulio Vasalini</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1583">1583</date>
+					<biblScope unit="page">23r</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Qui dove i sacri, e verdeggianti allori</l>
+					<l xml:id="l2">Forman di se vago boschetto ombroso</l>
+					<l xml:id="l3">Per cui serpendo al mar da l’herbe ascoso</l>
+					<l xml:id="l4">Porta limpido Rio suoi dolci humori.</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Ove persi vermigli, e bianchi fiori</l>
+					<l xml:id="l6">Rendon vago il terreno, e dilettoso</l>
+					<l xml:id="l7">Ove fra’l crin de gli arboscei frondoso</l>
+					<l xml:id="l8">Scherzano l’aure con leggiadri errori.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Vieni ò Fillide mia se pur non hai</l>
+					<l xml:id="l10">Non men ch’humano volto il cor spietato</l>
+					<l xml:id="l11">Ond’io tregua al dolor ritrovi homai.</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">Ma chi m’ode? à chi parlo? ove son io</l>
+					<l xml:id="l13">Lasso ella altrove al caro, Alcippo amato</l>
+					<l xml:id="l14">S’affide in grembo, e spregia l’ardor mio.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Dolcissimi colori</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">28</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S28">
+					<title>Gioie di rime, e prose del Sig. Torquato Tasso, nuovamente poste in luce. Per ordine dell'altre sue opere. Quinta, e sesta parte</title>
+					<publisher>Giulio Vasalini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1587">1587</date>
+					<biblScope unit="page">55</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Dolcissimi colori,</l>
+					<l xml:id="l2">Voi vi mutate, & io</l>
+					<l xml:id="l3">Color muto con voi, ma non a desio.</l>
+					<l xml:id="l4">Sempre vorrei mirarvi, e se fiorire</l>
+					<l xml:id="l5">Un bel purpureo veggio,</l>
+					<l xml:id="l6">Et un vago candor sempre vagheggio,</l>
+					<l xml:id="l7">Sempre soglio gioire.</l>
+					<l xml:id="l8">E perche vario segno al mio pensiero,</l>
+					<l xml:id="l9">E costante l’arciero.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

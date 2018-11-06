@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Portano l'altre il velo</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">22a</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S22a">
+					<title>Rime et prose del Signor Torquato Tasso. Parte terza. Novamente poste in luce</title>
+					<publisher>Giulio Vasalini</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1584">1584</date>
+					<biblScope unit="page">7r</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Portano l’altre il velo,</l>
+					<l xml:id="l2">Voi le chiome dorate</l>
+					<l xml:id="l3">Forse per alterezza al sol mostrate.</l>
+				</lg>
+				<lg>
+					<l xml:id="l4">Ma s’à sdegno prendete</l>
+					<l xml:id="l5">Ogni essempio terreno</l>
+					<l xml:id="l6">Con alti essempi il Ciel vi muova almeno.</l>
+				</lg>
+				<lg>
+					<l xml:id="l7">L’Alba col vel vedete,</l>
+					<l xml:id="l8">Hà il suo la Dea di Delo</l>
+					<l xml:id="l9">E l’Iri il suo colora anco nel Cielo.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

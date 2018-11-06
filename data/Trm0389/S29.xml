@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Donna, se ben le chiome ho gi&agrave; ripiene</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">29</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S29">
+					<title>Delle rime et prose del Sig. Torquato Tasso. Parte prima. Di nuovo ristampate, con diligenza rivedute, e corrette</title>
+					<publisher>Simon Vasalini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1585">1585</date>
+					<biblScope unit="page">63	</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Per il S.C.B.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Donna, se ben le chiome ho già ripiene</l>
+					<l xml:id="l2">D’algente neve, il cor però non verna.</l>
+					<l xml:id="l3">Sasselo amor, che tacito’l governa,</l>
+					<l xml:id="l4">E in lui conserva del suo amor mantiene.</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Etna cosi sul dorso alto sostiene</l>
+					<l xml:id="l6">Le brine, e’l gielo, e dentro ha fiamma eterna:</l>
+					<l xml:id="l7">Selce cosi gelata è ne l’esterna</l>
+					<l xml:id="l8">Parte, e’l foco nativo ha nelle vene.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Ben, se’l petto tal’hor mi ripercote,</l>
+					<l xml:id="l10">Colpo de’ tuoi begli occhi, à più d’un segno</l>
+					<l xml:id="l11">Vengon le fiamme mie nel mio sembiante.</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">Ma tu rispiarmi i colpi, e vuoi, ch’ignote</l>
+					<l xml:id="l13">Siano. forse è pietà, forse è disdegno,</l>
+					<l xml:id="l14">Ch’alzi tanto il desio canuto amante.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>
