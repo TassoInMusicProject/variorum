@@ -38,7 +38,7 @@
 					<l xml:id="l5">O piu tosto parei (che mortal cosa</l>
 					<l xml:id="l6">Non s’assomiglia à te) celeste Aurora,</l>
 					<l xml:id="l7">Che le campagne imperla, e i monti indora</l>
-					<l xml:id="l8">Lucida in Ciel sereno, & ruggiadosa;</l>
+					<l xml:id="l8">Lucida in Ciel sereno, &amp; ruggiadosa;</l>
 				</lg>
 				<lg>
 					<l xml:id="l9">Hor la men verde età nulla à te toglie;</l>
@@ -48,7 +48,7 @@
 				<lg>
 					<l xml:id="l12">Cosi più vago è’l fior, poi che le foglie</l>
 					<l xml:id="l13">Spiega odorate, e’l Sol nel mezzo giorno</l>
-					<l xml:id="l14">Via più, che nel mattine luce, & fiammeggia.</l>
+					<l xml:id="l14">Via più, che nel mattine luce, &amp; fiammeggia.</l>
 				</lg>
 			</div>
 		</body>

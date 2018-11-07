@@ -33,13 +33,13 @@
 			<div>
 				<lg>
 					<l xml:id="l1">Io veggio in cielo scintillar le stelle</l>
-					<l xml:id="l2">Piu che l’usato & lampeggiar tremanti</l>
+					<l xml:id="l2">Piu che l’usato &amp; lampeggiar tremanti</l>
 					<l xml:id="l3">Come ne gl’occhi di cortesi amanti</l>
 					<l xml:id="l4">Rimiriamo tal’hor vive fiammelle</l>
 					<l xml:id="l5">Aman forsi la suso o pur son’elle?</l>
 					<l xml:id="l6">Pietose a i nostri affanni a i dolci pianti</l>
 					<l xml:id="l7">Et scorgon l’insidie e i passi erranti</l>
-					<l xml:id="l8">La dov’altrui d’amor god’& favelle.</l>
+					<l xml:id="l8">La dov’altrui d’amor god’&amp; favelle.</l>
 				</lg>
 				<lg>
 					<l xml:id="l9">Pietose luci [TACET]</l>
@@ -47,7 +47,7 @@
 					<l xml:id="l11">[TACET]</l>
 					<l xml:id="l12">Cosi con la sua luce il sol piu chiare</l>
 					<l xml:id="l13">Vi faccia siate scorte al desir mio</l>
-					<l xml:id="l14">& guidate de passi il dubbio corso.</l>
+					<l xml:id="l14">&amp; guidate de passi il dubbio corso.</l>
 				</lg>
 			</div>
 		</body>

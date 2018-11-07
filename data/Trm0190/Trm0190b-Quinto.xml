@@ -33,10 +33,10 @@
 			<div>
 				<lg>
 					<l xml:id="l1">Fummo felici un tempo</l>
-					<l xml:id="l2">Io amant’& amata</l>
+					<l xml:id="l2">Io amant’&amp; amata</l>
 					<l xml:id="l3">[TACET]</l>
 					<l xml:id="l4">Tù d’amante nemica</l>
-					<l xml:id="l5">Poi divenisti & io</l>
+					<l xml:id="l5">Poi divenisti &amp; io</l>
 					<l xml:id="l6">Vols’in disdegno il giovenil desio</l>
 					<l xml:id="l7">Sdegno vuol ch'io te 'l dica</l>
 					<l xml:id="l8">[TACET]</l>

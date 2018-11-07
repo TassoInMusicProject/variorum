@@ -31,7 +31,7 @@
 				<lg>
 					<l xml:id="l1">D’aria un tempo nudrimmi, e cibo, e vita</l>
 					<l xml:id="l2">L’aura mi fu, che da un bel volto spira,</l>
-					<l xml:id="l3">Hor, che lei mi contende orgoglio, & ira,</l>
+					<l xml:id="l3">Hor, che lei mi contende orgoglio, &amp; ira,</l>
 					<l xml:id="l4">Di qual’altra esca fia l’alma nudrita?</l>
 				</lg>
 				<lg>
@@ -41,7 +41,7 @@
 					<l xml:id="l8">Muoia non non di digiun, ma di ferita;</l>
 				</lg>
 				<lg>
-					<l xml:id="l9">Armi di sdegnoi begli occhi, & avventi</l>
+					<l xml:id="l9">Armi di sdegnoi begli occhi, &amp; avventi</l>
 					<l xml:id="l10">Folgori à mille à mille: ecco, ch’ignuda</l>
 					<l xml:id="l11">Le porgo l’alma non ch’inerme il seno;</l>
 				</lg>

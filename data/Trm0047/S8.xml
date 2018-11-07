@@ -30,7 +30,7 @@
 			<div>
 				<lg>
 					<l xml:id="l1">Non è questa la mano,</l>
-					<l xml:id="l2">Che tante, & si mortali</l>
+					<l xml:id="l2">Che tante, &amp; si mortali</l>
 					<l xml:id="l3">Avventò nel mio cor fiammelle, e strali?</l>
 					<l xml:id="l4">Ecco, che pur si trova</l>
 					<l xml:id="l5">Fra le mie man ristretta,</l>

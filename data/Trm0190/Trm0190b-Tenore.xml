@@ -33,8 +33,8 @@
 			<div>
 				<lg>
 					<l xml:id="l1">[TACET]</l>
-					<l xml:id="l2">Io amant’& amata</l>
-					<l xml:id="l3">Tu amata & amant’in dolce stato</l>
+					<l xml:id="l2">Io amant’&amp; amata</l>
+					<l xml:id="l3">Tu amata &amp; amant’in dolce stato</l>
 					<l xml:id="l4">Tù [TACET]</l>
 					<l xml:id="l5">[TACET] Et io</l>
 					<l xml:id="l6">vols’in disdegno Il giovenil desio</l>
