@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Sarai termine ancora</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0303a</idno>
+			<idno type="label">Trm0303a (Quinto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0303a-Quinto">
+					<title>Il sesto libro de madrigali a cinque voci</title>
+					<author role="composer">Felis, Stefano</author>
+					<publisher>Scotto</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1591">1591</date>
+					<idno type="RISM">1591-18</idno>
+					<biblScope unit="page">21</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Sarai termine ancora</l>
+					<l xml:id="l2">Come de passi miei</l>
+					<l xml:id="l3">De miei dolci diletti</l>
+					<l xml:id="l4">Siepe [TACET]</l>
+					<l xml:id="l5">E non t'apristi all'hora</l>
+					<l xml:id="l6">Pietosamente fra 'l mio petto e lei</l>
+					<l xml:id="l7">Siepe Siepe crudele</l>
+					<l xml:id="l8">Al suon de le dolcissime querele.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

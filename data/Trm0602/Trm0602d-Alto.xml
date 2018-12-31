@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Caro amoroso neo</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0602d</idno>
+			<idno type="label">Trm0602d (Alto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0602d-Alto">
+					<title>Il sesto libro de madrigali a cinque voci</title>
+					<author role="composer">Effrem, Muzio</author>
+					<publisher>Scotto</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1591">1591</date>
+					<idno type="RISM">1591-18</idno>
+					<biblScope unit="page">18-19</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Del S. Mutio Affrem da Bari. </p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Caro amoroso Neo</l>
+					<l xml:id="l2">che si illustri un bel volto</l>
+					<l xml:id="l3">co’l negro tuo Fra ’l suo candor accolto</l>
+					<l xml:id="l4">se per te stesso sei</l>
+					<l xml:id="l5">tu pur macchia e difetto</l>
+					<l xml:id="l6">con qual arte perfetto</l>
+					<l xml:id="l7">Poi rendi il colmo delle gratie in lei.</l>
+				</lg>
+				<lg>
+					<l xml:id="l8">Forse del ciel le stelle</l>
+					<l xml:id="l9">sono macchie si belle</l>
+					<l xml:id="l10">Ma se tal’ha costei</l>
+					<l xml:id="l11">in sua belta le mende</l>
+					<l xml:id="l12">quai poi seran i freggi ond’ella splende.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Se taccio, il duol s'avanza</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0166k</idno>
+			<idno type="label">Trm0166k (Tenore)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0166k-Tenore">
+					<title>Il primo libro de madrigali a quattro voci</title>
+					<author role="composer">Nenna, Pomponio</author>
+					<publisher>Gargano</publisher>
+					<pubPlace>Naples</pubPlace>
+					<date when="1613">1613</date>
+					<idno type="RISM">N 398</idno>
+					<biblScope unit="page">18</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">S’io taccio il duol s’avanza</l>
+					<l xml:id="l2">S’io parlo accresco l’ira</l>
+					<l xml:id="l3">Donna bella, e gentil che mi martira</l>
+					<l xml:id="l4">Ma pur prendo speranza</l>
+					<l xml:id="l5">Che l’humiltà vi pieghi</l>
+					<l xml:id="l6">Che nel silentio àncor son voci, e prieghi.</l>
+					<l xml:id="l7">[OMITTED]</l>
+					<l xml:id="l8">[OMITTED]</l>
+					<l xml:id="l9">[OMITTED]</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

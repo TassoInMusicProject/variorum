@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Al tuo vago pallore</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">N13</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="N13">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Florence</settlement>
+						<repository>Biblioteca Nazionale</repository>
+						<idno>II IX 45</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 266r</locus>
+							<p>miscellaneous codex, containing copies of 4 lyric poems by Tasso</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Al tuo dolce pallore</l>
+					<l xml:id="l2">La Rosa il pregio cede</l>
+					<l xml:id="l3">Che per suo scorno hor piu arrossir si vede.</l>
+					<l xml:id="l4">Questo è il color ch’Amore</l>
+					<l xml:id="l5">Di sua man tinge e segna</l>
+					<l xml:id="l6">Nè vanno i suoi Guerrier sott'altra insegna</l>
+					<l xml:id="l7">Che piu? L’Alba homai sdegna</l>
+					<l xml:id="l8">L’ostro en vaghisce il Ciel di sue viole,</l>
+					<l xml:id="l9">E teco brama impalidirsi il sole.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

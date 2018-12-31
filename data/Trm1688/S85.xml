@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Padre del cielo, or ch'atra nube il calle</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">85</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S85">
+					<title>Delle rime del Sig. Torquato Tasso. Parte prima. Di nuovo dal medesimo in questa nuova impressione ordinate, corrette, accresciute, et date in luce. Con l'esposizione dello stesso autore</title>
+					<publisher>Francesco Osanna</publisher>
+					<pubPlace>Mantua</pubPlace>
+					<date when="1591">1591</date>
+					<biblScope unit="page">Parte prima, 321-22	</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Prega Iddio, che gli mostri la dritta strada da ritornare alla celeste patria.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">PADRE del Cielo, hor ch’atra nube il calle</l>
+					<l xml:id="l2">Destro m’asconde, e vie fallaci stampo</l>
+					<l xml:id="l3">Per questo paludoso, instabil campo</l>
+					<l xml:id="l4">De la terrena, e lagrimosa valle:</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Reggi i miei torti passi ond'io non falle,</l>
+					<l xml:id="l6">E di tua santa gratia il dolce lampo</l>
+					<l xml:id="l7">In me risplenda, e di securo scampo</l>
+					<l xml:id="l8">Mostra il sentiero, à cui voltai le spalle.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Deh pria che’l verno queste chiome asperga</l>
+					<l xml:id="l10">Di bianca neve: o di sì breve giorno</l>
+					<l xml:id="l11">Copran tenebre eterne il debil lume:</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">Dammi, ch’io faccia al tuo camin ritorno,</l>
+					<l xml:id="l13">Quasi vestito di celesti piume,</l>
+					<l xml:id="l14">Signore, e tù mi pasci, e tù m'alberga.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

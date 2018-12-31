@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Al vostro dolce azzurro</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0614a</idno>
+			<idno type="label">Trm0614a (Tenore)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0614a-Tenore">
+					<title>Il quarto libro de madrigali a cinque voci</title>
+					<author role="composer">Pordenon, Marco Antonio</author>
+					<publisher>Gardano</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1573">1573</date>
+					<idno type="RISM">P 5104</idno>
+					<biblScope unit="page">7</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Al vostro dolce azurro</l>
+					<l xml:id="l2">Ceda o luci sereni</l>
+					<l xml:id="l3">Qual piu bel negro Italia in pregio tiene</l>
+					<l xml:id="l4">Occhi Cielo d’amore</l>
+					<l xml:id="l5">Sole di questo core</l>
+					<l xml:id="l6">Son gl’altr’occhi appo voi notte o d’Inferno</l>
+					<l xml:id="l7">Azurr’e il Ciel’eterno</l>
+					<l xml:id="l8">E cio che bell’e il bello ha sol da lui</l>
+					<l xml:id="l9">E bello e sol perche somiglia a vui.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

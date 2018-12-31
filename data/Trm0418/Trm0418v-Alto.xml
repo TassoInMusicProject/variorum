@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Ardi e gela a tua voglia</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0418v</idno>
+			<idno type="label">Trm0418v (Alto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0418v-Alto">
+					<title>Il primo libro di canzoni e madrigaletti a tre et a quattro voci</title>
+					<author role="composer">Albano, Marcello</author>
+					<publisher>Carlino</publisher>
+					<pubPlace>Naples</pubPlace>
+					<date when="1616">1616</date>
+					<idno type="RISM">A 600</idno>
+					<biblScope unit="page">5</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Madrigale à tre.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Ardi, e gel’a tua voglia</l>
+					<l xml:id="l2">perfido &amp; impudico,</l>
+					<l xml:id="l3">hor amant’hor nemico,</l>
+					<l xml:id="l4">che d’incostant’ingegno</l>
+					<l xml:id="l5">poco l’amor io stimo e men lo sdegno</l>
+					<l xml:id="l6">e s’el tuo amor fu vano,</l>
+					<l xml:id="l7">van fia lo sdegno del tuo cor insano.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

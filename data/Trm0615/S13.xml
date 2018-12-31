@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Al tuo vago pallore</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">13</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S13">
+					<title>Scielta delle rime del Sig. Torquato Tasso. Prima, e seconda parte</title>
+					<publisher>Francesco Osanna</publisher>
+					<pubPlace>Mantua</pubPlace>
+					<date when="1582">1582</date>
+					<biblScope unit="page">Parte Prima, 49</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Al tuo dolce pallore</l>
+					<l xml:id="l2">La rosa il pregio cede,</l>
+					<l xml:id="l3">Che per lo scorno hor piu arrossir si vede.</l>
+					<l xml:id="l4">Questo è’l color, ch’Amore</l>
+					<l xml:id="l5">Di sua man tinge, e segna,</l>
+					<l xml:id="l6">Nè vanno i suo i guerrier sott’altr’insegna.</l>
+					<l xml:id="l7">Che piu? l’Alba homai sdegna</l>
+					<l xml:id="l8">L’ostro, e’nvaghisce il Ciel di tue viole,</l>
+					<l xml:id="l9">E teco brama impallidirsi il Sole.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

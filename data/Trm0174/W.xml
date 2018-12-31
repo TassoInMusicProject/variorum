@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Or che l'aura mia dolce altrove spira</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">W</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="W">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Rome</settlement>
+						<repository>Biblioteca Angelica</repository>
+						<idno>ms. 1882</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 45v</locus>
+							<p>miscellaneous codex, containing copies of 64 lyric poems by Tasso</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">[Di Torquato Tasso]</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Hor che l’aura mia dolce altrove spira</l>
+					<l xml:id="l2">Fra selve et campi ahi ben di ferro ha 'l cuore</l>
+					<l xml:id="l3">Chi qui solingo vive, onde d’horrore</l>
+					<l xml:id="l4">È cieca valle et di miseria et d’ira</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Qui nessun raggio  di belta si mira</l>
+					<l xml:id="l6">Rustico è fatto, e co bifolci Amore</l>
+					<l xml:id="l7">Pasce gli armenti, e'n sul' estivo ardore</l>
+					<l xml:id="l8">Hor tratta il rastro, et hor la falce gira</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">O fortunate selve o liete piaggie</l>
+					<l xml:id="l10">Ove le fiere, ove le piante e i sassi</l>
+					<l xml:id="l11">Appreso han di valor senso et costume</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">Hor che far non potria quel dolce lume?</l>
+					<l xml:id="l13">Se fa donde egli parte, ove egli stassi</l>
+					<l xml:id="l14">Civili i boschi, et le città selvaggie</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

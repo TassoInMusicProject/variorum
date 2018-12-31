@@ -1,7 +1,13 @@
 [
 "S11.xml",
+"S12.xml",
+"S13.xml",
 "Trm0166b-Canto.xml",
 "Trm0166b-Tenore.xml",
 "Trm0166b-Basso.xml",
-"Trm0166b-Quinto.xml"
+"Trm0166b-Quinto.xml",
+"Trm0166k-Canto.xml",
+"Trm0166k-Alto.xml",
+"Trm0166k-Tenore.xml",
+"Trm0166k-Basso.xml"
 ]

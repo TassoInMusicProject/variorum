@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Al tuo vago pallore</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">M4</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="M4">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Venice</settlement>
+						<repository>Biblioteca Nazionale Marciana</repository>
+						<idno>IX 310</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 60v</locus>
+							<p>miscellaneous codex, containing copies of 4 lyric poems by Tasso</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th&#x2013;17th centuries</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">[Madrigali del Sr. Torquato Tasso] 2˚</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Al tuo dolce pallore</l>
+					<l xml:id="l2">La rosa il pregio cede</l>
+					<l xml:id="l3">Che per suo scorno hor piu arrossir si vede.</l>
+					<l xml:id="l4">Quest'è ’l color ch’Amore</l>
+					<l xml:id="l5">Di sua man tigne, e segnia</l>
+					<l xml:id="l6">Ne vanno i suoi guerrier sotto altro insegnia.</l>
+				</lg>
+				<lg>
+					<l xml:id="l7">Che piu? L’Alba homai sdegnia</l>
+					<l xml:id="l8">L’ostro, e'nvaghisce il ciel di tue viole,</l>
+					<l xml:id="l9">E teco brama impalidirsi il Sole.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

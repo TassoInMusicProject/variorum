@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Già non son io contento</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0024a</idno>
+			<idno type="label">Trm0024a (Quinto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0024a-Quinto">
+					<title>Il sesto libro de madrigali a cinque voci</title>
+					<author role="composer">Felis, Stefano</author>
+					<publisher>Scotto</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1591">1591</date>
+					<idno type="RISM">1591-18</idno>
+					<biblScope unit="page">15</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Gia non son’io contento</l>
+					<l xml:id="l2">Lunge da voi che sete il mio tormento</l>
+					<l xml:id="l3">In cosi dolce modo</l>
+					<l xml:id="l4">M’arde il pensier ma s’egli a voi me giunge</l>
+					<l xml:id="l5">Io ve rimiro &amp; odo</l>
+					<l xml:id="l6">[TACET]</l>
+					<l xml:id="l7">&amp; amo &amp; ardo &amp; godo</l>
+					<l xml:id="l8">Piu del mio foco se maggior il sento.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

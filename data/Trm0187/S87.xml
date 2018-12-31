@@ -17,7 +17,7 @@
 					<publisher>Pietro Maria Marchetti</publisher>
 					<pubPlace>Brescia</pubPlace>
 					<date when="1592">1592</date>
-					<biblScope unit="page">305</biblScope>
+					<biblScope unit="page">Parte prima, 305</biblScope>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -29,8 +29,8 @@
 			</div>
 			<div>
 				<lg>
-					<l xml:id="l1">Eran velati i crespi, e biondi crini,</l>
-					<l xml:id="l2">E ’l bel vermiglio, e ’l candido colore,</l>
+					<l xml:id="l1">ERAN velati i crespi, e biondi crini,</l>
+					<l xml:id="l2">E’l bel vermiglio, e’l candido colore,</l>
 					<l xml:id="l3">E la bocca, che spira un dolce odore,</l>
 					<l xml:id="l4">Fra perle orientali, e fra rubini;</l>
 				</lg>
@@ -48,7 +48,7 @@
 				<lg>
 					<l xml:id="l12">Lasso, deh chi m’inganna, allhor  diss’io,</l>
 					<l xml:id="l13">Lumi sereni de la oscura vita;</l>
-					<l xml:id="l14">S’erro, vostra è la colpa, e ’l danno è mio.</l>
+					<l xml:id="l14">S’erro, vostra è la colpa, e’l danno è mio.</l>
 				</lg>
 			</div>
 		</body>

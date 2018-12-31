@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Ardi, Amor, se ti piace</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">Flc2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Flc2">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Bergamo</settlement>
+						<repository>Civica Biblioteca Angelo Mai</repository>
+						<idno>Tassiana N.6.5</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 107v</locus>
+							<p>codex containing 132 poems by Tasso, 20 of which may be autograph</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Ardi Amor se ti piace</l>
+					<l xml:id="l2">L’alma mia, non che'l fianco,</l>
+					<l xml:id="l3">Ch’io non sarò di sofferir mai stanco;</l>
+					<l xml:id="l4">Ma sembri la tua face</l>
+					<l xml:id="l5">Folgor ch’a dentro passa,</l>
+					<l xml:id="l6">E fuor di se vestigio a pena lassa.</l>
+					<l xml:id="l7">Portino in me tuoi sdegni</l>
+					<l xml:id="l8"><underline>Pur se anzi martir che segni</underline></l>
+					<l xml:id="l9">Pur se restar vestigi</l>
+					<l xml:id="l10">Debbon di quel martire, onde m’affliggi?</l>
+					<l xml:id="l11">[OMITTED]</l>
+					<l xml:id="l12">[OMITTED]</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

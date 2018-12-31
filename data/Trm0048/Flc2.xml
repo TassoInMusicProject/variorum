@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Amor l'alma m'allaccia</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">Flc2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Flc2">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Bergamo</settlement>
+						<repository>Civica Biblioteca Angelo Mai</repository>
+						<idno>Tassiana N.6.5</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 109v-110r [replicated at 112v]</locus>
+							<p>codex containing 132 poems by Tasso, 20 of which may be autograph</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Alla Sig.ra Lucretia Bendedia. Torqu. Tasso.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Amor l’alma m’allaccia</l>
+					<l xml:id="l2">Di dolci aspre catene,</l>
+					<l xml:id="l3">Ne mi doglio io di ciò, ma ben l’accuso,</l>
+					<l xml:id="l4">Che mi leghi, et affrene</l>
+					<l xml:id="l5">La lingua, acciò ch’io taccia</l>
+					<l xml:id="l6">Anzi Madonna timido, e confuso;</l>
+					<l xml:id="l7">E in mia ragion deluso.</l>
+					<l xml:id="l8">Deh la mia lingua Amore</l>
+					<l xml:id="l9">Sciogli, e se pur non vuoi</l>
+					<l xml:id="l10">Che mi stringa un sol men de lacci tuoi,</l>
+					<l xml:id="l11">Mille n’aggiungi in quella vece al core!</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

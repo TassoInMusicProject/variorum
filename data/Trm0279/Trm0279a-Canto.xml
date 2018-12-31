@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Al discioglier d'un groppo</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0279a</idno>
+			<idno type="label">Trm0279a (Canto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0279a-Canto">
+					<title>in Stefano Felis, Il sesto libro de madrigali a cinque voci</title>
+					<author role="composer">Monte, Filippo di</author>
+					<publisher>Scotto</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1591">1591</date>
+					<idno type="RISM">1591-18</idno>
+					<biblScope unit="page">7</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Al discioglier d’un groppo</l>
+					<l xml:id="l2">Mille al cor ne restrinse</l>
+					<l xml:id="l3">Quella candida man che pria la vinse</l>
+					<l xml:id="l4">[TACET]</l>
+					<l xml:id="l5">Son gli altri occulti nodi</l>
+					<l xml:id="l6">E d’occulta dolcezza occulti modi</l>
+					<l xml:id="l7">[TACET]</l>
+					<l xml:id="l8">La Donna che mel cinge &amp; incatena</l>
+					<l xml:id="l9">De lacci ch’ella fa s’avede a pena.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

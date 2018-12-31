@@ -17,7 +17,7 @@
 					<publisher>Pietro Maria Marchetti</publisher>
 					<pubPlace>Brescia</pubPlace>
 					<date when="1592">1592</date>
-					<biblScope unit="page">334</biblScope>
+					<biblScope unit="page">Parte prima, 334</biblScope>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -29,7 +29,7 @@
 			</div>
 			<div>
 				<lg>
-					<l xml:id="l1">Facelle son d’immortal luce ardenti</l>
+					<l xml:id="l1">FACELLE son d’immortal luce ardenti</l>
 					<l xml:id="l2">Gli occhi, che volgi in sì soavi giri,</l>
 					<l xml:id="l3">E fiamma è l’aura, che tu muovi, e spiri</l>
 					<l xml:id="l4">A formar dolci angelici concenti.</l>
@@ -46,9 +46,9 @@
 					<l xml:id="l11">Nè trova onde nutrirsi in me l’ardore.</l>
 				</lg>
 				<lg>
-					<l xml:id="l12">Sol’ io, fra i vivi raggi, e fra le note,</l>
-					<l xml:id="l13">Onde avampi ciascun nulla mi scaldo;</l>
-					<l xml:id="l14">Nè trova onde nutrirsi in me l’ardore.</l>
+					<l xml:id="l12">Nè già son'io gelido marmo, e saldo;</l>
+					<l xml:id="l13">Ma, consumato in altra fiamma il core,</l>
+					<l xml:id="l14">Hor che cenere è tutto, arder non pote.</l>
 				</lg>
 			</div>
 		</body>

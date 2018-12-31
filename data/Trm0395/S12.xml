@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>In un bel bosco di leggiadre fronde</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">12</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S12">
+					<title>Scielta delle rime del Sig. Torquato Tasso. Prima e seconda parte</title>
+					<publisher>Domenico Mammarelli, e Giulio Cesare Cagnacini Compagni</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1582">1582</date>
+					<biblScope unit="page">Parte Seconda, 62</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Al Sig. Alfonso Bosco</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">In un bel bosco di leggiadre fronde,</l>
+					<l xml:id="l2">Ch’ombra si fà con le ramose braccia,</l>
+					<l xml:id="l3">Amor, che va de l’alme nostre à caccia</l>
+					<l xml:id="l4">Tese le rete di due treccie bionde.</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Cosi il mio cor, c’havea di due gioconde</l>
+					<l xml:id="l6">Luci seguita la fallace traccia,</l>
+					<l xml:id="l7">Preso restò com’animal s’allaccia</l>
+					<l xml:id="l8">Nei bei legami, che ne l’ombra asconde.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">O dolce laccio, o vaghe reti, o bosco</l>
+					<l xml:id="l10">Vezzoso, o cacciator che mi togliesti</l>
+					<l xml:id="l11">Il core, dove l’hai crudele ascosto?</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">Io pur ritorno spesso a pianger vosco</l>
+					<l xml:id="l13">Et a cercar tra quest’herbette e questi</l>
+					<l xml:id="l14">Vaghi fioretti ov’egli sia nascosto.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

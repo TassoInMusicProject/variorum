@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>La bella pargoletta</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0611b</idno>
+			<idno type="label">Trm0611b (Canto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0611b-Canto">
+					<title>Il secondo libro de madrigali a cinque voci</title>
+					<author role="composer">Dragoni, Giovanni Andrea</author>
+					<publisher>Scotto</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1575">1575</date>
+					<idno type="RISM">D 3493</idno>
+					<biblScope unit="page">26-27</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">La bella pargoletta</l>
+					<l xml:id="l2">Ch’ancor non sente Amore</l>
+					<l xml:id="l3">Ne pur noto ha per fama il suo valore</l>
+					<l xml:id="l4">Con begl’occhi saetta</l>
+					<l xml:id="l5">E col soave riso</l>
+					<l xml:id="l6">Ne s’accorge che l’arm’ha nel bel viso</l>
+					<l xml:id="l7">Qual colpa  ha nel morire</l>
+					<l xml:id="l8">della trafitta gente</l>
+					<l xml:id="l9">[OMITTED]</l>
+					<l xml:id="l10">Se non sa di ferire</l>
+					<l xml:id="l11">O bellezz’homicida et innocente</l>
+					<l xml:id="l12">Tempo è ch’amor ti mostri</l>
+					<l xml:id="l13">homai nelle tue piaghe i dolor nostri.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

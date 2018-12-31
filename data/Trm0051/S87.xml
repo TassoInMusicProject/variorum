@@ -17,7 +17,7 @@
 					<publisher>Pietro Maria Marchetti</publisher>
 					<pubPlace>Brescia</pubPlace>
 					<date when="1592">1592</date>
-					<biblScope unit="page">78	</biblScope>
+					<biblScope unit="page">Parte prima, 78-79</biblScope>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -32,7 +32,7 @@
 					<l xml:id="l1">Mentre ne’ cari balli in loco adorno,</l>
 					<l xml:id="l2">Si trahean le notturne, e placide hore,</l>
 					<l xml:id="l3">Fiamma, che nel suo foco accese Amore,</l>
-					<l xml:id="l4">Lieto n’apriva à mezza notte il giorno.</l>
+					<l xml:id="l4">Lieto n’apriva à meza notte il giorno.</l>
 				</lg>
 				<lg>
 					<l xml:id="l5">E da candide man vibrata intorno,</l>
@@ -47,8 +47,8 @@
 				</lg>
 				<lg>
 					<l xml:id="l12">Ahi come all’hor cangiasti arte, e costume,</l>
-					<l xml:id="l13">Tù, ch’accender solei l’aurea facella,</l>
-					<l xml:id="l14">Tù, ministra d’Amor, tù l’estinguesti.</l>
+					<l xml:id="l13">Tù ch’accender solei l’aurea facella,</l>
+					<l xml:id="l14">Tù ministra d’Amor, tù l’estinguesti.</l>
 				</lg>
 			</div>
 		</body>

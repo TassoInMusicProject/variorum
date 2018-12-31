@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Tolse <span class="name">Barbara</span> gente il pregio a Roma</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0541a</idno>
+			<idno type="label">Trm0541a (Canto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0541a-Canto">
+					<title>Il sesto libro de madrigali a cinque voci</title>
+					<author role="composer">Wert, Giaches de</author>
+					<publisher>Scotto</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1577">1577</date>
+					<idno type="RISM">W 881</idno>
+					<biblScope unit="page">17-18</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Tolse Barbara gent’il preggio a Roma</l>
+					<l xml:id="l2">Dell’imperio e dell’arm’e serva fella</l>
+					<l xml:id="l3">O nome a lei fatale ecco novella</l>
+					<l xml:id="l4">Barbara Vincitrice anco la doma</l>
+					<l xml:id="l5">Et a qual piu famosa in lei si noma</l>
+					<l xml:id="l6">Tolto lo scetro e titolo di bella</l>
+					<l xml:id="l7">Spiega sua squadra in campidoglio e quella</l>
+					<l xml:id="l8">De suoi prigion’incatenata e doma.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Sono i guerrieri suoi molle rigore</l>
+					<l xml:id="l10">Con pudica beltà sdegno cortese</l>
+					<l xml:id="l11">Che quanto sfida più tanto più piace</l>
+					<l xml:id="l12">I vinti un sesso e l’altro &amp; un d’amore</l>
+					<l xml:id="l13">L’altro d’invidia hor com’è ch’una face</l>
+					<l xml:id="l14">Medesma aggiacci l’un che l’altr’accese.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

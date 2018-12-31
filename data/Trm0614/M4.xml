@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Al vostro dolce azzurro</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">M4</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="M4">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Venice</settlement>
+						<repository>Biblioteca Nazionale Marciana</repository>
+						<idno>IX 310</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 60v</locus>
+							<p>miscellaneous codex, containing copies of 4 lyric poems by Tasso</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th&#x2013;17th centuries</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Madrigali del Sr. Torquato Tasso. 1˚</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Al vostro dolce azzurro</l>
+					<l xml:id="l2">Ceda ò luci serene,</l>
+					<l xml:id="l3">Qual piu bel nero Italia in pregio tiene.</l>
+					<l xml:id="l4">Occhi Cielo d’Amore</l>
+					<l xml:id="l5">Sole di questo core</l>
+					<l xml:id="l6">Sono gl'altri appo voi notte, et inferno.</l>
+					<l xml:id="l7">Azzurro è l cielo eterno</l>
+					<l xml:id="l8">E cio ch’è bello il bello ha sol da lui</l>
+					<l xml:id="l9">Ei solo è bel, perche assomiglia a vui.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

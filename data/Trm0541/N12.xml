@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Tolse <span class="name">Barbara</span> gente il pregio a Roma</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">N12</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="N12">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Florence</settlement>
+						<repository>Biblioteca Nazionale</repository>
+						<idno>Magl. VII 898</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 268</locus>
+							<p>miscellaneous codex, containing copies of 3 lyric poems by Tasso</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>1578</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Di Tor. T.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Tolse Barbara gente il pregio à Roma</l>
+					<l xml:id="l2">dell’imperio, e dell’armi, e serva fella,</l>
+					<l xml:id="l3">o' nome à lei fatale, ecco novella</l>
+					<l xml:id="l4">Barbara vincitrice anco la doma</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Et à qual piu famosa in lei si noma</l>
+					<l xml:id="l6">tolto lo scettro, e'l titolo di bella,</l>
+					<l xml:id="l7">Spiega sue squadre in Campidoglio, e quella</l>
+					<l xml:id="l8">De suoi prigioni incatenati, è doma.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Sono i guerrieri suoi molle rigore</l>
+					<l xml:id="l10">Con pudica beltà, sdegno cortese,</l>
+					<l xml:id="l11">Che quanto sfida più, tanto più piace</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">I vinti un sesso, e l’altro, et un d’Amore</l>
+					<l xml:id="l13">L’altro di invidia, hor com’è che la face</l>
+					<l xml:id="l14">Medesma agghiacci l’un, che l’altro accese.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

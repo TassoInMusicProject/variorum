@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>D'aria un tempo nudrimmi, e cibo e vita</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">Ber</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Ber">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Bergamo</settlement>
+						<repository>Civica Biblioteca Angelo Mai</repository>
+						<idno>Tassiana L.4.2</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. Parte prima, 296</locus>
+							<p>exemplar of print <span class="print">85</span>, with Tasso's autograph annotations and corrections</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Desidera di veder la sua donna, ancorche turbata.	</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">D’ARIA un tempo nudrimmi: e cibo, e vita,</l>
+					<l xml:id="l2">L’aura mi fù, che d’un bel volto spira;</l>
+					<l xml:id="l3">Hor che lei mi contende orgoglio, ed ira:</l>
+					<l xml:id="l4">Di qual esca sarà l’alma nudrita?</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">I famelici spirti in vano aita</l>
+					<l xml:id="l6">Chiamano, e’n darno il cor langue, e sospira:</l>
+					<l xml:id="l7">Ma se pur l’empia à darle morte aspira</l>
+					<l xml:id="l8">M<u>oia non per digiun, ma per ferita.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Armi gli occhi di sdegno, e strali aventi</l>
+					<l xml:id="l10">A mille, à mille: à feri colpi, ignuda</l>
+					<l xml:id="l11">Io porgo l’alma, non ch’inerme il seno.</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">Faccia il mio stratio i suoi desir contenti.</l>
+					<l xml:id="l13">Ben fia pietà, ch’io la riveggia almeno;</l>
+					<l xml:id="l14">Non dico pia: ma disdegnosa, e cruda.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

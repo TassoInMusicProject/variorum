@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Viviamo, amianci, o mia gradita Jelle</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0380b</idno>
+			<idno type="label">Trm0380b (Basso)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0380b-Basso">
+					<title>Il sesto libro de madrigali a cinque voci</title>
+					<author role="composer">Nenna, Pomponio</author>
+					<publisher>Sottile</publisher>
+					<pubPlace>Naples</pubPlace>
+					<date when="1607">1607</date>
+					<idno type="RISM">N 388</idno>
+					<biblScope unit="page">4</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Viviamo amianci ò mia gradita Ielle</l>
+					<l xml:id="l2">Hedra sij tu ch’il caro tronco abbraccia</l>
+					<l xml:id="l3">Baciami E i baci, e le lusinghe taccia,</l>
+					<l xml:id="l4">Chi non ardisce annoverar le stelle.</l>
+					<l xml:id="l5">[OMITTED]</l>
+					<l xml:id="l6">[OMITTED]</l>
+					<l xml:id="l7">[OMITTED]</l>
+					<l xml:id="l8">[OMITTED]</l>
+					<l xml:id="l9">[OMITTED]</l>
+					<l xml:id="l10">[OMITTED]</l>
+					<l xml:id="l11">[OMITTED]</l>
+					<l xml:id="l12">[OMITTED]</l>
+					<l xml:id="l13">[OMITTED]</l>
+					<l xml:id="l14">[OMITTED]</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Al vostro dolce azzurro</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0614j</idno>
+			<idno type="label">Trm0614j (Alto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0614j-Alto">
+					<title>Libro secondo di madrigali a cinque voci</title>
+					<author role="composer">Genvino, Francesco</author>
+					<publisher>Sottile</publisher>
+					<pubPlace>Naples</pubPlace>
+					<date when="1605">1605</date>
+					<idno type="RISM">G 1586</idno>
+					<biblScope unit="page">12</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Al dolce vostro azuro</l>
+					<l xml:id="l2">ceda luci serene</l>
+					<l xml:id="l3">qual più bel nero Italia in pregio tiene</l>
+					<l xml:id="l4">occhi cielo d’amore</l>
+					<l xml:id="l5">luci di questo core</l>
+					<l xml:id="l6">son gl’altr’occh’appo voi notte &amp; inferno</l>
+					<l xml:id="l7">azuro è il ciel eterno</l>
+					<l xml:id="l8">e quel ch’è bell'è bello sol da lui</l>
+					<l xml:id="l9">ei bello è sol perche somiglia à vui.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

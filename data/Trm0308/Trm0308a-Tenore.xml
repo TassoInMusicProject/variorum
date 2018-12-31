@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Soavissimo bacio</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0308a</idno>
+			<idno type="label">Trm0308a (Tenore)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0308a-Tenore">
+					<title>Il secondo libro de madrigali a cinque voci</title>
+					<author role="composer">Masnelli, Paolo</author>
+					<publisher>Amadino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1596">1596</date>
+					<idno type="RISM">M 1255</idno>
+					<biblScope unit="page">21</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Soavissimo bacio</l>
+					<l xml:id="l2">Del mio lungo servir con tanta fede</l>
+					<l xml:id="l3">Dolcissima mercede</l>
+					<l xml:id="l4">Felicissimo ardire</l>
+					<l xml:id="l5">Della man che vi tocca</l>
+					<l xml:id="l6">Tutta tremante il delicato seno</l>
+					<l xml:id="l7">Mentre di bocca in bocca</l>
+					<l xml:id="l8">L’anima per dolcezz'all'hor vien meno.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

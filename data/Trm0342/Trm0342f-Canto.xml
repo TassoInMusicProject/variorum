@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Già fu mia dolce speme</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0342f</idno>
+			<idno type="label">Trm0342f (Canto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0342f-Canto">
+					<title>Il primo libro de madrigali a cinque voci</title>
+					<author role="composer">Dentice, Scipione</author>
+					<publisher>Cancer</publisher>
+					<pubPlace>Naples</pubPlace>
+					<date when="1591">1591</date>
+					<idno type="RISM">D 1660</idno>
+					<biblScope unit="page">16</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Già fu mia dolce spene</l>
+					<l xml:id="l2">[TACET]</l>
+					<l xml:id="l3">Hor cresce si ch’ella piacer diventa</l>
+					<l xml:id="l4">Ma perch’io sper’insieme</l>
+					<l xml:id="l5">E ’n siem habbia diletto</l>
+					<l xml:id="l6">mai non adempie amor ogni mio affetto</l>
+					<l xml:id="l7">E sempre il mio piacere</l>
+					<l xml:id="l8">temprando và perch’io maggior lo spere.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

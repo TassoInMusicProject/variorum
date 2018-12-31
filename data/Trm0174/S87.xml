@@ -17,7 +17,7 @@
 					<publisher>Pietro Maria Marchetti</publisher>
 					<pubPlace>Brescia</pubPlace>
 					<date when="1592">1592</date>
-					<biblScope unit="page">266</biblScope>
+					<biblScope unit="page">Parte prima, 266</biblScope>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -25,11 +25,11 @@
 	<text>
 		<body xml:space="preserve">
 			<div type="dedication">
-				<p xml:id="p1">Dice, che la sua Donna fa miracolosi effetti con la sua presenza, e con lo star lontana ne la Città, e ne la villa similmente.</p>
+				<p xml:id="p1">Dice, che la sua Donna fà miracolosi effetti con la sua presenza, e con lo star lontana ne la Città, e ne la villa similmente.</p>
 			</div>
 			<div>
 				<lg>
-					<l xml:id="l1">Hor, che l’aura mia dolce altrove spira</l>
+					<l xml:id="l1">HOR, che l’aura mia dolce altrove spira</l>
 					<l xml:id="l2">Fra selve, e campi; ahi ben di ferro ha ’l core,</l>
 					<l xml:id="l3">Chi riman quì solingo, ove d’horrore</l>
 					<l xml:id="l4">È cieca valle, di miseria, e d’ira.</l>
@@ -37,7 +37,7 @@
 				<lg>
 					<l xml:id="l5">Qui nessun raggio di beltà si mira.</l>
 					<l xml:id="l6">Rustico è fatto, e co’ Bifolci, Amore</l>
-					<l xml:id="l7">Pasce gli amanti, e ’n sù l’estivo ardore</l>
+					<l xml:id="l7">Pasce gli amanti, e’n sù l’estivo ardore</l>
 					<l xml:id="l8">Hor tratta il rastro, &amp; hor la falce aggira.</l>
 				</lg>
 				<lg>

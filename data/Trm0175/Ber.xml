@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Vaghe Ninfe del Po, Ninfe sorelle</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">Ber</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Ber">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Bergamo</settlement>
+						<repository>Civica Biblioteca Angelo Mai</repository>
+						<idno>Tassiana L.4.2</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. Parte prima, 224</locus>
+							<p>exemplar of print <span class="print">85</span>, with Tasso's autograph annotations and corrections</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">INVITA in questa artificiosa corona de’ Madriali tutte le Ninfe à coronar la sua Donna. [NO CORRECTIONS]</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">VAGHE Ninfe del Pò, Ninfe sorelle,</l>
+					<l xml:id="l2">E voi de’ boschi, e voi d’onda marina,</l>
+					<l xml:id="l3">E voi de’ fonti, e de l’alpestri cime,</l>
+					<l xml:id="l4">Tessiam hor care ghirlandette, e belle</l>
+					<l xml:id="l5">A questa giovinetta peregrina:</l>
+					<l xml:id="l6">Voi di fronde, e di fiori, &amp; io di rime;</l>
+					<l xml:id="l7">E mentre io sua beltà lodo, &amp; honoro:</l>
+					<l xml:id="l8">Cingete à Laura voi le treccie d'oro.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

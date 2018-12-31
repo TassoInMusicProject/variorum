@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Passa la nave tua che porta il core</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">Ber</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Ber">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Bergamo</settlement>
+						<repository>Civica Biblioteca Angelo Mai</repository>
+						<idno>Tassiana L.4.2</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. Parte prima, 142</locus>
+							<p>exemplar of print <span class="print">85</span>, with Tasso's autograph annotations and corrections</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">DIMOSTRA la prosperità ne l’amore.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">PASSA la nave mia, che porta il core</l>
+					<l xml:id="l2">Sotto un sereno ciel di stelle ad<del>a</del>orno,</l>
+					<l xml:id="l3">Per queto mare, e stà la notte e’l giorno,</l>
+					<l xml:id="l4">Spiando i venti al suo governo Amore.</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">A ciascun remo un bel desio d’honore,</l>
+					<l xml:id="l6">Non teme di fortuna oltraggio, o scorno:</l>
+					<l xml:id="l7">Empie la vela, e rasseren intorno,</l>
+					<l xml:id="l8">Aura di gioia, e tempra il dolce ardore.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Nebbia non lenta mai di feri sdegni</l>
+					<l xml:id="l10">Le sarte, che di fede, e di speranza,</l>
+					<l xml:id="l11">Ha di sua mano il mio Signore attorto.</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">E scopro i duo lucenti amici segni,</l>
+					<l xml:id="l13">E vive la ragione, e l’arte avanza:</l>
+					<l xml:id="l14">Talch’io già prendo il desiato porto.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

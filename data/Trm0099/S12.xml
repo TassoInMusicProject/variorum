@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Geloso amante apro mill'occhi e giro</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">12</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S12">
+					<title>Scielta delle rime del Sig. Torquato Tasso. Prima e seconda parte</title>
+					<publisher>Domenico Mammarelli, e Giulio Cesare Cagnacini Compagni</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1582">1582</date>
+					<biblScope unit="page">Parte Prima, 37</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Geloso Amante apro mill’occhi, e giro,</l>
+					<l xml:id="l2">E mill’orecchi ad’ ogni suono intenti,</l>
+					<l xml:id="l3">E sol di cieco horror larve, e spaventi,</l>
+					<l xml:id="l4">Quasi animal, ch’adombre, odo, e rimiro.</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">S’apre un riso costei, se’n dolce giro</l>
+					<l xml:id="l6">Lieta rivolge i begli occhi lucenti,</l>
+					<l xml:id="l7">Se tinta di pietà gli altrui lamenti</l>
+					<l xml:id="l8">Accoglie, ò move un detto, od un sospiro,</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Temo, ch’altri ne goda, e che m’invole</l>
+					<l xml:id="l10">L’aura, e la luce: e sol mi duol, che spieghi,</l>
+					<l xml:id="l11">Raggio di sua bellezza in alcun lato.</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">Si neghi à me, pur ch’à ciascun si neghi,</l>
+					<l xml:id="l13">Che, quando altrui non splenda il mio bel Sole,</l>
+					<l xml:id="l14">Ne le tenebre ancor vivrò beato.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

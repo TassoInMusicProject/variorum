@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Voi sete bella, ma fugage e presta</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm1022a</idno>
+			<idno type="label">Trm1022a (Canto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm1022a-Canto">
+					<title>Il sesto libro de madrigali a cinque voci</title>
+					<author role="composer">Felis, Stefano</author>
+					<publisher>Scotto</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1591">1591</date>
+					<idno type="RISM">1591-18</idno>
+					<biblScope unit="page">8-11</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Voi sete bella ma fugace e presta</l>
+					<l xml:id="l2">Come cervetta sole</l>
+					<l xml:id="l3">Che fugge per le selve ombrose e sole</l>
+					<l xml:id="l4">E cerca fiume o rio</l>
+					<l xml:id="l5">Tal che vi seguo in darno e vi desio.</l>
+				</lg>
+				<lg>
+					<l xml:id="l6">Voi sete bella Ma si dura e fredda</l>
+					<l xml:id="l7">[TACET]</l>
+					<l xml:id="l8">In horride Alpe o bel christallo in monte</l>
+					<l xml:id="l9">Ne me riscalda il foco</l>
+					<l xml:id="l10">De miei pensieri E sono acceso e roco.</l>
+				</lg>
+				<lg>
+					<l xml:id="l11">Voi sete bella ma fallace e ria</l>
+					<l xml:id="l12">Come scoglio trà l’onde</l>
+					<l xml:id="l13">[TACET]</l>
+					<l xml:id="l14">o in mezzo l’herba il laccio</l>
+					<l xml:id="l15">soave mio ritegno e caro impaccio.</l>
+				</lg>
+				<lg>
+					<l xml:id="l16">Voi sete bella ma sdegnosa e schiva</l>
+					<l xml:id="l17">Come Dafne e Siringa</l>
+					<l xml:id="l18">O s’altra ninfa in bosco e piu solinga</l>
+					<l xml:id="l19">Come lei che D’orfeo</l>
+					<l xml:id="l20">fuggi sotterra e sotto al mar Alfeo.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

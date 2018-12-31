@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Tu moristi in quel seno</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">M7</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="M7">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Venice</settlement>
+						<repository>Biblioteca Nazionale Marciana</repository>
+						<idno>IX 112</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 70</locus>
+							<p>miscellaneous codex, containing copies of 12 lyric poems by Tasso</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Tu moristi in quel seno</l>
+					<l xml:id="l2">Piccoletta Zanzara</l>
+					<l xml:id="l3">Dov’ è si gran Fortuna il venir meno.</l>
+				</lg>
+				<lg>
+					<l xml:id="l4">Quando fin piú beato</l>
+					<l xml:id="l5">O ver tomba piú cara</l>
+					<l xml:id="l6">Fú mai concessa da benigno Fato.</l>
+					<l xml:id="l7">Felice te, Felice</l>
+					<l xml:id="l8">Piú che nel rogo l'immortal Fenice.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

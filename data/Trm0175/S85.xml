@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Vaghe Ninfe del Po, Ninfe sorelle</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">85</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S85">
+					<title>Delle rime del Sig. Torquato Tasso. Parte prima. Di nuovo dal medesimo in questa nuova impressione ordinate, corrette, accresciute, et date in luce. Con l'esposizione dello stesso autore</title>
+					<publisher>Francesco Osanna</publisher>
+					<pubPlace>Mantua</pubPlace>
+					<date when="1591">1591</date>
+					<biblScope unit="page">Parte prima, 224</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">INVITA in questa artificiosa corona de’ Madriali tutte le Ninfe à coronar la sua Donna.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">VAGHE Ninfe del Pò, Ninfe sorelle,</l>
+					<l xml:id="l2">E voi de’ boschi, e voi d’onda marina,</l>
+					<l xml:id="l3">E voi de’ fonti, e de l’alpestri cime,</l>
+					<l xml:id="l4">Tessiam hor care ghirlandette, e belle</l>
+					<l xml:id="l5">A questa giovinetta peregrina:</l>
+					<l xml:id="l6">Voi di fronde, e di fiori, &amp; io di rime;</l>
+					<l xml:id="l7">E mentre io sua beltà lodo, &amp; honoro:</l>
+					<l xml:id="l8">Cingete à Laura voi le treccie d'oro.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

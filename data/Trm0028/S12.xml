@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Giacea la mia virtù vinta e smarrita</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">12</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S12">
+					<title>Scielta delle rime del Sig. Torquato Tasso. Prima e seconda parte</title>
+					<publisher>Domenico Mammarelli, e Giulio Cesare Cagnacini Compagni</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1582">1582</date>
+					<biblScope unit="page">Parte Prima, 13</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Per la sua Donna, che l’havea consolato in sogno</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Giacea la mia virtù vinta, e smarrita</l>
+					<l xml:id="l2">Dal duolo in sua ragion sempre più forte;</l>
+					<l xml:id="l3">Quando il sonno pietoso di mia sorte</l>
+					<l xml:id="l4">Seco addusse Madonna à darle aita:</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Che sollevò gli spirti, e’n me sopita</l>
+					<l xml:id="l6">La doglia, à nova speme aprio le porte.</l>
+					<l xml:id="l7">Cosi allhor ne l’imagine di Morte</l>
+					<l xml:id="l8">Trovò l’egro mio cor salute, e vita.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Volgeva ella in me gli occhi, e le parole</l>
+					<l xml:id="l10">Di pietà vera ardenti: A’ che pur tanto,</l>
+					<l xml:id="l11">O’ mio fedel t’affliggi, e ti consumi?</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">Ben tempo ancor verrà, ch’al chiaro Sole</l>
+					<l xml:id="l13">Di quest’amate luci asciughi il pianto,</l>
+					<l xml:id="l14">E’l fosco di tua vita in lui rallumi.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

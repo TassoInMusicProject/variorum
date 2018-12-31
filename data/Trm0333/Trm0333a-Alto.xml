@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Gelo ha Madonna il seno</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0333a</idno>
+			<idno type="label">Trm0333a (Alto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0333a-Alto">
+					<title>Il primo libro de madrigali a cinque voci</title>
+					<author role="composer">Bellasio, Paolo</author>
+					<publisher>Scotto</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1578">1578</date>
+					<idno type="RISM">B 1713</idno>
+					<biblScope unit="page">13</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Gel’ha Madonna il seno &amp; fiamma il volto</l>
+					<l xml:id="l2">Io son di ghiaccio fuore</l>
+					<l xml:id="l3">E’l fuoc’ho dentro accolto</l>
+					<l xml:id="l4">Quest’avien perch’amore</l>
+					<l xml:id="l5">Nella sua front’alberga e nel mio petto</l>
+					<l xml:id="l6">Ne mai cangia ricetto</l>
+					<l xml:id="l7">Si ch’io l’habbia ne gl’occhi ella nel core.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

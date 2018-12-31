@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Mentre Madonna s'appoggiò pensosa</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">P4</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="P4">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Florence</settlement>
+						<repository>Biblioteca Nazionale</repository>
+						<idno>Palatino 225</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 2r</locus>
+							<p>miscellaneous codex, containing copies of 41 lyric poems by Tasso</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">[Di Messer Torquato Tasso] Mentre madonna il lasso fianco posa 	Doppo suoi lunghi e volontarij errori 	A fiorito soggiorno dolci umori 	Susurrando predava Ape ingegnosa</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Ch'alle labbra in cui nudria aura amorosa</l>
+					<l xml:id="l2">Al sol di due begli occhi eterni fiori</l>
+					<l xml:id="l3">Ingannata à i dolcissimi colori</l>
+					<l xml:id="l4">Corse e sugger credea purpurea rosa.</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Ahi troppo saggia nell'errar felice</l>
+					<l xml:id="l6">Temerità e se quel che alle mie voglie</l>
+					<l xml:id="l7">Timide si contende a te sol lice</l>
+				</lg>
+				<lg>
+					<l xml:id="l8">Vil Ape Amor cara merce mi toglie</l>
+					<l xml:id="l9">Che più ti resta? s'altri l' mel n’elice</l>
+					<l xml:id="l10">Con che tempri l' tuo assentio e le mie voglie?</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

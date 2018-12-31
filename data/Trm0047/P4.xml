@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Non è questa la mano</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">P4</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="P4">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Florence</settlement>
+						<repository>Biblioteca Nazionale</repository>
+						<idno>Palatino 225</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 7r</locus>
+							<p>miscellaneous codex, containing copies of 41 lyric poems by Tasso</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">[Madrigali del med.˚ Tassino]</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Non è questa la mano</l>
+					<l xml:id="l2">Che tante, e si mortali,</l>
+					<l xml:id="l3">Aventò nel mio cor fiamelle, e strali</l>
+					<l xml:id="l4">Ecco che pur si trova</l>
+					<l xml:id="l5">Fra le mie man ristretta</l>
+					<l xml:id="l6">Ne forza, od’arte, per fuggir li giova</l>
+					<l xml:id="l7">Ne tien foco o' saetta</l>
+					<l xml:id="l8">Che da me la difenda</l>
+					<l xml:id="l9">Giust'è ben ch’io ne prenda</l>
+					<l xml:id="l10">Amor' qualche vendetta</l>
+					<l xml:id="l11">E se piaghe mi diè baci le renda</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

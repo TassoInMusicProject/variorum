@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Con la saetta de la punta d'oro</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">85</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S85">
+					<title>Delle rime del Sig. Torquato Tasso. Parte prima. Di nuovo dal medesimo in questa nuova impressione ordinate, corrette, accresciute, et date in luce. Con l'esposizione dello stesso autore</title>
+					<publisher>Francesco Osanna</publisher>
+					<pubPlace>Mantua</pubPlace>
+					<date when="1591">1591</date>
+					<biblScope unit="page">250</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">SI contengono in questa canzonetta le leggi, che scrisse Amore nel tronco d’un lauro.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Con la saetta de la punta d’oro,</l>
+					<l xml:id="l2">Ond’hebbi al petto sì mortal ferita</l>
+					<l xml:id="l3">Scrisse, per leggi, Amor, de la mia vita,</l>
+					<l xml:id="l4">Nel verde tronco d’un frondoso alloro.</l>
+					<l xml:id="l5">Ama, &amp; ardi; e ristoro</l>
+					<l xml:id="l6">Sia quest’ombra à l’ardor, che stilla in pianto.</l>
+					<l xml:id="l7">Dolci mie leggi, ond’io mi glorio, e vanto,</l>
+					<l xml:id="l8">Temute, e care, ond’io gioisco, e moro,</l>
+					<l xml:id="l9">Se non basta nel tronco, ov’ei mi lima:</l>
+					<l xml:id="l10">Nel mezo del mio petto Amor l’imprima.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

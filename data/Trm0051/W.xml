@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Mentre ne' cari balli in loco adorno</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">W</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="W">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Rome</settlement>
+						<repository>Biblioteca Angelica</repository>
+						<idno>ms. 1882</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 56</locus>
+							<p>miscellaneous codex, containing copies of 64 lyric poems by Tasso</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">del med. [Torquato Tasso]</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Ove tra care danze in bel soggiorno</l>
+					<l xml:id="l2">Si trahean le noturne e placide hore</l>
+					<l xml:id="l3">Face, che nel suo foco accese Amore</l>
+					<l xml:id="l4">Lieto n’apriva a mezza notte il giorno.</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Et da candida man vibrata intorno</l>
+					<l xml:id="l6">Spargea faville di sì puro ardore</l>
+					<l xml:id="l7">Che rendea vago di arder seco il core</l>
+					<l xml:id="l8">Et scherzar qual farfalla al raggio adorno.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Quando ecco a te man cruda offerta fue</l>
+					<l xml:id="l10">Et da te presa et spenta, et ciechi et mesti</l>
+					<l xml:id="l11">Restar mille occhi a lo spirar d’un lume</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">Deh come allor cangiasti arte, et costume</l>
+					<l xml:id="l13">Tu ministra di Amor, tu che le sue</l>
+					<l xml:id="l14">Fiamme suoli avvivar, tu l’stinguesti</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

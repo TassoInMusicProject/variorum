@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Sovra un lucido rio</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">M7</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="M7">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Venice</settlement>
+						<repository>Biblioteca Nazionale Marciana</repository>
+						<idno>IX 112</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 76</locus>
+							<p>miscellaneous codex, containing copies of 12 lyric poems by Tasso</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">In un lucido rio</l>
+					<l xml:id="l2">Mirando il suo bel viso</l>
+					<l xml:id="l3">Cosi doleasi un Pastorel d'Amore.</l>
+				</lg>
+				<lg>
+					<l xml:id="l4">Misero per ch'anch' io</l>
+					<l xml:id="l5">Quasi nuovo Narciso</l>
+					<l xml:id="l6">Non mi converto lagrimand'in Fiore,</l>
+					<l xml:id="l7">Ch’ in quella forma almeno</l>
+					<l xml:id="l8">Mi raccorrebbe la mia donna in seno.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

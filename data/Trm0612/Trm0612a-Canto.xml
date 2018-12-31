@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Del puro lume onde i celesti giri</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0612a</idno>
+			<idno type="label">Trm0612a (Canto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0612a-Canto">
+					<title>Il terzo libro de madrigali a cinque voci</title>
+					<author role="composer">Porta, Costanzo</author>
+					<publisher>Gardano</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1573">1573</date>
+					<idno type="RISM">P 5189</idno>
+					<biblScope unit="page">18</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Del puro lume onde i celesti giri</l>
+					<l xml:id="l2">Fece il sol’e le stelle il Mastr’eterno</l>
+					<l xml:id="l3">Formo i vostri occh’ancora &amp; al governo</l>
+					<l xml:id="l4">Vi pose amor perche gl’informi e giri</l>
+					<l xml:id="l5">E solo un raggio che di lor si miri</l>
+					<l xml:id="l6">Lunge scombra da noi la nott’e’l verno</l>
+					<l xml:id="l7">De gli affetti mondani E un foco interno</l>
+					<l xml:id="l8">V’accende di leggiadri alti desiri.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">La fiamma da lor desta a lor sembianti</l>
+					<l xml:id="l10">L’anime rende e l’arde e non le sface</l>
+					<l xml:id="l11">Ma le fa pure di terrene e miste</l>
+					<l xml:id="l12">Non e tema o dolor che mai n’attriste</l>
+					<l xml:id="l13">Serena e come voi la nostra pace</l>
+					<l xml:id="l14">E son pianti di gioia i nostri pianti.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

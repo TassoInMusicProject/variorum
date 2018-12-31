@@ -17,7 +17,7 @@
 					<publisher>Pietro Maria Marchetti</publisher>
 					<pubPlace>Brescia</pubPlace>
 					<date when="1592">1592</date>
-					<biblScope unit="page">224</biblScope>
+					<biblScope unit="page">Parte prima, 224</biblScope>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -36,6 +36,7 @@
 					<l xml:id="l5">A questa giovinetta peregrina:</l>
 					<l xml:id="l6">Voi di fronde, e di fiori, &amp; io di rime;</l>
 					<l xml:id="l7">E mentre io sua beltà lodo, &amp; honoro:</l>
+					<l xml:id="l8">Cingete à Laura voi le treccie d'oro.</l>
 				</lg>
 			</div>
 		</body>

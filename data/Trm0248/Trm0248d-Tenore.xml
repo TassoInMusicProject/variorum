@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Vita de la mia vita</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0248d</idno>
+			<idno type="label">Trm0248d (Tenore)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0248d-Tenore">
+					<title>Libro secondo di madrigali a cinque voci</title>
+					<author role="composer">Genvino, Francesco</author>
+					<publisher>Sottile</publisher>
+					<pubPlace>Naples</pubPlace>
+					<date when="1605">1605</date>
+					<idno type="RISM">G 1586</idno>
+					<biblScope unit="page">7</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Vita de la mia vita</l>
+					<l xml:id="l2">tu mi somigli pallidetta oliva</l>
+					<l xml:id="l3">ò rosa scolorita</l>
+					<l xml:id="l4">ne di beltà sei priva</l>
+					<l xml:id="l5">ma in ogni aspetto tu mi sei gradita</l>
+					<l xml:id="l6">ò lusinghiera ò schiva</l>
+					<l xml:id="l7">ò se mi segui ò fuggi</l>
+					<l xml:id="l8">soavemente mi consumi e struggi.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

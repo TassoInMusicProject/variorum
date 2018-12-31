@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Tarquinia, se rimiri</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0560n</idno>
+			<idno type="label">Trm0560n (Tenore)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0560n-Tenore">
+					<title>Il primo libro de madrigali a cinque voci</title>
+					<author role="composer">Mayone, Ascanio</author>
+					<publisher>Sottile</publisher>
+					<pubPlace>Naples</pubPlace>
+					<date when="1604">1604</date>
+					<idno type="RISM">M 1489</idno>
+					<biblScope unit="page">5</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Mentre mia stella miri</l>
+					<l xml:id="l2">i bei celesti giri</l>
+					<l xml:id="l3">il Ciel’esser vorrei</l>
+					<l xml:id="l4">perche ne gl’occhi miei</l>
+					<l xml:id="l5">fiso tu rivolgessi</l>
+					<l xml:id="l6">le tue dolci faville</l>
+					<l xml:id="l7">io vagheggiar potessi</l>
+					<l xml:id="l8">mille bellezze tue con luce mille.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

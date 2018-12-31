@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Tre gran donne vid'io ch'in esser belle</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">W</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="W">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Rome</settlement>
+						<repository>Biblioteca Angelica</repository>
+						<idno>ms. 1882</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 73v</locus>
+							<p>miscellaneous codex, containing copies of 64 lyric poems by Tasso</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">del med.˚ [Torquato Tasso]</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Tre gran donne viddio, ch’in esser belle</l>
+					<l xml:id="l2">Mostran disparita, ma simigliante</l>
+					<l xml:id="l3">Si che negli atti, e ’n ogni lor sembiante</l>
+					<l xml:id="l4">Scriver Natura par Noi siam sorelle</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Ben ciascuna lodai, ma l'una d’elle</l>
+					<l xml:id="l6">Mi piacque sì, ch’io ne divenni amante</l>
+					<l xml:id="l7">Et ancor fia, ch’io ne sospiri et cante</l>
+					<l xml:id="l8">E’l suo nome, e’l mio foco alzi a le stelle.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Lei sol vagheggio, et se pur l’altre miro</l>
+					<l xml:id="l10">Guardo nel vago altrui quel ch’è in lei vago</l>
+					<l xml:id="l11">Et negl’idoli suoi vien ch’io l’adore</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">Ma cotanto simiglia al ver l’imago</l>
+					<l xml:id="l13">Ch’erro; et dolce è l error pur ne sospiro</l>
+					<l xml:id="l14">Come d’ingiu<del>illegible</del> idolatria d’Amore</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

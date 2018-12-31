@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Siepe, che gli orti vaghi</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0302a</idno>
+			<idno type="label">Trm0302a (Quinto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0302a-Quinto">
+					<title>Il sesto libro de madrigali a cinque voci</title>
+					<author role="composer">Felis, Stefano</author>
+					<publisher>Scotto</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1591">1591</date>
+					<idno type="RISM">1591-18</idno>
+					<biblScope unit="page">20</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Siepe che gli horti vaghi</l>
+					<l xml:id="l2">E me da me dividi</l>
+					<l xml:id="l3">Si bella rosa in te giamai non vidi</l>
+					<l xml:id="l4">Com'è la Donna mia</l>
+					<l xml:id="l5">Bell'amorosa e pia</l>
+					<l xml:id="l6">e mentr'io stendo sovra te la mano</l>
+					<l xml:id="l7">la me stringe pian piano.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

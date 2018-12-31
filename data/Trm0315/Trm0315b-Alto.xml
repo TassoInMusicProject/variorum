@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Quella candida mano/Ch'a mezzo il verno i vaghi fiori accinse</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0315b</idno>
+			<idno type="label">Trm0315b (Alto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0315b-Alto">
+					<title>Il sesto libro de madrigali a cinque voci</title>
+					<author role="composer">Nenna, Pomponio</author>
+					<publisher>Sottile</publisher>
+					<pubPlace>Naples</pubPlace>
+					<date when="1607">1607</date>
+					<idno type="RISM">N 388</idno>
+					<biblScope unit="page">20</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Quella candida mano,</l>
+					<l xml:id="l2">Ch’à mezz’il verno i vaghi fiori accinse</l>
+					<l xml:id="l3">Me con leggiadri modi ancora strinse</l>
+					<l xml:id="l4">Deh s’un medesmo fato</l>
+					<l xml:id="l5">Hanno i bei fiori ed io</l>
+					<l xml:id="l6">Non bramo di morir se non legato,</l>
+					<l xml:id="l7">Ma in quel bel petto di morir desio.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

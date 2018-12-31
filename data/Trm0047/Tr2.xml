@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Non è questa la mano</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">Tr2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Tr2">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Milan</settlement>
+						<repository>Archivio Storico</repository>
+						<idno>n. 941</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 154v</locus>
+							<p>miscellaneous codex, containing a copy of Tasso's "Non è questa la mano"</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>17th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Di Torquato Tasso</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Non è questa la mano,</l>
+					<l xml:id="l2">Che tant'et si mortali</l>
+					<l xml:id="l3">Aventò nel mio cor fiammelle e strali?</l>
+					<l xml:id="l4">Ecco che pur si trova</l>
+					<l xml:id="l5">Fra le mie man ristretta</l>
+					<l xml:id="l6">Ne forza od arte per uscir le giova</l>
+					<l xml:id="l7">Ne tien face o saetta</l>
+					<l xml:id="l8">Che da me la difenda</l>
+					<l xml:id="l9">Giusto è ben ch’io ne prenda</l>
+					<l xml:id="l10">Amor qualche vendetta</l>
+					<l xml:id="l11">E se piaghe mi diè baci le renda.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

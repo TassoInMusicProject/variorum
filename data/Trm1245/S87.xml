@@ -17,7 +17,7 @@
 					<publisher>Pietro Maria Marchetti</publisher>
 					<pubPlace>Brescia</pubPlace>
 					<date when="1592">1592</date>
-					<biblScope unit="page">144</biblScope>
+					<biblScope unit="page">Parte prima, 144</biblScope>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -32,7 +32,7 @@
 					<l xml:id="l1">Passa la nave mia, che porta il core</l>
 					<l xml:id="l2">Sotto un sereno ciel di stelle adorno,</l>
 					<l xml:id="l3">Per queto mare, e stà la notte e ’l giorno,</l>
-					<l xml:id="l4">Spiando i venti al suo governo Amore,</l>
+					<l xml:id="l4">Spiando i venti al suo governo Amore.</l>
 				</lg>
 				<lg>
 					<l xml:id="l5">A ciascun remo un bel desio d’honore,</l>

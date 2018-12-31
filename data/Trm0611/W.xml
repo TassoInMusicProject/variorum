@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>La bella pargoletta</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">W</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="W">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Rome</settlement>
+						<repository>Biblioteca Angelica</repository>
+						<idno>ms. 1882</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 44v</locus>
+							<p>miscellaneous codex, containing copies of 64 lyric poems by Tasso</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">[Di Torquato Tasso]</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">La bella pargoletta</l>
+					<l xml:id="l2">Ch’ancor non sent'amore</l>
+					<l xml:id="l3">Ne per fama ha pur noto il suo valore</l>
+					<l xml:id="l4">Col bel guardo saetta</l>
+					<l xml:id="l5">Et col soave riso</l>
+					<l xml:id="l6">Ne s’accorge che l’armi ha nel bel viso.</l>
+					<l xml:id="l7">Che colpa ha del morire</l>
+					<l xml:id="l8">Dela trafitta gente</l>
+					<l xml:id="l9">[OMITTED]</l>
+					<l xml:id="l10">Se non sa di ferire!</l>
+					<l xml:id="l11">Oh bellezza homicida et innocente!</l>
+					<l xml:id="l12">Tempo è ch’homai le mostri</l>
+					<l xml:id="l13">Amor nele sue piaghe i dolor nostri.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Mentre nubi di sdegno</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">13</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S13">
+					<title>Scielta delle rime del Sig. Torquato Tasso. Prima, e seconda parte</title>
+					<publisher>Francesco Osanna</publisher>
+					<pubPlace>Mantua</pubPlace>
+					<date when="1582">1582</date>
+					<biblScope unit="page">Parte Prima, 69</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Alla sua Donna</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Mentre nubi di sdegno</l>
+					<l xml:id="l2">Fra vostri occhi, e’l mio core,</l>
+					<l xml:id="l3">Furo interposte, e gli soffrì l’ardore;</l>
+					<l xml:id="l4">Hor che chiaro si gira,</l>
+					<l xml:id="l5">Il Sol, di quei bei lumi,</l>
+					<l xml:id="l6">Forz’è, che si consumi</l>
+					<l xml:id="l7">L’anima esposta à si gran foco ignuda;</l>
+					<l xml:id="l8">Poi che dunque può l’ira</l>
+					<l xml:id="l9">Temprar sì ardente face,</l>
+					<l xml:id="l10">Più che pieta non face,</l>
+					<l xml:id="l11">Siatemi prego per pieta piu cruda.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

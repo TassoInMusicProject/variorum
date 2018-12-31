@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Caro amoroso neo</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">M4</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="M4">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Venice</settlement>
+						<repository>Biblioteca Nazionale Marciana</repository>
+						<idno>IX 310</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 61r</locus>
+							<p>miscellaneous codex, containing copies of 4 lyric poems by Tasso</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th&#x2013;17th centuries</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">[Madrigali del Sr. Torquato Tasso.] 4˚</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Caro amoroso Neo,</l>
+					<l xml:id="l2">Che si lustri un bel volto</l>
+					<l xml:id="l3">Co ’l nero tuo fra’l suo candore accolto,</l>
+					<l xml:id="l4">Se per te stesso sei</l>
+					<l xml:id="l5">Tu pur macchia, e difetto</l>
+					<l xml:id="l6">Con qual'Arte perfetto</l>
+					<l xml:id="l7">Rendi hora il colmo delle grazie in lei?</l>
+					<l xml:id="l8">Forse macchie si belle</l>
+					<l xml:id="l9">Sono del ciel le stelle?</l>
+					<l xml:id="l10">Ma se tali ha costei</l>
+					<l xml:id="l11">In sua Beltà lemende,</l>
+					<l xml:id="l12">Quai poi saranno i fregi, ond’ella splende?</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

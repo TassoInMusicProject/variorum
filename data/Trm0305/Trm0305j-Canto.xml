@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Ne i vostri dolci baci</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0305j</idno>
+			<idno type="label">Trm0305j (Canto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0305j-Canto">
+					<title>Il terzo libro de madrigali a cinque voci</title>
+					<author role="composer">Montella, Giovan Domenico</author>
+					<publisher>Carlino</publisher>
+					<pubPlace>Naples</pubPlace>
+					<date when="1602">1602</date>
+					<idno type="RISM">M 3418</idno>
+					<biblScope unit="page">18</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Nei vostri dolci baci</l>
+					<l xml:id="l2">De l’Api è il dolce mele</l>
+					<l xml:id="l3">E vi è il morso de l’Api anco crudele</l>
+					<l xml:id="l4">Dunque addolcito e punto</l>
+					<l xml:id="l5">Da voi parto in un punto.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

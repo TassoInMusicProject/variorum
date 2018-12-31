@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Mentre volgea il mio sole</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0261b</idno>
+			<idno type="label">Trm0261b (Basso)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0261b-Basso">
+					<title>Il terzo libro de madrigali a quattro voci</title>
+					<author role="composer">Macque, Giovanni de</author>
+					<publisher>Gargano &amp; Nucci</publisher>
+					<pubPlace>Naples</pubPlace>
+					<date when="1610">1610</date>
+					<idno type="RISM">M 95</idno>
+					<biblScope unit="page">18</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Mentre volgea ’l mio Sole</l>
+					<l xml:id="l2">Lucido specchio al Sol cosi l’accese</l>
+					<l xml:id="l3">Che quas’un terzo Sol gl’occhi m’offese</l>
+					<l xml:id="l4">Io perdendo la luce à tanti rai</l>
+					<l xml:id="l5">Quasi cieco gridai</l>
+					<l xml:id="l6">Qual gloria è quest’Amore</l>
+					<l xml:id="l7">[TACET]</l>
+					<l xml:id="l8">E perche non gioisca al lum’ond’ardo</l>
+					<l xml:id="l9">Con tre Soli abbagliarmi un vago sguardo.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

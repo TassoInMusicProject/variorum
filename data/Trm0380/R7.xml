@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Viviamo, amianci, o mia gradita Jelle</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">R7</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="R7">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Florence</settlement>
+						<repository>Bblioteca Riccardiana</repository>
+						<idno>ms. 2851</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 397v</locus>
+							<p>miscellaneous codex, containing copies of 3 lyric poems by Tasso</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Del Tasso [The entire poem is crossed out with a diagonal strike-through]</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Viviamo, amianci, o mia gradita J</l>
+					<l xml:id="l2">Hedera sij, ch'il caro tronco abbraccia,</l>
+					<l xml:id="l3">Baciami, et de tuoi basci il numer taccia</l>
+					<l xml:id="l4">Chi non ardisce annoverar le stelle.</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Bacinsi insieme l’alme nostre anch’elle</l>
+					<l xml:id="l6">Sia fabbro amor, che le distempre, e sfaccia</l>
+					<l xml:id="l7">E di lor due confuse una ne faccia,</l>
+					<l xml:id="l8">Che per un spirto sol spiri, e favelle.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">C mia gentile, come s’inesta</l>
+					<l xml:id="l10">L’una pianta nell’altra, e sovra l’orno</l>
+					<l xml:id="l11">Vedeggia 'l pero, e l’un per l’altro e vago</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">Tal’io n’andro de tuoi colori adorno,</l>
+					<l xml:id="l13">Tal' il tuo cor de miei pensier si vesta</l>
+					<l xml:id="l14">E comun sia fra noi la penna, e l’ago.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Tu, bianca e vaga Luna</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">P4</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="P4">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Florence</settlement>
+						<repository>Biblioteca Nazionale</repository>
+						<idno>Palatino 225</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 32v</locus>
+							<p>miscellaneous codex, containing copies of 41 lyric poems by Tasso</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">[Ballate N.˚ VII del Signor Torquato Tasso. Alla Serenissima Signora Bianca Cappello Gran Duchessa di Toscana. A Pratolino]</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Tu bianca, e vaga luna</l>
+					<l xml:id="l2">C’hai tanti specchi, quanti sono i Mari,</l>
+					<l xml:id="l3">Mira questo CANDOR, ch'è senza pari:</l>
+				</lg>
+				<lg>
+					<l xml:id="l4">À lei mena i tuoi balli, à lei distilla</l>
+					<l xml:id="l5">Le tu' dolci rugiade,</l>
+					<l xml:id="l6">Specchiati in Lei con amoroso affetto.</l>
+					<l xml:id="l7">E tu Venere all'hor con lei scintilla</l>
+					<l xml:id="l8">Che ’l sole inchina, e cade.</l>
+					<l xml:id="l9">Tu Giove, e Marte con benigno aspetto</l>
+					<l xml:id="l10">Lumi sereni, e chiari</l>
+					<l xml:id="l11">Non siat'à Lei de’ vostri doni avari.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

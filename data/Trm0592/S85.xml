@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Negli anni acerbi tua purpurea rosa</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">85</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S85">
+					<title>Delle rime del Sig. Torquato Tasso. Parte prima. Di nuovo dal medesimo in questa nuova impressione ordinate, corrette, accresciute, et date in luce. Con l'esposizione dello stesso autore</title>
+					<publisher>Francesco Osanna</publisher>
+					<pubPlace>Mantua</pubPlace>
+					<date when="1591">1591</date>
+					<biblScope unit="page">Parte prima, 310-11</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">DICHIARA come la bellezza sia cresciuta, con la similitudine del fiore, che spiega le foglie: e del Sole, ch’è nel mezo giorno.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">GIÀ solevi parer vermiglia rosa,</l>
+					<l xml:id="l2">Ch’à dolci raggi, à lo spirar de l’ora,</l>
+					<l xml:id="l3">Rinchiude il grembo, e nel suo verde ancora,</l>
+					<l xml:id="l4">Verginella s’asconde, e vergognosa.</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">O mi sembravi pur (che mortal cosa,</l>
+					<l xml:id="l6">Non assomiglia à te) celeste Aurora;</l>
+					<l xml:id="l7">Che le campagne imperla, e i monti indora,</l>
+					<l xml:id="l8">Lucida in ciel sereno, e rugiadosa.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Ma nulla à te l’età men fresca hor toglie,</l>
+					<l xml:id="l10">Ne beltà giovenile in manto adorno,</l>
+					<l xml:id="l11">Vince la tua negletta, ò la pareggia.</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">Così più vago l’odorate foglie</l>
+					<l xml:id="l13">Il fior dispiega; e’l Sole a mezo il giorno</l>
+					<l xml:id="l14">Via più, che nel mattino, arde, e fiammeggia.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

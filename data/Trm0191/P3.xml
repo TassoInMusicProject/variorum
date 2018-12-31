@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Arsi mentre m'amaste</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">P3</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="P3">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Florence</settlement>
+						<repository>Biblioteca Nazionale</repository>
+						<idno>Palatino 224</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 256</locus>
+							<p>miscellaneous codex, containing copies of 79 lyric poems by Tasso</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Arsi mentre m'amaste,</l>
+					<l xml:id="l2">Ed al cortese affetto</l>
+					<l xml:id="l3">Pagò tributo di sospiri il petto.</l>
+				</lg>
+				<lg>
+					<l xml:id="l4">Ma poichè il vostro amore</l>
+					<l xml:id="l5">Volgeste in altra parte,</l>
+					<l xml:id="l6">Donna, s'estinse anco il mio foco in parte.</l>
+					<l xml:id="l7">Sorse poi novo ardore,</l>
+					<l xml:id="l8">Ma fiamma fu di sdegno</l>
+					<l xml:id="l9">Perchè ’l mio don di voi stimaste indegno:</l>
+					<l xml:id="l10">Questa seccò le chiome</l>
+					<l xml:id="l11">Del lauro, ond’onorava il vostro nome.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

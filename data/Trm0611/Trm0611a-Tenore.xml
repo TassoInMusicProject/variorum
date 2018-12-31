@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>La bella pargoletta</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0611a</idno>
+			<idno type="label">Trm0611a (Tenore)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0611a-Tenore">
+					<title>Il primo libro de madrigali a sei voci</title>
+					<author role="composer">Corfini, Jacopo</author>
+					<publisher>Scotto</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1575">1575</date>
+					<idno type="RISM">C 3931</idno>
+					<biblScope unit="page">17-18</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">La bella pargoletta</l>
+					<l xml:id="l2">Ch’ancor non sente amore</l>
+					<l xml:id="l3">Ne pur noto ha per fama il suo valore</l>
+					<l xml:id="l4">Co’l bel sguardo saetta</l>
+					<l xml:id="l5">E col suave riso</l>
+					<l xml:id="l6">Ne s’accorge che l’arme ha nel bel viso.</l>
+				</lg>
+				<lg>
+					<l xml:id="l7">Che colpa ha del morire</l>
+					<l xml:id="l8">Della trafitta gente</l>
+					<l xml:id="l9">[OMITTED]</l>
+					<l xml:id="l10">Se non sa di ferire</l>
+					<l xml:id="l11">O bellezza homicida &amp; innocente</l>
+					<l xml:id="l12">Tempo è ch’amor ti mostri</l>
+					<l xml:id="l13">Hormai nelle tue piaghe i dolor nostri.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

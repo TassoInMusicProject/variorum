@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Al vostro dolce azzurro</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">N15</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="N15">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Florence</settlement>
+						<repository>Biblioteca Nazionale</repository>
+						<idno>Magl. VII 1398</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 243r</locus>
+							<p>miscellaneous codex, containing copies of 4 lyric poems by Tasso</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th&#x2013;17th centuries</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Madrigali del Tasso giovane</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Al vostro dolce azurro</l>
+					<l xml:id="l2">Ceda ò luci serene</l>
+					<l xml:id="l3">Qual più bel nero Italia in pregio tiene.</l>
+					<l xml:id="l4">Occhi cielo d’Amore</l>
+					<l xml:id="l5">Sole di questo core</l>
+					<l xml:id="l6">Son gli altri occhi appo voi notte et inferno.</l>
+					<l xml:id="l7">Azurro è ’l cielo eterno</l>
+					<l xml:id="l8">E ciò ch’è bello, il bello ha sol da lui</l>
+					<l xml:id="l9">Ei bello è sol perche somiglia à vui.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

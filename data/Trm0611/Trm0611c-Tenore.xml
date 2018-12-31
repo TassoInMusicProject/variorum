@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>La bella pargoletta</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0611c</idno>
+			<idno type="label">Trm0611c (Tenore)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0611c-Tenore">
+					<title>quinto libro delle muse a cinque voci</title>
+					<author role="composer">Feliciani, Andrea</author>
+					<publisher>Gardano</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1575">1575</date>
+					<idno type="RISM">1575-12</idno>
+					<biblScope unit="page">8</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">[TACET]</l>
+					<l xml:id="l2">Ch’anchor non sent’Amore</l>
+					<l xml:id="l3">Ne pur not’ha per fam’il suo valore</l>
+					<l xml:id="l4">Col bel guardo saetta</l>
+					<l xml:id="l5">e col soave riso</l>
+					<l xml:id="l6">Ne s’accorge che l’arm’ha nel bel viso</l>
+					<l xml:id="l7">Che colp’ha nel morire</l>
+					<l xml:id="l8">de la trafitta gente</l>
+					<l xml:id="l9">[OMITTED]</l>
+					<l xml:id="l10">S’ei non sa di ferire</l>
+					<l xml:id="l11">O bellezz’homicida &amp; innocente,</l>
+					<l xml:id="l12">Temp’e ch’amor ti mostri</l>
+					<l xml:id="l13">Omai nelle tue piagh’i dolor nostri.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

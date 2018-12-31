@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>O dolci lagrimette</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0325c</idno>
+			<idno type="label">Trm0325c (Basso)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0325c-Basso">
+					<title>Il secondo libro de madrigali a cinque voci</title>
+					<author role="composer">Salzilli, Crescenzio</author>
+					<publisher>Carlino</publisher>
+					<pubPlace>Naples</pubPlace>
+					<date when="1611">1611</date>
+					<idno type="RISM">1611-17</idno>
+					<biblScope unit="page">5</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">O Dolci lagrimette,</l>
+					<l xml:id="l2">che già la Donna mia da suoi begli occhi</l>
+					<l xml:id="l3">quasi nembo, che fiocchi</l>
+					<l xml:id="l4">sparse in questo odorato e bianco lino</l>
+					<l xml:id="l5">misero Peregrino</l>
+					<l xml:id="l6">questo sol meco i porto, e sol i tegno</l>
+					<l xml:id="l7">caro mio si ma non felice pegno</l>
+					<l xml:id="l8">[TACET]</l>
+					<l xml:id="l9">e ne pianga lontano, e mi consumi.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

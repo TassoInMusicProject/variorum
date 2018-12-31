@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Stavasi Amor quasi in regno assiso</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">Ber</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Ber">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Bergamo</settlement>
+						<repository>Civica Biblioteca Angelo Mai</repository>
+						<idno>Tassiana L.4.2</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. Parte prima, 66-67</locus>
+							<p>exemplar of print <span class="print">85</span>, with Tasso's autograph annotations and corrections</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">DICE d’haver veduto amor ne gli occhi de la sua Donna, il quale gli havea comandato che non cantasse più le vittorie d’altrui, ma quelle di lei, e la sua propria servitù.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">STAVASI Amor, quasi in suo Regno, assiso,</l>
+					<l xml:id="l2">Nel seren di due luci ardenti, &amp; alme;</l>
+					<l xml:id="l3">Mille famose insegne, e mille palme</l>
+					<l xml:id="l4">Spiegando in un sereno, e chiaro viso.</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Quando rivolto à me, ch’intento, e fiso</l>
+					<l xml:id="l6">Mirava le sue ricche, e care salme,</l>
+					<l xml:id="l7">Hor canta (disse) come i cori, e l’alme,</l>
+					<l xml:id="l8">E ’l tuo mdesimo ancora habbia conquiso.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Nè s’oda risonar l’arme di Marte,</l>
+					<l xml:id="l10">La voce tua;  ma l’alta, e chiara gloria,</l>
+					<l xml:id="l11">E i divin pregi nostri, e di costei.</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">Così adivien, che ne l’altrui vittoria</l>
+					<l xml:id="l13">Canti mia servitute, e i lacci miei,</l>
+					<l xml:id="l14">E tessa, <del>e</del> de gli affanni istorie in carte.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

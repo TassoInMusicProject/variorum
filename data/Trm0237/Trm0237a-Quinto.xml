@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Negro era intorno e 'n bianche falde il cielo</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0237a</idno>
+			<idno type="label">Trm0237a (Quinto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0237a-Quinto">
+					<title>Il primo libro de madrigali a cinque voci</title>
+					<author role="composer">Meldert, Leonardo</author>
+					<publisher>Scotto</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1575">1575</date>
+					<idno type="RISM">M 2216</idno>
+					<biblScope unit="page">19-20</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Negro era intorno e bianche falde il cielo</l>
+					<l xml:id="l2">Pioveva al’hor ch’Ersilia in parte ascese</l>
+					<l xml:id="l3">Onde potea mostrarsi a me cortese</l>
+					<l xml:id="l4">E‘l mio foco mirar ch’io si mal celo</l>
+					<l xml:id="l5">Quand’ecco su bei crin stille di gielo</l>
+					<l xml:id="l6">Sembrar perle sù l’oro ad arte stese</l>
+					<l xml:id="l7">[TACET]</l>
+					<l xml:id="l8">chiuse ahi la neve e l’or di se fe velo.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Deh quand’in giogo d’Alpe o d’Apennino</l>
+					<l xml:id="l10">Aviene [TACET]</l>
+					<l xml:id="l11">si duro caso O cui ss forte incresce</l>
+					<l xml:id="l12">Lasso io rimasi al’hor qual peregrino</l>
+					<l xml:id="l13">A cui s’annotti in valli horride e cupe</l>
+					<l xml:id="l14">Mentre monti di neve Il turbo mesce.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

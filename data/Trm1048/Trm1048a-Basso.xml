@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Queste note io vi dono</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm1048a</idno>
+			<idno type="label">Trm1048a (Basso)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm1048a-Basso">
+					<title>Fiori musicali, libro secondo</title>
+					<author role="composer">Guami, Giuseppe</author>
+					<publisher>Vincenzi &amp; Amadino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1588">1588</date>
+					<idno type="RISM">1588-20</idno>
+					<biblScope unit="page">1</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Queste note vi dono</l>
+					<l xml:id="l2">Signor e queste carte E quest'inchiostro</l>
+					<l xml:id="l3">E quant'e in me Sugana e tutto vostro</l>
+					<l xml:id="l4">E l’alto nome e ’l nume</l>
+					<l xml:id="l5">A cui sacro lo stile e'l cor gli accenti</l>
+					<l xml:id="l6">Degno ch’a quattro venti</l>
+					<l xml:id="l7">Il portin più felici E bianche piume.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

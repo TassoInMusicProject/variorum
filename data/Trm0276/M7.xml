@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Più che Dïana è bella e più mi piace</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">M7</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="M7">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Venice</settlement>
+						<repository>Biblioteca Nazionale Marciana</repository>
+						<idno>IX 112</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 33</locus>
+							<p>miscellaneous codex, containing copies of 12 lyric poems by Tasso</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">[CACCIA AMOROSA]</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Piú che DIANA è bella, e piú mi piace</l>
+					<l xml:id="l2">Questa mia donna, anzi mia viva face.</l>
+					<l xml:id="l3">Ma non riscald'à pena</l>
+					<l xml:id="l4">Quand'ella è piú lucente, e piú serena,</l>
+					<l xml:id="l5">Ne sparge i rai con rugiadose stille,</l>
+					<l xml:id="l6">Mà con fiamm'e faville:</l>
+					<l xml:id="l7">Tal ch’ogni freddo core</l>
+					<l xml:id="l8">Ard'e avampa d’amoroso ardore.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

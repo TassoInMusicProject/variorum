@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Aminta poi ch'a Filli non dispiacque</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0367a</idno>
+			<idno type="label">Trm0367a (Alto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0367a-Alto">
+					<title>Il secondo libro de madrigali a cinque voci</title>
+					<author role="composer">Luzzaschi. Luzzasco</author>
+					<publisher>Gardano</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1576">1576</date>
+					<idno type="RISM">L 3123</idno>
+					<biblScope unit="page">14-15</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Aminta poi ch’a Filli non dispiacque</l>
+					<l xml:id="l2">Del medesmo desir mostrarsi accesa</l>
+					<l xml:id="l3">E ch’ella a questo sol gia tanto attesa</l>
+					<l xml:id="l4">Ne le sue braccia alfin nuda si giacque</l>
+					<l xml:id="l5">Dal soverchio piacer sentendo offesa</l>
+					<l xml:id="l6">L’alma felice in si bel laccio presa</l>
+					<l xml:id="l7">A lei che piu ch’alcun’altra gli piacque</l>
+					<l xml:id="l8">Cosi languendo disse e poi si tacque.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Cogliete anima mia quest’alma [TACET]</l>
+					<l xml:id="l10">[TACET] Ahi chi mi giunge al core</l>
+					<l xml:id="l11">Al cor ahi lasso un velen dolc’e rio</l>
+					<l xml:id="l12">[TACET]</l>
+					<l xml:id="l13">Per troncar la radice al viver mio</l>
+					<l xml:id="l14">In dolcissimi bacci il manda fuore.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

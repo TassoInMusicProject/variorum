@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Disdegno e gelosia</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">M7</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="M7">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Venice</settlement>
+						<repository>Biblioteca Nazionale Marciana</repository>
+						<idno>IX 112</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 87</locus>
+							<p>miscellaneous codex, containing copies of 12 lyric poems by Tasso</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">DisDEGNO, e Gelosia.</l>
+					<l xml:id="l2">Donna vostri Custodi, e miei Nemici,</l>
+					<l xml:id="l3">Fan gl' occhi miei famelici, e mendici.</l>
+					<l xml:id="l4">Ed insieme il dolce raggio</l>
+					<l xml:id="l5">De gl' occhi vostri, e i bei cortesi detti</l>
+					<l xml:id="l6">Pien di spirti, e d’ Affetti</l>
+					<l xml:id="l7">Mi toglie de duo crudi il doppio oltraggio.</l>
+				</lg>
+				<lg>
+					<l xml:id="l8">Tal che lasso d’intorno</l>
+					<l xml:id="l9">A le guardate mura</l>
+					<l xml:id="l10">Erro la Notte solitario, e'l giorno;</l>
+					<l xml:id="l11">Qual Predator ch’ insidi</l>
+					<l xml:id="l12">D’errante Fera i boscarecci nidi.</l>
+					<l xml:id="l13">Mà non vuol mia ventura,</l>
+					<l xml:id="l14">Che senza pena invole, onde divegno</l>
+					<l xml:id="l15">Preda di predator, e d’ Arciero segno.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

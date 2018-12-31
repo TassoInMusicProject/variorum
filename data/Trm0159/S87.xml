@@ -17,7 +17,7 @@
 					<publisher>Pietro Maria Marchetti</publisher>
 					<pubPlace>Brescia</pubPlace>
 					<date when="1592">1592</date>
-					<biblScope unit="page">311</biblScope>
+					<biblScope unit="page">Parte prima, 311</biblScope>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -29,14 +29,14 @@
 			</div>
 			<div>
 				<lg>
-					<l xml:id="l1">D’Aria un tempo nudrimmi: e cibo, e vita,</l>
+					<l xml:id="l1">D’ARIA un tempo nudrimmi: e cibo, e vita,</l>
 					<l xml:id="l2">L’aura mi fù, che d’un bel volto spira;</l>
 					<l xml:id="l3">Hor che lei mi contende orgoglio, ed ira:</l>
 					<l xml:id="l4">Di qual esca sarà l’alma nudrita?</l>
 				</lg>
 				<lg>
 					<l xml:id="l5">I famelici spirti in vano aita</l>
-					<l xml:id="l6">Chiamano, e ’n darno il cor langue, e sospira:</l>
+					<l xml:id="l6">Chiamano, e’n darno il cor langue, e sospira:</l>
 					<l xml:id="l7">Ma se pur l’empia à darle morte aspira</l>
 					<l xml:id="l8">Muoia non per digiun, ma per ferita.</l>
 				</lg>

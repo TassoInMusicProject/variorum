@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Gelo ha Madonna il seno</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">Flc2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Flc2">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Bergamo</settlement>
+						<repository>Civica Biblioteca Angelo Mai</repository>
+						<idno>Tassiana N.6.5</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 197v</locus>
+							<p>codex containing 132 poems by Tasso, 20 of which may be autograph</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Gelo ha madonna il seno e fiamma il volto</l>
+					<l xml:id="l2">Io son ghiaccio di fore</l>
+					<l xml:id="l3">E'l foco ho dentro accolto</l>
+					<l xml:id="l4">Questo avvien perch’Amore</l>
+					<l xml:id="l5">Nella sua fronte alberga e nel mio petto</l>
+					<l xml:id="l6">Ne mai cangia ricetto</l>
+					<l xml:id="l7">Si ch’io l’habbia negl'occhi ella nel core.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Facelle son d'immortal luce ardenti</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">85</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S85">
+					<title>Delle rime del Sig. Torquato Tasso. Parte prima. Di nuovo dal medesimo in questa nuova impressione ordinate, corrette, accresciute, et date in luce. Con l'esposizione dello stesso autore</title>
+					<publisher>Francesco Osanna</publisher>
+					<pubPlace>Mantua</pubPlace>
+					<date when="1591">1591</date>
+					<biblScope unit="page">Parte prima, 317</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">SCRIVE ad una Gentildonna mostrando, che’l difetto de l’amare non era ne la bellezza di lei, ma ne l’amor proprio.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">FACELLE son d’immortal luce ardenti</l>
+					<l xml:id="l2">Gli occhi, che volgi in sì soavi giri,</l>
+					<l xml:id="l3">E fiamma è l’aura, che tu muovi, e spiri</l>
+					<l xml:id="l4">A formar dolci angelici concenti.</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">E qual hor più ti lagni, o ti lamenti,</l>
+					<l xml:id="l6">Foco’l tuo pianto, e foco i tuoi sospiri,</l>
+					<l xml:id="l7">E quanti tù, col dolce sguardo hor miri,</l>
+					<l xml:id="l8">E quanti rendi al dolce suono intenti.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Sol’io, fra i vivi raggi, e fra le note,</l>
+					<l xml:id="l10">Onde avampi ciascun, nulla mi scaldo;</l>
+					<l xml:id="l11">Nè trova onde nutrirsi in me l’ardore.</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">Nè già son'io gelido marmo, e saldo;</l>
+					<l xml:id="l13">Ma, consumato in altra fiamma il core,</l>
+					<l xml:id="l14">Hor che cenere è tutto, arder non pote.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

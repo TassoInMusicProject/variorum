@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Quel labbro che le rose han colorito</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">W</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="W">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Rome</settlement>
+						<repository>Biblioteca Angelica</repository>
+						<idno>ms. 1882</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 56v</locus>
+							<p>miscellaneous codex, containing copies of 64 lyric poems by Tasso</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">all med.a [Sig.a Leonora Contessa di Scandiano] del med.˚ [Torquato Tasso]</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Quel labro, che le rose han colorito,</l>
+					<l xml:id="l2">Molle si sporge, et tumidetto in fuore</l>
+					<l xml:id="l3">Spinto per arte, mi credo io, d’Amore</l>
+					<l xml:id="l4">A fare ai baci insidioso invito</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Amante alcun non sia cotanto ardito</l>
+					<l xml:id="l6">Ch’osi appressarsi, ove tra fiore et fiore</l>
+					<l xml:id="l7">Si sta qual angue ad attoscarvi il cuore</l>
+					<l xml:id="l8">Con fiero intento, io 'l veggio, et vel’ addito</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Io ch’altre volte fui ne l'amorose</l>
+					<l xml:id="l10">Insidie colto, hor ben le riconosco</l>
+					<l xml:id="l11">Et le discuopro o Giovinetti a voi</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">Quasi pomi di Tantalo le rose</l>
+					<l xml:id="l13">Fanvinsi incontro, et s’allontanan poi:</l>
+					<l xml:id="l14">Sol resta Amor, che spira fiamma et tosco.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

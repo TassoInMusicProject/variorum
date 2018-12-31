@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Questa vita è la selva, il verde e l'ombra</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">M7</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="M7">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Venice</settlement>
+						<repository>Biblioteca Nazionale Marciana</repository>
+						<idno>IX 112</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 36</locus>
+							<p>miscellaneous codex, containing copies of 12 lyric poems by Tasso</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">[CACCIA AMOROSA]</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">QUESTA VITA è la selva, il verd'e l’ombra</l>
+					<l xml:id="l2">Son fallaci speranze, e son le reti</l>
+					<l xml:id="l3">Piacer dolci, e secreti.</l>
+					<l xml:id="l4">E sono sispidi dumi</l>
+					<l xml:id="l5">Feri sdegni, e costumi</l>
+					<l xml:id="l6">La Fera è la mia Donna, Amor l’arciero,</l>
+					<l xml:id="l7">E veltro è il mio pensiero.</l>
+					<l xml:id="l8">Ella ratta se’n và senza ritegno,</l>
+					<l xml:id="l9">Ne fugge per timor, mà per disdegno</l>
+					<l xml:id="l10">Non servitú má Pace</l>
+					<l xml:id="l11">E quant'è piú superba, é piú fugace.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

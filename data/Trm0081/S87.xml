@@ -17,7 +17,7 @@
 					<publisher>Pietro Maria Marchetti</publisher>
 					<pubPlace>Brescia</pubPlace>
 					<date when="1592">1592</date>
-					<biblScope unit="page">129</biblScope>
+					<biblScope unit="page">Parte prima, 129</biblScope>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -25,7 +25,7 @@
 	<text>
 		<body xml:space="preserve">
 			<div type="dedication">
-				<p xml:id="p1">Assomiglia à la sua Donna, la quale egli havea veduta co’ capegli sparsi sù la fronte.</p>
+				<p xml:id="p1">Assomiglia à la Fortuna la sua Donna, la quale egli havea veduta co’ capegli sparsi sù la fronte.</p>
 			</div>
 			<div>
 				<lg>

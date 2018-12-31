@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Lunge da gli occhi vostri</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0326d</idno>
+			<idno type="label">Trm0326d (Canto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0326d-Canto">
+					<title>Il quinto libro de madrigali a cinque voci</title>
+					<author role="composer">Dentice, Scipione</author>
+					<publisher>Sottile</publisher>
+					<pubPlace>Naples</pubPlace>
+					<date when="1607">1607</date>
+					<idno type="RISM">D 1665</idno>
+					<biblScope unit="page">18</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Lunge da gl’occhi vostri,</l>
+					<l xml:id="l2">Io vivo del pensiero</l>
+					<l xml:id="l3">pensosa vita, E vivo perch’io spero;</l>
+					<l xml:id="l4">sper’il dolce ritorno;</l>
+					<l xml:id="l5">E s’avverrà che nel felice giorno,</l>
+					<l xml:id="l6">la mia cara speranz’in me si moia,</l>
+					<l xml:id="l7">spero viver di gioia.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

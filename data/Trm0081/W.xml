@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Costei, che su la fronte ha sparsa al vento</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">W</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="W">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Rome</settlement>
+						<repository>Biblioteca Angelica</repository>
+						<idno>ms. 1882</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 45r</locus>
+							<p>miscellaneous codex, containing copies of 64 lyric poems by Tasso</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">[Di Torquato Tasso] Costei che su la fronte ha sparsa al vento L'errante chioma d’or fortuna pare 	Anzi è vera fortuna et puo beare 	Et puo miseri farne in un momento.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Dispensatrice nò d’oro o d’argento</l>
+					<l xml:id="l2">O di gemme che mandi estranio mare</l>
+					<l xml:id="l3">Ma i tesori d’Amor cose piu care</l>
+					<l xml:id="l4">Fura dona ritoglie a suo talento.</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Cieca non già se non quando a i martiri</l>
+					<l xml:id="l6">Nostri s'infinge tal ciechi ne rende</l>
+					<l xml:id="l7">Con due luci serene, et sfavillanti</l>
+				</lg>
+				<lg>
+					<l xml:id="l8">Chiedi qual sia la ruota, onde gli amanti</l>
+					<l xml:id="l9">Travolve, e’l dubbio lor fato sospende,</l>
+					<l xml:id="l10">La ruota son de suoi begli occhi i giri</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

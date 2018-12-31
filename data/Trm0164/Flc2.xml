@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Vuol che l'ami costei, ma duro freno</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">Flc2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Flc2">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Bergamo</settlement>
+						<repository>Civica Biblioteca Angelo Mai</repository>
+						<idno>Tassiana N.6.5</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 239v</locus>
+							<p>codex containing 132 poems by Tasso, 20 of which may be autograph</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">D'incerto. Ma è creduto del Tasso.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Vuol ch'io l'ami costei, ma un duro freno</l>
+					<l xml:id="l2">Mi pone ancor d'aspro silentio, hor quale</l>
+					<l xml:id="l3">Havrò da lei se non hà noto il male</l>
+					<l xml:id="l4">O medicina, ò refrigerio almeno?</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">E come esser potrà ch'ardendo il seno</l>
+					<l xml:id="l6">Non traluca favilla, ò fumo esale?</l>
+					<l xml:id="l7">E come che da piaga aspra, e mortale</l>
+					<l xml:id="l8">Amor non versi e'l seno io già n'hò pieno</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Tacer ben posso, e tacerò; ch'io toglia</l>
+					<l xml:id="l10">Sangue alle piaghe e luce, e fumo al fuoco</l>
+					<l xml:id="l11">Non brami già, quest'è impossibil voglia</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">Troppo spinse pungenti à dentro i colpi</l>
+					<l xml:id="l13">Troppo ardore gran fiamme in picciol loco</l>
+					<l xml:id="l14">S'appariran Natura, e se incolpi.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

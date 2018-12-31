@@ -17,7 +17,7 @@
 					<publisher>Pietro Maria Marchetti</publisher>
 					<pubPlace>Brescia</pubPlace>
 					<date when="1592">1592</date>
-					<biblScope unit="page">325</biblScope>
+					<biblScope unit="page">Parte prima, 325-27</biblScope>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -29,7 +29,7 @@
 			</div>
 			<div>
 				<lg>
-					<l xml:id="l1">Poi che non spira al mio soave foco,</l>
+					<l xml:id="l1">POI che non spira al mio soave foco,</l>
 					<l xml:id="l2">Amor, come solea, placida l’aura:</l>
 					<l xml:id="l3">Chi temprerà questa amorosa fiamma?</l>
 					<l xml:id="l4">Qual troverò solinga, e chiara fonte,</l>
@@ -45,7 +45,7 @@
 					<l xml:id="l12">Diè qualche refrigerio à tanta fiamma.</l>
 				</lg>
 				<lg>
-					<l xml:id="l13">D’Etna somiglia pur l’accesa fiamma,</l>
+					<l xml:id="l13">D’ETNA somiglia pur l’accesa fiamma,</l>
 					<l xml:id="l14">Ò di Fetonte traviato i raggi:</l>
 					<l xml:id="l15">Quando s’ascose ne l’occulto fonte,</l>
 					<l xml:id="l16">Il Nilo, per fuggir l’ardente foco;</l>
@@ -61,7 +61,7 @@
 					<l xml:id="l24">Nè mi varrà, ch’io mi convertà in fonte.</l>
 				</lg>
 				<lg>
-					<l xml:id="l25">Perché la dolce mia tranquilla fonte</l>
+					<l xml:id="l25">PERCHÉ la dolce mia tranquilla fonte</l>
 					<l xml:id="l26">Più non mi scampi, ò fiume algente, ò rivo:</l>
 					<l xml:id="l27">Fuggirò il foco in mezo al novo foco,</l>
 					<l xml:id="l28">E le mie fiamme struggerà la fiamma,</l>

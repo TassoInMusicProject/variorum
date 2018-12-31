@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Soavissimo canto</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0343a</idno>
+			<idno type="label">Trm0343a (Canto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0343a-Canto">
+					<title>Madrigali a tre, quattro, cinque, sei, sette et otto voci</title>
+					<author role="composer">Bellasio, Paolo</author>
+					<publisher>Amadino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1591">1591</date>
+					<idno type="RISM">B 1716</idno>
+					<biblScope unit="page">1</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">A tre</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Soavissimo canto</l>
+					<l xml:id="l2">O pur t'oda una volta</l>
+					<l xml:id="l3">E poi mi stilli in lagrimoso pianto</l>
+					<l xml:id="l4">Felice chi t'ascolta</l>
+					<l xml:id="l5">Felice chi riguarda</l>
+					<l xml:id="l6">la rosa onde tu spiri ancor non colta</l>
+					<l xml:id="l7">Felice si ma tarda</l>
+					<l xml:id="l8">Fora la sorte mia</l>
+					<l xml:id="l9">Tra quel si dolce odor'&amp; armonia.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

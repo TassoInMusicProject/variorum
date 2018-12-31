@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Facelle son d'immortal luce ardenti</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">12</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S12">
+					<title>Scielta delle rime del Sig. Torquato Tasso. Prima e seconda parte</title>
+					<publisher>Domenico Mammarelli, e Giulio Cesare Cagnacini Compagni</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1582">1582</date>
+					<biblScope unit="page">Parte Prima, 71</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Facelle son d’immortal luce ardenti</l>
+					<l xml:id="l2">Gli occhi, che volgi in sì soavi giri,</l>
+					<l xml:id="l3">E fiamma è l’aura, che tu muovi, e spiri,</l>
+					<l xml:id="l4">A formar dolci angelici concenti.</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Et fuoco son le lagrime cadenti,</l>
+					<l xml:id="l6">Che talhor versi, &amp; fuoco i tuoi sospiri,</l>
+					<l xml:id="l7">Et quanti tu col dolce sguardo miri,</l>
+					<l xml:id="l8">Et quanti rendi al dolce suono intenti.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Sol io, fra i vivi raggi, e fra le note,</l>
+					<l xml:id="l10">Ond’avampa ciascun, nulla mi scaldo,</l>
+					<l xml:id="l11">Nè trova, onde nutrirsi, in me l’ardore.</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">Nè gia son’io gelido marmo, e saldo,</l>
+					<l xml:id="l13">Ma, consumato in altro incendio il cuore,</l>
+					<l xml:id="l14">Hor ch’è cenere tutto, arder non puote.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>
