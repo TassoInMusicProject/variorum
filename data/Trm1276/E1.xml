@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Tu, bianca e vaga Luna</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">E1</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="E1">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Modena</settlement>
+						<repository>Biblioteca Estense Universitaria</repository>
+						<idno>It. 385</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 289</locus>
+							<p>codex containing copies of 322 lyric poems by Tasso, some with autograph annotations and corrections</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century (ca. 1584&#x2013;85?)</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">stampa</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Tu, bianca, e vaga Luna,</l>
+					<l xml:id="l2">C’hai tanti specchi, quanti sono i mari,</l>
+					<l xml:id="l3">Mira in questo candor, ch’è senza pari.</l>
+					<l xml:id="l4">A lei mena <del>i tuoi balli</del> il tuo carro à lei distilla</l>
+					<l xml:id="l5">le tue dolci rugiade</l>
+					<l xml:id="l6">specchiati in lei con amoroso affetto</l>
+					<l xml:id="l7">e tu Venere <del>seco homai</del> allhor con lei scintilla,</l>
+					<l xml:id="l8">che stanco il sol gia cade,</l>
+					<l xml:id="l9">Tu Giove, e Marte con benigno aspetto</l>
+					<l xml:id="l10">lumi sereni, e chiari,</l>
+					<l xml:id="l11">Non siate a lei de’ vostri <del>lumi</del> doni avari.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Dove rivolgi o lusinghier fallace</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm1653a</idno>
+			<idno type="label">Trm1653a (Text)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm1653a-Text">
+					<title>Lodi, et canzonette spirituali</title>
+					<author role="composer">Anonymous</author>
+					<publisher>Longo</publisher>
+					<pubPlace>Naples</pubPlace>
+					<date when="1608">1608</date>
+					<idno type="RISM">1608-04</idno>
+					<biblScope unit="page">405</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">LODE XXVII. RIVOLGE gli occhi alle bell’opre di Dio, &amp; à Christo in Croce. Del Tasso.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Dove rivolgi, ò lusinghier fallace,</l>
+					<l xml:id="l2">Gli occhi bramosi, e vaghi?</l>
+					<l xml:id="l3">Dove, ò come t’appaghi</l>
+					<l xml:id="l4">Di quel, che picciol tempo alletta, e piace?</l>
+					<l xml:id="l5">Il Rè, che fece il Sole, e l’auree stelle</l>
+					<l xml:id="l6">Fisse in Celeste giro,</l>
+					<l xml:id="l7">Mi diletta, ov’io miro</l>
+					<l xml:id="l8">Opere di sua mano affai più belle.</l>
+					<l xml:id="l9">O crudo inganno, ò fero ardore, ò gelo</l>
+					<l xml:id="l10">De gli infelici amanti:</l>
+					<l xml:id="l11">Deh miriamo i sembianti,</l>
+					<l xml:id="l12">Imaginati in terra, e vivi in Cielo.</l>
+					<l xml:id="l13">Mentre in Croce il contemplo, il veggo esangue:</l>
+					<l xml:id="l14">Ahi lagrime, ahi dolore,</l>
+					<l xml:id="l15">Hoggi languisce, e more</l>
+					<l xml:id="l16">La salute, e la vita: ahi piaghe, ahi sangue.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

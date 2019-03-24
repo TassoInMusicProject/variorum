@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Passa la nave tua che porta il core</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">E1</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="E1">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Modena</settlement>
+						<repository>Biblioteca Estense Universitaria</repository>
+						<idno>It. 385</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 321</locus>
+							<p>codex containing copies of 322 lyric poems by Tasso, some with autograph annotations and corrections</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century (ca. 1584&#x2013;85?)</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">stampa. Al sig[n]or Paolo Grillo nel <del>quarto</del> terzo libro. </p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Passa la nave tua, che porta il core</l>
+					<l xml:id="l2">sotto il sereno ciel di stelle adorno,</l>
+					<l xml:id="l3">per queto mare, e sta la notte e ’l giorno</l>
+					<l xml:id="l4">Guardando i segni al suo governo Amore</l>
+					<l xml:id="l5">A ciascun remo un bel desìo d’honore</l>
+					<l xml:id="l6">Non teme di fortuna oltraggio e scorno</l>
+					<l xml:id="l7">empie la vela, e rasserena intorno</l>
+					<l xml:id="l8">Vento di gioia, e tempra il dolce ardore.</l>
+					<l xml:id="l9">pioggia non bagna mai tempesta, o fiumi</l>
+					<l xml:id="l10">le sarte che di fede e di speranza</l>
+					<l xml:id="l11">Hà di sua mano il tuo signore attorte</l>
+					<l xml:id="l12">e tutti vediaccesi i chiari lumi</l>
+					<l xml:id="l13">e vive la ragione, e l’arte avanza,</l>
+					<l xml:id="l14"><del>Tal ch’io comincio à disperar la</del> Tal che già prendi il desiato porto.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Questa vostra pietate</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0284k</idno>
+			<idno type="label">Trm0284k (Alto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0284k-Alto">
+					<title>Premitie armoniche a tre voci</title>
+					<author role="composer">Civita, Davit</author>
+					<publisher>G. Vincenzi</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1616">1616</date>
+					<idno type="RISM">Unknown</idno>
+					<biblScope unit="page">14</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Questa vostra pietate</l>
+					<l xml:id="l2">Non refrigerio al core</l>
+					<l xml:id="l3">Ma da forz’all’ardore</l>
+					<l xml:id="l4">Dunque d’esser pietos’homai cessate</l>
+					<l xml:id="l5">In cosi strana guisa</l>
+					<l xml:id="l6">Che ne sia l’alm’ucisa</l>
+					<l xml:id="l7">Perch’ella vi desia</l>
+					<l xml:id="l8">O in estremo crudel’ò in tutto Pia.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

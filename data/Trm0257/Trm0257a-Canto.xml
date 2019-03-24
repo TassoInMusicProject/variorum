@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Ardi, Amor, se ti piace</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0257a</idno>
+			<idno type="label">Trm0257a (Canto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0257a-Canto">
+					<title>Il terzodecimo libro delli madrigali a cinque voci</title>
+					<author role="composer">Monte, Filippo di</author>
+					<publisher>Gardano</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1588">1588</date>
+					<idno type="RISM">M 3382</idno>
+					<biblScope unit="page">17</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Ardi Amor se ti piace</l>
+					<l xml:id="l2">L’alma mia non che ’l fianco</l>
+					<l xml:id="l3">Ch’io non sarò di sofferir mai stanco</l>
+					<l xml:id="l4">Ma sembri la tua face</l>
+					<l xml:id="l5">Fulgor ch’addentro passa</l>
+					<l xml:id="l6">E fuor di se vestigio à pena lassa</l>
+					<l xml:id="l7">[TACET]</l>
+					<l xml:id="l8">[TACET]</l>
+					<l xml:id="l9">Pur se restar vestigi</l>
+					<l xml:id="l10">Debbon di quel martire onde m’affliggi</l>
+					<l xml:id="l11">Dimostrin le labra e le mie gote</l>
+					<l xml:id="l12">Di cari baci impresse ardenti note.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

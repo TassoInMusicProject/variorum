@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Tu nascesti di furto</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm1032a</idno>
+			<idno type="label">Trm1032a (Tenore)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm1032a-Tenore">
+					<title>La gloria musicale. A cinque voci</title>
+					<author role="composer">Giovannelli, Ruggiero</author>
+					<publisher>Amadino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1592">1592</date>
+					<idno type="RISM">1592-14</idno>
+					<biblScope unit="page">1</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">[TACET]</l>
+					<l xml:id="l2">[TACET]</l>
+					<l xml:id="l3">Ma fù certo felice il tuo destino</l>
+					<l xml:id="l4">Che di furto non vivi</l>
+					<l xml:id="l5">Ne di rapina ancora</l>
+					<l xml:id="l6">E se nudrito pur ne sei tal'hora</l>
+					<l xml:id="l7">Il cibo è tuo ma la fatica è mia</l>
+					<l xml:id="l8">E tù la fuggi e schivi</l>
+					<l xml:id="l9">Nel dolc'albergo Ove gioir solia</l>
+					<l xml:id="l10">Lasso Ben che di furto non sia nato</l>
+					<l xml:id="l11">Ho men benigno fato.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

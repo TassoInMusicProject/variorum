@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Se 'l mio core è con voi, come desia</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">E1</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="E1">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Modena</settlement>
+						<repository>Biblioteca Estense Universitaria</repository>
+						<idno>It. 385</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. Stampa</locus>
+							<p>codex containing copies of 322 lyric poems by Tasso, some with autograph annotations and corrections</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century (ca. 1584&#x2013;85?)</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">201</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Se ‘l mio core è con voi come desia</l>
+					<l xml:id="l2">Dove è l’anima mia</l>
+					<l xml:id="l3">Credo sia co ‘l pensier, e ‘l pensier vago</l>
+					<l xml:id="l4">e con la bella imago,</l>
+					<l xml:id="l5">e l’imagine bella,</l>
+					<l xml:id="l6">De la vostra bellezza e ne la mente,</l>
+					<l xml:id="l7">viva, vera, e presente</l>
+					<l xml:id="l8"><del>Ma pur senza il mio core, e la mia vita</del> Ma pur senza il mio cor io vivo à pena</l>
+					<l xml:id="l9">e la mia vita è pena.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

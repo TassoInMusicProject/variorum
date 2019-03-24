@@ -1,4 +1,5 @@
 [
+"E1.xml",
 "M7.xml",
 "P4.xml",
 "Tr2.xml",
@@ -14,6 +15,9 @@
 "Trm0047f-Tenore.xml",
 "Trm0047f-Basso.xml",
 "Trm0047f-Quinto.xml",
+"Trm0047n-Canto.xml",
+"Trm0047n-Tenore.xml",
+"Trm0047n-Basso.xml",
 "Trm0047r-Quinto.xml",
 "Trm0047s-Canto.xml",
 "Trm0047s-Alto.xml",

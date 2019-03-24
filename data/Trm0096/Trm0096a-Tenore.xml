@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Donna, quanto più a dentro</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0096a</idno>
+			<idno type="label">Trm0096a (Tenore)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0096a-Tenore">
+					<title>Il terzo libro de madrigali a cinque voci, con il basso continuo</title>
+					<author role="composer">D'India, Sigismondo</author>
+					<publisher>Gardano</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1615">1615</date>
+					<idno type="RISM">I 27</idno>
+					<biblScope unit="page">4</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Donna quanto piu a dentro</l>
+					<l xml:id="l2">conobbi il vostro core</l>
+					<l xml:id="l3">[TACET]</l>
+					<l xml:id="l4">[TACET]</l>
+					<l xml:id="l5">io dico un vago inchino un dolce sguardo</l>
+					<l xml:id="l6">un dir nel foco io Ardo</l>
+					<l xml:id="l7">un scolorir di viso</l>
+					<l xml:id="l8">un dolente sospiro un lieto riso.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

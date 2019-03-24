@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Ha gigli e rose ed ha rubini ed oro</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm1050a</idno>
+			<idno type="label">Trm1050a (Basso)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm1050a-Basso">
+					<title>Il primo libro de madrigali a sei voci</title>
+					<author role="composer">Virchi, Paolo</author>
+					<publisher>Amadino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1591">1591</date>
+					<idno type="RISM">V 2107</idno>
+					<biblScope unit="page">13</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Ha gigli e rose e bei rubini &amp; oro</l>
+					<l xml:id="l2">E due stelle serene e mille raggi</l>
+					<l xml:id="l3">Il bel vostro purpureo e bianco viso</l>
+					<l xml:id="l4">E la sua primavera e suo tesoro</l>
+					<l xml:id="l5">E gemme e vaghi fiori e lieti Maggi</l>
+					<l xml:id="l6">Lucide fiamme son di paradiso</l>
+					<l xml:id="l7">Ma’l più bel pregio è la virtù de l’alma</l>
+					<l xml:id="l8">Che di se stessa fa corona e palma.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">[OMITTED]</l>
+					<l xml:id="l10">[OMITTED]</l>
+					<l xml:id="l11">[OMITTED]</l>
+					<l xml:id="l12">[OMITTED]</l>
+					<l xml:id="l13">[OMITTED]</l>
+					<l xml:id="l14">[OMITTED]</l>
+					<l xml:id="l15">[OMITTED]</l>
+					<l xml:id="l16">[OMITTED]</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

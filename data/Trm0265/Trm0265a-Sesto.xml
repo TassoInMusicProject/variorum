@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Mentre la donna mia cangiando aspetto</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0265a</idno>
+			<idno type="label">Trm0265a (Sesto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0265a-Sesto">
+					<title>Madrigali a 5, 6, 7 &amp; 8 voci</title>
+					<author role="composer">Hassler, Hans Leo</author>
+					<publisher>Schönigk</publisher>
+					<pubPlace>Augsburg</pubPlace>
+					<date when="1596">1596</date>
+					<idno type="RISM">H 2339</idno>
+					<biblScope unit="page">XVIII</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Mentre la Donna mia cangiando aspetto</l>
+					<l xml:id="l2">Di bianco nel vermiglio</l>
+					<l xml:id="l3">Mostra l’interno affetto</l>
+					<l xml:id="l4">E par hor fresca rosa hor bianco giglio</l>
+					<l xml:id="l5">Dico se cosi muta il bel colore</l>
+					<l xml:id="l6">Non è ferma nel core</l>
+					<l xml:id="l7">Ma ’l variar è cosi dolce e vago</l>
+					<l xml:id="l8">Che d’altro io non m’appago</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

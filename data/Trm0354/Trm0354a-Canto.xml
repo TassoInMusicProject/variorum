@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Occhi miei mal accorti</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0354a</idno>
+			<idno type="label">Trm0354a (Canto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0354a-Canto">
+					<title>Canzonette a tre, quattro e cinque voci. Libro terzo</title>
+					<author role="composer">Lambardi, Francesco</author>
+					<publisher>Vitale</publisher>
+					<pubPlace>Naples</pubPlace>
+					<date when="1616">1616</date>
+					<idno type="RISM">1616-15</idno>
+					<biblScope unit="page">13</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">☼ [See Critical Report] Aria à 3.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Occhi miei mali accorti</l>
+					<l xml:id="l2">A gran ragion’ogn’or di voi mi doglio</l>
+					<l xml:id="l3">voi, che sete cagion del mio cordoglio.</l>
+				</lg>
+				<lg>
+					<l xml:id="l4">Per voi sol, che mirate</l>
+					<l xml:id="l5">i’ son ferito da lo stral d’amore,</l>
+					<l xml:id="l6">E per voi se ne và veloce al core.</l>
+				</lg>
+				<lg>
+					<l xml:id="l7">Dunque voi nel mirare</l>
+					<l xml:id="l8">Siate più accorti, per che non conviene,</l>
+					<l xml:id="l9">Ch’io di vostro gioir porti le pene.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

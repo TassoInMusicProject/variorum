@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Questo tra gli altri fiori</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0408a</idno>
+			<idno type="label">Trm0408a (Basso)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0408a-Basso">
+					<title>Canzonette a tre voci</title>
+					<author role="composer">Bozi, Paolo</author>
+					<publisher>Amadino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1591">1591</date>
+					<idno type="RISM">B 4203</idno>
+					<biblScope unit="page">14</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Questo tra gli altri fiori</l>
+					<l xml:id="l2">Sanguigno si fu tinto</l>
+					<l xml:id="l3">Del bel sangue d’Adone o di Giacinto.</l>
+				</lg>
+				<lg>
+					<l xml:id="l4">O pure in lui converse</l>
+					<l xml:id="l5">Il suo l’Alato Iddio</l>
+					<l xml:id="l6">Quando un suo stral gli cadde e si ferio.</l>
+				</lg>
+				<lg>
+					<l xml:id="l7">Deh sarà mai ch’io versi</l>
+					<l xml:id="l8">Si fortunati humori</l>
+					<l xml:id="l9">Ch’ei si li cangi, e’l vostro seno infiori.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

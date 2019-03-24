@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Già fui caro agli occhi tuoi</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0353a</idno>
+			<idno type="label">Trm0353a (Basso)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0353a-Basso">
+					<title>Canzonette a tre, quattro e cinque voci. Libro terzo</title>
+					<author role="composer">Lambardi, Francesco</author>
+					<publisher>Vitale</publisher>
+					<pubPlace>Naples</pubPlace>
+					<date when="1616">1616</date>
+					<idno type="RISM">1616-15</idno>
+					<biblScope unit="page">4</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Già fui caro à gli occhi tuoi</l>
+					<l xml:id="l2">ò mio sole,</l>
+					<l xml:id="l3">Vissi lieto del tuo amore</l>
+					<l xml:id="l4">del mio ardore,</l>
+					<l xml:id="l5">Hor che più non m’ami</l>
+					<l xml:id="l6">com’esser pò che mai più viver brami.</l>
+				</lg>
+				<lg>
+					<l xml:id="l7">Tu pur vedi il dolor mio,</l>
+					<l xml:id="l8">O mia gioia</l>
+					<l xml:id="l9">Sai ch’io t’amo, ch’io t’adoro,</l>
+					<l xml:id="l10">Ch’io mi moro,</l>
+					<l xml:id="l11">E mi sei crudele,</l>
+					<l xml:id="l12">Quest’è mercè de l’amor mio fedele.</l>
+				</lg>
+				<lg>
+					<l xml:id="l13">Poiche godi del mio male,</l>
+					<l xml:id="l14">O mio bene,</l>
+					<l xml:id="l15">son contento di languire,</l>
+					<l xml:id="l16">Di morire,</l>
+					<l xml:id="l17">S’io vedrò, che poi</l>
+					<l xml:id="l18">Il mio morir sia caro à gli occhi tuoi.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

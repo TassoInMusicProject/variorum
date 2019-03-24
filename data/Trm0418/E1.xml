@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Ardi e gela a tua voglia</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">E1</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="E1">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Modena</settlement>
+						<repository>Biblioteca Estense Universitaria</repository>
+						<idno>It. 385</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 213</locus>
+							<p>codex containing copies of 322 lyric poems by Tasso, some with autograph annotations and corrections</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century (ca. 1584&#x2013;85?)</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">stampat. [sic!]</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Ardi e gela a tua voglia,</l>
+					<l xml:id="l2">Perfido, et inconstante,</l>
+					<l xml:id="l3">Hor nemico, hor Amante</l>
+					<l xml:id="l4">Che d’instabile ingegno</l>
+					<l xml:id="l5">Poco stimo l’amore, e men lo sdegno :</l>
+					<l xml:id="l6">e se l’amor fù vano,</l>
+					<l xml:id="l7">Van fia lo sdegno del tuo cor insano.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

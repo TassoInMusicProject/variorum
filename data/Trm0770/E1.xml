@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Né di feconda conca in ricco mare</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">E1</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="E1">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Modena</settlement>
+						<repository>Biblioteca Estense Universitaria</repository>
+						<idno>It. 385</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 21</locus>
+							<p>codex containing copies of 322 lyric poems by Tasso, some with autograph annotations and corrections</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century (ca. 1584&#x2013;85?)</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Celebra le Nozze della Principessa di Parma. </p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Né di conca feconda conca in ricco mare</l>
+					<l xml:id="l2">Perla uscì mai così pregiata, e bella,</l>
+					<l xml:id="l3">O ‘n si vago monil dona o Donzella</l>
+					<l xml:id="l4">Da poi l’uscì con l’altre elette, e care :</l>
+					<l xml:id="l5"><del>Quant’</del> Come hor costei con alta gloria appare</l>
+					<l xml:id="l6">De l‘aureo albergo, e nell’età novella</l>
+					<l xml:id="l7">Né gemma sol, ma luminosa stella :</l>
+					<l xml:id="l8">Sembra con l’altre meno ardenti, e <del>belle</del> chiare</l>
+					<l xml:id="l9">Quella ch’inanzi l’alba in orïente</l>
+					<l xml:id="l10">L’alme amorose a sospirar invita</l>
+					<l xml:id="l11">E riede poi con Himeneo la sera :</l>
+					<l xml:id="l12">Somiglia à punto in giovenile schiera,</l>
+					<l xml:id="l13"><del>pietosa</del> pretiosa, e mirabil margarita</l>
+					<l xml:id="l14">La fronte, e gli occhi candida, e lucente.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

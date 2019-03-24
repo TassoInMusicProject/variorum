@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Là dove sono i pargoletti Amori</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">E1</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="E1">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Modena</settlement>
+						<repository>Biblioteca Estense Universitaria</repository>
+						<idno>It. 385</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 293</locus>
+							<p>codex containing copies of 322 lyric poems by Tasso, some with autograph annotations and corrections</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century (ca. 1584&#x2013;85?)</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Là dove sono <del>tanti</del> i pargoletti Amori</l>
+					<l xml:id="l2">et altri ha teso l’arco,</l>
+					<l xml:id="l3"><del>altri il rallenta, et altri ‘l varco</del> Altri saetta al varco,</l>
+					<l xml:id="l4">Altri polisce le quadrella d’oro :</l>
+					<l xml:id="l5"><del>Una parria di loro</del> <del>Un parreste una</del> Voi pareste un di loro,</l>
+					<l xml:id="l6"><del>costei</del> scherzando in verde colle, o ’n riva ombrosa</l>
+					<l xml:id="l7">sia la turba vezzosa.</l>
+					<l xml:id="l8">e se voi non havete auree saette</l>
+					<l xml:id="l9">le dolci parolette</l>
+					<l xml:id="l10">e i dolci sguardi son facelle, e strali,</l>
+					<l xml:id="l11">e i bei pensieri in voi son piume, et ali.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

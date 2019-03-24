@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>La natura compose</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0407a</idno>
+			<idno type="label">Trm0407a (Tenore)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0407a-Tenore">
+					<title>Il primo libro de madrigali a cinque voci</title>
+					<author role="composer">Mel, Rinaldo del</author>
+					<publisher>Scotto</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1584">1584</date>
+					<idno type="RISM">M 2200</idno>
+					<biblScope unit="page">5</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">La Natura compose</l>
+					<l xml:id="l2">cotesto vago fiore</l>
+					<l xml:id="l3">O pur del Magisterio egli è d’amore</l>
+					<l xml:id="l4">Deh chi cosi vicine</l>
+					<l xml:id="l5">le pene ei dolci prem'in lui ripose</l>
+					<l xml:id="l6">e chi d’acute spine</l>
+					<l xml:id="l7">Cinse le belle foglie</l>
+					<l xml:id="l8">Onde s’incauta man tal'hor'il coglie</l>
+					<l xml:id="l9">punta in un punto Solo</l>
+					<l xml:id="l10">N'have allegrezza e duolo</l>
+					<l xml:id="l11">O fior maraviglioso ond’ancor dura</l>
+					<l xml:id="l12">frà l'amor lite incerta e la natura.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

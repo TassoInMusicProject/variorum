@@ -21,7 +21,6 @@
 					</msIdentifier>
 					<msContents>
 						<msItem>
-							<locus>f. 30v	</locus>
 							<p>codex containing 44 lyric poems of sacred inspiration by Tasso, possibly autograph</p>
 						</msItem>
 					</msContents>
@@ -41,27 +40,29 @@
 			</div>
 			<div>
 				<lg>
-					<l xml:id="l1">Dove rivolgi ò lusinghier fallace</l>
+				</lg>
+				<lg>
+					<l xml:id="l1">Dove rivolgi ò lusinghier fallace,</l>
 					<l xml:id="l2">Gli occhi bramosi e vaghi?</l>
-					<l xml:id="l3">Dove, ò come t’appaghi</l>
+					<l xml:id="l3">Dove, ò come t'appaghi</l>
 					<l xml:id="l4">Di quel, che picciol tempo alletta, e piace?</l>
 				</lg>
 				<lg>
-					<l xml:id="l5">Il Rè che fece il sole, e l’auree stelle</l>
-					<l xml:id="l6">Fisse in celeste giro</l>
-					<l xml:id="l7">Mi diletta, ov’io miro</l>
-					<l xml:id="l8">Opere di sua mano assai piú belle.</l>
+					<l xml:id="l5">Il Rè che fece il sole, e l'auree stelle</l>
+					<l xml:id="l6">Fisse in celeste giro,</l>
+					<l xml:id="l7">Mi diletta, ov'io miro</l>
+					<l xml:id="l8">Opere di sua mano assai più belle.</l>
 				</lg>
 				<lg>
 					<l xml:id="l9">O crudo inganno, ò fero ardore, ò gelo</l>
-					<l xml:id="l10">De gli infelici amanti,</l>
+					<l xml:id="l10">De gl'infelici amanti,</l>
 					<l xml:id="l11">Deh miriamo i sembianti</l>
 					<l xml:id="l12">Imaginati in terra, e vivi in cielo.</l>
 				</lg>
 				<lg>
-					<l xml:id="l13">Mentre in Croce il contemplo, il veggio esangue;</l>
+					<l xml:id="l13">Mentre in croce il contemplo, il veggio esangue:</l>
 					<l xml:id="l14">Ahi lagrime, ahi dolore,</l>
-					<l xml:id="l15">Oggi languisce, e more</l>
+					<l xml:id="l15">Hoggi languisce, e more</l>
 					<l xml:id="l16">La salute, la vita: ahi piaghe, ahi sangue.</l>
 				</lg>
 			</div>

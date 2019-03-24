@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Lunge da voi, ben mio</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0059e</idno>
+			<idno type="label">Trm0059e (Basso)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0059e-Basso">
+					<title>Canzonette a quattro voci con il basso continuo</title>
+					<author role="composer">Dering, Richard</author>
+					<publisher>Phalèse</publisher>
+					<pubPlace>Antwerp</pubPlace>
+					<date when="1620">1620</date>
+					<idno type="RISM">1620-16</idno>
+					<biblScope unit="page">8</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Longo da voi ben mio</l>
+					<l xml:id="l2">non ho vita ne core &amp; non son io</l>
+					<l xml:id="l3">Non son hoime quel ch’altro volta fui.</l>
+					<l xml:id="l4">[OMITTED]</l>
+					<l xml:id="l5">[OMITTED]</l>
+					<l xml:id="l6"><seg xml:id="l6v1">OMITTED]</l>
+					<l xml:id="l7">[OMITTED]</l>
+					<l xml:id="l8">[OMITTED]</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

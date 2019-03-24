@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>La natura compose</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">E1</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="E1">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Modena</settlement>
+						<repository>Biblioteca Estense Universitaria</repository>
+						<idno>It. 385</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 229</locus>
+							<p>codex containing copies of 322 lyric poems by Tasso, some with autograph annotations and corrections</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century (ca. 1584&#x2013;85?)</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">stampa.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">La natura compose</l>
+					<l xml:id="l2">quest’odorato fiore</l>
+					<l xml:id="l3">o pur bel magistero egli è d’Amore?</l>
+					<l xml:id="l4">Deh chi tanto vicine</l>
+					<l xml:id="l5">Le pene, e i dolci premi <del>i sui</del> in lui ripose</l>
+					<l xml:id="l6">e chi d’acute spine</l>
+					<l xml:id="l7">Cinse le belle foglie</l>
+					<l xml:id="l8">onde s’incauta man talhor il coglie,</l>
+					<l xml:id="l9">punta, in un punto solo</l>
+					<l xml:id="l10"><del>N’have</del> Sente allegrezza e duolo?</l>
+					<l xml:id="l11">o fior maraviglioso ond’ancor dura</l>
+					<l xml:id="l12">Lite incerta d’Amore, e di Natura!</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

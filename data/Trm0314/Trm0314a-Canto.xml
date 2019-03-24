@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Perché di seno in seno</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0314a</idno>
+			<idno type="label">Trm0314a (Canto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0314a-Canto">
+					<title>Il secondo libro de madrigali a cinque voci</title>
+					<author role="composer">Dalla Casa, Girolamo</author>
+					<publisher>Amadino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1590">1590</date>
+					<idno type="RISM">D 806</idno>
+					<biblScope unit="page">4</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Perche di sen'in seno</l>
+					<l xml:id="l2">Cosi trasporti Amore</l>
+					<l xml:id="l3">Questo vermiglio lieto e vago fiore</l>
+					<l xml:id="l4">Ben dei saper che l’uno</l>
+					<l xml:id="l5">Tutto d’honesto foco</l>
+					<l xml:id="l6">E pien di casto gielo è l’altro loco</l>
+					<l xml:id="l7">Ma s’egl'è dann'alcuno</l>
+					<l xml:id="l8">Non ha tra fiamma e ghiaccio</l>
+					<l xml:id="l9">Perche tra l’un'e l’altro io mi disfaccio.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

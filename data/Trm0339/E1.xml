@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Dolcissimi legami</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">E1</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="E1">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Modena</settlement>
+						<repository>Biblioteca Estense Universitaria</repository>
+						<idno>It. 385</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 227</locus>
+							<p>codex containing copies of 322 lyric poems by Tasso, some with autograph annotations and corrections</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century (ca. 1584&#x2013;85?)</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">stampa</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Dolcissimi legami</l>
+					<l xml:id="l2">di parole amorose,</l>
+					<l xml:id="l3">Chi mi legò da scherno e non mi scioglie?</l>
+					<l xml:id="l4">Così egli dunque scherza, e così toglie,</l>
+					<l xml:id="l5">Così l’alme legate</l>
+					<l xml:id="l6">sono ne le catene insidiose,</l>
+					<l xml:id="l7">Almen, chi sì m’allaccia,</l>
+					<l xml:id="l8">mi leghi <del>leghi</del> almen fra quelle dolci braccia.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

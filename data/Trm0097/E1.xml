@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>A chi creder degg'io</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">E1</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="E1">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Modena</settlement>
+						<repository>Biblioteca Estense Universitaria</repository>
+						<idno>It. 385</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 207</locus>
+							<p>codex containing copies of 322 lyric poems by Tasso, some with autograph annotations and corrections</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century (ca. 1584&#x2013;85?)</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Stampa</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">A chi creder deggio io</l>
+					<l xml:id="l2">se vani sono i detti -</l>
+					<l xml:id="l3">E ‘l vento se ne porta le parole;</l>
+					<l xml:id="l4">Non à le voci sole</l>
+					<l xml:id="l5">Che scompagnate sian da veri effetti</l>
+					<l xml:id="l6">Amor crederò mai,</l>
+					<l xml:id="l7">Ma tanto hor temo, quanto già sperai</l>
+					<l xml:id="l8">Amor se vuoi ch’io creda</l>
+					<l xml:id="l9"><del>Convien che ‘l cor altrui ne’ fatti io veda</del> <del>Convien, che altrui cor à fatti veda</del> Convien che l’altrui core aspro io veda :</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

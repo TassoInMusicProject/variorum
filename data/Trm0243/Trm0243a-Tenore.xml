@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Fuggìa di poggio in poggio</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0243a</idno>
+			<idno type="label">Trm0243a (Tenore)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0243a-Tenore">
+					<title>Il secondo libro de madrigali a cinque voci</title>
+					<author role="composer">Eremita, Giulio</author>
+					<publisher>Amadino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1589">1589</date>
+					<idno type="RISM">E 745</idno>
+					<biblScope unit="page">14</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Fuggia di poggio in poggio</l>
+					<l xml:id="l2">La mia dolce nemica</l>
+					<l xml:id="l3">Et ella mi fuggia bella e pudica</l>
+					<l xml:id="l4">Al fin mi giunse tra l’herbett'e l’acque</l>
+					<l xml:id="l5">E mi trafisse il cor e non mi spiacque</l>
+					<l xml:id="l6">Perche dir non saprei</l>
+					<l xml:id="l7">S’hebbi vita piu dolce, o morte in lei</l>
+					<l xml:id="l8">Ma vita se parlò morte se tacque.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

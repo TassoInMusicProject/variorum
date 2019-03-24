@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Ne i vostri dolci baci</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0305d</idno>
+			<idno type="label">Trm0305d (Tenore)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0305d-Tenore">
+					<title>Il primo libro de madrigali a cinque voci</title>
+					<author role="composer">Nanterni, Orazio</author>
+					<publisher>Scotto</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1585">1585</date>
+					<idno type="RISM">S 1135</idno>
+					<biblScope unit="page">7</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Di Horatio Nanterni</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Nei vostri dolci baci</l>
+					<l xml:id="l2">de l’ Api è il dolce mele</l>
+					<l xml:id="l3">e v’è’l morso de l’ Api anco crudele</l>
+					<l xml:id="l4">Dunqu’adolcit’e punto</l>
+					<l xml:id="l5">da voi part’in un punto.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

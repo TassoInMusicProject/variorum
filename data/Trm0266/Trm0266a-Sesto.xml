@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Dolcissimi colori</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0266a</idno>
+			<idno type="label">Trm0266a (Sesto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0266a-Sesto">
+					<title>Il primo libro de madrigali a sei voci</title>
+					<author role="composer">Virchi, Paolo</author>
+					<publisher>Amadino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1591">1591</date>
+					<idno type="RISM">V 2107</idno>
+					<biblScope unit="page"></biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">@PAGE:	19</l>
+				</lg>
+				<lg>
+					<l xml:id="l2">Dolcissimi colori</l>
+					<l xml:id="l3">Voi vi mutate &amp; io</l>
+					<l xml:id="l4">Color muto con voi [TACET]</l>
+					<l xml:id="l5">Sempre vorrei mirarvi e se fiorire</l>
+					<l xml:id="l6">Un bel purpureo veggio</l>
+					<l xml:id="l7">Et un vago candor sempre vagheggio</l>
+					<l xml:id="l8">Sempre soglio gioire</l>
+					<l xml:id="l9">E perche vari segn'al mio pensiero</l>
+					<l xml:id="l10">E costante l’arciero.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>La bella pargoletta</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">E1</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="E1">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Modena</settlement>
+						<repository>Biblioteca Estense Universitaria</repository>
+						<idno>It. 385</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 216</locus>
+							<p>codex containing copies of 322 lyric poems by Tasso, some with autograph annotations and corrections</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century (ca. 1584&#x2013;85?)</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">stampata.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">La bella pargoletta</l>
+					<l xml:id="l2">Che non conosce Amore</l>
+					<l xml:id="l3">Ne pur noto hà per fama, il suo valore,</l>
+					<l xml:id="l4">Co' begli occhi saetta</l>
+					<l xml:id="l5">E col soave riso,</l>
+					<l xml:id="l6">Ne s’accorge ch’ancide il suo bel riso :</l>
+					<l xml:id="l7">qual colpa ha del morire</l>
+					<l xml:id="l8">Di chi la vede, e sente</l>
+					<l xml:id="l9">Se non sà di ferrire :</l>
+					<l xml:id="l10">O beltà micidiale, et innocente</l>
+					<l xml:id="l11">Tempo è ben che ti mostri</l>
+					<l xml:id="l12">Ne le tue piaghe <del>homai</del> Amor gl’ <del>affanni</del> affanni nostri.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

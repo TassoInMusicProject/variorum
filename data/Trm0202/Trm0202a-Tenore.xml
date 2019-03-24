@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Picciola verga e bella</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0202a</idno>
+			<idno type="label">Trm0202a (Tenore)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0202a-Tenore">
+					<title>Madrigali. Il terzo libro a sei voci</title>
+					<author role="composer">Agostini, Lodovico</author>
+					<publisher>Rossi &amp; Tottorino</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1582">1582</date>
+					<idno type="RISM">A 408</idno>
+					<biblScope unit="page">21</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Sopra il Lauro Secco.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Picciola verga, e bella,</l>
+					<l xml:id="l2">D'Alloro trionfale,</l>
+					<l xml:id="l3">Cresci à la pianta, onde sei svelta eguale.</l>
+					<l xml:id="l4">Cresci felice, e s'ella</l>
+					<l xml:id="l5">Secca non si rinverde,</l>
+					<l xml:id="l6">Tù mantien vivo frondeggiando il verde.</l>
+					<l xml:id="l7">Fra tua chioma novella</l>
+					<l xml:id="l8">Scherzin con dolci errori,</l>
+					<l xml:id="l9">L'aure mai sempre ei pargoletti amori.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Ferro in ferir pietoso</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm1497a</idno>
+			<idno type="label">Trm1497a (Basso)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm1497a-Basso">
+					<title>Il secondo libro de madrigali a cinque voci</title>
+					<author role="composer">Cirullo, Giovanni Antonio</author>
+					<publisher>G. Vincenzi</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1598">1598</date>
+					<idno type="RISM">Unknown</idno>
+					<biblScope unit="page">18</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Ferro in ferir pietoso</l>
+					<l xml:id="l2">[TACET]</l>
+					<l xml:id="l3">Ben fusti nel ferir emul d’amore</l>
+					<l xml:id="l4">Concorso glorioso</l>
+					<l xml:id="l5">Che concordi &amp; unite</l>
+					<l xml:id="l6">Tu le morti tenesti egli le vite</l>
+					<l xml:id="l7">Anzi fur tue le palme</l>
+					<l xml:id="l8">Ch’amor'i corpi unì tu unisti l’alme.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

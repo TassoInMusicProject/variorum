@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Io son la Primavera</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0361c</idno>
+			<idno type="label">Trm0361c (Canto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0361c-Canto">
+					<title>Scherzi amorosi. Canzonette ad una voce sola. Libro secondo</title>
+					<author role="composer">Stefani, Giovanni ?</author>
+					<publisher>G. Vincenzi</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1620">1620</date>
+					<idno type="RISM"></idno>
+					<biblScope unit="page">24</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Sopra l’istessa Aria. [see Critical Report]</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Io son la Primavera,</l>
+					<l xml:id="l2">Che lieta, ò vaghe Donne à voi ritorno</l>
+					<l xml:id="l3">Col mio bel manto adorno</l>
+					<l xml:id="l4">Per vestir le campagne d’herbe, e fiori,</l>
+					<l xml:id="l5">E svegliarvi nel cor novelli amori.</l>
+				</lg>
+				<lg>
+					<l xml:id="l6">A me Zeffiro spira</l>
+					<l xml:id="l7">A me ride la terra, e’l ciel sereno</l>
+					<l xml:id="l8">Volan di seno, in seno</l>
+					<l xml:id="l9">Amoretti vezzosi a mille à mille</l>
+					<l xml:id="l10">Chi armato di stral, chi di faville.</l>
+				</lg>
+				<lg>
+					<l xml:id="l11">E voi ancor gioite,</l>
+					<l xml:id="l12">Godete al mio venir frà risi, e canti:</l>
+					<l xml:id="l13">Amate i vostri Amanti.</l>
+					<l xml:id="l14">Hor ch’il bel viso amato April v’infiora</l>
+					<l xml:id="l15">Primavera per voi ogn’hor non torna.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

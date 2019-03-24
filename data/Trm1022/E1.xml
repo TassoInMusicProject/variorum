@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Voi sete bella, ma fugage e presta</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">E1</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="E1">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Modena</settlement>
+						<repository>Biblioteca Estense Universitaria</repository>
+						<idno>It. 385</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 294-295</locus>
+							<p>codex containing copies of 322 lyric poems by Tasso, some with autograph annotations and corrections</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century (ca. 1584&#x2013;85?)</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">stampa. [The four stanzas are laid out as four separate, consecutive poems]</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Voi sete bella, ma fugace, e presta,</l>
+					<l xml:id="l2">come cervetta sole</l>
+					<l xml:id="l3">che fugge per le selve oscure, e sole</l>
+					<l xml:id="l4">e cerca fiume, o rio,</l>
+					<l xml:id="l5">Talche vi seguo indarno e vi desio.</l>
+				</lg>
+				<lg>
+					<l xml:id="l6">Voi sete bella, ma sì dura e fredda</l>
+					<l xml:id="l7">come gelata fonte</l>
+					<l xml:id="l8">In horrida alpe, o bel christallo in monte •</l>
+					<l xml:id="l9">Né vi <del>distempra</del> riscalda il foco</l>
+					<l xml:id="l10"><del>e son per lungo sospirar già roco</del> De’ miei sospiri, e sono acceso e roco.</l>
+				</lg>
+				<lg>
+					<l xml:id="l11">Voi sete bella, ma fallace, e ria</l>
+					<l xml:id="l12">Come scoglio fra l’onde</l>
+					<l xml:id="l13"><del>O molle visco</del> <del>lento</del> O lento visco fra le verdi <del>verdi</del> fronde,</l>
+					<l xml:id="l14"><del>O fra l’herbette</del> O ’n mezzo l’herba il laccio</l>
+					<l xml:id="l15">Soave mio ritegno, e caro impaccio.</l>
+				</lg>
+				<lg>
+					<l xml:id="l16">Voi sete bella, ma sdegnosa insieme,</l>
+					<l xml:id="l17">Come Dafne e Siringa</l>
+					<l xml:id="l18">o s’altra ninfa in bosco è più solinga :</l>
+					<l xml:id="l19">o <del>pur quella</del> come lei ch’Orfeo</l>
+					<l xml:id="l20"><del>Seguì</del> Fuggì sotterra, o sotto ‘l mar Alfeo :</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

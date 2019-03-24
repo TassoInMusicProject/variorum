@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Dolce mia fiamma, dolce</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0417d</idno>
+			<idno type="label">Trm0417d (Quinto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0417d-Quinto">
+					<title>Madrigali a cinque voci, con il basso continuo, libro primo</title>
+					<author role="composer">Macigni, Giovanni</author>
+					<publisher>Magni</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1617">1617</date>
+					<idno type="RISM">M 54</idno>
+					<biblScope unit="page">11 11</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">[illegible]</l>
+					<l xml:id="l2">[illegible]</l>
+					<l xml:id="l3">[illegible]</l>
+					<l xml:id="l4">[illegible]</l>
+					<l xml:id="l5">E mentre a mille a mille</l>
+					<l xml:id="l6">Passan in questo core</l>
+					<l xml:id="l7">Dico S’egli si more</l>
+					<l xml:id="l8">Il suo morir non prezza,</l>
+					<l xml:id="l9">Ne morra per dolor [illegible]</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

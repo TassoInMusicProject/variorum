@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>O vaga tortorella</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0399b</idno>
+			<idno type="label">Trm0399b (Basso Continuo)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0399b-Basso Continuo">
+					<title>Madrigaletti a una, due, tre e quatro voci, con alcune villanelle. Libro quinto. Opera nona</title>
+					<author role="composer">Marini, Biagio</author>
+					<publisher>Magni</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1635">1635</date>
+					<idno type="RISM">M 664</idno>
+					<biblScope unit="page">24</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Per cantare nella Chitariglia Basso solo</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">O vagha tortorella</l>
+					<l xml:id="l2">tu la tua compagnia</l>
+					<l xml:id="l3">&amp; io piango colei che non fù mia</l>
+					<l xml:id="l4">misera vedovella</l>
+					<l xml:id="l5">tù sovra il nudo ramo</l>
+					<l xml:id="l6">a pié del secco tronco io la ricchiamo</l>
+					<l xml:id="l7">ma l’aura solo e’l vento</l>
+					<l xml:id="l8">risponde mormorando al mio lamento</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

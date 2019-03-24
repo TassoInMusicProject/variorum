@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Non è questa la mano</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">E1</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="E1">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Modena</settlement>
+						<repository>Biblioteca Estense Universitaria</repository>
+						<idno>It. 385</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 202</locus>
+							<p>codex containing copies of 322 lyric poems by Tasso, some with autograph annotations and corrections</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century (ca. 1584&#x2013;85?)</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Stampata</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Non è questa la mano</l>
+					<l xml:id="l2">Che tante, e si mortali</l>
+					<l xml:id="l3">Accendi nel mio cor facelle, e strali?</l>
+					<l xml:id="l4">Ecco pur si ritrova</l>
+					<l xml:id="l5">Hor fra le mie ristretta:</l>
+					<l xml:id="l6">Ne forza, od arte per fuggir le giova</l>
+					<l xml:id="l7">Ne tien face, o saetta,</l>
+					<l xml:id="l8">che da me la difendia:</l>
+					<l xml:id="l9">giusto, è ben ch’io ne prenda</l>
+					<l xml:id="l10">Amor qualche vendetta,</l>
+					<l xml:id="l11">e se piaghe mi diè baci le renda</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

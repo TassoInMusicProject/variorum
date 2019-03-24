@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Messaggera de l'alba</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0139a</idno>
+			<idno type="label">Trm0139a (Tenore)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0139a-Tenore">
+					<title>Il secondo libro delle toscanelle a quattro voci</title>
+					<author role="composer">Villani, Gabriele</author>
+					<publisher>Gardano</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1591">1591</date>
+					<idno type="RISM">V 1550</idno>
+					<biblScope unit="page">23</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Messaggiera de l’Alba</l>
+					<l xml:id="l2">E quest’aura terrena</l>
+					<l xml:id="l3">E torbida tal hor tal hor serena.</l>
+				</lg>
+				<lg>
+					<l xml:id="l4">L’aura mia par celeste</l>
+					<l xml:id="l5">Cosi bella io la veggio</l>
+					<l xml:id="l6">Dopo l’aurora in fresco e verde seggio.</l>
+				</lg>
+				<lg>
+					<l xml:id="l7">Di fior l’una si veste</l>
+					<l xml:id="l8">Del dilettoso Aprile</l>
+					<l xml:id="l9">L’altra fiorir fà l’amoroso stile.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

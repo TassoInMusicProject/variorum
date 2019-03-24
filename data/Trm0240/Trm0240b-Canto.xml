@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Gli augelletti diversi</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0240b</idno>
+			<idno type="label">Trm0240b (Canto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0240b-Canto">
+					<title>Il secondo libro de madrigali a sei voci</title>
+					<author role="composer">Massaino, Tiburtio</author>
+					<publisher>G. Vincenzi</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1604">1604</date>
+					<idno type="RISM">M 1292</idno>
+					<biblScope unit="page">19</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Gl'augelletti diversi</l>
+					<l xml:id="l2">Al tuo venir Licori</l>
+					<l xml:id="l3">Fra bei Mirti cantaro e verdi Allori</l>
+					<l xml:id="l4">Soavemente amorosetti versi</l>
+					<l xml:id="l5">Da intenerir i cori,</l>
+					<l xml:id="l6">[TACET]</l>
+					<l xml:id="l7">Felice chi gl'impara</l>
+					<l xml:id="l8">E la sua voce al tuo nome rischiara</l>
+					<l xml:id="l9">Felici quei boschetti</l>
+					<l xml:id="l10">Ch’insegni risonargli e quei paggetti.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

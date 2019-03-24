@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Secco è l'arbor gentile</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">E1</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="E1">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Modena</settlement>
+						<repository>Biblioteca Estense Universitaria</repository>
+						<idno>It. 385</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 224</locus>
+							<p>codex containing copies of 322 lyric poems by Tasso, some with autograph annotations and corrections</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century (ca. 1584&#x2013;85?)</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">stampa.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Secco è l’arbor gentile</l>
+					<l xml:id="l2">che mai le fronde, e ‘l verde,</l>
+					<l xml:id="l3">o per gielo, o per fulmine non perde</l>
+					<l xml:id="l4">o mutata la legge</l>
+					<l xml:id="l5">De la Natura, e ‘l Sole</l>
+					<l xml:id="l6">Men po’ di quel, che sole!</l>
+					<l xml:id="l7">o ‘l sol le stelle <del>vegge</del> Amore, e ‘l mondo regge!</l>
+					<l xml:id="l8">e col piombo, e con l’oro</l>
+					<l xml:id="l9">Miracoli rinova,</l>
+					<l xml:id="l10">e fa vendetta nova</l>
+					<l xml:id="l11">D'antico oltraggio, ne l’amato alloro</l>
+					<l xml:id="l12">Ma se nel lieto aprile</l>
+					<l xml:id="l13">Rinverdir al mio crin non dee corona,</l>
+					<l xml:id="l14">Secchesi ancor Permesso in Helicona :</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

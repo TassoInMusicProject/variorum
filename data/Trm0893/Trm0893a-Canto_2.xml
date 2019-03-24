@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Ben può ritrar le tue fattezze conte</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0893a</idno>
+			<idno type="label">Trm0893a (Canto_2)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0893a-Canto_2">
+					<title>Il primo libro delle villanelle a tre voci</title>
+					<author role="composer">Bonelli, Aurelio</author>
+					<publisher>Gardano</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1596">1596</date>
+					<idno type="RISM">B 3456</idno>
+					<biblScope unit="page">16</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Aria per Sonetti. Alla S. Orsina Volta, Campeggi.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Ben puo ritrar le sue fatezze conte</l>
+					<l xml:id="l2">Lucido spegli’ò piu tranquill’humore</l>
+					<l xml:id="l3">Ma non quella beltà non quel valore</l>
+					<l xml:id="l4">Che suol far alla mort’oltragg’&amp; onte.</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Perche degno non è cristallo ò fonte</l>
+					<l xml:id="l6">D’immortal forma, ò di celeste honore.</l>
+					<l xml:id="l7">Ma specchio sol di eterno alto splendore,</l>
+					<l xml:id="l8">Ove angelico spirto alzi la fronte.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">A sù la tua virtut’&amp; la tua luce</l>
+					<l xml:id="l10">Degn’ è sol fiammeggiar e in si bel viso</l>
+					<l xml:id="l11">A pen’un raggio qui s’adombr’&amp; scerne.</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">Che mentre à gl’occhi nostri indi traluce,</l>
+					<l xml:id="l13">Quasi vivace sol di Paradiso</l>
+					<l xml:id="l14">Tenebre apporta a i mortai lumi eterne.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

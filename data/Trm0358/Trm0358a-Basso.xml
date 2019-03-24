@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Amarilli, s'io te miro</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0358a</idno>
+			<idno type="label">Trm0358a (Basso)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0358a-Basso">
+					<title>Canzonette a tre, quattro e cinque voci. Libro terzo</title>
+					<author role="composer">Lambardi, Francesco</author>
+					<publisher>Vitale</publisher>
+					<pubPlace>Naples</pubPlace>
+					<date when="1616">1616</date>
+					<idno type="RISM">1616-15</idno>
+					<biblScope unit="page">8</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">☼ [See Critical Report]</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Amarilli s’io ti miro,</l>
+					<l xml:id="l2">miro il sol de gli occhi miei,</l>
+					<l xml:id="l3">Tanto bella, e vaga sei</l>
+					<l xml:id="l4">ch’io per altra non sospiro.</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Se tu ridi il dolce riso</l>
+					<l xml:id="l6">M’apre il ciel di Primavera,</l>
+					<l xml:id="l7">O sei cruda, o lusinghiera,</l>
+					<l xml:id="l8">Sempre hò innanzi il tuo bel viso.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Se tu parli, &amp; io ti sento,</l>
+					<l xml:id="l10">Sento un’aura in mezzo Aprile,</l>
+					<l xml:id="l11">Sì soave, e sì gentile,</l>
+					<l xml:id="l12">Che fa dolce il mio tormento.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

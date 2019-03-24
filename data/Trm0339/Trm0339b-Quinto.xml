@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Dolcissimi legami</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0339b</idno>
+			<idno type="label">Trm0339b (Quinto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0339b-Quinto">
+					<title>Il secondo libro de madrigali a cinque voci</title>
+					<author role="composer">Giovannelli, Ruggiero</author>
+					<publisher>Gardano</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1593">1593</date>
+					<idno type="RISM">G 2479</idno>
+					<biblScope unit="page">7</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Dolcissimo legame</l>
+					<l xml:id="l2">Di parole amorose</l>
+					<l xml:id="l3">Che mi legò da scherz'e cosi scioglie</l>
+					<l xml:id="l4">Cosi ei dunque scherza e cosi coglie</l>
+					<l xml:id="l5">Cosi l'alme legate</l>
+					<l xml:id="l6">Sono nelle catene insidiose</l>
+					<l xml:id="l7">Almen chi si m'allaccia</l>
+					<l xml:id="l8">Mi leghi almen fra quelle dolci braccia.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Fuggìa di poggio in poggio</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">E1</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="E1">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Modena</settlement>
+						<repository>Biblioteca Estense Universitaria</repository>
+						<idno>It. 385</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 279</locus>
+							<p>codex containing copies of 322 lyric poems by Tasso, some with autograph annotations and corrections</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century (ca. 1584&#x2013;85?)</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">stampa</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Fuggia di poggio in poggio</l>
+					<l xml:id="l2">La mia dolce nemica</l>
+					<l xml:id="l3">et essa mi seguiva bella, e pudica.</l>
+					<l xml:id="l4">Al fin mi giunse tra l’herbette, e l’acque :</l>
+					<l xml:id="l5">emi trafisse il core, e no mi spiacque,</l>
+					<l xml:id="l6">Perché dir no saprei</l>
+					<l xml:id="l7">S’hebbe vita più dolce, o morte in lei;</l>
+					<l xml:id="l8">Ma vita se parlò, morte si tacque.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

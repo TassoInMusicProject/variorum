@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Mentre i dipinti augelli</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0241a</idno>
+			<idno type="label">Trm0241a (Tenore)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0241a-Tenore">
+					<title>Il primo libro de madrigali a cinque voci</title>
+					<author role="composer">Nielsen, Hans</author>
+					<publisher>Gardano</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1606">1606</date>
+					<idno type="RISM">N 687</idno>
+					<biblScope unit="page">15</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Mentre i dipinti augelli</l>
+					<l xml:id="l2">Cara Licori mia</l>
+					<l xml:id="l3">Fra le superbe piant'e gl'arbuscelli</l>
+					<l xml:id="l4">Facean dolc'armonia</l>
+					<l xml:id="l5">Et hora questi hor quelli</l>
+					<l xml:id="l6">Alternavan à prova i vaghi accenti</l>
+					<l xml:id="l7">Diss’io pien di stupore</l>
+					<l xml:id="l8">Questa è la scola ov’è maestro amore</l>
+					<l xml:id="l9">Deh perche non apprendo i bei lamenti</l>
+					<l xml:id="l10">Ne miei dolci tormenti</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

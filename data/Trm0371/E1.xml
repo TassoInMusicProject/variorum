@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Tre son le Grazie ancelle</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">E1</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="E1">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Modena</settlement>
+						<repository>Biblioteca Estense Universitaria</repository>
+						<idno>It. 385</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 209-210</locus>
+							<p>codex containing copies of 322 lyric poems by Tasso, some with autograph annotations and corrections</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century (ca. 1584&#x2013;85?)</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Stampat [sic!].</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Tre son le grazie Ancelle</l>
+					<l xml:id="l2">Se non è falso il grido</l>
+					<l xml:id="l3">Che son intorno a l’alma dea di Gnido</l>
+					<l xml:id="l4">Tu che simigli a lei</l>
+					<l xml:id="l5">Se non quanto honesta ti fa più cara,</l>
+					<l xml:id="l6">N'hai quattro, e via più belle</l>
+				</lg>
+				<lg>
+					<l xml:id="l7">Concedi dunque l’una à <del>desir</del> preghi miei</l>
+					<l xml:id="l8">e donna a divi d’agguagliarti impara</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

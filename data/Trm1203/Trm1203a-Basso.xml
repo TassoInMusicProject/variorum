@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Qual cavalier ardito</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm1203a</idno>
+			<idno type="label">Trm1203a (Basso)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm1203a-Basso">
+					<title>Il primo libro de madrigali a cinque voci</title>
+					<author role="composer">Gherardini, Arcangelo</author>
+					<publisher>Baldini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1585">1585</date>
+					<idno type="RISM">1585-24</idno>
+					<biblScope unit="page">15</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Quasi Guerrier'ardito,</l>
+					<l xml:id="l2">ch'alle famose prove</l>
+					<l xml:id="l3">Il canoro metallo [ILLEGIBLE]ve</l>
+					<l xml:id="l4">Tal zanzaretta fiera</l>
+					<l xml:id="l5">sussurr'intorno [ILLEGIBLE]</l>
+					<l xml:id="l6">[TACET] la bianca gola:</l>
+					<l xml:id="l7">O provida Guerriera</l>
+					<l xml:id="l8">a cui natur'aggiunge</l>
+					<l xml:id="l9">la tromba [TACET] ond’ella suon'e punge.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

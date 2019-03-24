@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Mentre nubi di sdegno</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">E1</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="E1">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Modena</settlement>
+						<repository>Biblioteca Estense Universitaria</repository>
+						<idno>It. 385</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 205</locus>
+							<p>codex containing copies of 322 lyric poems by Tasso, some with autograph annotations and corrections</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century (ca. 1584&#x2013;85?)</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Stampato.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Mentre nubi di sdegno</l>
+					<l xml:id="l2">fra nostri occhi, e ‘l mio core</l>
+					<l xml:id="l3">Fur interposte, egli sofri l’ardore,</l>
+					<l xml:id="l4">Hor che chiaro si gira</l>
+					<l xml:id="l5">Il sol di que’ be’ lumi,</l>
+					<l xml:id="l6"><del>Tant’è</del> avien che si consumi,</l>
+					<l xml:id="l7">L’anima esposta, a sì gran foco ignuda</l>
+					<l xml:id="l8">Poi che dunque pò l’ira</l>
+					<l xml:id="l9">Temprar si ardente face,</l>
+					<l xml:id="l10">Poi che pietà mi sface</l>
+					<l xml:id="l11">siatemi prego per pietà più cruda.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

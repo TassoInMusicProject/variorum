@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Tra mille fior già colti in dolce speco</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">E1</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="E1">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Modena</settlement>
+						<repository>Biblioteca Estense Universitaria</repository>
+						<idno>It. 385</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 227</locus>
+							<p>codex containing copies of 322 lyric poems by Tasso, some with autograph annotations and corrections</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century (ca. 1584&#x2013;85?)</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">stampa</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Tra mille fior già colti in dolce speco</l>
+					<l xml:id="l2">quasi rosa non colta,</l>
+					<l xml:id="l3">Non incolta ma colta</l>
+					<l xml:id="l4">Era <del>Nerina</del> Amarilli, e Galatea con seco.</l>
+					<l xml:id="l5">Par come fior avolto in verdi spoglie</l>
+					<l xml:id="l6">Ma chi le colse Amor quando le coglie?</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

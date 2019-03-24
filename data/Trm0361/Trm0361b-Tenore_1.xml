@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Io son la Primavera</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0361b</idno>
+			<idno type="label">Trm0361b (Tenore_1)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0361b-Tenore_1">
+					<title>Armonica recreatione. Villanelli a tre voci con il basso continuo</title>
+					<author role="composer">Hodemont, Leonard Collet de</author>
+					<publisher>Phalèse</publisher>
+					<pubPlace>Antwerp</pubPlace>
+					<date when="1625">1625</date>
+					<idno type="RISM">H 5668</idno>
+					<biblScope unit="page">5</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Io son la primavera,</l>
+					<l xml:id="l2">che lieta vaghe donne à voi ritorno,</l>
+					<l xml:id="l3">colmo bel manto adorno,</l>
+					<l xml:id="l4">Per vostro le campagne e l’herbe fiori,</l>
+					<l xml:id="l5">e svegliarvi nel cor, non nei amori.</l>
+				</lg>
+				<lg>
+					<l xml:id="l6">A me zephiro spira,</l>
+					<l xml:id="l7">á me ride la terra el ciel sereno</l>
+					<l xml:id="l8">vola di seno in seno,</l>
+					<l xml:id="l9">Gli amoretti vezzosi à mille anime,</l>
+					<l xml:id="l10">chi si amato distral, chi di faville.</l>
+				</lg>
+				<lg>
+					<l xml:id="l11">Voi ancor che gioite,</l>
+					<l xml:id="l12">godet’al gioir mio, fra gioie e canti,</l>
+					<l xml:id="l13">amate i vostr’amanti,</l>
+					<l xml:id="l14">Hor chel bel vostro viso April v’in fiora,</l>
+					<l xml:id="l15">primavera per voi non torn’ogn’hora.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

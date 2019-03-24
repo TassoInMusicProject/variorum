@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Vorrei lagnarmi a pieno</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0165d</idno>
+			<idno type="label">Trm0165d (Canto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0165d-Canto">
+					<title>Canzonette a tre voci</title>
+					<author role="composer">Bozi, Paolo</author>
+					<publisher>Amadino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1591">1591</date>
+					<idno type="RISM">B 4203</idno>
+					<biblScope unit="page">11</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Vorrei lagnarmi a pieno</l>
+					<l xml:id="l2">Sfogando il duol ch’io sento</l>
+					<l xml:id="l3">Ma vostro sdegno d’irritar pavento</l>
+				</lg>
+				<lg>
+					<l xml:id="l4">Dunque il meglio è ch’io taccia</l>
+					<l xml:id="l5">E quel dolor sopporte</l>
+					<l xml:id="l6">Ch’ove s’accresca fia dolor di morte.</l>
+				</lg>
+				<lg>
+					<l xml:id="l7">Ma se fia che vi piaccia</l>
+					<l xml:id="l8">Il mio silentio almeno</l>
+					<l xml:id="l9">Mi mostri un balenar d’occhi sereno.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

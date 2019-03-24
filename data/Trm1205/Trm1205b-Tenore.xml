@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Tu moristi in quel seno</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm1205b</idno>
+			<idno type="label">Trm1205b (Tenore)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm1205b-Tenore">
+					<title>Il primo libro de madrigali a cinque voci</title>
+					<author role="composer">Gherardini, Arcangelo</author>
+					<publisher>Baldini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1585">1585</date>
+					<idno type="RISM">1585-24</idno>
+					<biblScope unit="page">16</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Seconda parte.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Tu moristi in quel seno</l>
+					<l xml:id="l2">piccioletta zanzara,</l>
+					<l xml:id="l3">Ov'è sì gran fortun'il venir meno,</l>
+					<l xml:id="l4">Qual più sublime stato,</l>
+					<l xml:id="l5">ò qual sorte più rara</l>
+					<l xml:id="l6">[TACET] da benigno fato</l>
+					<l xml:id="l7">Felice te, Felice</l>
+					<l xml:id="l8">Più che nel rogo oriental Fenice.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

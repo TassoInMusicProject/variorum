@@ -1,4 +1,5 @@
 [
+"E1.xml",
 "S8.xml",
 "S9.xml",
 "S11.xml",
@@ -38,5 +39,7 @@
 "Trm0560o-Alto.xml",
 "Trm0560o-Tenore.xml",
 "Trm0560o-Basso.xml",
-"Trm0560o-Quinto.xml"
+"Trm0560o-Quinto.xml",
+"Trm0560p-Alto.xml",
+"Trm0560p-Basso.xml"
 ]

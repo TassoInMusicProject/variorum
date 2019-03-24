@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Mentr'io mirava fiso</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">E1</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="E1">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Modena</settlement>
+						<repository>Biblioteca Estense Universitaria</repository>
+						<idno>It. 385</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 217</locus>
+							<p>codex containing copies of 322 lyric poems by Tasso, some with autograph annotations and corrections</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century (ca. 1584&#x2013;85?)</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">stampa.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Mentr’io mirava fiso</l>
+					<l xml:id="l2">De la mia donna gli occhi ardenti e belli,</l>
+					<l xml:id="l3">Due vaghi spiritelli</l>
+					<l xml:id="l4">fiammeggiando n’usciro all’improviso:</l>
+					<l xml:id="l5">e dopo mille scherzi, e mille giri,</l>
+					<l xml:id="l6">Mille fughe d’intorno</l>
+					<l xml:id="l7">E mille aguati dentro al seno adorno,</l>
+					<l xml:id="l8">Mi trassero del cor mille sospiri,</l>
+					<l xml:id="l9">ond’io con dolci et amorosi rai;</l>
+					<l xml:id="l10">Pietà pietà gridai.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

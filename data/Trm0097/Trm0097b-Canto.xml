@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>A chi creder degg'io</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0097b</idno>
+			<idno type="label">Trm0097b (Canto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0097b-Canto">
+					<title>Madrigali a 5, 6, 7 &amp; 8 voci</title>
+					<author role="composer">Hassler, Hans Leo</author>
+					<publisher>Schönigk</publisher>
+					<pubPlace>Augsburg</pubPlace>
+					<date when="1596">1596</date>
+					<idno type="RISM">H 2339</idno>
+					<biblScope unit="page">5</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">a. 5.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">A chi creder degg'io</l>
+					<l xml:id="l2">Se vani son'i detti</l>
+					<l xml:id="l3">E 'l vento se ne porta le parole</l>
+					<l xml:id="l4">Non a le voci sole</l>
+					<l xml:id="l5">Che scompagnate sian da veri effetti</l>
+					<l xml:id="l6">Amor crederò mai</l>
+					<l xml:id="l7">Ma tant'hor temo quanto già sperai</l>
+					<l xml:id="l8">Amor se vuoi ch'io creda</l>
+					<l xml:id="l9">Convien che l'altrui cor o fatti veda.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>
