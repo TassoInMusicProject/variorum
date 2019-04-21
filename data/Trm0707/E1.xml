@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Tra Giove in cielo e 'l mio signor in terra</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">E1</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="E1">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Modena</settlement>
+						<repository>Biblioteca Estense Universitaria</repository>
+						<idno>It. 385</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 36</locus>
+							<p>codex containing copies of 322 lyric poems by Tasso, some with autograph annotations and corrections</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century (ca. 1584&#x2013;85?)</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Loda l’insegna de la Casa d’Este la quale è l’Aquila, e i prencipi che la portano. stamp. </p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Tra Giove in cielo, e ’l mio sig[no]re in terra</l>
+					<l xml:id="l2">Serva indivisa e messaggiera accorta</l>
+					<l xml:id="l3">L’aquila hor vola, e l’una e l’altra porta :</l>
+					<l xml:id="l4"><del>ella se ’l grido è ver prende sotterra •</del></l>
+					<l xml:id="l5"><del>de le sublimi regge a lei apre, e di</del></l>
+					<l xml:id="l6"><del>l’arme sonanti e colà sù le porta</del></l>
+					<l xml:id="l7"><del>de l’alte regge a lei s’apre e disserra</del></l>
+					<l xml:id="l8">egli de l’alte reggie a lei disserra.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">ella se ’l grido <del>ver</del> è ver prende sotterra</l>
+					<l xml:id="l10">l’arme sona[n]ti e colà su le porta :</l>
+					<l xml:id="l11">e fornitone il ciel, qui le riporta:</l>
+					<l xml:id="l12">Giove in ciel tuona, e tuona Alfonso in Guerra.</l>
+				</lg>
+				<lg>
+					<l xml:id="l13">e tonò l’Avo in <del>no</del> non lontani campi</l>
+					<l xml:id="l14"><del>qual</del> quando al signor, che riportava estinto</l>
+					<l xml:id="l15">sol honor di cipresso, ei diè la palma;</l>
+				</lg>
+				<lg>
+					<l xml:id="l16">la vittoria successe in vece d’alma</l>
+					<l xml:id="l17">e fece vincitor, quel ch’era vinto,</l>
+					<l xml:id="l18"><del>chi vide mai più chiari tuoni, e lampi?</del> chi vide mai tuoni più chiari o lampi?</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

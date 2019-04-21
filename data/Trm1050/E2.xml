@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Ha gigli e rose ed ha rubini ed oro</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">E2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="E2">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Modena</settlement>
+						<repository>Biblioteca Estense Universitaria</repository>
+						<idno>It. 379a</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. {21}v</locus>
+							<p>codex containing autographs of 216 lyric poems by Tasso, some with autograph annotations and corrections</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century (ca. 1585&#x2013;87?)</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">stampa. A la sig[or]a Marfisa</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Ha gigli e rose, o bei rubini, et oro</l>
+					<l xml:id="l2">e due serene stelle, e mille raggi,</l>
+					<l xml:id="l3">il bel vostro purpureo, e bianco viso :</l>
+					<l xml:id="l4">e la sua primavera, e suo tesoro</l>
+					<l xml:id="l5">e gemme i vaghi fiori, e lieti maggi,</l>
+					<l xml:id="l6">lucide fiamme son di paradiso :</l>
+					<l xml:id="l7">Ma ’l più <del>bel pregio</del> è la virtù de l’alma,</l>
+					<l xml:id="l8">Ch’è di se stessa <del>a voi</del> fa Corona, e palma</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">La natura v’armò, bella Guerrera,</l>
+					<l xml:id="l10">e i guardi sono strali, e nodi i crini,</l>
+					<l xml:id="l11">e le due chiare luci ambe facelle :</l>
+					<l xml:id="l12">e ’n vostro campo è ne la prima schiera,</l>
+					<l xml:id="l13">l’honor, la gloria, e sono a lor vicini</l>
+					<l xml:id="l14">gli alti costumi, e le virtuti anch’elle :</l>
+					<l xml:id="l15">ed un diaspro intorno il cor v’ha cinto,</l>
+					<l xml:id="l16">e voi sete la duce, Amore il vinto.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

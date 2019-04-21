@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Arsi gran tempo, e del mio foco indegno</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0107a</idno>
+			<idno type="label">Trm0107a (Tenore)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0107a-Tenore">
+					<title>Il quarto libro de madrigali a sei voci</title>
+					<author role="composer">Marenzio, Luca</author>
+					<publisher>G. Vincenzi</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1587">1587</date>
+					<idno type="RISM">M 510</idno>
+					<biblScope unit="page">15-16</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Arsi gran tempo e del mio foco indegno</l>
+					<l xml:id="l2">Esca fu sol beltà terrena e frale</l>
+					<l xml:id="l3">[TACET]</l>
+					<l xml:id="l4">[TACET]</l>
+					<l xml:id="l5">Hor che può gelo di sì giusto sdegno</l>
+					<l xml:id="l6">Spegner nel cor l’incendio aspr’e mortale</l>
+					<l xml:id="l7">Scosso d’ogni vil soma al ciel ne sale</l>
+					<l xml:id="l8">Con pronto volo il mio non pigro ingegno.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Lasso e conosco hor ben che quanto i dissi</l>
+					<l xml:id="l10">Fù voce d’huom cui ne tormenti astringa</l>
+					<l xml:id="l11">Giudice ingiusto a traviar dal vero</l>
+					<l xml:id="l12">Perfida ancor ne la mia lingua io spero</l>
+					<l xml:id="l13">Che donde pria ti trasse ella ti spinga</l>
+					<l xml:id="l14">D’un cieco oblio ne’ più profondi abissi.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

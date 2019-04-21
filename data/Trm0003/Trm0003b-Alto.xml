@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Su l'ampia fronte il crespo oro lucente</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0003b</idno>
+			<idno type="label">Trm0003b (Alto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0003b-Alto">
+					<title>Il terzo libro de' madrigali a sei voci</title>
+					<author role="composer">Marenzio, Luca</author>
+					<publisher>Scotto</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1585">1585</date>
+					<idno type="RISM">M 507</idno>
+					<biblScope unit="page">12-13</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Su l’ampia fronte il cresp’oro lucente</l>
+					<l xml:id="l2">Sparso ondeggiava e de begl’occhi il raggio</l>
+					<l xml:id="l3">Al terren’ adducea fiorito Maggio</l>
+					<l xml:id="l4">E Lugl’ ai cori oltra misur’ ardente</l>
+					<l xml:id="l5">Nel bianco seno Amor vezzosamente</l>
+					<l xml:id="l6">scherzava e non ardia di fargl’ oltraggio</l>
+					<l xml:id="l7">e l’aura del parlar cortese e saggio</l>
+					<l xml:id="l8">Frà le rose spirar s’udia sovente.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Io che forma celest’ in terra scorsi</l>
+					<l xml:id="l10">Rinchiusi i lumi e dissi [TACET]</l>
+					<l xml:id="l11">che ’n lei sia d’affisars’ ardito</l>
+					<l xml:id="l12">Ma de l’altro periglio non m’accorsi</l>
+					<l xml:id="l13">Che mi fù per l’orecch’ il cor ferito</l>
+					<l xml:id="l14">Ei dett’ andaro ove non giuns’ in volto.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

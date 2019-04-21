@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Ciò che morte rallenta, Amor ristringi</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">E2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="E2">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Modena</settlement>
+						<repository>Biblioteca Estense Universitaria</repository>
+						<idno>It. 379a</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. [5]v</locus>
+							<p>codex containing autographs of 216 lyric poems by Tasso, some with autograph annotations and corrections</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century (ca. 1585&#x2013;87?)</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">stamp[at]o. Ne le nozze del sig[n]or Don Cesare d’este e de la Sig[no]ra Donna Virg[i]nia de’ Medici.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Ciò che Morte rallenta Amor ristringi</l>
+					<l xml:id="l2">Tu di pace nemico, ella di guerra,</l>
+					<l xml:id="l3">e del suo trionphar trionpha e regna :</l>
+					<l xml:id="l4">e mentre due bell’alme hor leghi, e cingi</l>
+					<l xml:id="l5">così rendi sembiante al ciel la terra</l>
+					<l xml:id="l6">che d’habitarla tù non fuggi, o sdegni.</l>
+					<l xml:id="l7">Non sono ire là sù, gli humani ingegni</l>
+					<l xml:id="l8">Tu placidi ne rendi e l’odio interno</l>
+					<l xml:id="l9">sgombri signor da mansueti <del>chor</del> cori,</l>
+					<l xml:id="l10">sgombri mille furori,</l>
+					<l xml:id="l11">e quasi fai co’l tuo valor superno</l>
+					<l xml:id="l12">De le cose mortali un giro eterno.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

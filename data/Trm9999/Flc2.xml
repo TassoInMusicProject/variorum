@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Occhi leggiadri e belli,/ Or che volete più dal petto mio?</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">Flc2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Flc2">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Bergamo</settlement>
+						<repository>Civica Biblioteca Angelo Mai</repository>
+						<idno>Tassiana N.6.5</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 170r</locus>
+							<p>codex containing 132 poems by Tasso, 20 of which may be autograph</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Occhi leggiadri, e belli,</l>
+					<l xml:id="l2">Hor che volete più dal petto mio?</l>
+					<l xml:id="l3">Il core è vostro, e vostro il mio desio.</l>
+				</lg>
+				<lg>
+					<l xml:id="l4">Voi de fiammelle, e strali</l>
+					<l xml:id="l5">A mio danno v’armate a tutte l’hore,</l>
+					<l xml:id="l6">E pur sapete ben, ch’io non ho core.</l>
+				</lg>
+				<lg>
+					<l xml:id="l7">Il cor da voi fù preso</l>
+					<l xml:id="l8">Quel di, ch’io vi mirai, e vive in pene,</l>
+					<l xml:id="l9">E voi gli ordite ancor nove catene.</l>
+				</lg>
+				<lg>
+					<l xml:id="l10">Ma se pur vivo, ahi lasso.</l>
+					<l xml:id="l11">Vivo del vostro lume, e del mio pianto,</l>
+					<l xml:id="l12">E di tal vita ogn'hor mi glorio, e vanto.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

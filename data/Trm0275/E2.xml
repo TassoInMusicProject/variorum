@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>O via più bianca e fredda</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">E2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="E2">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Modena</settlement>
+						<repository>Biblioteca Estense Universitaria</repository>
+						<idno>It. 379a</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. [99]r</locus>
+							<p>codex containing autographs of 216 lyric poems by Tasso, some with autograph annotations and corrections</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century (ca. 1585&#x2013;87?)</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">stamp.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">O via più bianca, e fredda</l>
+					<l xml:id="l2">di lei, che spesso fà parir men belle</l>
+					<l xml:id="l3">co‘l suo splendor le stelle</l>
+					<l xml:id="l4">Turba il suo<del>bel</del> puro argento</l>
+					<l xml:id="l5">o nube, o pioggia o vento,</l>
+					<l xml:id="l6">Nulla il tuo bel candore, o vaghi giri.</l>
+					<l xml:id="l7">e s’in mè lieta miri</l>
+					<l xml:id="l8">Sia la vita un sogno, et io contento.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

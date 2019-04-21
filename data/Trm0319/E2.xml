@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Non può l'angusto loco</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">E2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="E2">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Modena</settlement>
+						<repository>Biblioteca Estense Universitaria</repository>
+						<idno>It. 379a</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. [112]v</locus>
+							<p>codex containing autographs of 216 lyric poems by Tasso, some with autograph annotations and corrections</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century (ca. 1585&#x2013;87?)</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">stamp.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Non può l’angusto loco</l>
+					<l xml:id="l2">tra pini, abeti, e faggi</l>
+					<l xml:id="l3">celare i vostri <del>raggi</del> puri, e lieti raggi</l>
+					<l xml:id="l4">e ’l dolce, e vivo foco.</l>
+					<l xml:id="l5">e chi nasconde il sole!</l>
+					<l xml:id="l6">P[er]che no[n] splenda pur com’egli sole •</l>
+					<l xml:id="l7">occhi graditi, e cari,</l>
+					<l xml:id="l8">occhi sereni, e chiari,</l>
+					<l xml:id="l9">voi somigliar sovente</l>
+					<l xml:id="l10">fate questa humil villa un oriente.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

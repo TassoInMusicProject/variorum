@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Occhi leggiadri e belli,/ Or che volete più dal petto mio?</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm9999a</idno>
+			<idno type="label">Trm9999a (Alto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm9999a-Alto">
+					<title>Il secondo libro delle villanelle a tre, quattro et a cinque</title>
+					<author role="composer">Lambardi, Francesco</author>
+					<publisher>Carlino</publisher>
+					<pubPlace>Naples</pubPlace>
+					<date when="1614">1614</date>
+					<idno type="RISM">L 361</idno>
+					<biblScope unit="page">14</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">A Tre</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Occhi leggiadri e belli</l>
+					<l xml:id="l2">Hor che volete più dal petto mio,</l>
+					<l xml:id="l3">Il cor è vostro è vostro il mio desio.</l>
+				</lg>
+				<lg>
+					<l xml:id="l4">Voi di fiamelle, e strali</l>
+					<l xml:id="l5">A mio danno v’armate à tutte l’hore,</l>
+					<l xml:id="l6">E pur sapete ben, ch’io non hò core.</l>
+				</lg>
+				<lg>
+					<l xml:id="l7">Il cor da voi fu preso</l>
+					<l xml:id="l8">Quel dì ch’io vi mirai, e vive in pene,</l>
+					<l xml:id="l9">E voi gli ordite ancor nove catene.</l>
+				</lg>
+				<lg>
+					<l xml:id="l10">Ma se pur vive, ahi lasso,</l>
+					<l xml:id="l11">Vive del vostro lume, e del mio pianto,</l>
+					<l xml:id="l12">E di tal vita ogn’hor mi glorio, e vanto.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

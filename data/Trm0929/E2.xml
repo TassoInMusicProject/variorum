@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Mesola, il Po da' lati e 'l mar a fronte</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">E2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="E2">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Modena</settlement>
+						<repository>Biblioteca Estense Universitaria</repository>
+						<idno>It. 379a</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. [106]v</locus>
+							<p>codex containing autographs of 216 lyric poems by Tasso, some with autograph annotations and corrections</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century (ca. 1585&#x2013;87?)</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">stamp.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Mesola il Pò da’ lati, e ’l mare a fronte,</l>
+					<l xml:id="l2">et <del>le mura d’intorno</del> intorno le mura, e dentro i boschi</l>
+					<l xml:id="l3">e seggi ombrosi, e foschi</l>
+					<l xml:id="l4">fanno le tue bellezze altere, e conte,</l>
+					<l xml:id="l5"><del>Ma chi ti fà di selva un paradiso</del></l>
+					<l xml:id="l6"><del>è Margherita co’l suo dolce riso</del></l>
+					<l xml:id="l7">e sono opre d’Alfonso, e più non fece</l>
+					<l xml:id="l8">Mai la Natura, e l’arte, e far no[n] lece :</l>
+					<l xml:id="l9">Ma che <del>la selva</del> <del>paia>/del> la valle sembri un paradiso</l>
+					<l xml:id="l10">La Moglie <donna> il fà, che n’ha sembianti, e viso.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

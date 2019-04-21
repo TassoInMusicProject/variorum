@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Ben può ritrar le tue fattezze conte</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">E1</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="E1">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Modena</settlement>
+						<repository>Biblioteca Estense Universitaria</repository>
+						<idno>It. 385</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 133	</locus>
+							<p>codex containing copies of 322 lyric poems by Tasso, some with autograph annotations and corrections</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century (ca. 1584&#x2013;85?)</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Loda il sig[n]or duca di Gioiosa il quale fu alloggiato dal sig[n]or duca di Ferrara nelle sta[n]ze de gli specchi. stampa </p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Ben può ritrar le tue fattezze conte</l>
+					<l xml:id="l2">Lucido specchio, over tranquillo humore,</l>
+					<l xml:id="l3">Ma non quella beltà, né quell valore</l>
+					<l xml:id="l4">Che suol far a la morte oltraggi, et onte.</l>
+					<l xml:id="l5">Perché degno no[n] è christallo, o fonte,</l>
+					<l xml:id="l6">D’immortal forma, o di celeste honore,</l>
+					<l xml:id="l7">Ma specchio sol d’Angelico splendore,</l>
+					<l xml:id="l8">Dov’il primo amator mirò la fronte.</l>
+					<l xml:id="l9">La su la tua virtude e la tua luce</l>
+					<l xml:id="l10">Si vedrà fiammeggiar, e ne’ sereni</l>
+					<l xml:id="l11">occhi un bel raggio si rimira, e scerne;</l>
+					<l xml:id="l12">e mentre a gl’occhi atrui vago traluce</l>
+					<l xml:id="l13">Signor novo Narciso, hor no[n] divieni,</l>
+					<l xml:id="l14">Anzi ti volgi a le bellezze eterne.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>
