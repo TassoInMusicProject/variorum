@@ -21,14 +21,14 @@
 				<app>
 					<rdgGrp n="1">
 						<rdg wit="#Tsg12096-lm-A4">
-							<ptr target="Tsg12096-lm-A4.xml#v5"></ptr>
+							<ptr target="Tsg12096-lm-A4.xml#v1"></ptr>
 						</rdg>
 						<rdg wit="#Tsg12096-lp-Casalmaggiore_1581">
-							<ptr target="Tsg12096-lp-Casalmaggiore_1581.xml#v5"></ptr>
+							<ptr target="Tsg12096-lp-Casalmaggiore_1581.xml#v1"></ptr>
 						</rdg>
 					</rdgGrp>
 					<rdg wit="#Tsg12096a-canto">
-						<ptr target="Tsg12096a-canto.xml#v5"></ptr>
+						<ptr target="Tsg12096a-canto.xml#v1"></ptr>
 					</rdg>
 				</app>
 			</ab>
