@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Non di morte sei tu ma di vivaci</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S1581CV</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S1581CV">
+					<title></title>
+					<publisher>Antonio Canacci &amp; Erasmo Viotti</publisher>
+					<pubPlace>Casalmaggiore</pubPlace>
+					<date when="1581">1581</date>
+					<biblScope unit="page">151</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Non di morte sei tù: ma di vivaci</l>
+					<l xml:id="l2">Ceneri albergo: ov'è riposto Amore.</l>
+					<l xml:id="l3">E ben sent'io da te l'usate faci:</l>
+					<l xml:id="l4">Men dolci sì; ma non men calde al core.</l>
+					<l xml:id="l5">Deh prendi i miei sospiri: e questi baci</l>
+					<l xml:id="l6">Prendi: ch’io bagno di doglioso humore:</l>
+					<l xml:id="l7">E dalli tù (poi ch’io non posso) almeno</l>
+					<l xml:id="l8">A le amate reliquie, c’hai nel seno.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

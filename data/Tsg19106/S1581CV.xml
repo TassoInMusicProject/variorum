@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Misera non credea ch'a gli occhi miei</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S1581CV</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S1581CV">
+					<title></title>
+					<publisher>Antonio Canacci &amp; Erasmo Viotti</publisher>
+					<pubPlace>Casalmaggiore</pubPlace>
+					<date when="1581">1581</date>
+					<biblScope unit="page">234</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Misera: non credea, ch’à gli occhi miei</l>
+					<l xml:id="l2">Potessi in alcun tempo esser noioso:</l>
+					<l xml:id="l3">Hor cieca farmi volentier torrei</l>
+					<l xml:id="l4">Per non vederti; e riguardar non oso.</l>
+					<l xml:id="l5">Ohimè, de i lumi già sì dolci, e rei,</l>
+					<l xml:id="l6">Ov’è la fiamma? ov’è'l bel raggio ascoso?</l>
+					<l xml:id="l7">Delle fiorite guance il bel vermiglio</l>
+					<l xml:id="l8">Ov’è fuggito? ov’è'l seren del ciglio?</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

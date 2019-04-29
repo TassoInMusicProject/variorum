@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Vola fra gli altri un che le piume ha sparte</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S1581CV</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S1581CV">
+					<title></title>
+					<publisher>Antonio Canacci &amp; Erasmo Viotti</publisher>
+					<pubPlace>Casalmaggiore</pubPlace>
+					<date when="1581">1581</date>
+					<biblScope unit="page">186</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Vola frà gli altri un, che le piume hà sparte</l>
+					<l xml:id="l2">Di color vari: &amp; ha purpureo il rostro;</l>
+					<l xml:id="l3">E lingua snoda in guisa varia: e parte</l>
+					<l xml:id="l4">La voce sì, ch’assembra il sermon nostro.</l>
+					<l xml:id="l5">Quest’ivi allor continuò con arte</l>
+					<l xml:id="l6">Tanta il parlar, che fù mirabil mostro.</l>
+					<l xml:id="l7">Tacquero gli altri, ad ascoltarlo intenti:</l>
+					<l xml:id="l8">E fermaro i sussurri in aria i venti.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

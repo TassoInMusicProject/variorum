@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Amico hai vinto: io ti perdon...perdona</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S1581CV</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S1581CV">
+					<title></title>
+					<publisher>Antonio Canacci &amp; Erasmo Viotti</publisher>
+					<pubPlace>Casalmaggiore</pubPlace>
+					<date when="1581">1581</date>
+					<biblScope unit="page">147</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Amico, hai vinto; io ti perdon; perdona</l>
+					<l xml:id="l2">Tù ancora: al corpo nò: che nulla pave:</l>
+					<l xml:id="l3">A l’alma sì: deh per lei prega: e dona</l>
+					<l xml:id="l4">Battesmo à mè, ch’ogni sua macchia lave.</l>
+					<l xml:id="l5">In queste voci languide risuona</l>
+					<l xml:id="l6">Un non sò che di flebile, e soave,</l>
+					<l xml:id="l7">Ch’al cor gli serpe: et ogni sdegno ammorza:</l>
+					<l xml:id="l8">E gl'occhi à lagrimar gl'invoglia, e sforza.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

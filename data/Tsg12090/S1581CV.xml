@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Lei nel partir, lei nel tornar del sole</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S1581CV</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S1581CV">
+					<title></title>
+					<publisher>Antonio Canacci &amp; Erasmo Viotti</publisher>
+					<pubPlace>Casalmaggiore</pubPlace>
+					<date when="1581">1581</date>
+					<biblScope unit="page">150</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Lei, nel partir: lei, nel tornar del Sole,</l>
+					<l xml:id="l2">Chiama, con voce stanca: e prega, e plora;</l>
+					<l xml:id="l3">Come usignuol, cui’l villan duro invole</l>
+					<l xml:id="l4">Dal nido i figli, non pennuti ancora;</l>
+					<l xml:id="l5">Ch'in miserabil canto, afflitte, e sole</l>
+					<l xml:id="l6">Piange le notti: e n’empie i boschi, e l’ora.</l>
+					<l xml:id="l7">Al fin co'l novo dì rinchiude alquanto</l>
+					<l xml:id="l8">I lumi: e’l sonno in lor serpe, frà’l pianto.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

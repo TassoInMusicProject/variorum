@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Questa bellezza mia sarà mercede</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S1581CV</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S1581CV">
+					<title></title>
+					<publisher>Antonio Canacci &amp; Erasmo Viotti</publisher>
+					<pubPlace>Casalmaggiore</pubPlace>
+					<date when="1581">1581</date>
+					<biblScope unit="page">192</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Questa bellezza mia sarà mercede</l>
+					<l xml:id="l2">Del troncator de l’esecrabil testa;</l>
+					<l xml:id="l3">O miei famosi amanti: ecco si chiede</l>
+					<l xml:id="l4">Difficil sì da voi: ma impresa honesta.</l>
+					<l xml:id="l5">Io, che sarò d’ampie ricchezze herede,</l>
+					<l xml:id="l6">D’una vendetta in guiderdon son presta.</l>
+					<l xml:id="l7">S’esser compra à tal prezzo indegna io sono:</l>
+					<l xml:id="l8">Beltà, sei di Natura inutil dono.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>
