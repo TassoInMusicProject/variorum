@@ -19,9 +19,6 @@
 		<body>
 			<ab>
 				<app>
-					<rdg wit="#E2">
-						<ptr target="E2.xml#l1v1"></ptr>
-					</rdg>
 					<rdgGrp n="1">
 						<rdg wit="#S28">
 							<ptr target="S28.xml#l1v1"></ptr>
@@ -53,9 +50,6 @@
 					</rdg>
 				</app>
 				<app>
-					<rdg wit="#E2">
-						<ptr target="E2.xml#l1v2"></ptr>
-					</rdg>
 					<rdgGrp n="1">
 						<rdg wit="#S28">
 							<ptr target="S28.xml#l1v2"></ptr>
@@ -90,9 +84,6 @@
 				</app>
 				<app>
 					<rdgGrp n="1">
-						<rdg wit="#E2">
-							<ptr target="E2.xml#l4v1"></ptr>
-						</rdg>
 						<rdg wit="#S28">
 							<ptr target="S28.xml#l4v1"></ptr>
 						</rdg>
@@ -125,9 +116,6 @@
 					</rdgGrp>
 				</app>
 				<app>
-					<rdg wit="#E2">
-						<ptr target="E2.xml#l5v1"></ptr>
-					</rdg>
 					<rdgGrp n="1">
 						<rdg wit="#S28">
 							<ptr target="S28.xml#l5v1"></ptr>
@@ -159,9 +147,6 @@
 					</rdgGrp>
 				</app>
 				<app>
-					<rdg wit="#E2">
-						<ptr target="E2.xml#l6v1"></ptr>
-					</rdg>
 					<rdgGrp n="1">
 						<rdg wit="#S28">
 							<ptr target="S28.xml#l6v1"></ptr>
@@ -193,9 +178,6 @@
 					</rdgGrp>
 				</app>
 				<app>
-					<rdg wit="#E2">
-						<ptr target="E2.xml#l7v1"></ptr>
-					</rdg>
 					<rdgGrp n="1">
 						<rdg wit="#S28">
 							<ptr target="S28.xml#l7v1"></ptr>
