@@ -21,58 +21,6 @@
 				<app>
 					<rdgGrp n="1">
 						<rdg wit="#Tsg12096-lm-A4">
-							<ptr target="Tsg12096-lm-A4.xml#v1"></ptr>
-						</rdg>
-						<rdg wit="#Tsg12096-lp-Casalmaggiore_1581">
-							<ptr target="Tsg12096-lp-Casalmaggiore_1581.xml#v1"></ptr>
-						</rdg>
-					</rdgGrp>
-					<rdg wit="#Tsg12096a-canto">
-						<ptr target="Tsg12096a-canto.xml#v1"></ptr>
-					</rdg>
-				</app>
-				<app>
-					<rdgGrp n="1">
-						<rdg wit="#Tsg12096-lm-A4">
-							<ptr target="Tsg12096-lm-A4.xml#v2"></ptr>
-						</rdg>
-						<rdg wit="#Tsg12096-lp-Casalmaggiore_1581">
-							<ptr target="Tsg12096-lp-Casalmaggiore_1581.xml#v2"></ptr>
-						</rdg>
-					</rdgGrp>
-					<rdg wit="#Tsg12096a-canto">
-						<ptr target="Tsg12096a-canto.xml#v2"></ptr>
-					</rdg>
-				</app>
-				<app>
-					<rdgGrp n="1">
-						<rdg wit="#Tsg12096-lm-A4">
-							<ptr target="Tsg12096-lm-A4.xml#v3"></ptr>
-						</rdg>
-						<rdg wit="#Tsg12096-lp-Casalmaggiore_1581">
-							<ptr target="Tsg12096-lp-Casalmaggiore_1581.xml#v3"></ptr>
-						</rdg>
-					</rdgGrp>
-					<rdg wit="#Tsg12096a-canto">
-						<ptr target="Tsg12096a-canto.xml#v3"></ptr>
-					</rdg>
-				</app>
-				<app>
-					<rdgGrp n="1">
-						<rdg wit="#Tsg12096-lm-A4">
-							<ptr target="Tsg12096-lm-A4.xml#v4"></ptr>
-						</rdg>
-						<rdg wit="#Tsg12096-lp-Casalmaggiore_1581">
-							<ptr target="Tsg12096-lp-Casalmaggiore_1581.xml#v4"></ptr>
-						</rdg>
-					</rdgGrp>
-					<rdg wit="#Tsg12096a-canto">
-						<ptr target="Tsg12096a-canto.xml#v4"></ptr>
-					</rdg>
-				</app>
-				<app>
-					<rdgGrp n="1">
-						<rdg wit="#Tsg12096-lm-A4">
 							<ptr target="Tsg12096-lm-A4.xml#v5"></ptr>
 						</rdg>
 						<rdg wit="#Tsg12096-lp-Casalmaggiore_1581">

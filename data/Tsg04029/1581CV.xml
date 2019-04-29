@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Argo non mai, non vide Cipro e Delo</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">1581CV</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="1581CV">
+					<title></title>
+					<publisher>Antonio Canacci &amp; Erasmo Viotti</publisher>
+					<pubPlace>Casalmaggiore</pubPlace>
+					<date when="1581">1581</date>
+					<biblScope unit="page">41</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Argo non mai, non vide Cipro, ò Delo</l>
+					<l xml:id="l2">D’habito e di beltà forme sì care:</l>
+					<l xml:id="l3">D’auro hà la chioma, et hor dal bianco velo</l>
+					<l xml:id="l4">Traluce involta, hor discoperta appare;</l>
+					<l xml:id="l5">Cosi qualhor si rasserena il Cielo</l>
+					<l xml:id="l6">Hor da candida nube il Sol traspare,</l>
+					<l xml:id="l7">Hor, da le nubi uscendo, i raggi intorno</l>
+					<l xml:id="l8">Più chiari spiega, e ne raddoppia il giorno.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

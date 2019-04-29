@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>E s'ella vuol che 'l tuo diletto sia</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tam2031121a</idno>
+			<idno type="label">Tam2031121a (Basso)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tam2031121a-Basso">
+					<title>Novellette a sei voci</title>
+					<author role="composer">Balsamino, Simone</author>
+					<publisher>Amadino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1594">1594</date>
+					<idno type="RISM">B 785</idno>
+					<biblScope unit="page">14</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">TIRSI E S’ella vuol che ’l tuo diletto sia</l>
+					<l xml:id="l2">Tuo furto o tua rapina e non suo dono</l>
+					<l xml:id="l3">Ne sua mercede a te folle ch’importa</l>
+					<l xml:id="l4">Più l’un modo che l’altro</l>
+					<l xml:id="l5">AMINTA E chi m’accerta</l>
+					<l xml:id="l6">Che’l suo desir sia tale</l>
+					<l xml:id="l7">TIRSI O mentecatto.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

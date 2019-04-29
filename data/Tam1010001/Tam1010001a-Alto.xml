@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Vorrai dunque pur, Silvia</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tam1010001a</idno>
+			<idno type="label">Tam1010001a (Alto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tam1010001a-Alto">
+					<title>Madrigali à cinque voci co'l basso continuo</title>
+					<author role="composer">Porto, Allegro</author>
+					<publisher>Gardano</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1625">1625</date>
+					<idno type="RISM">P 5240</idno>
+					<biblScope unit="page">15</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Vorrai dunque pur Silvia</l>
+					<l xml:id="l2">da’ piaceri di Venere lontana</l>
+					<l xml:id="l3">menarne tù questa tua giovanezza</l>
+					<l xml:id="l4">nel dolce nome di Madre udirai</l>
+					<l xml:id="l5">ne intorno ti vedrai Vezzosamente</l>
+					<l xml:id="l6">scherzar i Figli Pargoletti ah cangia</l>
+					<l xml:id="l7">cangia prego consiglio,</l>
+					<l xml:id="l8">pazzarella che sei.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

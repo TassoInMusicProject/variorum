@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Nove, Aminta, t'annuncio di conforto</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tam2031045a</idno>
+			<idno type="label">Tam2031045a (Basso)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tam2031045a-Basso">
+					<title>Novellette a sei voci</title>
+					<author role="composer">Balsamino, Simone</author>
+					<publisher>Amadino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1594">1594</date>
+					<idno type="RISM">B 785</idno>
+					<biblScope unit="page">2</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Li tre Aminta uniti.	</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">[TACET]</l>
+					<l xml:id="l2">[TACET]</l>
+					<l xml:id="l3">Hoime che di che porti</l>
+					<l xml:id="l4">O la vita o la morte</l>
+					<l xml:id="l5">Porto salut’e vita S’ardirai</l>
+					<l xml:id="l6">di farti lor incontra Ma fà d’huopo</l>
+					<l xml:id="l7">D’esser un’ huom’ Aminta un’ huom’ ardito.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

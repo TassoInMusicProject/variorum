@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Orsù cuoprimi il tutto. Odi. Di' tosto</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tam2031067a</idno>
+			<idno type="label">Tam2031067a (Basso)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tam2031067a-Basso">
+					<title>Novellette a sei voci</title>
+					<author role="composer">Balsamino, Simone</author>
+					<publisher>Amadino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1594">1594</date>
+					<idno type="RISM">B 785</idno>
+					<biblScope unit="page">5</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">AMINTA Horsù scuoprimi il tutto</l>
+					<l xml:id="l2">[TACET]</l>
+					<l xml:id="l3">Di tosto.</l>
+					<l xml:id="l4">TIRSI [TACET]</l>
+					<l xml:id="l5">Ardirai tu d’andarvi</l>
+					<l xml:id="l6">AMINTA Oh che mi dici</l>
+					<l xml:id="l7">Silvia m’attend’ignud’e sola</l>
+					<l xml:id="l8">TIRSI [TACET]</l>
+					<l xml:id="l9">Se non quanto v’è Dafne [TACET]</l>
+					<l xml:id="l10">AMINTA ignud’ella m’aspetta</l>
+					<l xml:id="l11">[TACET]</l>
+					<l xml:id="l12">Ohime che ma tu taci tu m’uccidi</l>
+					<l xml:id="l13">TIRSI Ma non sa già che tu v’habbi d’andare.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

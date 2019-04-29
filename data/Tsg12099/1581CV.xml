@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Ed amando morrò: felice giorno</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">1581CV</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="1581CV">
+					<title></title>
+					<publisher>Antonio Canacci &amp; Erasmo Viotti</publisher>
+					<pubPlace>Casalmaggiore</pubPlace>
+					<date when="1581">1581</date>
+					<biblScope unit="page">151</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Et amando morrò. felice giorno:</l>
+					<l xml:id="l2">Quando che sia; ma più felice molto:</l>
+					<l xml:id="l3">Se come hor vado errando à te dintorno</l>
+					<l xml:id="l4">Alhor sarò dentr'al tuo grembo accolto.</l>
+					<l xml:id="l5">Faccian l’anime amiche in un soggiorno;</l>
+					<l xml:id="l6">Sia l’un cenere, e l’altro in un sepolto.</l>
+					<l xml:id="l7">Ciò, che’l viver non hebbe, habbia la morte.</l>
+					<l xml:id="l8">O (se sperar ciò lice) altera sorte.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

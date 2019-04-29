@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Dunque tu l'ameresti a suo dispetto</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tam2031096a</idno>
+			<idno type="label">Tam2031096a (Sesto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tam2031096a-Sesto">
+					<title>Novellette a sei voci</title>
+					<author role="composer">Balsamino, Simone</author>
+					<publisher>Amadino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1594">1594</date>
+					<idno type="RISM">B 785</idno>
+					<biblScope unit="page">9</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">TIRSI Dunque tu l’amaresti al suo dispetto</l>
+					<l xml:id="l2">Quando potessi far di non amarla</l>
+					<l xml:id="l3">AMINTA al suo dispetto nò ma l’amarei</l>
+					<l xml:id="l4">TIRSI Dunque fuor di sua voglia</l>
+					<l xml:id="l5">AMINTA Si per certo.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

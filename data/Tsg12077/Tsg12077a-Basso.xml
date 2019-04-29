@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Vivrò fra i miei tormenti e le mie cure</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tsg12077a</idno>
+			<idno type="label">Tsg12077a (Basso)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tsg12077a-Basso">
+					<title>Il terzo libro de madrigali a cinque voci</title>
+					<author role="composer">Monteverdi, Claudio</author>
+					<publisher>Amadino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1592">1592</date>
+					<idno type="RISM">M 3459</idno>
+					<biblScope unit="page">16</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Prima parte.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Vivrò fra’i miei tormenti e le mie cure</l>
+					<l xml:id="l2">Mie giuste furie forsennato errante</l>
+					<l xml:id="l3">Paventerò l’ombre solinghe e scure</l>
+					<l xml:id="l4">Che’l prim’error mi recheranno inante</l>
+					<l xml:id="l5">E del sol che scoprì le mie Sventure</l>
+					<l xml:id="l6">A schivo &amp; in horror havrò il sembiante</l>
+					<l xml:id="l7">Temerò me medesmo e da me stesso</l>
+					<l xml:id="l8">Sempre fuggend’havrò me sempre appresso.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

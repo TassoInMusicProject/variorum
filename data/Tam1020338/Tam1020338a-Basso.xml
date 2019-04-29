@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Ho visto al pianto mio</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tam1020338a</idno>
+			<idno type="label">Tam1020338a (Basso)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tam1020338a-Basso">
+					<title>Aminta musicale. Il primo libro de madrigali a cinque voci</title>
+					<author role="composer">Marotta, Erasmo</author>
+					<publisher>Gardano</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1600">1600</date>
+					<idno type="RISM">M 714</idno>
+					<biblScope unit="page">1</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Ho visto al pianto mio</l>
+					<l xml:id="l2">Risponder per pietade i sassi e l’onde</l>
+					<l xml:id="l3">E sospirar le fronde</l>
+					<l xml:id="l4">Ho visto al pianto mio</l>
+					<l xml:id="l5">[TACET]</l>
+					<l xml:id="l6">Ne spero di vedere</l>
+					<l xml:id="l7">Compassion ne la crudele e bella</l>
+					<l xml:id="l8">Che non sò s’io mi chiami ò donna ò fera</l>
+					<l xml:id="l9">[TACET]</l>
+					<l xml:id="l10">Ah che non la negaro</l>
+					<l xml:id="l11">le cose inanimate.</l>
+					<l xml:id="l12">[OMITTED]</l>
+					<l xml:id="l13">[OMITTED]</l>
+					<l xml:id="l14">[OMITTED]</l>
+					<l xml:id="l15">[OMITTED]</l>
+					<l xml:id="l16">[OMITTED]</l>
+					<l xml:id="l17">[OMITTED]</l>
+					<l xml:id="l18">[OMITTED]</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

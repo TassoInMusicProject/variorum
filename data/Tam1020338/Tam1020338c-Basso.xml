@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Ho visto al pianto mio</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tam1020338c</idno>
+			<idno type="label">Tam1020338c (Basso)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tam1020338c-Basso">
+					<title>Il secondo libro de madrigali a sei voci</title>
+					<author role="composer">Massaino, Tiburtio</author>
+					<publisher>G. Vincenzi</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1604">1604</date>
+					<idno type="RISM">M 1295</idno>
+					<biblScope unit="page">4</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Ho visto al pianto mio</l>
+					<l xml:id="l2">Risponder per pietate i sassi, e l’onde,</l>
+					<l xml:id="l3">E sospirar le fronde</l>
+					<l xml:id="l4">Ho visto al pianto mio</l>
+					<l xml:id="l5">[TACET]</l>
+					<l xml:id="l6">Ne spero di vedere</l>
+					<l xml:id="l7">Compassion nella crudel e bella</l>
+					<l xml:id="l8">Che non sò s’io mi chiami ò Donna ò Fera</l>
+					<l xml:id="l9">[TACET]</l>
+					<l xml:id="l10">Pasce l’Agna l’herbette [TACET]</l>
+					<l xml:id="l11">Ma il crudo Amor di lagrime si pasce,</l>
+					<l xml:id="l12">Ne se ne mostra mai satollo [TACET]</l>
+					<l xml:id="l13">[TACET]</l>
+					<l xml:id="l14">E solo ha sete del mio sangue e tosto</l>
+					<l xml:id="l15">Voglio ch’egli e quest’empia il sangue mio</l>
+					<l xml:id="l16">Bevan con gl’occhi.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Segue egli la vittoria e la trafitta</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">1581CV</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="1581CV">
+					<title></title>
+					<publisher>Antonio Canacci &amp; Erasmo Viotti</publisher>
+					<pubPlace>Casalmaggiore</pubPlace>
+					<date when="1581">1581</date>
+					<biblScope unit="page">147</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">     Segue egli la vittoria; e la trafitta</l>
+					<l xml:id="l2">Vergine, minacciando, incalza, e preme.</l>
+					<l xml:id="l3">Ella: mentre cadea: la voce afflitta</l>
+					<l xml:id="l4">Movendo, disse le parole estreme.</l>
+					<l xml:id="l5">Parole, ch’à lei novo un spirto ditta:</l>
+					<l xml:id="l6">Spirto di Fè, di Carità, di Speme;</l>
+					<l xml:id="l7">Virtù, c’hor DIO le infonde; e se rubella</l>
+					<l xml:id="l8">Vivendo fù: la vuole in morte ancella.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

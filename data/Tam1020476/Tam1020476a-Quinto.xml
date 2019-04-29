@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>E fatto, non so come, astuto e scaltro</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tam1020476a</idno>
+			<idno type="label">Tam1020476a (Quinto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tam1020476a-Quinto">
+					<title>Aminta musicale. Il primo libro de madrigali a cinque voci</title>
+					<author role="composer">Marotta, Erasmo</author>
+					<publisher>Gardano</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1600">1600</date>
+					<idno type="RISM">M 714</idno>
+					<biblScope unit="page">10	</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">E fatto non sò com’ astuto e scaltro</l>
+					<l xml:id="l2">[TACET] (Guarda quanto amor’</l>
+					<l xml:id="l3">aguzza l’intelletto) mi sovenne</l>
+					<l xml:id="l4">D’un’inganno gentile co’l qual’io</l>
+					<l xml:id="l5">Recar potessi à fine il mio talento</l>
+					<l xml:id="l6">Che fingendo ch’un’ape havesse morso</l>
+					<l xml:id="l7">Il mio labro di sotto incominciai</l>
+					<l xml:id="l8">A lamentarmi di cotal maniera</l>
+					<l xml:id="l9">Che quella medicina che la lingua</l>
+					<l xml:id="l10">Non richiedeva il volto richiedeva.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

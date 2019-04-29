@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Dura conclusion, che tutte affosca</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tam2031075a</idno>
+			<idno type="label">Tam2031075a (Canto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tam2031075a-Canto">
+					<title>Novellette a sei voci</title>
+					<author role="composer">Balsamino, Simone</author>
+					<publisher>Amadino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1594">1594</date>
+					<idno type="RISM">B 785</idno>
+					<biblScope unit="page">6</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Dura conclusion che tutt’attosca</l>
+					<l xml:id="l2">Le dolcezze passate Hor con qual’arte</l>
+					<l xml:id="l3">crudel tu mi tormenti</l>
+					<l xml:id="l4">Poco dunque ti pare</l>
+					<l xml:id="l5">ch’infelice io sia</l>
+					<l xml:id="l6">Ch’a crescier vieni la miseria mia.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

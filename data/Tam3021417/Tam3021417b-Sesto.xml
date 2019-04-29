@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Dolor che si mi crucii</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tam3021417b</idno>
+			<idno type="label">Tam3021417b (Sesto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tam3021417b-Sesto">
+					<title>Madrigali a sei voci. Libro primo</title>
+					<author role="composer">Massaino, Tiburtio</author>
+					<publisher>Gardano</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1604">1604</date>
+					<idno type="RISM">M 1294</idno>
+					<biblScope unit="page">20</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Dolor che si mi crucii</l>
+					<l xml:id="l2">[TACET] tu se pur lento</l>
+					<l xml:id="l3">Forse lasci l’officio à la mia mano</l>
+					<l xml:id="l4">Io son, io son contento</l>
+					<l xml:id="l5">Ch’ella prenda tal cura</l>
+					<l xml:id="l6">[TACET] ò che non puoi</l>
+					<l xml:id="l7">Ohime [TACET]</l>
+					<l xml:id="l8">[TACET]</l>
+					<l xml:id="l9">e nulla manca al colmo</l>
+					<l xml:id="l10">De la miseria mia</l>
+					<l xml:id="l11">Che bado? [TACET] ò Dafne ò Dafne</l>
+					<l xml:id="l12">A questo amaro fin tu mi salvasti?</l>
+					<l xml:id="l13">A questo fin amaro.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

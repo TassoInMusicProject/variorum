@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Rimanti in pace: i' vado: a te non lice</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">1581CV</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="1581CV">
+					<title></title>
+					<publisher>Antonio Canacci &amp; Erasmo Viotti</publisher>
+					<pubPlace>Casalmaggiore</pubPlace>
+					<date when="1581">1581</date>
+					<biblScope unit="page">191</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Rimanti in pace; i vado; à tè non lice</l>
+					<l xml:id="l2">Meco venir; chi mi conduce il vieta.</l>
+					<l xml:id="l3">Rimanti: ò và per altra via felice;</l>
+					<l xml:id="l4">E, come saggia, i tuoi consigli acqueta.</l>
+					<l xml:id="l5">Ella mentre il Guerrier così le dice,</l>
+					<l xml:id="l6">Non trova loco, torbida, inquieta.</l>
+					<l xml:id="l7">Già buona pezza in dispettosa fronte</l>
+					<l xml:id="l8">Torva il riguarda; alfin prorompe à l’onte.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

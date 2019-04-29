@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Non sono ire la sù: gli umani ingegni</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tam4021833a</idno>
+			<idno type="label">Tam4021833a (Basso)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tam4021833a-Basso">
+					<title>Il primo libro de madrigali a cinque voci</title>
+					<author role="composer">Boschetti, Giovanni Boschetto</author>
+					<publisher>Robletti</publisher>
+					<pubPlace>Rome</pubPlace>
+					<date when="1613">1613</date>
+					<idno type="RISM">B 3785</idno>
+					<biblScope unit="page">7	</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Non sono ire la sù gli humani ingegni</l>
+					<l xml:id="l2">Tu placidi ne rendi e l’odio interno</l>
+					<l xml:id="l3">[TACET] da mansueti cori</l>
+					<l xml:id="l4">Sgombri mille furori,</l>
+					<l xml:id="l5">E quasi fai col tuo valor superno</l>
+					<l xml:id="l6">De le cose mortali un giro eterno.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Ho visto al pianto mio</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tam1020338d</idno>
+			<idno type="label">Tam1020338d (Quinto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tam1020338d-Quinto">
+					<title>Il primo libro de madrigali a cinque voci</title>
+					<author role="composer">Boschetti, Giovanni Boschetto</author>
+					<publisher>Robletti</publisher>
+					<pubPlace>Rome</pubPlace>
+					<date when="1613">1613</date>
+					<idno type="RISM">B 3785</idno>
+					<biblScope unit="page">5</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Ho visto al pianto mio</l>
+					<l xml:id="l2">Risponder per pietate i sassi, e l’onde,</l>
+					<l xml:id="l3">E sospirar le fronde</l>
+					<l xml:id="l4">Ho visto al pianto mio</l>
+					<l xml:id="l5">Ma non ho visto mai;</l>
+					<l xml:id="l6">Nè spero di vedere</l>
+					<l xml:id="l7">compassion nella crudel’e bella,</l>
+					<l xml:id="l8">che non sò s’io mi chiami ò donna, ò fera.</l>
+					<l xml:id="l9">Ma nega d’esser donna,</l>
+					<l xml:id="l10">poi che nega pietate</l>
+					<l xml:id="l11">A chi non la negaro</l>
+					<l xml:id="l12">Le cose inanimate.</l>
+					<l xml:id="l13">[OMITTED]</l>
+					<l xml:id="l14">[OMITTED]</l>
+					<l xml:id="l15">[OMITTED]</l>
+					<l xml:id="l16">[OMITTED]</l>
+					<l xml:id="l17">[OMITTED]</l>
+					<l xml:id="l18">[OMITTED]</l>
+					<l xml:id="l19">[OMITTED]</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

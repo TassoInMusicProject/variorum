@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Tu taci: tu sei vinto. Ora confessa</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tam2031133a</idno>
+			<idno type="label">Tam2031133a (Tenore)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tam2031133a-Tenore">
+					<title>Novellette a sei voci</title>
+					<author role="composer">Balsamino, Simone</author>
+					<publisher>Amadino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1594">1594</date>
+					<idno type="RISM">B 785</idno>
+					<biblScope unit="page">16</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">TIRSI Tu taci tu sei vinto Hora confessa</l>
+					<l xml:id="l2">questa perdita tua [TACET]</l>
+					<l xml:id="l3">[TACET] andianne</l>
+					<l xml:id="l4">AMINTA aspetta</l>
+					<l xml:id="l5">TIRSI che Aspetta Non sai ben che’l tempo fugge</l>
+					<l xml:id="l6">AMINTA Dhe pensiam pria se ciò de fars’e come</l>
+					<l xml:id="l7">TIRSI Per strada pensarem ciò che vi resta</l>
+					<l xml:id="l8">Ma nulla fa chi troppe cose pensa.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

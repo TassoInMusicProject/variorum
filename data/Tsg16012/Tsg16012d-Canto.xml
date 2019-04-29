@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Vezzosi augelli infra le verdi fronde</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tsg16012d</idno>
+			<idno type="label">Tsg16012d (Canto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tsg16012d-Canto">
+					<title>Fiori musicali di diversi auttori a tre voci. Libro secondo</title>
+					<author role="composer">Asola, Giammateo</author>
+					<publisher>G. Vincenzi</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1588">1588</date>
+					<idno type="RISM">1588/20</idno>
+					<biblScope unit="page">3</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Gio. Matteo Asola.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Vezzosi augell’infra le verdi frondi</l>
+					<l xml:id="l2">Tempran’a prova lascivete note</l>
+					<l xml:id="l3">Mormora l’aura e fa le foglie e l’onde</l>
+					<l xml:id="l4">Garrir che variament’ella percote</l>
+					<l xml:id="l5">Quando taccion gl’augelli alto risponde</l>
+					<l xml:id="l6">Quando cantan gl’augei piu liene scote</l>
+					<l xml:id="l7">Sia caso od’art’hor accompagna &amp; hora</l>
+					<l xml:id="l8">altern’i versi lor la musica hora.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

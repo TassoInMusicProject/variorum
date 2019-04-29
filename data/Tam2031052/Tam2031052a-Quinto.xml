@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Qual ardir mi bisogna, e 'incontra a cui?</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tam2031052a</idno>
+			<idno type="label">Tam2031052a (Quinto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tam2031052a-Quinto">
+					<title>Novellette a sei voci</title>
+					<author role="composer">Balsamino, Simone</author>
+					<publisher>Amadino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1594">1594</date>
+					<idno type="RISM">B 785</idno>
+					<biblScope unit="page">3</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">[TACET]</l>
+					<l xml:id="l2">Se la tua Donna foss’in mez’un bosco</l>
+					<l xml:id="l3">Che cint’intorno d’altissime rupi</l>
+					<l xml:id="l4">Desse albergo a le Tigr’ &amp; a Leoni</l>
+					<l xml:id="l5">V’andresti tu</l>
+					<l xml:id="l6">[TACET]</l>
+					<l xml:id="l7">[TACET]</l>
+					<l xml:id="l8">E s’ella fosse tra ladron’ &amp; armi</l>
+					<l xml:id="l9">V’andresti tu</l>
+					<l xml:id="l10">V’andrei più liet’e pronto</l>
+					<l xml:id="l11">Che l’assettato Cerv’a la fontana.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

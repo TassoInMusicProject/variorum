@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Se m'odii e in ciò diletto alcun tu senti</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">1581CV</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="1581CV">
+					<title></title>
+					<publisher>Antonio Canacci &amp; Erasmo Viotti</publisher>
+					<pubPlace>Casalmaggiore</pubPlace>
+					<date when="1581">1581</date>
+					<biblScope unit="page">190</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Se m’odij; e'n ciò diletto alcun tù senti:</l>
+					<l xml:id="l2">Non te'n vengo à privar; godi pur d’esso.</l>
+					<l xml:id="l3">Giusto à tè pare: e siasi; anch’io le genti</l>
+					<l xml:id="l4">Cristiane odiai (no'l nego) odiai tè stesso.</l>
+					<l xml:id="l5">Nacqui Pagana: usai vaghi argomenti,</l>
+					<l xml:id="l6">Che per mè fosse il vostro Imperio oppresso;</l>
+					<l xml:id="l7">Tè perseguì, te presi: e tè, lontano</l>
+					<l xml:id="l8">Da l’arme, trassi in loco ignoto, e strano.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

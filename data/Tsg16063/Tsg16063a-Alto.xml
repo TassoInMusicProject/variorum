@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Poi ch'ella in sé tornò, deserto e muto</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tsg16063a</idno>
+			<idno type="label">Tsg16063a (Alto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tsg16063a-Alto">
+					<title>Il terzo libro de madrigali a cinque voci</title>
+					<author role="composer">Monteverdi, Claudio</author>
+					<publisher>Amadino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1592">1592</date>
+					<idno type="RISM">M 3459</idno>
+					<biblScope unit="page">10-11</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Terza, &amp; ultima. [page 11]</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Poi ch’ella in se tornò deserto e muto</l>
+					<l xml:id="l2">Quanto mirar potè d’intorno scorse</l>
+					<l xml:id="l3">Ito s’è ne pur disse &amp; ha potuto</l>
+					<l xml:id="l4">Me qui lasciar de la mia vita in forse</l>
+					<l xml:id="l5">Ne un momento indugiò ne un breve aiuto</l>
+					<l xml:id="l6">Nel caso estremo il traditor mi porse</l>
+					<l xml:id="l7">Et io pur anco l’amo e’in questo lido</l>
+					<l xml:id="l8">Invendicata ancor piango &amp; m’assido</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

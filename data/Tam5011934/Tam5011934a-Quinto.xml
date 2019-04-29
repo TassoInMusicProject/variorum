@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Ma come Silvia il riconobbe e vide</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tam5011934a</idno>
+			<idno type="label">Tam5011934a (Quinto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tam5011934a-Quinto">
+					<title>Madrigali a cinque voci. Libro primo</title>
+					<author role="composer">Ghizzolo, Giovanni</author>
+					<publisher>Raverij</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1608">1608</date>
+					<idno type="RISM">G 1801</idno>
+					<biblScope unit="page">17</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Ma come Silvia il riconobb’e vide</l>
+					<l xml:id="l2">Le belle guancie tenere d’Aminta</l>
+					<l xml:id="l3">Iscolorite in si leggiadri modi</l>
+					<l xml:id="l4">Che viola non è ch’impallidisca</l>
+					<l xml:id="l5">Si dolcemente e lui languir si fatto</l>
+					<l xml:id="l6">[TACET]</l>
+					<l xml:id="l7">Essalar l’alma in guisa di Baccante</l>
+					<l xml:id="l8">Gridando e percotendosi il bel petto</l>
+					<l xml:id="l9">Lasciò cadersi in sul giacente corpo</l>
+					<l xml:id="l10">E gionse viso à viso, e bocc’a bocca.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

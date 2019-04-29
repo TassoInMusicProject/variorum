@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Io vivo? Io spiro ancora? E gli odiosi</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">1581CV</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="1581CV">
+					<title></title>
+					<publisher>Antonio Canacci &amp; Erasmo Viotti</publisher>
+					<pubPlace>Casalmaggiore</pubPlace>
+					<date when="1581">1581</date>
+					<biblScope unit="page">148</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Io vivo? io spiro ancora? e gli odiosi</l>
+					<l xml:id="l2">Rai miro ancor di questo infausto dìe?</l>
+					<l xml:id="l3">Dì: testimon de’ miei misfatti ascosi:</l>
+					<l xml:id="l4">Che rimprovera à me le colpe mie.</l>
+					<l xml:id="l5">Ahi man timida, e lenta; hor che non osi:</l>
+					<l xml:id="l6">Tù, che sai tutte del ferir le vie:</l>
+					<l xml:id="l7">Tù ministra di morte, empia, &amp; infame:</l>
+					<l xml:id="l8">Di questa vita rea troncar lo stame?</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

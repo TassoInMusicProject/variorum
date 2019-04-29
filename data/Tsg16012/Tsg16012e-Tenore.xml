@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Vezzosi augelli infra le verdi fronde</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tsg16012e</idno>
+			<idno type="label">Tsg16012e (Tenore)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tsg16012e-Tenore">
+					<title>Il secondo libro delle canzonette a 3 voci</title>
+					<author role="composer">Molinaro, Simone</author>
+					<publisher>Amadino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1600">1600</date>
+					<idno type="RISM">M 2933</idno>
+					<biblScope unit="page">18</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Vezzosi augelli infra le verdi fronde</l>
+					<l xml:id="l2">Tempran’a prova lascivette note</l>
+					<l xml:id="l3">Mormora l aura e fa le foglie e l’onde</l>
+					<l xml:id="l4">Garrir che variamente ella percote</l>
+					<l xml:id="l5">Quando taccion gli augelli alto risponde</l>
+					<l xml:id="l6">Quando cantan gli augei più lieve scote</l>
+					<l xml:id="l7">Sia caso od arte hor accompagna ed hora</l>
+					<l xml:id="l8">Alterna i versi lor la musica ora.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

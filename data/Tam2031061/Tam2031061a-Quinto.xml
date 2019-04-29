@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Bisogna a maggior prova ardir più grande</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tam2031061a</idno>
+			<idno type="label">Tam2031061a (Quinto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tam2031061a-Quinto">
+					<title>Novellette a sei voci</title>
+					<author role="composer">Balsamino, Simone</author>
+					<publisher>Amadino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1594">1594</date>
+					<idno type="RISM">B 785</idno>
+					<biblScope unit="page">4</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">TIRSI Bisogn’a maggior prov’ardir più grande</l>
+					<l xml:id="l2">AMINTA Andrò per mez’i rapidi torrenti</l>
+					<l xml:id="l3">Quando la neve si discioglie e gonfi</l>
+					<l xml:id="l4">Li mand’al mare [TACET]</l>
+					<l xml:id="l5">[TACET] quand’ella vi sia</l>
+					<l xml:id="l6">S’esser puo infern’ov’è cosa sì bella.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

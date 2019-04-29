@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Pastor di che piangete?</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tam4021779a</idno>
+			<idno type="label">Tam4021779a (Tenore)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tam4021779a-Tenore">
+					<title>Madrigali a sei voci. Libro primo</title>
+					<author role="composer">Massaino, Tiburtio</author>
+					<publisher>Gardano</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1604">1604</date>
+					<idno type="RISM">M 1294</idno>
+					<biblScope unit="page">19</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Pastor di che piangete</l>
+					<l xml:id="l2">Se piangete il mio affanno</l>
+					<l xml:id="l3">Io non merto pietate</l>
+					<l xml:id="l4">Che non la seppi usare</l>
+					<l xml:id="l5">[TACET]</l>
+					<l xml:id="l6">Del misero innocente</l>
+					<l xml:id="l7">[TACET]</l>
+					<l xml:id="l8">A sì alta cagione. [TACET] rasciuga</l>
+					<l xml:id="l9">Dafne queste tue lagrime [TACET]</l>
+					<l xml:id="l10">Se cagion ne son io.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

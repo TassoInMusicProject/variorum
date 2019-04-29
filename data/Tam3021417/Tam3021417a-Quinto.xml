@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Dolor che si mi crucii</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tam3021417a</idno>
+			<idno type="label">Tam3021417a (Quinto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tam3021417a-Quinto">
+					<title>Aminta musicale. Il primo libro de madrigali a cinque voci</title>
+					<author role="composer">Marotta, Erasmo</author>
+					<publisher>Gardano</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1600">1600</date>
+					<idno type="RISM">M 714</idno>
+					<biblScope unit="page">16</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Dolor che sì mi crucii</l>
+					<l xml:id="l2">Che non m’uccidi homai tu sei pur lento</l>
+					<l xml:id="l3">Forse lasci l’officio a la mia mano</l>
+					<l xml:id="l4">Io son Io son contento</l>
+					<l xml:id="l5">ch’ella Prenda tal cura</l>
+					<l xml:id="l6">Poiche tu la ricusi ò che non puoi</l>
+					<l xml:id="l7">Ohime se nulla manca</l>
+					<l xml:id="l8">A la certezza homai</l>
+					<l xml:id="l9">E nulla manca al colmo</l>
+					<l xml:id="l10">De la miseria mia</l>
+					<l xml:id="l11">[TACET] ò Dafne ò Dafne</l>
+					<l xml:id="l12">A quest’ amaro fin tu mi salvasti</l>
+					<l xml:id="l13">A questo fin’ amaro.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

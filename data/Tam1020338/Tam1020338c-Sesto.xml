@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Ho visto al pianto mio</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tam1020338c</idno>
+			<idno type="label">Tam1020338c (Sesto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tam1020338c-Sesto">
+					<title>Il secondo libro de madrigali a sei voci</title>
+					<author role="composer">Massaino, Tiburtio</author>
+					<publisher>G. Vincenzi</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1604">1604</date>
+					<idno type="RISM">M 1295</idno>
+					<biblScope unit="page">4</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Ho visto al pianto mio</l>
+					<l xml:id="l2">Risponder per piatate i sassi, e l’onde,</l>
+					<l xml:id="l3">E sospirar [TACET]</l>
+					<l xml:id="l4">Ho visto al pianto mio</l>
+					<l xml:id="l5">Ne spero di vedere</l>
+					<l xml:id="l6">[TACET]</l>
+					<l xml:id="l7">Che non sò s’io mi chiam’ò Donn’ò Fera</l>
+					<l xml:id="l8">[TACET]</l>
+					<l xml:id="l9">Poi che nega pietate</l>
+					<l xml:id="l10">A chi non la negaro</l>
+					<l xml:id="l11">Le cose inanimate</l>
+					<l xml:id="l12">Pasce l’Agna l’herbette [TACET]</l>
+					<l xml:id="l13">Ma il crud’Amor di lagrime si pasce</l>
+					<l xml:id="l14">[TACET] ahi lasso</l>
+					<l xml:id="l15">Che pur satollo e del mio pianto homai</l>
+					<l xml:id="l16">E solo ha sete del mio sangue e tosto</l>
+					<l xml:id="l17">Voglio ch’egli e quest’empia il sangue mio</l>
+					<l xml:id="l18">Bevan con gl’occhi.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

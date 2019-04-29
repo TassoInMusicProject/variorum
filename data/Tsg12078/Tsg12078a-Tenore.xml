@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Ma dove, oh lasso, me! dove restaro</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tsg12078a</idno>
+			<idno type="label">Tsg12078a (Tenore)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tsg12078a-Tenore">
+					<title>Il terzo libro de madrigali a cinque voci</title>
+					<author role="composer">Monteverdi, Claudio</author>
+					<publisher>Amadino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1592">1592</date>
+					<idno type="RISM">M 3459</idno>
+					<biblScope unit="page">18</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Seconda parte.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Ma dove ò lasso me dove restaro</l>
+					<l xml:id="l2">Le reliquie del corpo e bello e casto</l>
+					<l xml:id="l3">Ciò che’in lui sano i miei furor lasciaro</l>
+					<l xml:id="l4">Dal furor da le fere e forse guasto</l>
+					<l xml:id="l5">[TACET]</l>
+					<l xml:id="l6">[TACET]</l>
+					<l xml:id="l7">Ahi sfortunato in cui l’ombre e le selve</l>
+					<l xml:id="l8">Iritaron me prima e poi le belve.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Credi tu dunque, sciocco. che mai Dafne</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tam2031113a</idno>
+			<idno type="label">Tam2031113a (Basso)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tam2031113a-Basso">
+					<title>Novellette a sei voci</title>
+					<author role="composer">Balsamino, Simone</author>
+					<publisher>Amadino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1594">1594</date>
+					<idno type="RISM">B 785</idno>
+					<biblScope unit="page">13</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">TIRSI Credi tu dunque sciocco che mai Dafne</l>
+					<l xml:id="l2">Consigliasse l’andar se non vedesse</l>
+					<l xml:id="l3">In parte il cor di Silvia è forse ch’ella</l>
+					<l xml:id="l4">Il sa ne pero vuol ch’altri risappia</l>
+					<l xml:id="l5">Ch’ella ciò sappia hor se’l consenso espresso</l>
+					<l xml:id="l6">Cerchi di lei non vedi che tu cerchi</l>
+					<l xml:id="l7">Quel che più le dispiace hor dov’è dunque</l>
+					<l xml:id="l8">Questo tuo desiderio di piacerle.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

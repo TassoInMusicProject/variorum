@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Così dicendo avvicinò le labbra</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tam1020459a</idno>
+			<idno type="label">Tam1020459a (Quinto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tam1020459a-Quinto">
+					<title>Aminta musicale. Il primo libro de madrigali a cinque voci</title>
+					<author role="composer">Marotta, Erasmo</author>
+					<publisher>Gardano</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1600">1600</date>
+					<idno type="RISM">M 714</idno>
+					<biblScope unit="page">8</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Così dicendo avicinò le labra</l>
+					<l xml:id="l2">De la sua bella e dolcissima bocca</l>
+					<l xml:id="l3">A la guancia rimorsa e con soave</l>
+					<l xml:id="l4">Susurro mormorò non sò che versi</l>
+					<l xml:id="l5">O mirabili effetti senti tosto</l>
+					<l xml:id="l6">Cessar la doglia ò fosse la virtute</l>
+					<l xml:id="l7">De quei Magici detti ò com’io credo</l>
+					<l xml:id="l8">La virtù de la bocca</l>
+					<l xml:id="l9">Che sana ciò che tocca.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

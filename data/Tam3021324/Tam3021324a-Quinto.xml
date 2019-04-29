@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Dispietata pietate</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tam3021324a</idno>
+			<idno type="label">Tam3021324a (Quinto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tam3021324a-Quinto">
+					<title>Il terzo libro de madrigali a cinque voci</title>
+					<author role="composer">D'India, Sigismondo</author>
+					<publisher>Gardano-Magni</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1615">1615</date>
+					<idno type="RISM">I 27</idno>
+					<biblScope unit="page">1</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Dispietata pietate</l>
+					<l xml:id="l2">fu la tua veramente o Dafne all’hora</l>
+					<l xml:id="l3">che ritenesti il dardo</l>
+					<l xml:id="l4">però che ’l mio morire</l>
+					<l xml:id="l5">piu amaro sara quanto piu tardo</l>
+					<l xml:id="l6">&amp; hor perche m’avolgi</l>
+					<l xml:id="l7">per si diverse strade e per si varii</l>
+					<l xml:id="l8">ragionament’ in vano di che temi</l>
+					<l xml:id="l9">ch’io non m’uccida temi del mio bene</l>
+					<l xml:id="l10">Deh lasciami morir in tante pene.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

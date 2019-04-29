@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Io verrò là dove sete; e voi</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tsg12079a</idno>
+			<idno type="label">Tsg12079a (Quinto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tsg12079a-Quinto">
+					<title>Il terzo libro de madrigali a cinque voci</title>
+					<author role="composer">Monteverdi, Claudio</author>
+					<publisher>Amadino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1592">1592</date>
+					<idno type="RISM">M 3459</idno>
+					<biblScope unit="page">19</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Terza, &amp; ult. parte.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Io pur verrò la dove sete e voi</l>
+					<l xml:id="l2">Meco havrò s’anco sete amate spoglie</l>
+					<l xml:id="l3">Ma s’egli avien ch’i vaghi membri suoi</l>
+					<l xml:id="l4">Stati sian cibo di ferine voglie</l>
+					<l xml:id="l5">Vuò che la bocca stess’anco me’ingoi</l>
+					<l xml:id="l6">E’l ventre chiuda me che lor racoglie</l>
+					<l xml:id="l7">Honorata per me tomba felice</l>
+					<l xml:id="l8">Ovunque sia s’esser con lor mi lice.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

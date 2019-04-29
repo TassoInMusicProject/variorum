@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Perché dunque non osi oltra sua voglia</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tam2031100a</idno>
+			<idno type="label">Tam2031100a (Basso)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tam2031100a-Basso">
+					<title>Novellette a sei voci</title>
+					<author role="composer">Balsamino, Simone</author>
+					<publisher>Amadino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1594">1594</date>
+					<idno type="RISM">B 785</idno>
+					<biblScope unit="page">10</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">TIRSI Perche dunque non osi oltra sua voglia</l>
+					<l xml:id="l2">Prenderne quel che se ben grav’in prima</l>
+					<l xml:id="l3">Al fin Al fin le sarà car’e dolce</l>
+					<l xml:id="l4">Che l’habbia preso</l>
+					<l xml:id="l5">AMINTA Ahi Tirsi Amor risponda</l>
+					<l xml:id="l6">Per me che quant’a mez’il cor mi parla</l>
+					<l xml:id="l7">Non so ridir Tu troppo scaltro sei.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

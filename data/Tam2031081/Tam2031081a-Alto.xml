@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>S'a mio senno farai, sarai felice</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tam2031081a</idno>
+			<idno type="label">Tam2031081a (Alto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tam2031081a-Alto">
+					<title>Novellette a sei voci</title>
+					<author role="composer">Balsamino, Simone</author>
+					<publisher>Amadino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1594">1594</date>
+					<idno type="RISM">B 785</idno>
+					<biblScope unit="page">7</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">S’a mio senno farai sarai felice</l>
+					<l xml:id="l2">E che consigli</l>
+					<l xml:id="l3">Che tu prenda Quello</l>
+					<l xml:id="l4">che la fortuna amica t’appresenta</l>
+					<l xml:id="l5">Tolga Dio ch’io mai faccia</l>
+					<l xml:id="l6">Cosa che le dispiaccia</l>
+					<l xml:id="l7">Cosa non feci mai che le spiacesse</l>
+					<l xml:id="l8">Fuor ch’amarla E quest’a me fu forza</l>
+					<l xml:id="l9">Forza di sua bellezza e non mia colpa.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

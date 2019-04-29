@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Poi ch'ella in sé tornò, deserto e muto</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">1581CV</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="1581CV">
+					<title></title>
+					<publisher>Antonio Canacci &amp; Erasmo Viotti</publisher>
+					<pubPlace>Casalmaggiore</pubPlace>
+					<date when="1581">1581</date>
+					<biblScope unit="page">192</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Poi ch’ella in sè tornò: deserto, e muto,</l>
+					<l xml:id="l2">Quanto mirar potè, d’intorno scorse.</l>
+					<l xml:id="l3">Ito se n’è pur (disse) &amp; ha potuto</l>
+					<l xml:id="l4">Mè qui lasciar della mia vita in forse?</l>
+					<l xml:id="l5">Nè un momento indugiò; nè un breve aiuto</l>
+					<l xml:id="l6">Nel caso estremo, il traditor mi porse.</l>
+					<l xml:id="l7">Et io pur anco l’amo; e'n questo lido</l>
+					<l xml:id="l8">Invendicata ancor piango, e m’assido?</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Io vidi già sotto l'ardente sole</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0247a</idno>
+			<idno type="label">Trm0247a (Basso)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0247a-Basso">
+					<title>Il secondo libro de madrigali a sei voci</title>
+					<author role="composer">Marenzio, Luca</author>
+					<publisher>Gardano</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1584">1584</date>
+					<idno type="RISM">M 504</idno>
+					<biblScope unit="page">17</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Io vidi gia sotto l’ardente sole</l>
+					<l xml:id="l2">Discolorati i fiori</l>
+					<l xml:id="l3">Come la mia licori</l>
+					<l xml:id="l4">Come i gigli del volto e le viole</l>
+					<l xml:id="l5">Che d’irrigar desio</l>
+					<l xml:id="l6">Con lagrimoso rio</l>
+					<l xml:id="l7">E seco insiem’impallidir anch’io</l>
+					<l xml:id="l8">Seco mutar sembiante</l>
+					<l xml:id="l9">Aventuroso amante.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

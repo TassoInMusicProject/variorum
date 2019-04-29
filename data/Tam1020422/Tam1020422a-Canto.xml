@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Ma mentre io fea rapina di animali</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tam1020422a</idno>
+			<idno type="label">Tam1020422a (Canto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tam1020422a-Canto">
+					<title>Aminta musicale. Il primo libro de madrigali a cinque voci</title>
+					<author role="composer">Marotta, Erasmo</author>
+					<publisher>Gardano</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1600">1600</date>
+					<idno type="RISM">M 714</idno>
+					<biblScope unit="page">4</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Ma mentr’io fea rapina d’animali</l>
+					<l xml:id="l2">Fui non sò come a me stesso rapito</l>
+					<l xml:id="l3">A poco a poco nacque nel mio petto</l>
+					<l xml:id="l4">Non sò da qual radice</l>
+					<l xml:id="l5">Com’herba suol che per se stessa germini</l>
+					<l xml:id="l6">Un’incognito affetto</l>
+					<l xml:id="l7">Che mi fea desiare</l>
+					<l xml:id="l8">D’esser sempre presente</l>
+					<l xml:id="l9">Alla mia bella Silvia.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

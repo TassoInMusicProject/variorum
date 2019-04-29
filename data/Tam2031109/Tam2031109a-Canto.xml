@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Dunque andar non vogliamo? Andare io voglio</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tam2031109a</idno>
+			<idno type="label">Tam2031109a (Canto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tam2031109a-Canto">
+					<title>Novellette a sei voci</title>
+					<author role="composer">Balsamino, Simone</author>
+					<publisher>Amadino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1594">1594</date>
+					<idno type="RISM">B 785</idno>
+					<biblScope unit="page">12</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">[TACET]</l>
+					<l xml:id="l2">AMINTA Andar io voglio</l>
+					<l xml:id="l3">Ma non dove tu stimi</l>
+					<l xml:id="l4">TIRSI E dove</l>
+					<l xml:id="l5">AMINTA A morte</l>
+					<l xml:id="l6">S’altro in mio prò non hai fatto che quant’</l>
+					<l xml:id="l7">Hora mi narri</l>
+					<l xml:id="l8">TIRSI E poco parti questo.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

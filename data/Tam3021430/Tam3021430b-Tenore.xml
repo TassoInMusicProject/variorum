@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Bello e dolce morir mi fu certo allora</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tam3021430b</idno>
+			<idno type="label">Tam3021430b (Tenore)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tam3021430b-Tenore">
+					<title>Madrigali a sei voci. Libro primo</title>
+					<author role="composer">Massaino, Tiburtio</author>
+					<publisher>Gardano</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1604">1604</date>
+					<idno type="RISM">M 1294</idno>
+					<biblScope unit="page">21</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">[TACET]</l>
+					<l xml:id="l2">Ch’uccidere mi volsi</l>
+					<l xml:id="l3">Tu me ’l negasti [TACET] à cui parea</l>
+					<l xml:id="l4">Ch’io precorressi co’l morir la noia</l>
+					<l xml:id="l5">Ch’apprestata m’havea</l>
+					<l xml:id="l6">Hor che fatt’hà l’estremo</l>
+					<l xml:id="l7">Della sua crudeltade</l>
+					<l xml:id="l8">Ben soffrirà ch’io moia</l>
+					<l xml:id="l9">E tu soffrir lo dei.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

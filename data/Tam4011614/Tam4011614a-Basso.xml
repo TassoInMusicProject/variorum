@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Misero Aminta!</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tam4011614a</idno>
+			<idno type="label">Tam4011614a (Basso)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tam4011614a-Basso">
+					<title>Madrigali a cinque voci. Libro primo</title>
+					<author role="composer">Ghizzolo, Giovanni</author>
+					<publisher>Raverij</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1608">1608</date>
+					<idno type="RISM">G 1801</idno>
+					<biblScope unit="page">16</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">O sfortunat’Aminta</l>
+					<l xml:id="l2">[TACET]</l>
+					<l xml:id="l3">[TACET]</l>
+					<l xml:id="l4">Con la tua mort’hai pur trafitto al fine</l>
+					<l xml:id="l5">Quel duro cor che non potesti mai</l>
+					<l xml:id="l6">Punger vivendo hor se tu spirto errante</l>
+					<l xml:id="l7">Si com’io credo, e de le membr’ignude</l>
+					<l xml:id="l8">Qui intorno sei mira il suo pianto, [TACET]</l>
+					<l xml:id="l9">[TACET]</l>
+					<l xml:id="l10">e s’era Tuo destin che tu fost’in mort’amato,</l>
+					<l xml:id="l11">E se questo crudel volea l’amore</l>
+					<l xml:id="l12">Venderti sol con prezzo cosi caro</l>
+					<l xml:id="l13">Desti quel prezzo tu ch’ella richiese</l>
+					<l xml:id="l14">E l’amor suo col tuo morir comprasti.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

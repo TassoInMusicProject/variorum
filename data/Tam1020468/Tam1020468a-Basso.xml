@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Io che fin a quel punto altro non volsi</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tam1020468a</idno>
+			<idno type="label">Tam1020468a (Basso)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tam1020468a-Basso">
+					<title>Aminta musicale. Il primo libro de madrigali a cinque voci</title>
+					<author role="composer">Marotta, Erasmo</author>
+					<publisher>Gardano</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1600">1600</date>
+					<idno type="RISM">M 714</idno>
+					<biblScope unit="page">9</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Io, che fin’à quel punto altro non volsi</l>
+					<l xml:id="l2">Ch’al soave splendor de gl’occhi belli</l>
+					<l xml:id="l3">E le dolci parole assai più dolci</l>
+					<l xml:id="l4">Che’l mormorar d’un lento fiumicello</l>
+					<l xml:id="l5">Che rompa il corso fra minuti sassi</l>
+					<l xml:id="l6">O che’l garrir de l’aura infra le frondi</l>
+					<l xml:id="l7">All’hor sentii in me novo desire</l>
+					<l xml:id="l8">D’appressar a la sua questa mia bocca.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

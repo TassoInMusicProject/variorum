@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Vorrò veder ciò che Tirsi avrà fatto</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tam2031034a</idno>
+			<idno type="label">Tam2031034a (Sesto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tam2031034a-Sesto">
+					<title>Novellette a sei voci</title>
+					<author role="composer">Balsamino, Simone</author>
+					<publisher>Amadino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1594">1594</date>
+					<idno type="RISM">B 785</idno>
+					<biblScope unit="page">1</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">[TACET]</l>
+					<l xml:id="l2">E s’havrà fatto nulla</l>
+					<l xml:id="l3">Prima ch’io vad’in nulla</l>
+					<l xml:id="l4">Uccider vo’ me stess’inanzi a gli occhi</l>
+					<l xml:id="l5">De la crudel fanciulla</l>
+					<l xml:id="l6">[TACET]</l>
+					<l xml:id="l7">[TACET]</l>
+					<l xml:id="l8">Colpo de suo begli occhi</l>
+					<l xml:id="l9">Altretanto piacer devra per certo</l>
+					<l xml:id="l10">La piaga del mio petto</l>
+					<l xml:id="l11">Colpo de la mia mano.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

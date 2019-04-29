@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Giunto a la tomba ove al suo spirto vivo</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tsg12096c</idno>
+			<idno type="label">Tsg12096c (Alto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tsg12096c-Alto">
+					<title>Il primo libro de madrigali à cinque voci</title>
+					<author role="composer">Ricci, Cesarina</author>
+					<publisher>Gardano</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1597">1597</date>
+					<idno type="RISM">R 1253</idno>
+					<biblScope unit="page">10-11</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Giunto à la tomba ov’al suo spirto vivo</l>
+					<l xml:id="l2">Dolorosa prigion il ciel prescrisse</l>
+					<l xml:id="l3">Pallido freddo muto e quasi privo</l>
+					<l xml:id="l4">Di moviment’al marm’il volt’affise</l>
+					<l xml:id="l5">Al fin sgorgand’un lachrimoso rivo</l>
+					<l xml:id="l6">In un languid’ohime proruppe e disse</l>
+					<l xml:id="l7">O sasso amat’&amp; honorato tanto</l>
+					<l xml:id="l8">Che dentr’hai le mie fiamm’e fuor il pianto.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>
