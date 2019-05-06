@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Più che Dïana è bella e più mi piace</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0276a</idno>
+			<idno type="label">Trm0276a (Basso)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0276a-Basso">
+					<title>L'amorosa caccia. A cinque voci</title>
+					<author role="composer">Bacchini, Giovanni Maria</author>
+					<publisher>Gardano</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1588">1588</date>
+					<idno type="RISM">1588-14</idno>
+					<biblScope unit="page">12</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Gio. Maria Bacchino [text underlay from 1592 reprint]</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Piu che Diana è bella e piu mi piace,</l>
+					<l xml:id="l2">Questa mia Donna anzi mia viva face,</l>
+					<l xml:id="l3">Ma non riscald'à pena</l>
+					<l xml:id="l4">Quand'ella è piu lucent'e piu serena</l>
+					<l xml:id="l5">Ne sparge i rai con rugiadose stille,</l>
+					<l xml:id="l6">Ma con fiamm'e faville</l>
+					<l xml:id="l7">Tal ch’ogni freddo core</l>
+					<l xml:id="l8">Ard'&amp; avvampa d’amoroso ardore.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

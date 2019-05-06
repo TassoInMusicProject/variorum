@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Anime sante e belle</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm1637a</idno>
+			<idno type="label">Trm1637a (Quinto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm1637a-Quinto">
+					<title>Sacre lodi</title>
+					<author role="composer">Gastoldi, Giovanni Giacomo</author>
+					<publisher>Amadino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1587">1587</date>
+					<idno type="RISM">G 480</idno>
+					<biblScope unit="page">12-13	</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">A tutti i Santi.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Anime sante e belle</l>
+					<l xml:id="l2">Che da gli affann'humani e da martiri</l>
+					<l xml:id="l3">Volaste à più sublimi &amp; alti giri</l>
+					<l xml:id="l4">Gradite i nostri preghi</l>
+					<l xml:id="l5">Su l’ali de la fede e de la speme</l>
+					<l xml:id="l6">E pur co’ vostri insieme</l>
+					<l xml:id="l7">La giustitia superna</l>
+					<l xml:id="l8">Homai fuor di suo corso à noi si pieghi</l>
+					<l xml:id="l9">Peccatori e no’l celo</l>
+					<l xml:id="l10">Voi colonne del cielo</l>
+					<l xml:id="l11">Anz'i Cieli voi sete</l>
+					<l xml:id="l12">Alme felici e liete</l>
+					<l xml:id="l13">Che narrate di Dio la gloria eterna.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

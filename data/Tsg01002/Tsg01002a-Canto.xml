@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>O musa, tu che di caduchi allori</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tsg01002a</idno>
+			<idno type="label">Tsg01002a (Canto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tsg01002a-Canto">
+					<title>Canzonette spirituali a due voci con altre a tre et a quattro da sonare</title>
+					<author role="composer">Bellanda, Lodovico</author>
+					<publisher>Dalle Donne &amp; Vargnano</publisher>
+					<pubPlace>Verona</pubPlace>
+					<date when="1599">1599</date>
+					<idno type="RISM">B 1706</idno>
+					<biblScope unit="page">1-2</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">O Musa tù che di caduchi allori</l>
+					<l xml:id="l2">non circondi la fronte in Elicona,</l>
+					<l xml:id="l3">Ma sù nel Cielo tra beati chori</l>
+					<l xml:id="l4">Hai di stelle immortal sacra corona.</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Tu spira al petto mio celesti ardori,</l>
+					<l xml:id="l6">Tu rischiara la voce, e tu perdona,</l>
+					<l xml:id="l7">Se con rozzi concenti adombro in parte</l>
+					<l xml:id="l8">delle gran lodi tue queste mie carte.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

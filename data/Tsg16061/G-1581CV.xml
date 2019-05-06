@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Chiudesti i lumi Armida: il cielo avaro</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1581CV</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1581CV">
+					<title>Gerusalemme liberata del sig. Torquato Tasso ... Tratta da fedeliss. copia, et ultimamente emendata di mano dell'istesso auttore. Ove non pur si veggono i sei canti, che mancano al Goffredo stampato in Vinetia; ma con notabile differenza d'argomento in molti luochi, e di stile; si leggono anco quei quattordici senza comparatione più corretti. Aggiunti a ciascun canto gli argomenti del sig. Oratio Ariosti</title>
+					<publisher>Antonio Canacci &amp; Erasmo Viotti</publisher>
+					<pubPlace>Casalmaggiore</pubPlace>
+					<date when="1581">1581</date>
+					<biblScope unit="page">192</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Chiudesti i lumi Armida; il Cielo avaro</l>
+					<l xml:id="l2">Invidiò il conforto à' tuoi martír.</l>
+					<l xml:id="l3">Apri, misera, gli occhi, il pianto amaro</l>
+					<l xml:id="l4">Ne gli occhi al tuo nemico hor che non miri?</l>
+					<l xml:id="l5">O s’udir tù’l potessi; ò come caro</l>
+					<l xml:id="l6">T’addolcirebbe il suon de’ suoi sospiri.</l>
+					<l xml:id="l7">Dà quanto ei puote: e prende (ah tù no'l vedi)</l>
+					<l xml:id="l8">Pietoso in vista, gli ultimi congedi.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

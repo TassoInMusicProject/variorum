@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Bruna sei tu ma bella</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0372b</idno>
+			<idno type="label">Trm0372b (Basso)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0372b-Basso">
+					<title>Il primo libro de madrigali a cinque voci</title>
+					<author role="composer">Mancini, Curzio</author>
+					<publisher>G. Vincenzi</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1605">1605</date>
+					<idno type="RISM">M 294</idno>
+					<biblScope unit="page">14</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Bruna sei tu ma bella</l>
+					<l xml:id="l2">Et ogni bel candore</l>
+					<l xml:id="l3">Perde co’l bruno tuo giudice Amore</l>
+					<l xml:id="l4">Bella sei tu ma bruna</l>
+					<l xml:id="l5">Pur se nè cade incolto</l>
+					<l xml:id="l6">bianco ligustro e negro fior'e colto</l>
+					<l xml:id="l7">Chi coglie ad’una ad una</l>
+					<l xml:id="l8">le tue lodi piu elette</l>
+					<l xml:id="l9">Che se nè tesse in rime ghirlandette.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

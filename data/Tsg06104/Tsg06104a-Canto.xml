@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Poi rimirando il campo ella dicea</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tsg06104a</idno>
+			<idno type="label">Tsg06104a (Canto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tsg06104a-Canto">
+					<title>L'ottavo libro de'madrigali a cinque voci</title>
+					<author role="composer">Il Verso, Antonio</author>
+					<publisher>Amadino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1603">1603</date>
+					<idno type="RISM">I 10</idno>
+					<biblScope unit="page">15</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Seconda stanza.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">[TACET]</l>
+					<l xml:id="l2">O belle à gli occhi miei tende Latine</l>
+					<l xml:id="l3">Aura spira da voi che mi ricrea</l>
+					<l xml:id="l4">E mi conforta pur che mi'avicine</l>
+					<l xml:id="l5">Così a mia vita combattuta e rea</l>
+					<l xml:id="l6">Qualche onesto riposo il ciel destine</l>
+					<l xml:id="l7">Come in voi solo il cerco e solo parmi</l>
+					<l xml:id="l8">Che trovar possa pace in mezo à l’armi.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

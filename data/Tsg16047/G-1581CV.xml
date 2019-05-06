@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Sia questa pur tra le mie frodi, e vaglia</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1581CV</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1581CV">
+					<title>Gerusalemme liberata del sig. Torquato Tasso ... Tratta da fedeliss. copia, et ultimamente emendata di mano dell'istesso auttore. Ove non pur si veggono i sei canti, che mancano al Goffredo stampato in Vinetia; ma con notabile differenza d'argomento in molti luochi, e di stile; si leggono anco quei quattordici senza comparatione più corretti. Aggiunti a ciascun canto gli argomenti del sig. Oratio Ariosti</title>
+					<publisher>Antonio Canacci &amp; Erasmo Viotti</publisher>
+					<pubPlace>Casalmaggiore</pubPlace>
+					<date when="1581">1581</date>
+					<biblScope unit="page">190	</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Sia questa pur trà le mie frodi: e vaglia</l>
+					<l xml:id="l2">Sì di tante mie colpe in tè il difetto,</l>
+					<l xml:id="l3">Che tù quinci ti parta; e non ti caglia</l>
+					<l xml:id="l4">Di quest'albergo tuo già sì diletto.</l>
+					<l xml:id="l5">Vattene: e passa il mar: pugna, travaglia</l>
+					<l xml:id="l6">Struggi la Fede nostra: anch’io t’affretto.</l>
+					<l xml:id="l7">Che dico nostra? ah non più mia; fedele</l>
+					<l xml:id="l8">Sono à te solo, Idolo mio crudele.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Perché la mia Dïana, anzi 'l mio sole</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0277a</idno>
+			<idno type="label">Trm0277a (Basso)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0277a-Basso">
+					<title>L'amorosa caccia. A cinque voci</title>
+					<author role="composer">Cantino, Paolo</author>
+					<publisher>Gardano</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1588">1588</date>
+					<idno type="RISM">1588-14</idno>
+					<biblScope unit="page">14-15</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Paolo Cantino [text underlay from 1592 reprint]</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">[TACET]</l>
+					<l xml:id="l2">Anzi la vita mia</l>
+					<l xml:id="l3">[TACET]</l>
+					<l xml:id="l4">E de l’humil Sampogn'ascolti il suono</l>
+					<l xml:id="l5">Non scend'à me s'io miro i dolci raggi</l>
+					<l xml:id="l6">E tutte le sembianze e le sue forme</l>
+					<l xml:id="l7">[TACET]</l>
+					<l xml:id="l8">Se misuro i suoi passi &amp; suoi viaggi</l>
+					<l xml:id="l9">Ne mai candida lana od altro dono</l>
+					<l xml:id="l10">Di tal che pregh'&amp; ami</l>
+					<l xml:id="l11">[TACET]</l>
+					<l xml:id="l12">La moverebbe ancor vago lavoro</l>
+					<l xml:id="l13">Non pur il vello d’oro.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

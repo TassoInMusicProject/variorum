@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Mentre in grembo a la madre Amore un giorno</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0255a</idno>
+			<idno type="label">Trm0255a (Alto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0255a-Alto">
+					<title>Il secondo libro de madrigali a cinque voci, novamente ristampati et con diligenza riveduti</title>
+					<author role="composer">Giovannelli, Ruggiero</author>
+					<publisher>Gardano</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1599">1599</date>
+					<idno type="RISM">G 2480</idno>
+					<biblScope unit="page">21-22</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">[text underlay from 1607 reprint]</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Mentre in grembo à la madre Amore un giorno</l>
+					<l xml:id="l2">Dolcemente dormiva</l>
+					<l xml:id="l3">Una zanzara suffilava intorno</l>
+					<l xml:id="l4">Per quella verde riva</l>
+					<l xml:id="l5">Disse all'hor desto à quel sussuro Amore</l>
+					<l xml:id="l6">Da sì picciola forma</l>
+					<l xml:id="l7">Come esce sì gran voce e tal rumore</l>
+					<l xml:id="l8">Che sveglia ognun che dorma.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Con maniere vezzose</l>
+					<l xml:id="l10">Lusingandolo il sonno E co'l suo canto</l>
+					<l xml:id="l11">Venere hli rispose</l>
+					<l xml:id="l12">E tu picciolo sei</l>
+					<l xml:id="l13">Ma pur gli huomin'in terra co'l tuo pianto</l>
+					<l xml:id="l14">E 'n ciel desti gli Dei.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

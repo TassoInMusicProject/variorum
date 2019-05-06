@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Questa vita è la selva, il verde e l'ombra</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0443a</idno>
+			<idno type="label">Trm0443a (Tenore)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0443a-Tenore">
+					<title>L'amorosa caccia. A cinque voci</title>
+					<author role="composer">Zucca, Cesare</author>
+					<publisher>Gardano</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1588">1588</date>
+					<idno type="RISM">1588-14</idno>
+					<biblScope unit="page">30-31</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Cesare Zucca.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Questa vita è la selva il verde e l’ombre</l>
+					<l xml:id="l2">Son fallaci speranze e son le reti</l>
+					<l xml:id="l3">Piacer dolci secreti</l>
+					<l xml:id="l4">E sono hispidi dumi</l>
+					<l xml:id="l5">Feri sdegn'e costumi</l>
+					<l xml:id="l6">La fera è la mia Donna Amor l’arciero</l>
+					<l xml:id="l7">E veltr'il mio pensiero</l>
+					<l xml:id="l8">Ella ratta sen va senza ritegno</l>
+					<l xml:id="l9">Ne fugge per timor, ma per disdegno</l>
+					<l xml:id="l10">Non servitù ma pace</l>
+					<l xml:id="l11">E quant'è piu superba è piu fugace.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

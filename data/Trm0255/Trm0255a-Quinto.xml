@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Mentre in grembo a la madre Amore un giorno</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0255a</idno>
+			<idno type="label">Trm0255a (Quinto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0255a-Quinto">
+					<title>Il secondo libro de madrigali a cinque voci, novamente ristampati et con diligenza riveduti</title>
+					<author role="composer">Giovannelli, Ruggiero</author>
+					<publisher>Gardano</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1599">1599</date>
+					<idno type="RISM">G 2480</idno>
+					<biblScope unit="page">21-22</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">[text underlay from 1607 reprint] Mentre in grembo à la madre Amore un giorno 	Dolcemente dormiva 	Una zanzara suffilava intorno 	Per quella verde riva 	Disse all'hor desto [TACET] 	Da sì picciola forma 	Come esce sì gran voce e tal rumore 	Che sveglia ognun che dorma.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">[TACET]</l>
+					<l xml:id="l2">[TACET]</l>
+					<l xml:id="l3">[TACET]</l>
+					<l xml:id="l4">E tu picciolo sei</l>
+					<l xml:id="l5">Ma pur gli huomin'in terra co'l tuo pianto</l>
+					<l xml:id="l6">E 'n ciel desti gli Dei.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

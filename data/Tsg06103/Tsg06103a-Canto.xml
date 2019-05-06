@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Era la notte e 'l suo stellato velo</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tsg06103a</idno>
+			<idno type="label">Tsg06103a (Canto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tsg06103a-Canto">
+					<title>L'ottavo libro de'madrigali a cinque voci</title>
+					<author role="composer">Il Verso, Antonio</author>
+					<publisher>Amadino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1603">1603</date>
+					<idno type="RISM">I 10</idno>
+					<biblScope unit="page">14</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Prima stanza.	</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Era la notte e ’l suo stellato velo</l>
+					<l xml:id="l2">Chiaro spiegava e senza nube alcuna</l>
+					<l xml:id="l3">E già spargea rai luminosi e gelo</l>
+					<l xml:id="l4">Di vive perle la sorgente Luna</l>
+					<l xml:id="l5">L’innamorata Donna iva col Cielo</l>
+					<l xml:id="l6">Le sue fiamme sfogando ad una ad una</l>
+					<l xml:id="l7">E secretarij del suo amore antico</l>
+					<l xml:id="l8">Fea i muti campi e quel silentio amico.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

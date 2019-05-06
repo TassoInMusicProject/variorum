@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Non può l'angusto loco</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0319a</idno>
+			<idno type="label">Trm0319a (Basso)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0319a-Basso">
+					<title>Il primo libro de madrigali a cinque voci</title>
+					<author role="composer">Gastoldi, Giovanni Giacomo</author>
+					<publisher>Amadino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1588">1588</date>
+					<idno type="RISM">G 547</idno>
+					<biblScope unit="page">11</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Seconda parte.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Non puo l’humil terreno</l>
+					<l xml:id="l2">Tra primi Abeti e faggi</l>
+					<l xml:id="l3">[TACET]</l>
+					<l xml:id="l4">E'l vivo e dolce foco</l>
+					<l xml:id="l5">E chi nasconde il Sole</l>
+					<l xml:id="l6">Perche non splenda pur com’egli suole</l>
+					<l xml:id="l7">Occhi soavi e cari</l>
+					<l xml:id="l8">Occhi sereni e chiari</l>
+					<l xml:id="l9">Voi somigliar sovente</l>
+					<l xml:id="l10">Fate l'Angusta villa a l'Oriente.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

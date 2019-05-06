@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Occhi leggiadri e belli,/Nel vostro dolce nero</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0272b</idno>
+			<idno type="label">Trm0272b (Quinto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0272b-Quinto">
+					<title>Il primo libro de madrigali a cinque voci</title>
+					<author role="composer">Gastoldi, Giovanni Giacomo</author>
+					<publisher>Amadino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1588">1588</date>
+					<idno type="RISM">G 547</idno>
+					<biblScope unit="page">10-11</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Prima parte.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Occhi leggiadri  e belli</l>
+					<l xml:id="l2">Nel vostro dolce nero</l>
+					<l xml:id="l3">Un fanciul diventò scherzand'arciero,</l>
+					<l xml:id="l4">E saetta da gioco</l>
+					<l xml:id="l5">Mill’alme e mille cori,</l>
+					<l xml:id="l6">E rinfresca gli ardori</l>
+					<l xml:id="l7">E non gli mancan le saett'e ’l foco</l>
+					<l xml:id="l8">Ne gli mancar gia mai</l>
+					<l xml:id="l9">Che sono strali e fiamm'i vostri rai.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>
