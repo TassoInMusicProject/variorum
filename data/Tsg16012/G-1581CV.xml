@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Vezzosi augelli infra le verdi fronde</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1581CV</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1581CV">
+					<title>Gerusalemme liberata del sig. Torquato Tasso ... Tratta da fedeliss. copia, et ultimamente emendata di mano dell'istesso auttore. Ove non pur si veggono i sei canti, che mancano al Goffredo stampato in Vinetia; ma con notabile differenza d'argomento in molti luochi, e di stile; si leggono anco quei quattordici senza comparatione più corretti. Aggiunti a ciascun canto gli argomenti del sig. Oratio Ariosti</title>
+					<publisher>Antonio Canacci &amp; Erasmo Viotti</publisher>
+					<pubPlace>Casalmaggiore</pubPlace>
+					<date when="1581">1581</date>
+					<biblScope unit="page">186</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Vezzosi augelli, infrà le verdi fronde,</l>
+					<l xml:id="l2">Temprano à prova lascivette note.</l>
+					<l xml:id="l3">Mormora l’aura: e fà le foglie, e l’onde</l>
+					<l xml:id="l4">Garrir, che variamente ella percote;</l>
+					<l xml:id="l5">Quando taccion gli augelli alto risponde:</l>
+					<l xml:id="l6">Quando cantan gli augei più lieve scote;</l>
+					<l xml:id="l7">Sia caso, od arte: hora accompagna, et hora</l>
+					<l xml:id="l8">Alterna i versi lor la musica ora.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

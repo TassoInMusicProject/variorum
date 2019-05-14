@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Passa per questo petto e feri scempi</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1581CV</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1581CV">
+					<title>Gerusalemme liberata del sig. Torquato Tasso ... Tratta da fedeliss. copia, et ultimamente emendata di mano dell'istesso auttore. Ove non pur si veggono i sei canti, che mancano al Goffredo stampato in Vinetia; ma con notabile differenza d'argomento in molti luochi, e di stile; si leggono anco quei quattordici senza comparatione più corretti. Aggiunti a ciascun canto gli argomenti del sig. Oratio Ariosti</title>
+					<publisher>Antonio Canacci &amp; Erasmo Viotti</publisher>
+					<pubPlace>Casalmaggiore</pubPlace>
+					<date when="1581">1581</date>
+					<biblScope unit="page">148</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Passa pur questo petto; e fieri scempi,</l>
+					<l xml:id="l2">Co'l ferro tuo crudel, fà del mio core,</l>
+					<l xml:id="l3">Ma forse: usata à fatti atroci, &amp; empi:</l>
+					<l xml:id="l4">Stimi pietà dar morte al mio dolore.</l>
+					<l xml:id="l5">Dunque io vivrò, trà memorandi essempi</l>
+					<l xml:id="l6">Misero Mostro, d’infelice amore;</l>
+					<l xml:id="l7">Misero Mostro, à cui sol pena è degna</l>
+					<l xml:id="l8">De l’immensa empietà la vita indegna.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

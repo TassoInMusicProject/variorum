@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Tra Giove in cielo e 'l mio signor in terra</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0707a</idno>
+			<idno type="label">Trm0707a (Quinto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0707a-Quinto">
+					<title>Madrigali. Il terzo libro a sei voci</title>
+					<author role="composer">Agostini, Lodovico</author>
+					<publisher>Rossi &amp; Tottorino</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1582">1582</date>
+					<idno type="RISM">A 408</idno>
+					<biblScope unit="page">3-4</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Al Serenissimo, &amp; Invittiss. S. Duca di Ferrara</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Fra Giove in Cielo, e’l mio Signor in terra,</l>
+					<l xml:id="l2">Serva indivisa, e messaggiera accorta,</l>
+					<l xml:id="l3">L’Aquila vola, e l'una, e l'altra porta</l>
+					<l xml:id="l4">De l’alte reggie ogn'hor le si disserra.</l>
+					<l xml:id="l5">Prende se’l grido è vero, ella sotterra</l>
+					<l xml:id="l6">L’arme sonanti, e colà sù le porta,</l>
+					<l xml:id="l7">E fornitone il Ciel giù le riporta,</l>
+					<l xml:id="l8">Tuona in Ciel Giove, e tuona ALFONSO in guerra.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">E tonò l’Avo in non lontani campi</l>
+					<l xml:id="l10">Quando al suo Rè, che riportava estinto</l>
+					<l xml:id="l11">Pregio sol di Cipresso, il diè di Palma.</l>
+					<l xml:id="l12">La vittoria successe in vece d’alma,</l>
+					<l xml:id="l13">E ravvivollo, e vincitor fe'l vinto.</l>
+					<l xml:id="l14">Hora hà'l Ciel maggior tuoni, ò più bei lampi?</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

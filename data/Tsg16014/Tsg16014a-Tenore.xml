@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>"Deh mira," egli cantò, "spuntar la rosa</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tsg16014a</idno>
+			<idno type="label">Tsg16014a (Tenore)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tsg16014a-Tenore">
+					<title>Il secondo libro delle canzonette a 3 voci</title>
+					<author role="composer">Molinaro, Simone</author>
+					<publisher>Amadino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1600">1600</date>
+					<idno type="RISM">M 2933</idno>
+					<biblScope unit="page">20</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Deh mira egli cantò spuntar la rosa</l>
+					<l xml:id="l2">Dal verde suo modesta e verginella</l>
+					<l xml:id="l3">Che mezo aperta ancora e mezo ascosa</l>
+					<l xml:id="l4">Quanto si mostra men tanto è più bella</l>
+					<l xml:id="l5">Ecco poi nudo il sen già baldanzosa</l>
+					<l xml:id="l6">Dispiega Ecco poi langue e non par quella</l>
+					<l xml:id="l7">Quella non par che desiata innanti</l>
+					<l xml:id="l8">Fu da mille donzelle e mille amanti.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Le amare notti in ch'io m'affliggo e doglio</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0939a</idno>
+			<idno type="label">Trm0939a (Basso)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0939a-Basso">
+					<title>Il secondo libro de madrigali a cinque voci</title>
+					<author role="composer">Gabella, Giovanni Battista</author>
+					<publisher>Gardano</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1588">1588</date>
+					<idno type="RISM">G 2</idno>
+					<biblScope unit="page">5-6</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">L'amare note in ch’io m’affligo e doglio</l>
+					<l xml:id="l2">Del ciel che si crudele à me sortille</l>
+					<l xml:id="l3">Infiamm'il cor di lucide faville</l>
+					<l xml:id="l4">E de l’antica mente io non mi spoglio</l>
+					<l xml:id="l5">Ne'n port'ancora le mie vele accoglio</l>
+					<l xml:id="l6">Ne l’aura incerta che pur dianzi aprile</l>
+					<l xml:id="l7">Vien che l’aura sereni e’l Mar tranquille</l>
+					<l xml:id="l8">E son quasi nochier che rompe à scoglio.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">[TACET]</l>
+					<l xml:id="l10">Sorte si dura ò se pietà sovente</l>
+					<l xml:id="l11">Volge le stelle ò'l sol in te non dorma</l>
+					<l xml:id="l12">Chiara mia luce homai d'Oriente</l>
+					<l xml:id="l13">[TACET] Tu mi scampa [TACET]</l>
+					<l xml:id="l14">[TACET] e tu m’imprimi e forma.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

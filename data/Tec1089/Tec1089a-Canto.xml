@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Di che cantar degg'io</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tec1089a</idno>
+			<idno type="label">Tec1089a (Canto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tec1089a-Canto">
+					<title>Il secondo libro de madrigali, a quattro voci</title>
+					<author role="composer">Coma, Annibale</author>
+					<publisher>G. Vincenti</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1588">1588</date>
+					<idno type="RISM">C 3478</idno>
+					<biblScope unit="page">10</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Di che cantar degg'io</l>
+					<l xml:id="l2">Di Clori o d'Atalanta</l>
+					<l xml:id="l3">O pur come m'invoglia alto desio</l>
+					<l xml:id="l4">di lei ch'in questa riva</l>
+					<l xml:id="l5">S'è mostra in forma di celeste diva?</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

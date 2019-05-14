@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Deh perché sdegni me, com'egli è vago</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1581CV</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1581CV">
+					<title>Gerusalemme liberata del sig. Torquato Tasso ... Tratta da fedeliss. copia, et ultimamente emendata di mano dell'istesso auttore. Ove non pur si veggono i sei canti, che mancano al Goffredo stampato in Vinetia; ma con notabile differenza d'argomento in molti luochi, e di stile; si leggono anco quei quattordici senza comparatione più corretti. Aggiunti a ciascun canto gli argomenti del sig. Oratio Ariosti</title>
+					<publisher>Antonio Canacci &amp; Erasmo Viotti</publisher>
+					<pubPlace>Casalmaggiore</pubPlace>
+					<date when="1581">1581</date>
+					<biblScope unit="page">187</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Deh poi che sdegni me: com’egli è vago</l>
+					<l xml:id="l2">Mirar tù almen potessi il proprio volto:</l>
+					<l xml:id="l3">Ch’il guardo tuo, ch’altrove non è pago,</l>
+					<l xml:id="l4">Gioirebbe felice in sè rivolto.</l>
+					<l xml:id="l5">Non può specchio ritrar sì dolce imago;</l>
+					<l xml:id="l6">Nè'n picciol vetro è un paradiso accolto.</l>
+					<l xml:id="l7">Specchio t’è degno il Cielo: e ne le stelle</l>
+					<l xml:id="l8">Puoi riguardar le tue sembianze belle.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

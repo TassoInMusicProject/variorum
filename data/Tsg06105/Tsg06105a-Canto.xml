@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Raccogliete me dunque: e in voi si trove</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tsg06105a</idno>
+			<idno type="label">Tsg06105a (Canto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tsg06105a-Canto">
+					<title>L'ottavo libro de'madrigali a cinque voci</title>
+					<author role="composer">Il Verso, Antonio</author>
+					<publisher>Amadino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1603">1603</date>
+					<idno type="RISM">I 10</idno>
+					<biblScope unit="page">16</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Terza, &amp; ultima stanza.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Raccogliete me dunque e in voi si trove</l>
+					<l xml:id="l2">Quella pietà che mi promise Amore</l>
+					<l xml:id="l3">E ch’io già vidi prigioniera altrove</l>
+					<l xml:id="l4">Nel mansueto mio dolce Signore</l>
+					<l xml:id="l5">Ne già desio di racquistar mi move</l>
+					<l xml:id="l6">Co'l favor vostro il mio regale honore</l>
+					<l xml:id="l7">Quando ciò non avenga assai felice</l>
+					<l xml:id="l8">Io mi terrò sen' voi servir mi lice.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

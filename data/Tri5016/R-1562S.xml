@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>"Lasso," dicea, "Perché venisti Amore</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">R-1562S</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="R-1562S">
+					<title>Il Rinaldo di Torquato Tasso all'illustrissimo et reverendissimo D. Luigi d'Este Card.</title>
+					<publisher>Francesco de' Franceschi Senese</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1562">1562</date>
+					<biblScope unit="page">23v</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Lasso (dicea) perche venisti Amore,</l>
+					<l xml:id="l2">Amor d'ogni mio bene invidioso,</l>
+					<l xml:id="l3">Con le tue fiame a penetrarmi il core</l>
+					<l xml:id="l4">A turbar la mia pace, e'l mio riposo?</l>
+					<l xml:id="l5">Deh qual vanto, qual gloria, e qual honore</l>
+					<l xml:id="l6">N'aspetti, ò qual trionfo alto e pomposo</l>
+					<l xml:id="l7">D'haver un pastorel preso &amp; avinto</l>
+					<l xml:id="l8">Ch'à l'incontro primier si die per vinto.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

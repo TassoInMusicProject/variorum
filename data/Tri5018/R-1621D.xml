@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Tu perfido signor, tu disleale</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">R-1621D</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="R-1621D">
+					<title>Il Rinaldo del sig. Torquato Tasso. i nuouo riueduto, &amp; con diligenza corretto; Aggiuntovi gli argomenti, &amp; le allegorie à ciascun canto. Con la tavola delle cose più notabili [in Rime del Signor Torquato Tasso, divise in amorose, boscherezze, maritime, imenei, heroiche, morali, lugubri, sacre e varie. Con gli argomenti ad ogni compositione. Fatica del Sig. Carlo Fiamma. Aggiuntovi la vita, et sentenze dell'auttore scritta dell'illustrissimo Sig. Gio. Battista Manso]</title>
+					<publisher>Evangelista Deuchino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1621">1621</date>
+					<biblScope unit="page">34	</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">18	</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Tu perfido Signor, tu disleale,</l>
+					<l xml:id="l2">Che sotto ombra di ben copri il mal vero</l>
+					<l xml:id="l3">Oggetto desti impare, e diseguale,</l>
+					<l xml:id="l4">(Onde a pieno m'affliga) al mio pensiero,</l>
+					<l xml:id="l5">Deh, mie stelle crudel, hor quando tale</l>
+					<l xml:id="l6">Scempio fù visto, e cosi strano, e fiero?</l>
+					<l xml:id="l7">Che dove in altri amor da spemn nasce,</l>
+					<l xml:id="l8">Dal non sperar in me s'avviva, e pasce.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

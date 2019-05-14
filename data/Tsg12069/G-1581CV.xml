@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>D'un bel pallore ha il bianco volto asperso</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1581CV</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1581CV">
+					<title>Gerusalemme liberata del sig. Torquato Tasso ... Tratta da fedeliss. copia, et ultimamente emendata di mano dell'istesso auttore. Ove non pur si veggono i sei canti, che mancano al Goffredo stampato in Vinetia; ma con notabile differenza d'argomento in molti luochi, e di stile; si leggono anco quei quattordici senza comparatione più corretti. Aggiunti a ciascun canto gli argomenti del sig. Oratio Ariosti</title>
+					<publisher>Antonio Canacci &amp; Erasmo Viotti</publisher>
+					<pubPlace>Casalmaggiore</pubPlace>
+					<date when="1581">1581</date>
+					<biblScope unit="page">147</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">D’un bel pallore hà il bianco volto asperso:</l>
+					<l xml:id="l2">Come à gigli sarian miste viole;</l>
+					<l xml:id="l3">E gli occhi al Cielo affisa: e'n lei converso</l>
+					<l xml:id="l4">Sembra, per la pietate, il Cielo. e’l Sole.</l>
+					<l xml:id="l5">E la man nuda, e fredda alzando verso</l>
+					<l xml:id="l6">Il Cavaliero, in vece di parole:</l>
+					<l xml:id="l7">Gli dà il pegno di pace; e'n questa forma</l>
+					<l xml:id="l8">Passa la bella Donna: e par che dorma.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>
