@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>In un bel bosco di leggiadre fronde</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0395b</idno>
+			<idno type="label">Trm0395b (Canto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0395b-Canto">
+					<title>Il secondo libro de madrigali a sei voci</title>
+					<author role="composer">Marenzio, Luca</author>
+					<publisher>Gardano</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1584">1584</date>
+					<idno type="RISM">M 504</idno>
+					<biblScope unit="page">10-11</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">In un bel bosco di leggiadre fronde</l>
+					<l xml:id="l2">Ch’ombra si fà con le ramose braccia</l>
+					<l xml:id="l3">Amor che va de l’alme nostr’a caccia</l>
+					<l xml:id="l4">Tese le reti di due treccie bionde</l>
+					<l xml:id="l5">Cosi il mio cor c’havea di due gioconde</l>
+					<l xml:id="l6">Luci seguita la fallace traccia</l>
+					<l xml:id="l7">Preso restò com’animal s’allaccia</l>
+					<l xml:id="l8">Ne bei legami che ne l’ombra asconde.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">O dolce laccio o vaghe reti o bosco</l>
+					<l xml:id="l10">Vezzoso o cacciator che mi togliesti</l>
+					<l xml:id="l11">Il core dove l’hai crudele ascosto</l>
+					<l xml:id="l12">Io pur ritorno spesso a pianger vosco</l>
+					<l xml:id="l13">Et a cercar tra quest’herbette e questi</l>
+					<l xml:id="l14">Vaghi fioretti ove egli sia nascosto.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

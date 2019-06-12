@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Passa la nave tua che porta il core</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm1245a</idno>
+			<idno type="label">Trm1245a (Alto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm1245a-Alto">
+					<title>Il quarto libro de madrigali a cinque voci</title>
+					<author role="composer">Pallavicino, Benedetto</author>
+					<publisher>Gardano</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1588">1588</date>
+					<idno type="RISM">1588-28</idno>
+					<biblScope unit="page">24-26</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Passa la nave tua che porta il core</l>
+					<l xml:id="l2">Sotto un sereno ciel di stelle adorno</l>
+					<l xml:id="l3">Per questo mare è sta la notte e’l giorno</l>
+					<l xml:id="l4">Spiando i venti al suo governo amore</l>
+					<l xml:id="l5">A ciascun rem'un bel desio d’honore</l>
+					<l xml:id="l6">Non teme di fortun'oltraggio e scorno</l>
+					<l xml:id="l7">Empie la vela e rasserena intorno</l>
+					<l xml:id="l8">Aura di gioia e tempr'il dolce ardore.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Nebbia non lenta mai di feri sdegni</l>
+					<l xml:id="l10">Le sarte che di fede e di speranza</l>
+					<l xml:id="l11">Ha di sua mano il tuo signor attorto</l>
+					<l xml:id="l12">E scoprì i due lucenti amici segni</l>
+					<l xml:id="l13">E vive la ragione e l’arte e morta</l>
+					<l xml:id="l14">Tal ch’io già prendi il desiato porto.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

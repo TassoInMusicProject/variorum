@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Tu, bianca e vaga Luna</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm1276a</idno>
+			<idno type="label">Trm1276a (Basso)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm1276a-Basso">
+					<title>Madrigali. Il primo libro a due, tre e quattro</title>
+					<author role="composer">Vignali, Francesco</author>
+					<publisher>G. Vincenzi</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1640">1640</date>
+					<idno type="RISM">V 1484</idno>
+					<biblScope unit="page">14-15</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">A 4.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">tu bianca e vaga luna</l>
+					<l xml:id="l2">C’hai tanti specchi quanti sono i mari</l>
+					<l xml:id="l3">mira questo candore che non ha pari</l>
+					<l xml:id="l4">a lei mena i tuoi balli a lei distilla</l>
+					<l xml:id="l5">le tue dolci rugiade</l>
+					<l xml:id="l6">specchiati in lei con amoroso affetto</l>
+					<l xml:id="l7">E tu Venere all'hor con lei scintilla</l>
+					<l xml:id="l8">[TACET] e cade</l>
+					<l xml:id="l9">Tu Giove e Marte con benigno aspetto</l>
+					<l xml:id="l10">lumi sereni e chiari</l>
+					<l xml:id="l11">non siate a lei de vostri doni avari.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

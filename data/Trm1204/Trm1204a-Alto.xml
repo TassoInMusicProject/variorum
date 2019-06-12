@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Questa lieve zanzara</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm1204a</idno>
+			<idno type="label">Trm1204a (Alto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm1204a-Alto">
+					<title>Il primo libro de madrigali a cinque voci</title>
+					<author role="composer">Malpigli, Gentile</author>
+					<publisher>Amadino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1598">1598</date>
+					<idno type="RISM">M 253</idno>
+					<biblScope unit="page">2</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Questa lieve Zanzara</l>
+					<l xml:id="l2">Quant'hà sorte migliore</l>
+					<l xml:id="l3">De la Farfalla che s’infiamma e more</l>
+					<l xml:id="l4">L’una di chiaro foco</l>
+					<l xml:id="l5">Di gentil sangu'è vaga</l>
+					<l xml:id="l6">L’altra che vive di si bella piaga</l>
+					<l xml:id="l7">O fortunato loco</l>
+					<l xml:id="l8">Tra’l mento e il casto petto</l>
+					<l xml:id="l9">Altrove non fu mai maggior diletto.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

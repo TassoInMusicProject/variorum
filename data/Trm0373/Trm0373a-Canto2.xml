@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Bella e vaga brunetta</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0373a</idno>
+			<idno type="label">Trm0373a (Canto 2)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0373a-Canto 2">
+					<title>Madrigali. Il primo libro a due, tre e quattro</title>
+					<author role="composer">Vignali, Francesco</author>
+					<publisher>G. Vincenzi</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1640">1640</date>
+					<idno type="RISM">V 1484</idno>
+					<biblScope unit="page">9-10</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">A 2 Canti.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Bella e vaga brunetta,</l>
+					<l xml:id="l2">i vostr'occhi lucenti</l>
+					<l xml:id="l3">son strali e fiamme ardenti.</l>
+					<l xml:id="l4">Con ch'amor'il mio cor arde e saetta</l>
+					<l xml:id="l5">ne grid'ancor vendetta</l>
+					<l xml:id="l6">perche son dolci e cari</l>
+					<l xml:id="l7">i vostri sguardi avari.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

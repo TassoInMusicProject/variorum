@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Mesola, il Po da' lati e 'l mar a fronte</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0929a</idno>
+			<idno type="label">Trm0929a (Canto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0929a-Canto">
+					<title>Il nono libro de madrigali a cinque et sei voci</title>
+					<author role="composer">Wert, Giaches de</author>
+					<publisher>Gardano</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1588">1588</date>
+					<idno type="RISM">W 887</idno>
+					<biblScope unit="page">20-21</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">A 6.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Mesola il Pò da lato e’l Mar a fronte</l>
+					<l xml:id="l2">Et intorno le mura e dentro i boschi</l>
+					<l xml:id="l3">E i seggi ombrosi e foschi</l>
+					<l xml:id="l4">Fanno le tue bellezz'altere e conte</l>
+					<l xml:id="l5">E sono opre d’Alfonso e piu non fece</l>
+					<l xml:id="l6">Mai l'art'ò la natura e far non lece.</l>
+					<l xml:id="l7">[OMITTED]</l>
+					<l xml:id="l8">[OMITTED]</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

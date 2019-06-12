@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Donna, lunge da voi</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0322a</idno>
+			<idno type="label">Trm0322a (Alto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0322a-Alto">
+					<title>Il quarto libro de madrigali a cinque voci</title>
+					<author role="composer">D'India, Sigismondo</author>
+					<publisher>Amadino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1616">1616</date>
+					<idno type="RISM">I 29</idno>
+					<biblScope unit="page">17</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Donna longe da voi</l>
+					<l xml:id="l2">Vivo del mio dolore</l>
+					<l xml:id="l3">Ne manca 'l cibo con la vit'al core</l>
+					<l xml:id="l4">Perche da voi deriva</l>
+					<l xml:id="l5">E pare un fiume senza fondo o riva</l>
+					<l xml:id="l6">Voi sete il font'e’l rio</l>
+					<l xml:id="l7">Della vostra bellezza e’l pianto mio.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

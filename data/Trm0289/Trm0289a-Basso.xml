@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Già tu volasti quattro volte e sei</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0289a</idno>
+			<idno type="label">Trm0289a (Basso)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0289a-Basso">
+					<title>Il primo libro de madrigali a cinque voci</title>
+					<author role="composer">Bonini, Pietro Andrea</author>
+					<publisher>Gardano</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1591">1591</date>
+					<idno type="RISM">B 3493</idno>
+					<biblScope unit="page">17</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">[TACET]</l>
+					<l xml:id="l2">[TACET]</l>
+					<l xml:id="l3">[TACET]</l>
+					<l xml:id="l4">Non bram'io luce ne son tanto folle</l>
+					<l xml:id="l5">Ma la morte vorrei</l>
+					<l xml:id="l6">Dove fortuna darla a te non volle</l>
+					<l xml:id="l7">O dolce chiuder gl'occhi</l>
+					<l xml:id="l8">S’averrà che spirar in lui mi tocchi.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>
