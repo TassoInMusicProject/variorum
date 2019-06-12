@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Né di feconda conca in ricco mare</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0770a</idno>
+			<idno type="label">Trm0770a (Basso)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0770a-Basso">
+					<title>Madrigali a sei voci</title>
+					<author role="composer">Verdonck, Cornelis</author>
+					<publisher>Phalèse</publisher>
+					<pubPlace>Antwerp</pubPlace>
+					<date when="1603">1603</date>
+					<idno type="RISM">V 1242</idno>
+					<biblScope unit="page">6-8</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Ne di feconda conca in ricco Mare</l>
+					<l xml:id="l2">Perla usci mai sì luminosa, e bella,</l>
+					<l xml:id="l3">Ne si vago monil giamai fece ella</l>
+					<l xml:id="l4">A l’altre unita pretiose, e care,</l>
+					<l xml:id="l5">Come costei, c’haver simil non pare,</l>
+					<l xml:id="l6">Di regio albergo esce in età novella,</l>
+					<l xml:id="l7">Nè gemma pur fra l’altre par, ma stella</l>
+					<l xml:id="l8">Che risplenda nel Ciel frà le men chiare.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Quella, ch’innanzi l’Alba in Oriente</l>
+					<l xml:id="l10">L’alm'amorose à sospirar invita</l>
+					<l xml:id="l11">E riede poi con Himeneo la sera</l>
+					<l xml:id="l12">Somiglia a punto in giovinile schiera</l>
+					<l xml:id="l13">La fronte e gl'occhi candida, e lucente,</l>
+					<l xml:id="l14">Pretiosa e mirabil Margherita.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

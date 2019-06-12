@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Dimmi, mesto pastore</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">E-E<sub>1</sub></idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="E-E<sub>1</sub>">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Modena</settlement>
+						<repository>Biblioteca Estense Universitaria</repository>
+						<idno>II. F. 16</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 262</locus>
+							<p>autograph</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>1579?</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Stampa. Licori Tirsi Dafne</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Dimmi mesto Pastore</l>
+					<l xml:id="l2">Qual muto pesce, o qual è rozzo Armento</l>
+					<l xml:id="l3">Che non faccia d'Amor qualche concento?</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

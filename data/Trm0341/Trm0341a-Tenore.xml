@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Fuggi, fuggi, dolor, da questo petto</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0341a</idno>
+			<idno type="label">Trm0341a (Tenore)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0341a-Tenore">
+					<title>Fiori musicali, libro secondo</title>
+					<author role="composer">Guami, Giuseppe</author>
+					<publisher>Vincenzi &amp; Amadino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1588">1588</date>
+					<idno type="RISM">1588-20</idno>
+					<biblScope unit="page">6</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Fuggi fuggi dolor fuor del mio petto</l>
+					<l xml:id="l2">Hor che ritorna la gioiosa spene</l>
+					<l xml:id="l3">Hor che promett'al cor pac'e diletto</l>
+					<l xml:id="l4">Tutti fuggit'homai tormenti e pene</l>
+					<l xml:id="l5">già vicin'el mio sole o cieli amici</l>
+					<l xml:id="l6">Già s’appressa'l mio bene o di felici</l>
+					<l xml:id="l7">Ne potendo tornar senza partita</l>
+					<l xml:id="l8">mi piace che parti la cara vita.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

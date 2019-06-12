@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Chiudesti i lumi, Armida: il cielo avaro</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tsg16061b</idno>
+			<idno type="label">Tsg16061b (Canto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tsg16061b-Canto">
+					<title>L'ottavo libro de'madrigali a cinque voci</title>
+					<author role="composer">Il Verso, Antonio</author>
+					<publisher>Amadino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1603">1603</date>
+					<idno type="RISM">I 10</idno>
+					<biblScope unit="page">11</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Chiudesti i lumi Armida il Cielo avaro</l>
+					<l xml:id="l2">Invidio'l conforto à i tuoi martiri</l>
+					<l xml:id="l3">Apri misera gli occhi il pianto amaro</l>
+					<l xml:id="l4">Ne gl'occhi il tuo nemico or che non miri</l>
+					<l xml:id="l5">O s’udir tù’l potessi o come caro</l>
+					<l xml:id="l6">T’addolcirebbe il suon de’ suoi sospiri</l>
+					<l xml:id="l7">Da quanto ei puote ei prende e tu no'l vedi</l>
+					<l xml:id="l8">Pietoso in vista gli ultimi congedi.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Non si levava ancor l'alba novella</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0379b</idno>
+			<idno type="label">Trm0379b (Quinto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0379b-Quinto">
+					<title>Le risa a vicenda. Vaghi e dilettevoli madrigali a cinque voci</title>
+					<author role="composer">Gallo, Vincenzo</author>
+					<publisher>G. Vincenzi</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1598">1598</date>
+					<idno type="RISM">1598-08</idno>
+					<biblScope unit="page">10-11</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Non si levava ancor l’alba novella</l>
+					<l xml:id="l2">Ne spiegavan le piume</l>
+					<l xml:id="l3">Gl'augelli al novo lume</l>
+					<l xml:id="l4">Ma fiammeggiava l’amorosa stella.</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">[TACET]</l>
+					<l xml:id="l6">[OMITTED]</l>
+					<l xml:id="l7">[OMITTED]</l>
+					<l xml:id="l8">[OMITTED]</l>
+					<l xml:id="l9">[OMITTED]</l>
+					<l xml:id="l10">[OMITTED]</l>
+					<l xml:id="l11">[OMITTED]</l>
+					<l xml:id="l12">[OMITTED]</l>
+					<l xml:id="l13">[OMITTED]</l>
+					<l xml:id="l14">[OMITTED]</l>
+					<l xml:id="l15">[TACET] sospirand'all'hora</l>
+					<l xml:id="l16">Anima à Dio Con languide parole</l>
+					<l xml:id="l17">E l’altra vita à Dio li rispondea</l>
+					<l xml:id="l18">A Dio rimanti E non partiansi ancora</l>
+					<l xml:id="l19">[OMITTED]</l>
+					<l xml:id="l20">[OMITTED]</l>
+					<l xml:id="l21">E quest'e quella impallidir vedea</l>
+					<l xml:id="l22">Le bellissime rose</l>
+					<l xml:id="l23">[TACET]</l>
+					<l xml:id="l24">E gl'occhi scintillar come facella.</l>
+					<l xml:id="l25">[OMITTED]</l>
+					<l xml:id="l26">[OMITTED]</l>
+					<l xml:id="l27">[OMITTED]</l>
+					<l xml:id="l28">[OMITTED]</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

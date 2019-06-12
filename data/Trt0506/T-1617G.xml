@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Ahi lagrime! ahi dolore!</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">T-1617G</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="T-1617G">
+					<title>Il Re Torrismondo tragedia del S. Torquato Tasso</title>
+					<publisher>Comino Gallina</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1617">1617</date>
+					<biblScope unit="page">111</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">[PAGE MISSING]</l>
+					<l xml:id="l2">[PAGE MISSING]</l>
+					<l xml:id="l3">[PAGE MISSING]</l>
+					<l xml:id="l4">[PAGE MISSING]</l>
+					<l xml:id="l5">[PAGE MISSING]</l>
+					<l xml:id="l6">[PAGE MISSING]</l>
+					<l xml:id="l7">[PAGE MISSING]</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

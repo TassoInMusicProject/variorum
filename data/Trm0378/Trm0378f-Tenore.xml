@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Nel dolce seno de la bella Clori</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0378f</idno>
+			<idno type="label">Trm0378f (Tenore)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0378f-Tenore">
+					<title>Il quinto libro de madrigali a sei voci</title>
+					<author role="composer">Marenzio, Luca</author>
+					<publisher>Gardano</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1591">1591</date>
+					<idno type="RISM">1591-21</idno>
+					<biblScope unit="page">11-12</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Nel dolce seno della bella Clori</l>
+					<l xml:id="l2">Tirsi che del suo fine</l>
+					<l xml:id="l3">Già languendo sentia l’hore vicine</l>
+					<l xml:id="l4">Tirsi levando gl’occhi</l>
+					<l xml:id="l5">Ne languidetti rai del suo desio</l>
+					<l xml:id="l6">[TACET]</l>
+					<l xml:id="l7">Quand’ella ahime ben mio</l>
+					<l xml:id="l8">Aspetta sospirò [TACET]</l>
+					<l xml:id="l9">Ahi crudo [TACET]</l>
+					<l xml:id="l10">io teco e non men pento</l>
+					<l xml:id="l11">Morir [TACET] e già moro e già sento</l>
+					<l xml:id="l12">Le mortali mie scorte.</l>
+				</lg>
+				<lg>
+					<l xml:id="l13">Perche l’una e l’altr’alma insieme scocchi</l>
+					<l xml:id="l14">Si string’egli soave e sol risponde</l>
+					<l xml:id="l15">Con meste voci à le voci gioconde</l>
+					<l xml:id="l16">O [TACET] l’un’entro spirando</l>
+					<l xml:id="l17">Ne la bocca de l’altro una dolc’ombra</l>
+					<l xml:id="l18">Di morte gl’occhi lor tremanti ingombra</l>
+					<l xml:id="l19">E si sentian mancando i rotti accenti</l>
+					<l xml:id="l20">Agghiacciar tra le labbra i baci ardenti.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

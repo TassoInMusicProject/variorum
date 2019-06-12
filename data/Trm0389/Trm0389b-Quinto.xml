@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Donna, se ben le chiome ho già ripiene</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0389b</idno>
+			<idno type="label">Trm0389b (Quinto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0389b-Quinto">
+					<title>L'undecimo libro delli madrigali a cinque voci</title>
+					<author role="composer">Monte, Filippo di</author>
+					<publisher>Gardano</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1586">1586</date>
+					<idno type="RISM">M 3379</idno>
+					<biblScope unit="page">6</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Donna se ben le chiom'ho gia ripiene</l>
+					<l xml:id="l2">D’algente neve il cor però non verna</l>
+					<l xml:id="l3">[TACET]</l>
+					<l xml:id="l4">E in lui conserva del suo amor mantiene</l>
+					<l xml:id="l5">Etna cosi sul dorso alto sostiene</l>
+					<l xml:id="l6">Le brin'e’l gielo e dentr'ha fiamm'eterna</l>
+					<l xml:id="l7">[TACET]</l>
+					<l xml:id="l8">[TACET]</l>
+					<l xml:id="l9">Ben se’l petto tal'hor mi ripercuote</l>
+					<l xml:id="l10">Colpo de tuoi begl'occhi a piu d’un segno</l>
+					<l xml:id="l11">Vengon le fiamme mie nel mio sembiante</l>
+					<l xml:id="l12">Ma tu risparmi i colpi e vuoi ch’ignote</l>
+					<l xml:id="l13">[TACET] forse è disdegno</l>
+					<l xml:id="l14">Ch’alzi tanto il desio canuto Amante.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

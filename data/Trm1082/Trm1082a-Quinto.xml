@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Deh ferma, ferma il tuo ribello, Amore</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm1082a</idno>
+			<idno type="label">Trm1082a (Quinto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm1082a-Quinto">
+					<title>Il secondo libro de madrigali a sei voci</title>
+					<author role="composer">Philips, Peter</author>
+					<publisher>Phalèse</publisher>
+					<pubPlace>Antwerp</pubPlace>
+					<date when="1603">1603</date>
+					<idno type="RISM">P 1927</idno>
+					<biblScope unit="page">19-20</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Deh ferma, ferm'il tuo rubello, Amore,</l>
+					<l xml:id="l2">Che fugge dal tuo Regno,</l>
+					<l xml:id="l3">Et hà seco il mio core:</l>
+					<l xml:id="l4">Fà che mi renda il mio fidato pegno,</l>
+					<l xml:id="l5">Ma non tardar ch’io mor, s'ei s’allontana,</l>
+					<l xml:id="l6">Vola veloce, in fretta,</l>
+					<l xml:id="l7">Prima che giung'a tana,</l>
+					<l xml:id="l8">Che se non fai di me, Signor, vendetta,</l>
+					<l xml:id="l9">Ecco di te si gloria</l>
+					<l xml:id="l10">Con la sua crudeltade haver Vittoria.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

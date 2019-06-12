@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Ha ninfe adorne e belle</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0930a</idno>
+			<idno type="label">Trm0930a (Basso)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0930a-Basso">
+					<title>Il nono libro de madrigali a cinque et sei voci</title>
+					<author role="composer">Wert, Giaches de</author>
+					<publisher>Gardano</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1588">1588</date>
+					<idno type="RISM">W 887</idno>
+					<biblScope unit="page">21-22</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">A 6.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Ha Ninfe adorn'e belle</l>
+					<l xml:id="l2">La casta Margarita &amp; essa è Dea</l>
+					<l xml:id="l3">Se virtù fà gli Dei come solea.</l>
+				</lg>
+				<lg>
+					<l xml:id="l4">Però boschi palaggi e prati e valli</l>
+					<l xml:id="l5">Secchi et ondosi calli</l>
+					<l xml:id="l6">[TACET]</l>
+					<l xml:id="l7">[TACET] E d'erranti fere ampio soggiorno</l>
+					<l xml:id="l8">E gionse i porti e i lustri in cui le serra</l>
+					<l xml:id="l9">Perche sia la prigion campo di guerra</l>
+					<l xml:id="l10">E i diletti sian glorie</l>
+					<l xml:id="l11">Et tante prede sue tutte vittorie.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

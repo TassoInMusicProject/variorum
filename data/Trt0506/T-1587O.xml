@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Ahi lagrime! ahi dolore!</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">T-1587O</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="T-1587O">
+					<title>Il Re Torrismondo tragedia del Sig. Torquato Tasso</title>
+					<publisher>Francesco Osanna</publisher>
+					<pubPlace>Mantua</pubPlace>
+					<date when="1587">1587</date>
+					<biblScope unit="page">63r-v</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Choro.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Ahi lacrime, ahi dolore,</l>
+					<l xml:id="l2">Passa la vita, e si dilegua, e fugge,</l>
+					<l xml:id="l3">Come giel che si strugge.</l>
+					<l xml:id="l4">Ogni altezza s'inchina, e sparge à terra,</l>
+					<l xml:id="l5">Ogni fermo sostegno,</l>
+					<l xml:id="l6">Ogni possente Regno</l>
+					<l xml:id="l7">In pace cadde al fin, se crebbe in guerra.</l>
+					<l xml:id="l8">E come raggio il verno imbruna, e more</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

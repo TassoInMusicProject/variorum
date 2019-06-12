@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Se tu mi lasci, perfida, tuo danno</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0433a</idno>
+			<idno type="label">Trm0433a (Canto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0433a-Canto">
+					<title>De floridi virtuosi d'italia il primo libro de madrigali a cinque voci</title>
+					<author role="composer">Marenzio, Luca</author>
+					<publisher>Vincenzi &amp; Amadino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1583">1583</date>
+					<idno type="RISM">1583-11</idno>
+					<biblScope unit="page">2</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Se tu mi lasci perfido tuo danno</l>
+					<l xml:id="l2">Non ti pensar che sia</l>
+					<l xml:id="l3">Misera senza te la vita mia</l>
+					<l xml:id="l4">Misera ben sarei</l>
+					<l xml:id="l5">Se miseria stimassi e non ventura</l>
+					<l xml:id="l6">Perder chi non mi cura</l>
+					<l xml:id="l7">E ricovrar quel che di me perdei</l>
+					<l xml:id="l8">Misero tu che per novello Amore</l>
+					<l xml:id="l9">Perdi quel fido core</l>
+					<l xml:id="l10">Ch’era piu tuo che tu di te non sei</l>
+					<l xml:id="l11">Ma il tuo gia non perd’io</l>
+					<l xml:id="l12">Perche non fu mai mio.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Ahi lagrime! ahi dolore!</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trt0506a</idno>
+			<idno type="label">Trt0506a (Alto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trt0506a-Alto">
+					<title>Madrigali a cinque voci, libro quarto</title>
+					<author role="composer">Personè, Diego</author>
+					<publisher>Magnette</publisher>
+					<pubPlace>Naples</pubPlace>
+					<date when="1628">1628</date>
+					<idno type="RISM">P 1473</idno>
+					<biblScope unit="page">11</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Ahi lacrime ahi dolore</l>
+					<l xml:id="l2">passa la vita e si dilegua il core</l>
+					<l xml:id="l3">e sèmpre da me fuggi</l>
+					<l xml:id="l4">non più fuggir crudele</l>
+					<l xml:id="l5">non più m'odiar infedele</l>
+					<l xml:id="l6">ch'ogni fermo sostegno</l>
+					<l xml:id="l7">&amp; ogni gran martoro</l>
+					<l xml:id="l8">sopporto per haver homai ristoro.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

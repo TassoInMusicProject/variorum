@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Là dove sono i pargoletti Amori</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm1021a</idno>
+			<idno type="label">Trm1021a (Sesto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm1021a-Sesto">
+					<title>Il sesto libro de madrigali a sei voci</title>
+					<author role="composer">Marenzio, Luca</author>
+					<publisher>Gardano</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1595">1595</date>
+					<idno type="RISM">M 519</idno>
+					<biblScope unit="page">20</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">[TACET]</l>
+					<l xml:id="l2">Et altri ha teso l’arco</l>
+					<l xml:id="l3">Altri saetta al varco</l>
+					<l xml:id="l4">Altri polisce le quadrella d’oro</l>
+					<l xml:id="l5">Un parete di loro</l>
+					<l xml:id="l6">Scherzando in verde colle o ’n riva ombrosa</l>
+					<l xml:id="l7">Frà la turba vezzosa</l>
+					<l xml:id="l8">[TACET] non havete auree saette</l>
+					<l xml:id="l9">Le dolci parolette</l>
+					<l xml:id="l10">E i dolci sguardi son facelle e strali</l>
+					<l xml:id="l11">E i bei pensier in voi son piume &amp; ali.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

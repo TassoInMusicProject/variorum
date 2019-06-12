@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Quant'io sono infelice</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0760a</idno>
+			<idno type="label">Trm0760a (Alto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0760a-Alto">
+					<title>Il primo libro de madrigali a cinque voci</title>
+					<author role="composer">Ferrabosco, Alfonso</author>
+					<publisher>Gardano</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1587">1587</date>
+					<idno type="RISM">F 254</idno>
+					<biblScope unit="page">15-16</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Quant’io son infelice</l>
+					<l xml:id="l2">Tanto voi bella sete</l>
+					<l xml:id="l3">E con gl'occh'il mio duol temprar potete.</l>
+				</lg>
+				<lg>
+					<l xml:id="l4">Ne miracol ne mostro</l>
+					<l xml:id="l5">Altro è di voi maggiore</l>
+					<l xml:id="l6">Io di fortuna mostr'e voi d’amore</l>
+					<l xml:id="l7">Ma s’ad un sguardo vostro</l>
+					<l xml:id="l8">In me tanto pur lice</l>
+					<l xml:id="l9">Debbo forsi sperar d’esser felice.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>
