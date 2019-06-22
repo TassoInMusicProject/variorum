@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Qui dove fan le piante</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm1370a</idno>
+			<idno type="label">Trm1370a (Canto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm1370a-Canto">
+					<title>Musica di Camillo Cortellini il violino</title>
+					<author role="composer">Cortellini, Camillo</author>
+					<publisher>Rossi</publisher>
+					<pubPlace>Bologna</pubPlace>
+					<date when="1587">1587</date>
+					<idno type="RISM"></idno>
+					<biblScope unit="page">2-9</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">A cinque.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Qui dove fan le piante</l>
+					<l xml:id="l2">Verdi e frondose, e fosche, e l'herbe, e i fiori</l>
+					<l xml:id="l3">Seggio, diffesa da gl'estivi ardori,</l>
+					<l xml:id="l4">Ritrova il grande HENRICO</l>
+					<l xml:id="l5">[TACET]</l>
+					<l xml:id="l6">E soggetta la terra, e'l Cielo amico.</l>
+					<l xml:id="l7">@VERSE:</l>
+					<l xml:id="l8">Ne già negar dolci acque</l>
+					<l xml:id="l9">I vaghi rivi, e i fonti,</l>
+					<l xml:id="l10">E per secrete vie gl'alpestri monti,</l>
+					<l xml:id="l11">Ma raccorle dal Ciel via più gli piacque;</l>
+					<l xml:id="l12">voi, che prima torreste</l>
+					<l xml:id="l13">Tributo da la terra, ò don celeste?</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

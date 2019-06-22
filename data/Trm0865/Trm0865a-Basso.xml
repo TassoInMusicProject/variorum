@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Deh! perché amar chi voi con pari affetto</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0865a</idno>
+			<idno type="label">Trm0865a (Basso)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0865a-Basso">
+					<title>Dialoghi musicali de diversi eccellentissimi autori</title>
+					<author role="composer">Monte, Filippo di</author>
+					<publisher>Gardano</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1590">1590</date>
+					<idno type="RISM">1590-11</idno>
+					<biblScope unit="page">62</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Filippo di Monte. A. 10.	</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Deh perch'amor chi voi con pari affetto</l>
+					<l xml:id="l2">Non ami [TACET]</l>
+					<l xml:id="l3">E distillare in lagrime i martiri</l>
+					<l xml:id="l4">[TACET]</l>
+					<l xml:id="l5">E impallidir per chi non cangia aspetto</l>
+					<l xml:id="l6">[TACET]</l>
+					<l xml:id="l7">Ad un crudel ch’in voi non gli raggiri</l>
+					<l xml:id="l8">Com’à suo caro e desiato oggetto</l>
+					<l xml:id="l9">[TACET]</l>
+					<l xml:id="l10">[TACET]</l>
+					<l xml:id="l11">E di begl'occhi rasciugate il duolo</l>
+					<l xml:id="l12">[TACET]</l>
+					<l xml:id="l13">E se pur dee sentir novella fiamma</l>
+					<l xml:id="l14">S’accenda si ma non s’accend'ei solo.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>
