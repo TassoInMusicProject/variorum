@@ -12499,7 +12499,15 @@ function _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj;
 var TEImetadata_tpl = '<h2 class="worktitle">{{title}}</h2>\
 <ul style="padding-right:100px; padding-top:25px; padding-bottom:15px;" class="TEImetadata list-unstyled">\
   {{#if ms}}\
-    <li>{{ms.idno}}</li>\
+    <li>
+    {{#if ms.url}}\
+        <a target="_blank" href="{{ms.url}}">
+    {{/if}}
+    {{ms.idno}}
+    {{#if ms.url}}\
+        </a>\
+    {{/if}}
+    </li>\
     <li>{{ms.repository}}, {{ms.settlement}} {{ms.region}}</li>\
     <li>{{ms.origDate}}</li>\
     {{#if ms.description}}\
@@ -12855,7 +12863,7 @@ var TEIfileView = function (_Backbone$View) {
                 metadata["ms"]["origDate"] = raw_data.find('origDate').text();
                 metadata["ms"]["locus"] = raw_data.find('locus').text();
                 metadata["ms"]["description"] = raw_data.find('msContents msItem p').text();
-console.log("METADATA:", metadata);
+                metadata["ms"]["url"] = raw_data.find('msIdentifier url').text();
             }
 
             //Print metadata
