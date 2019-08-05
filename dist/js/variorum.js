@@ -12863,7 +12863,7 @@ var TEIfileView = function (_Backbone$View) {
                 metadata["ms"]["origDate"] = raw_data.find('origDate').text();
                 metadata["ms"]["locus"] = raw_data.find('locus').text();
                 metadata["ms"]["description"] = raw_data.find('msContents msItem p').text();
-                metadata["ms"]["url"] = raw_data.find('msIdentifier url').text();
+                metadata["ms"]["url"] = raw_data.find('msContents url').text();
             }
 
             //Print metadata
