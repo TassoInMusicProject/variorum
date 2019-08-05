@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Tarquinia, se rimiri</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0560m</idno>
+			<idno type="label">Trm0560m (Tenore)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0560m-Tenore">
+					<title>Primo libro de madrigali a quattro voci</title>
+					<author role="composer">Alberti, Innocenzo</author>
+					<publisher>G. Vincenzi</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1603">1603</date>
+					<idno type="RISM">A 678</idno>
+					<biblScope unit="page">21</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Mentre mia stella miri</l>
+					<l xml:id="l2">I bei stellati giri</l>
+					<l xml:id="l3">Il ciel esser vorrei</l>
+					<l xml:id="l4">Perche ne lumi miei</l>
+					<l xml:id="l5">Fisso tu rivolgessi</l>
+					<l xml:id="l6">le tue dolci faville</l>
+					<l xml:id="l7">Io vagheggiar potessi</l>
+					<l xml:id="l8">Mille bellezze tue con occhi mille.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Ardi e gela a tua voglia</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S60</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S60">
+					<title>Rime di diversi celebri poeti dell'età nostra. Nuovamente raccolte, e poste in luce</title>
+					<publisher>Comino Ventura</publisher>
+					<pubPlace>Bergamo</pubPlace>
+					<date when="1587">1587</date>
+					<biblScope unit="page">177</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Del S. Torquato Tasso</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Ardi, e gela à tua voglia,</l>
+					<l xml:id="l2">Perfido, &amp; impudico,</l>
+					<l xml:id="l3">Hor amante, hor nemico;</l>
+					<l xml:id="l4">Che d’inconstante ingegno</l>
+					<l xml:id="l5">Poco l’amor io stimo, et men lo sdegno;</l>
+					<l xml:id="l6">E se'l tuo amor fù vano,</l>
+					<l xml:id="l7">Van fia lo sdegno del tuo cor insano.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

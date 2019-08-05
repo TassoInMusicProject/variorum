@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Amor, che qui d'intorno</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0256c</idno>
+			<idno type="label">Trm0256c (Tenore)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0256c-Tenore">
+					<title>Il terzo libro de madrigali a cinque voci</title>
+					<author role="composer">Tresti, Flaminio</author>
+					<publisher>Gardano</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1590">1590</date>
+					<idno type="RISM">T 1173</idno>
+					<biblScope unit="page">15</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Amor che qui d’intorno</l>
+					<l xml:id="l2">Hor fai ben mille scherz’e mille giri</l>
+					<l xml:id="l3">S’ardisci numerar tante mie pene</l>
+					<l xml:id="l4">E tanti miei sospiri</l>
+					<l xml:id="l5">Che son piu de l’arene</l>
+					<l xml:id="l6">Piu de l’onde del mar piu de le stelle</l>
+					<l xml:id="l7">Racconta à la mia Donna e quest'e quelle</l>
+					<l xml:id="l8">E di ch’io vivo acciò che resti in vita</l>
+					<l xml:id="l9">La mia doglia infinita.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

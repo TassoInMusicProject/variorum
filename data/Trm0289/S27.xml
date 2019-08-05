@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Già tu volasti quattro volte e sei</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S27</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S27">
+					<title>Delle rime et prose del Sig. Torquato Tasso. Parte quarta. Di nuovo posta in luce, con gli argomenti dell'istesso auttore</title>
+					<publisher>Giulio Vasalini</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1586">1586</date>
+					<biblScope unit="page">32</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Invidia la morte d'una farfalla.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Gia tu volasti quattro volte, e sei</l>
+					<l xml:id="l2">In quel petto sì molle,</l>
+					<l xml:id="l3">Vaga farfalla, hor morta al lume sei.</l>
+				</lg>
+				<lg>
+					<l xml:id="l4">Non bramo io luce, nè son tanto folle;</l>
+					<l xml:id="l5">Ma la morte vorrei,</l>
+					<l xml:id="l6">Dove fortuna darla à te non volle.</l>
+				</lg>
+				<lg>
+					<l xml:id="l7">O' dolce chiuder gli occhi</l>
+					<l xml:id="l8">S’averrà, che spirar in lui mi tocchi.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

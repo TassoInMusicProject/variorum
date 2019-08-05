@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Lontano dal mio cuore</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S28</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S28">
+					<title>Gioie di rime, e prose del Sig. Torquato Tasso, nuovamente poste in luce. Per ordine dell'altre sue opere. Quinta, e sesta parte</title>
+					<publisher>Giulio Vasalini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1587">1587</date>
+					<biblScope unit="page">72</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Lontano dal mio core</l>
+					<l xml:id="l2">Infinito è’l dolore,</l>
+					<l xml:id="l3">Infinite le pene, e i miei tormenti,</l>
+					<l xml:id="l4">Infiniti i martiri,</l>
+					<l xml:id="l5">Infiniti i sospiri,</l>
+					<l xml:id="l6">Infiniti le lagrime, e i lamenti:</l>
+					<l xml:id="l7">Sol la speranza hà fine</l>
+					<l xml:id="l8">Di rivedervi mai luci divine:</l>
+					<l xml:id="l9">Sol fine hà la speranza,</l>
+					<l xml:id="l10">E nel fondo de mali hor non avanza.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

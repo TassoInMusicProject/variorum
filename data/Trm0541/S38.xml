@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Tolse <span class="name">Barbara</span> gente il pregio a Roma</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S38</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S38">
+					<title>Rime dell'illustrissimo Sig. Curtio Gonzaga</title>
+					<publisher>Stamperia Nuova</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1585">1585</date>
+					<biblScope unit="page">N/A</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"><i>Del Sig. Torquato Tasso in lode de la Contessa di Sala.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Tolse Barbara gente il pregio à Roma</l>
+					<l xml:id="l2">De l’Imperio, &amp; de l’armi; &amp; serva fella.</l>
+					<l xml:id="l3">O nome a lei fatale; ecco novella</l>
+					<l xml:id="l4">BARBARA vincitrice anco la doma.</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Et à qual più famosa in lei si noma</l>
+					<l xml:id="l6">Tolto lo scettro, e’l titolo di bella,</l>
+					<l xml:id="l7">Mena sua squadra in Campidoglio; &amp; quella</l>
+					<l xml:id="l8">De’ suoi prigioni, incatenata, &amp; doma.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Sono i guerrieri suoi, molle rigore,</l>
+					<l xml:id="l10">Con pudica beltà, sdegno cortese;</l>
+					<l xml:id="l11">Che tanto sfida più, quanto più piace.</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">I vinti un sesso, &amp; l’altro; &amp; l'un d’Amore,</l>
+					<l xml:id="l13">L’altro d’invidia. hor come è che la face</l>
+					<l xml:id="l14">Medesima agghiacciò l’un, che l’altro accese.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Usciva omai dal molle e fresco grembo</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1584O</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1584O">
+					<title>Gierusalemme liberata poema heroico del sig. Torquato Tasso. Ridotta alla sua vera lettione secondo il proprio originale dello stesso autore, &amp; di nuovo ristampata, con gli argomenti a ciascun canto del signor Horatio Ariosti, &amp; allegorie del poema. Con la aggiunta di molte stanze, che dall'autore sono state rifiutate, et mutate a' suoi luoghi</title>
+					<publisher>Francesco Osanna</publisher>
+					<pubPlace>Mantua</pubPlace>
+					<date when="1584">1584</date>
+					<biblScope unit="page">147</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Usciva homai del molle, e fresco grembo</l>
+					<l xml:id="l2">De la gran Madre sua la notte oscura;</l>
+					<l xml:id="l3">Aure lievi portando, e largo nembo</l>
+					<l xml:id="l4">Di sua rugiada pretiosa, e pura:</l>
+					<l xml:id="l5">E scotendo del Ciel l’humido lembo</l>
+					<l xml:id="l6">Ne spargeva i fioretti, e la verdura:</l>
+					<l xml:id="l7">E i venticelli dibattendo l’ali</l>
+					<l xml:id="l8">Lusingavano il sonno de’ mortali.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

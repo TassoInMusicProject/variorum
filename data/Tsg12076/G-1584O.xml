@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Passa per questo petto e feri scempi</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1584O</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1584O">
+					<title>Gierusalemme liberata poema heroico del sig. Torquato Tasso. Ridotta alla sua vera lettione secondo il proprio originale dello stesso autore, &amp; di nuovo ristampata, con gli argomenti a ciascun canto del signor Horatio Ariosti, &amp; allegorie del poema. Con la aggiunta di molte stanze, che dall'autore sono state rifiutate, et mutate a' suoi luoghi</title>
+					<publisher>Francesco Osanna</publisher>
+					<pubPlace>Mantua</pubPlace>
+					<date when="1584">1584</date>
+					<biblScope unit="page">132</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Passa pur questo petto, e feri scempi</l>
+					<l xml:id="l2">Co'l ferro tuo crudel fà del mio core.</l>
+					<l xml:id="l3">Ma forse usata à fatti atroci, &amp; empi</l>
+					<l xml:id="l4">Stimi pietà dar morte al mio dolore.</l>
+					<l xml:id="l5">Dunque i vivrò tra’ memorandi essempi</l>
+					<l xml:id="l6">Misero Mostro d’infelice amore:</l>
+					<l xml:id="l7">Misero Mostro, à cui sol pena è degna</l>
+					<l xml:id="l8">De l’immensa impietà la vita indegna.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

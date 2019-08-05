@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Lunge da voi, ben mio</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S27</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S27">
+					<title>Delle rime et prose del Sig. Torquato Tasso. Parte quarta. Di nuovo posta in luce, con gli argomenti dell'istesso auttore</title>
+					<publisher>Giulio Vasalini</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1586">1586</date>
+					<biblScope unit="page">162</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Lontano dalla sua donna dice di non esser più quell ch’egli era, ma l’ombra sua.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Lunge da voi, Ben mio,</l>
+					<l xml:id="l2">Non hò vita, nè core, e non son’io;</l>
+					<l xml:id="l3">Non sono (oime), non sono</l>
+					<l xml:id="l4">Quel ch’altra volta fui, ma un’ombra mesta,</l>
+					<l xml:id="l5">Un lagrimevol suono,</l>
+					<l xml:id="l6">Una voce dolente, e ciò mi resta</l>
+					<l xml:id="l7">Solo per vostro dono,</l>
+					<l xml:id="l8">Ma resta il male, onde morir desio.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

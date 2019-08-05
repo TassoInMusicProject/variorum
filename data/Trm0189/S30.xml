@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Secco è l'arbor gentile</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S30</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S30">
+					<title>Delle rime et prose del Sig. Torquato Tasso. Parte seconda. Di nuovo ristampate, con diligenza rivedute, e corrette</title>
+					<publisher>Simon Vasalini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1585">1585</date>
+					<biblScope unit="page">42</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Per la S.D. Lavinia della Rovere.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Secco è l’arbor gentile,</l>
+					<l xml:id="l2">Che mai le frondi, e’l verde</l>
+					<l xml:id="l3">O per gelo, ò per fulmine non perde.</l>
+				</lg>
+				<lg>
+					<l xml:id="l4">O mutata è la legge</l>
+					<l xml:id="l5">De la natura, o’l sole</l>
+					<l xml:id="l6">Men può di quel che suole,</l>
+					<l xml:id="l7">E sol le stelle Amore, e’l mondo regge.</l>
+				</lg>
+				<lg>
+					<l xml:id="l8">E co’l piombo, e con l’oro</l>
+					<l xml:id="l9">Miracoli rinova,</l>
+					<l xml:id="l10">E fà vendetta nova</l>
+					<l xml:id="l11">D’antico oltraggio ne l’amato alloro.</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">Mà, se nel lieto Aprile</l>
+					<l xml:id="l13">Rinverdir al mio crin non dee corona,</l>
+					<l xml:id="l14">Secchisi anco per merto in Helicona.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

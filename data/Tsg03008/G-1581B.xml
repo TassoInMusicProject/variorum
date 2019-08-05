@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Dunque ove tu, signor di mille rivi</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1581B</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1581B">
+					<title>Gierusalemme liberata, poema heroico del sig. Torquato Tasso. Tratta dal vero originale, con aggiunta di quanto manca nell'altre edittioni, &amp; con l'allegoria dello stesso autore</title>
+					<publisher>Vittorio Baldini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1581">1581</date>
+					<biblScope unit="page">21</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Dunque ove tù, Signor, di mille rivi</l>
+					<l xml:id="l2">Sanguinoso, il terren lasciasti asperso,</l>
+					<l xml:id="l3">D’amaro pianto, almen duo fonti vivi</l>
+					<l xml:id="l4">In sì acerba memoria hoggi io non verso?</l>
+					<l xml:id="l5">Agghiacciato mio cor, che non derivi</l>
+					<l xml:id="l6">Per gli occhi, e stilli in lagrime converso;</l>
+					<l xml:id="l7">Duro mio cor, che non ti spezzi, e frangi?</l>
+					<l xml:id="l8">Pianger ben merti ogn'hor, s’hora non piagi.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

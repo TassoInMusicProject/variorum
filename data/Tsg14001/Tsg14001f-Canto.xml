@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Usciva omai dal molle e fresco grembo</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tsg14001f</idno>
+			<idno type="label">Tsg14001f (Canto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tsg14001f-Canto">
+					<title>Canzonette a tre voci. Libro primo</title>
+					<author role="composer">Caprioli, Giovanni Paolo</author>
+					<publisher>G. Vincenzi</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1602">1602</date>
+					<idno type="RISM">C 943</idno>
+					<biblScope unit="page">2</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Usciva omai del molle e fresco grembo</l>
+					<l xml:id="l2">De la gran madre sua la nott'oscura</l>
+					<l xml:id="l3">Aure lievi portando e largo nembo</l>
+					<l xml:id="l4">Di sua rugiada preciosa e pura.</l>
+					<l xml:id="l5">@VERSE:</l>
+					<l xml:id="l6">E scotendo del vel l’humido lembo</l>
+					<l xml:id="l7">Ne spargea  fioretti à la verdura,</l>
+					<l xml:id="l8">E i venticelli dibattendo l’ali</l>
+					<l xml:id="l9">Lusingavano il sonno de’ mortali.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

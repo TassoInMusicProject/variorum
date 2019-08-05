@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Mentr'io mirava fiso</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S145</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S145">
+					<title>Il Gareggiamento poetico del Confuso Accademico Ordito. Madrigali amorosi gravi, e piacevoli ne' quali si vede il bello, il leggiadro. &amp; il vivace de i più illustri poeti d'Italia</title>
+					<publisher>Barezzo Barezzi</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1611">1611</date>
+					<biblScope unit="page">Seconda parte, 3v</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">PRINCIPIO D'AMORE. / ALL'ILLUSTRISS. ET ECCELLENTISS. / Signore Don MICHELE PERETTI / Prencipe di Venastri, Marchese d'In- / cisa, e Conte di Celano. / Torquato Tasso.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Mentr'io mirava fiso</l>
+					<l xml:id="l2">De la mia donna gli occhi ardenti, e belli,</l>
+					<l xml:id="l3">Due vaghi spiritelli</l>
+					<l xml:id="l4">Fiammeggiando n’usciro a l’improviso.</l>
+					<l xml:id="l5">E leggiadretti, e snelli</l>
+					<l xml:id="l6">Facendo mille scherzi, e mille giri</l>
+					<l xml:id="l7">Mille fughe d’intorno,</l>
+					<l xml:id="l8">E mille aguati dentro al seno adorno,</l>
+					<l xml:id="l9">Mi trassero del cor mille sospiri;</l>
+					<l xml:id="l10">Onde con dolci, &amp; amorosi lai</l>
+					<l xml:id="l11">Pietà, pietà, gridai.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

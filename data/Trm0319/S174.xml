@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Non può l'angusto loco</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S174</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S174">
+					<title>Delle opere non più stampate del Signor Torquato Tasso. Raccolte, e pubblicate da Marc'Antonio Foppa. Volume terzo. Nel qual si contengono varie sue poesie</title>
+					<publisher>Giacomo Dragondelli</publisher>
+					<pubPlace>Rome</pubPlace>
+					<date when="1666">1666</date>
+					<biblScope unit="page">270</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Alla S.D. in Villa.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Non può l’angusto loco</l>
+					<l xml:id="l2">Trà pini, abeti, e faggi,</l>
+					<l xml:id="l3">Celare i vostri puri, e lieti raggi,</l>
+					<l xml:id="l4">E’l dolce, e vivo foco;</l>
+					<l xml:id="l5">E chi nasconde il Sole,</l>
+					<l xml:id="l6">Perche non splenda fuor, com’egli suole?</l>
+					<l xml:id="l7">Occhi graditi, e cari,</l>
+					<l xml:id="l8">Occhi sereni, e chiari,</l>
+					<l xml:id="l9">Voi somigliar sovente</l>
+					<l xml:id="l10">fate questa humil Villa un'Oriente.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

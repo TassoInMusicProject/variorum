@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Al vostro dolce azzurro</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0614h</idno>
+			<idno type="label">Trm0614h (Alto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0614h-Alto">
+					<title>Il quartodecimo libro delli madrigali a cinque voci</title>
+					<author role="composer">Monte, Filippo di</author>
+					<publisher>Gardano</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1590">1590</date>
+					<idno type="RISM">M 3383</idno>
+					<biblScope unit="page">26</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Al vostro dolce azurro</l>
+					<l xml:id="l2">Ceda ò luci serene</l>
+					<l xml:id="l3">Qual più bel nero Italia in pregio tiene</l>
+					<l xml:id="l4">Occhi cielo d’Amore</l>
+					<l xml:id="l5">Sole di questo core</l>
+					<l xml:id="l6">Sono gl'altr'appo voi notte &amp; inferno</l>
+					<l xml:id="l7">Azurro è’l cielo eterno</l>
+					<l xml:id="l8">E quel ch’è bello il bello hà sol da lui</l>
+					<l xml:id="l9">Ei bello è sol perch'assomiglia à vui.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Più che Dïana è bella e più mi piace</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S174</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S174">
+					<title>Delle opere non più stampate del Signor Torquato Tasso. Raccolte, e pubblicate da Marc'Antonio Foppa. Volume terzo. Nel qual si contengono varie sue poesie</title>
+					<publisher>Giacomo Dragondelli</publisher>
+					<pubPlace>Rome</pubPlace>
+					<date when="1666">1666</date>
+					<biblScope unit="page">267</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Nell'istesso Soggetto. [i.e., Rime 275, "La S.D. comparata alla Luna."]</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Piu che Diana è bella, e prima piace</l>
+					<l xml:id="l2">Questa mia Donna, anzi mia viva face;</l>
+					<l xml:id="l3">Ma non riscalda à pena,</l>
+					<l xml:id="l4">Quando ella è piu lucente, e più serena,</l>
+					<l xml:id="l5">Nè sparge i rai con rugiadose stille,</l>
+					<l xml:id="l6">Ma con fiamme, e faville,</l>
+					<l xml:id="l7">Tal ch’ogni freddo core</l>
+					<l xml:id="l8">Arde, &amp; avampa d’amoroso ardore.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

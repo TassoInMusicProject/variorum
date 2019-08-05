@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Tu moristi in quel seno</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S27</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S27">
+					<title>Delle rime et prose del Sig. Torquato Tasso. Parte quarta. Di nuovo posta in luce, con gli argomenti dell'istesso auttore</title>
+					<publisher>Giulio Vasalini</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1586">1586</date>
+					<biblScope unit="page">31</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Invidia la morte d'una zenzara.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Tu moristi in quel seno,</l>
+					<l xml:id="l2">Piccoletta zenzara,</l>
+					<l xml:id="l3">Dov’è sì gran fortuna il venir meno.</l>
+				</lg>
+				<lg>
+					<l xml:id="l4">Quando fin più beato,</l>
+					<l xml:id="l5">O' ver tomba più cara</l>
+					<l xml:id="l6">Fù mai concesso da benigno fato?</l>
+				</lg>
+				<lg>
+					<l xml:id="l7">Felice, te, felice</l>
+					<l xml:id="l8">Più, che nel rogo oriental fenice.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

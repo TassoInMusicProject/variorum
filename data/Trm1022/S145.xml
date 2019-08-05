@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Voi sete bella, ma fugage e presta</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S145</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S145">
+					<title>Il Gareggiamento poetico del Confuso Accademico Ordito. Madrigali amorosi gravi, e piacevoli ne' quali si vede il bello, il leggiadro. &amp; il vivace de i più illustri poeti d'Italia</title>
+					<publisher>Barezzo Barezzi</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1611">1611</date>
+					<biblScope unit="page">Seconda parte, 126v</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">[DONNA FUGACE.] / Torquato Tasso</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Voi sete bella, ma fugace, e presta</l>
+					<l xml:id="l2">Come cervetta suole,</l>
+					<l xml:id="l3">Che fugge per le selve ombrose, e sole,</l>
+					<l xml:id="l4">E cerca fiume ò rio;</l>
+					<l xml:id="l5">Tal che vi segno in darno, e vi desio.</l>
+					<l xml:id="l6">[OMITTED]</l>
+					<l xml:id="l7">[OMITTED]</l>
+					<l xml:id="l8">[OMITTED]</l>
+					<l xml:id="l9">[OMITTED]</l>
+					<l xml:id="l10">[OMITTED]</l>
+					<l xml:id="l11">[OMITTED]</l>
+					<l xml:id="l12">[OMITTED]</l>
+					<l xml:id="l13">[OMITTED]</l>
+					<l xml:id="l14">[OMITTED]</l>
+					<l xml:id="l15">[OMITTED]</l>
+					<l xml:id="l16">[OMITTED]</l>
+					<l xml:id="l17">[OMITTED]</l>
+					<l xml:id="l18">[OMITTED]</l>
+					<l xml:id="l19">[OMITTED]</l>
+					<l xml:id="l20">[OMITTED]</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

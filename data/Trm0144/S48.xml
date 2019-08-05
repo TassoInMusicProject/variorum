@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Ore fermate il volo</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S48</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S48">
+					<title>Delle Rime del Sig. Torquato Tasso. Parte quarta, e quinta. Nuovamente stampate</title>
+					<publisher>Antonio Orero</publisher>
+					<pubPlace>Genoa</pubPlace>
+					<date when="1586">1586</date>
+					<biblScope unit="page">42-43</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Parla con l'aure, e con l'hore, pregando l'hore che si fermino, l'altre che portino i suoi lamenti alla sua Donna.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Hore fermate il volo</l>
+					<l xml:id="l2">Ne l'oriente hor ch'un bel dì vien fore</l>
+					<l xml:id="l3">Con si lieto splendore,</l>
+					<l xml:id="l4">E carolando intorno</l>
+					<l xml:id="l5">A l’alba matutina,</l>
+					<l xml:id="l6">Ch’esce de la marina,</l>
+					<l xml:id="l7">La nostra vita ritardate e’l giorno,</l>
+					<l xml:id="l8">Il qual nel suo ritorno</l>
+					<l xml:id="l9">Benche più bel rinasca ò ver maggiore</l>
+					<l xml:id="l10">Non la rende à chi more.</l>
+				</lg>
+				<lg>
+					<l xml:id="l11">Aure veloci, e voi</l>
+					<l xml:id="l12">Portate i miei sospiri</l>
+					<l xml:id="l13">La dove l'aura spiri,</l>
+					<l xml:id="l14">E riportate i chiari accenti suoi</l>
+					<l xml:id="l15">Ov'io gli ascolti poi</l>
+					<l xml:id="l16">Sol voi presenti, e'l Signor nostro Amore</l>
+					<l xml:id="l17">Aure soavi &amp; hore.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

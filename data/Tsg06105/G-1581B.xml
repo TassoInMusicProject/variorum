@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Raccogliete me dunque: e in voi si trove</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1581B</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1581B">
+					<title>Gierusalemme liberata, poema heroico del sig. Torquato Tasso. Tratta dal vero originale, con aggiunta di quanto manca nell'altre edittioni, &amp; con l'allegoria dello stesso autore</title>
+					<publisher>Vittorio Baldini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1581">1581</date>
+					<biblScope unit="page">59</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Raccogliete me dunque, e in voi si trove</l>
+					<l xml:id="l2">Quella pietà, che mi promise Amore,</l>
+					<l xml:id="l3">E ch’io già vidi prigioniera altrove</l>
+					<l xml:id="l4">Nel mansueto mio dolce Signore,</l>
+					<l xml:id="l5">Nè già desio di racquistar mi move</l>
+					<l xml:id="l6">Col favor vostro il mio regale honore,</l>
+					<l xml:id="l7">Quando ciò non avenga assai felice</l>
+					<l xml:id="l8">Io mi terrò, se’n voi servir mi lice.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

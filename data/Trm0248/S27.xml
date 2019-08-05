@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Vita de la mia vita</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S27</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S27">
+					<title>Delle rime et prose del Sig. Torquato Tasso. Parte quarta. Di nuovo posta in luce, con gli argomenti dell'istesso auttore</title>
+					<publisher>Giulio Vasalini</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1586">1586</date>
+					<biblScope unit="page">168</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Vita de la mia vita,</l>
+					<l xml:id="l2">Tu mi somigli pallidetta oliva</l>
+					<l xml:id="l3">O' rosa scolorita.</l>
+				</lg>
+				<lg>
+					<l xml:id="l4">Né di beltà sei priva;</l>
+					<l xml:id="l5">Ma in ogni aspetto tu mi sei gradita,</l>
+					<l xml:id="l6">O' lusinghera, ò schiva.</l>
+				</lg>
+				<lg>
+					<l xml:id="l7">E se mi segui, ò fuggi,</l>
+					<l xml:id="l8">Soavemente mi consumi, e struggi.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

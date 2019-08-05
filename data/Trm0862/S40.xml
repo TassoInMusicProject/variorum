@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>La bella e vaga man che le sonore</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S40</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S40">
+					<title>Le piacevoli rime di M. Cesare Caporali Perugino. Di nuovo in questa terza impressione accresciute d'altre gravi, per l'adietro non più date in luce</title>
+					<publisher>Pietro Tini</publisher>
+					<pubPlace>Milan</pubPlace>
+					<date when="1585">1585</date>
+					<biblScope unit="page">267</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">DEL SIG. TORQUATO TASSO. ALLA SIG. VITTORIA CASTELLETA DA RHO.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">La bella, e vaga man, che le sonore</l>
+					<l xml:id="l2">Corde, or leggiera e presta, or tarda, or grave,</l>
+					<l xml:id="l3">Percuote, e suon ne trahe grado, e soave,</l>
+					<l xml:id="l4">E'l dolce canto tuo che forma Amore:</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Son l'armi, dolci ond'è piagato il core,</l>
+					<l xml:id="l6">In guisa tal, che di morir non pave:</l>
+					<l xml:id="l7">Ma fatto vago, di languir, sol have,</l>
+					<l xml:id="l8">Di rissanar quasi di mal timore.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Onde, per languir sempre, or questa piaga</l>
+					<l xml:id="l10">Et or quell'altra, col pensier rinova,</l>
+					<l xml:id="l11">Vera Vittoria, e vera vincitrice.</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">Che rendi l'alma di penar si vaga,</l>
+					<l xml:id="l13">Che quel ch'altrui più noce, à lei più giova</l>
+					<l xml:id="l14">Ne i martir lieta, e ne i sospir felice.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

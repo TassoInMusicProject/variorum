@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>O timida lepretta</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S54</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S54">
+					<title>Il rimanente delle rime nuove del Sig. Torquato Tasso</title>
+					<publisher>Vittorio Baldini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1587">1587</date>
+					<biblScope unit="page">64</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">O timida lepretta,</l>
+					<l xml:id="l2">Che mentre fuggi per salvar la vita,</l>
+					<l xml:id="l3">Giungi dove la morte è piu gradita,</l>
+					<l xml:id="l4">S'innanzi à sì begli occhi,</l>
+					<l xml:id="l5">Là dov'io prego che‘l morir mi tocchi,</l>
+					<l xml:id="l6">Il morir ti dispiace,</l>
+					<l xml:id="l7">Non sai come riposo apporta, e pace.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

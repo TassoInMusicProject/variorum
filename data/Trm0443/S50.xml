@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Questa vita è la selva, il verde e l'ombra</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S50</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S50">
+					<title>Rime piacevoli di Cesare Caporali, del Mavro, et d'altri auttori. Accresciute in questa quarta impressione di molte rime gravi, et burlesche del Sig. Torquato Tasso, e di diversi nobilissimi ingegni</title>
+					<publisher>Vittorio Baldini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1586">1586</date>
+					<biblScope unit="page">227</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Caccia amorosa.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Questa vita è la selva, il verde, e l’ombre</l>
+					<l xml:id="l2">Son fallaci speranze, e son le reti</l>
+					<l xml:id="l3">Piacer dolci, e secreti:</l>
+					<l xml:id="l4">E sono hispidi dumi</l>
+					<l xml:id="l5">Crude voglie, e costumi;</l>
+					<l xml:id="l6">La fera è la mia donna, Amor l’arciero</l>
+					<l xml:id="l7">Il vostro il mio pensiero.</l>
+					<l xml:id="l8">Ella rata se’n và senza ritegno</l>
+					<l xml:id="l9">Ne fugge per timor, ma per disdegno.</l>
+					<l xml:id="l10">Non servitù, ma pace,</l>
+					<l xml:id="l11">E quanto è più superba, è più fugace.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

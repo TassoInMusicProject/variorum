@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Se l'imagine vostra</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S48</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S48">
+					<title>Delle Rime del Sig. Torquato Tasso. Parte quarta, e quinta. Nuovamente stampate</title>
+					<publisher>Antonio Orero</publisher>
+					<pubPlace>Genoa</pubPlace>
+					<date when="1586">1586</date>
+					<biblScope unit="page">4</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Rende la cagione perche havendola impressa nel cuore desideri la sua imagine.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Se l’imagine vostra</l>
+					<l xml:id="l2">In me dipinge amore</l>
+					<l xml:id="l3">Perche l’opra chiedo io d’altro pittore?</l>
+				</lg>
+				<lg>
+					<l xml:id="l4">Ben puote il mio pensiero</l>
+					<l xml:id="l5">Veder quel ch'ei descriva,</l>
+					<l xml:id="l6">Ma vi s'abbaglia la virtù visiva:</l>
+					<l xml:id="l7">Dunque privo del vero</l>
+					<l xml:id="l8">L’habbia almen finta il senso</l>
+					<l xml:id="l9">Perch’io rimiri in voi, mentre vi penso.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

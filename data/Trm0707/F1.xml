@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Tra Giove in cielo e 'l mio signor in terra</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">F1</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="F1">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Ferrara</settlement>
+						<repository>Biblioteca Comunale Ariostea</repository>
+						<idno>II.473</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 38r</locus>
+							<p>codex containing autographs of 61 lyric poems by Tasso</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Tra <del>Tra</del> Giove in Cielo, e’l mio signore in terra</l>
+					<l xml:id="l2">Serva indivisa, e messaggiera accorta</l>
+					<l xml:id="l3">L’Aquila vola, e l’una, e l’altra porta</l>
+					<l xml:id="l4">De l’alte regge ogn'hor le si disserra.</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Prende se’l grido è vero, ella sotterra</l>
+					<l xml:id="l6">L’arme sonanti, e cola su le porta,</l>
+					<l xml:id="l7">e fornitone il Ciel giu le riporta,</l>
+					<l xml:id="l8">Tuona in Ciel Giove, e tuona Alfonso in guerra.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">E tonò l’Avo, in non lontani campi,</l>
+					<l xml:id="l10">Quando al Signor, che riportava estinto</l>
+					<l xml:id="l11">Pregio sol di Cipresso il die di palma.</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">La vittoria successe in vece d’alma,</l>
+					<l xml:id="l13">e ravvivollo, e vincitor fe il vinto</l>
+					<l xml:id="l14">Hor hà il Ciel maggior pregi, o più bei lampi?</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

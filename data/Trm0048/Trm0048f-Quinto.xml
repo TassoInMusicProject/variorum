@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Amor l'alma m'allaccia</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0048f</idno>
+			<idno type="label">Trm0048f (Quinto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0048f-Quinto">
+					<title>Il primo libro de madrigali a cinque voci</title>
+					<author role="composer">Bonini, Pietro Andrea</author>
+					<publisher>Gardano</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1591">1591</date>
+					<idno type="RISM">B 3493</idno>
+					<biblScope unit="page">1</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Amor L’alma m’allaccia</l>
+					<l xml:id="l2">di dolc'aspre catene</l>
+					<l xml:id="l3">Ne mi doglio io per cio ma ben l’accuso</l>
+					<l xml:id="l4">Che mi leghi &amp; affrene</l>
+					<l xml:id="l5">La lingua acciò ch’io taccia</l>
+					<l xml:id="l6">Anzi à Madonna timido e confuso</l>
+					<l xml:id="l7">E in mia raggion deluso</l>
+					<l xml:id="l8">Sciogli pietoso Amore</l>
+					<l xml:id="l9">La lingua e se non vuoi</l>
+					<l xml:id="l10">Che mi string’un sol men de lacci tuoi</l>
+					<l xml:id="l11">Tanti n'aggiungi in quella vece al core.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

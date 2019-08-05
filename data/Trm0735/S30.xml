@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Bella <span class="name">Angioletta</span> da le vaghe piume</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S30</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S30">
+					<title>Delle rime et prose del Sig. Torquato Tasso. Parte seconda. Di nuovo ristampate, con diligenza rivedute, e corrette</title>
+					<publisher>Simon Vasalini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1585">1585</date>
+					<biblScope unit="page">52</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Bella Angioletta da le vaghe piume</l>
+					<l xml:id="l2">Prestane al grave pondo</l>
+					<l xml:id="l3">Tante, ch’io esca fuor di questo fondo.</l>
+					<l xml:id="l4">O possa in qualche ramo</l>
+					<l xml:id="l5">Di te cantando dire, Io amo, io amo.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

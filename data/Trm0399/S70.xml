@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>O vaga tortorella</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S70</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S70">
+					<title>Rime, et prose del Sig. Torquato Tasso. Parte quarta. Ristampate, et corrette. Et aggiuntovi i Discorsi dell'arte poetica</title>
+					<publisher>Giulio Vasalini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1589">1589</date>
+					<biblScope unit="page">24</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Piange la morte della Signora Flaminia*...ad istanza del signor Giulio Mosti.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">O' vaga Tortorella,</l>
+					<l xml:id="l2">Tu la tua compagnia,</l>
+					<l xml:id="l3">Et io piango colei, che non fù mia.</l>
+				</lg>
+				<lg>
+					<l xml:id="l4">Misera vedovella,</l>
+					<l xml:id="l5">Tu sovra il nudo ramo,</l>
+					<l xml:id="l6">A' piè del seco tronco io la richiamo.</l>
+				</lg>
+				<lg>
+					<l xml:id="l7">Ma l’aura solo, e’l vento</l>
+					<l xml:id="l8">Risponde mormorando al mio lamento.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

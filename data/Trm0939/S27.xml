@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Le amare notti in ch'io m'affliggo e doglio</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S27</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S27">
+					<title>Delle rime et prose del Sig. Torquato Tasso. Parte quarta. Di nuovo posta in luce, con gli argomenti dell'istesso auttore</title>
+					<publisher>Giulio Vasalini</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1586">1586</date>
+					<biblScope unit="page">105</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Al P.D. Angelo Grillo.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">L'amare note, in ch’io m’affliggo, e doglio</l>
+					<l xml:id="l2">Del Ciel, che sì crudele à me sortille</l>
+					<l xml:id="l3">Infiammo il cor di lucide faville,</l>
+					<l xml:id="l4">E de l’antica mente io non mi spoglio</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Nè'n porto ancora le mie vele accoglio</l>
+					<l xml:id="l6">Nè l’aura incerta, che pur dianzi aprille</l>
+					<l xml:id="l7">Vien, che l’aria sereni, e’l mar tranquille,</l>
+					<l xml:id="l8">E son quasi nocchier, che rompe à scoglio.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Ma se non è là suso à me prescritta</l>
+					<l xml:id="l10">Sorte sì dura, ò se pietà sovente</l>
+					<l xml:id="l11">Volge le stelle, e'l sole in te non dorma.</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">Chiara mia luce, homai da l'oriente</l>
+					<l xml:id="l13">Tu movi, tu mi scampa, e tu mi ditta</l>
+					<l xml:id="l14">I preghi, e i voti, e tu m’imprimi, e forma.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

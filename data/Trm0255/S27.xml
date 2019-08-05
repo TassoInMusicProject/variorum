@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Mentre in grembo a la madre Amore un giorno</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S27</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S27">
+					<title>Delle rime et prose del Sig. Torquato Tasso. Parte quarta. Di nuovo posta in luce, con gli argomenti dell'istesso auttore</title>
+					<publisher>Giulio Vasalini</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1586">1586</date>
+					<biblScope unit="page">30	</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Introduce Amore, &amp; una zanzara a motteggiare infirme.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Mentre in grembo à la madre Amore un giorno</l>
+					<l xml:id="l2">Dolcemente dormiva,</l>
+					<l xml:id="l3">Una zenzara zuffolava intorno</l>
+					<l xml:id="l4">Per quella dolce riva.</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Disse allor desto à quel susurro Amore,</l>
+					<l xml:id="l6">Da sì picciola forma,</l>
+					<l xml:id="l7">Com'esce sì gran voce, e tal rumore,</l>
+					<l xml:id="l8">Che sveglia ogn'un che dorma?</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Con maniere vezzose</l>
+					<l xml:id="l10">Lusingandoli il sonno col suo canto</l>
+					<l xml:id="l11">Venere gli rispose;</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">E tu picciolo sei,</l>
+					<l xml:id="l13">Ma pur gli huomini in terra col tuo pianto,</l>
+					<l xml:id="l14">E'n Ciel desti gli Dei.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

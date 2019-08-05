@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Signor, non sotto l’ombra in piaggia molle</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1584O</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1584O">
+					<title>Gierusalemme liberata poema heroico del sig. Torquato Tasso. Ridotta alla sua vera lettione secondo il proprio originale dello stesso autore, &amp; di nuovo ristampata, con gli argomenti a ciascun canto del signor Horatio Ariosti, &amp; allegorie del poema. Con la aggiunta di molte stanze, che dall'autore sono state rifiutate, et mutate a' suoi luoghi</title>
+					<publisher>Francesco Osanna</publisher>
+					<pubPlace>Mantua</pubPlace>
+					<date when="1584">1584</date>
+					<biblScope unit="page">179</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Signor, non sotto l’ombra in piaggia molle</l>
+					<l xml:id="l2">Tra fonti, e fior, tra Ninfe, e tra Sirene;</l>
+					<l xml:id="l3">Ma in cima à l’erto, e faticoso colle</l>
+					<l xml:id="l4">De la virtù riposto è il nostro bene.</l>
+					<l xml:id="l5">Chi non gela, e non suda, e non s’estolle</l>
+					<l xml:id="l6">Da le vie del piacer, lì non perviene.</l>
+					<l xml:id="l7">Hor vorrai tu lungi da l’alte cime</l>
+					<l xml:id="l8">Giacer, quasi tra valli Augel sublime?</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

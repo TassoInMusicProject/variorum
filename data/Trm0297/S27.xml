@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Se 'l vostro volto è d'un'aria gentile</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S27</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S27">
+					<title>Delle rime et prose del Sig. Torquato Tasso. Parte quarta. Di nuovo posta in luce, con gli argomenti dell'istesso auttore</title>
+					<publisher>Giulio Vasalini</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1586">1586</date>
+					<biblScope unit="page">59</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">SE’l vostro volto è d’un'aria gentile,</l>
+					<l xml:id="l2">E i bei vostri occhi son due fiamme ardenti,</l>
+					<l xml:id="l3">In voi dunque ci sono due elementi.</l>
+				</lg>
+				<lg>
+					<l xml:id="l4">Et se quessi occhi hor sono fonti, &amp; fiumi</l>
+					<l xml:id="l5">Et cenere il mio cor, dunque diremo,</l>
+					<l xml:id="l6">Che voi, &amp; io quattro elementi semo.</l>
+				</lg>
+				<lg>
+					<l xml:id="l7">Et se voi sete un’aria, &amp; dolce foco</l>
+					<l xml:id="l8">Acqua amara son'io cenere, &amp; terra,</l>
+					<l xml:id="l9">Perche fra noi ci nasce tanta guerra?</l>
+				</lg>
+				<lg>
+					<l xml:id="l10">Ma se volesse il fato, &amp; la mia sorte,</l>
+					<l xml:id="l11">Che tutti quattro fossimo una cosa,</l>
+					<l xml:id="l12">O' che vita felice, e gloriosa.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

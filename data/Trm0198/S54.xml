@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Chi la felice pianta d'orïente</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S54</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S54">
+					<title>Il rimanente delle rime nuove del Sig. Torquato Tasso</title>
+					<publisher>Vittorio Baldini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1587">1587</date>
+					<biblScope unit="page">67</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Chi la felice pianta d’Oriente</l>
+					<l xml:id="l2">Portò ne l’Occidente?</l>
+					<l xml:id="l3">E di qual mano aventurosa è questo</l>
+					<l xml:id="l4">Maraviglioso innesto?</l>
+					<l xml:id="l5">Felice chi raccoglie</l>
+					<l xml:id="l6">Pepe nel lauro tra le verdi foglie,</l>
+					<l xml:id="l7">Onde Amor, e natura, &amp; arte unite</l>
+					<l xml:id="l8">Fanno amicitia, e lite.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

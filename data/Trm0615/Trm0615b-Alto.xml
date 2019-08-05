@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Al tuo vago pallore</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0615b</idno>
+			<idno type="label">Trm0615b (Alto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0615b-Alto">
+					<title>L'undecimo libro delli madrigali a cinque voci</title>
+					<author role="composer">Monte, Filippo di</author>
+					<publisher>Gardano</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1586">1586</date>
+					<idno type="RISM">M 3379</idno>
+					<biblScope unit="page">11</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Al tuo vago pallore</l>
+					<l xml:id="l2">La rosa il pregio cede</l>
+					<l xml:id="l3">Che per lo scorno hor piu arrossir si vede</l>
+					<l xml:id="l4">Quest’è'l color ch’Amore</l>
+					<l xml:id="l5">Di sua man tinge e segna</l>
+					<l xml:id="l6">Ne vanno i suoi guerrier sott'altr'insegna</l>
+					<l xml:id="l7">Che piu l’Alb'homai sdegna</l>
+					<l xml:id="l8">L’ostr'e’nvaghisce il ciel di tue viole</l>
+					<l xml:id="l9">E teco brama impallidirsi il sole.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

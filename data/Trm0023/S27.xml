@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Io non posso gioire</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S27</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S27">
+					<title>Delle rime et prose del Sig. Torquato Tasso. Parte quarta. Di nuovo posta in luce, con gli argomenti dell'istesso auttore</title>
+					<publisher>Giulio Vasalini</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1586">1586</date>
+					<biblScope unit="page">158</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Io non posso gioire</l>
+					<l xml:id="l2">Lunge da voi, che sete il mio desire:</l>
+					<l xml:id="l3">Ma’l mio pensier fallace</l>
+					<l xml:id="l4">Passa monti, e campagne, e mari, e fiumi,</l>
+					<l xml:id="l5">E m’avicina, e sface</l>
+					<l xml:id="l6">Al dolce foco de’ be' vostri lumi:</l>
+					<l xml:id="l7">E’l languir sì mi piace</l>
+					<l xml:id="l8">Ch’infinito diletto hò nel martire.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

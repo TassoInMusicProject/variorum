@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Vivrò fra i miei tormenti e le mie cure</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1581B</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1581B">
+					<title>Gierusalemme liberata, poema heroico del sig. Torquato Tasso. Tratta dal vero originale, con aggiunta di quanto manca nell'altre edittioni, &amp; con l'allegoria dello stesso autore</title>
+					<publisher>Vittorio Baldini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1581">1581</date>
+					<biblScope unit="page">121</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Vivrò fra i miei tormenti, e le mie cure,</l>
+					<l xml:id="l2">Mie giuste furie forsennato errante,</l>
+					<l xml:id="l3">Paventerò l’ombre solinghe, e scure,</l>
+					<l xml:id="l4">Che’l primo error mi recheranno inante.</l>
+					<l xml:id="l5">E del Sol, che scoprì le mie sventure</l>
+					<l xml:id="l6">À schivo, et in horrore havrò il sembiante,</l>
+					<l xml:id="l7">Temerò me medesmo, e da me stesso</l>
+					<l xml:id="l8">Sempre fuggendo, havrò me sempre appresso.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

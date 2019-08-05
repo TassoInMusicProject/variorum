@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Piacquele assai che 'n quelle valli ombrose</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1581B</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1581B">
+					<title>Gierusalemme liberata, poema heroico del sig. Torquato Tasso. Tratta dal vero originale, con aggiunta di quanto manca nell'altre edittioni, &amp; con l'allegoria dello stesso autore</title>
+					<publisher>Vittorio Baldini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1581">1581</date>
+					<biblScope unit="page">206</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Piacquele assai, che’n quelle valli ombrose</l>
+					<l xml:id="l2">L’orme sue erranti il caso abbian condutte,</l>
+					<l xml:id="l3">Quì scese dal destriero, e quì depose</l>
+					<l xml:id="l4">E l’arco, e la faretra, e l’armi tutte.</l>
+					<l xml:id="l5">Armi infelici, disse, e vergognose,</l>
+					<l xml:id="l6">Ch’usciste for della battaglia asciutte;</l>
+					<l xml:id="l7">Quì vi depongo, e quì sepolte state,</l>
+					<l xml:id="l8">Poi che l’ingiurie mie mal vendicate.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

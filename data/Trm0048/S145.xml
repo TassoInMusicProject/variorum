@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Amor l'alma m'allaccia</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S145</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S145">
+					<title>Il Gareggiamento poetico del Confuso Accademico Ordito. Madrigali amorosi gravi, e piacevoli ne' quali si vede il bello, il leggiadro. &amp; il vivace de i più illustri poeti d'Italia</title>
+					<publisher>Barezzo Barezzi</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1611">1611</date>
+					<biblScope unit="page">Parte quinta, 98r</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">[I varij.] / Torquato Tasso.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Amor l’alma m’allaccia,</l>
+					<l xml:id="l2">Di dolci aspre catene:</l>
+					<l xml:id="l3">Ne mi doglio io per ciò, ma ben l’accuso,</l>
+					<l xml:id="l4">Che mi leghi, &amp; affrene</l>
+					<l xml:id="l5">La lingua, acciò ch’io taccia</l>
+					<l xml:id="l6">Anzi a Madonna timido, e confuso,</l>
+					<l xml:id="l7">E’n mia ragion deluso.</l>
+					<l xml:id="l8">Sciogli, pietoso Amore,</l>
+					<l xml:id="l9">La lingua, e se non vuoi,</l>
+					<l xml:id="l10">Che mi stringa un sol men de lacci tuoi,</l>
+					<l xml:id="l11">Tanti n’aggiungi in quella vece al core.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

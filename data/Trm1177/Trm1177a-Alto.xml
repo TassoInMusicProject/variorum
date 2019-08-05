@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Che soave rapina</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm1177a</idno>
+			<idno type="label">Trm1177a (Alto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm1177a-Alto">
+					<title>Vittoria amorosa</title>
+					<author role="composer">Roinci, Luigi</author>
+					<publisher>G. Vincenzi</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1596">1596</date>
+					<idno type="RISM">1596-11</idno>
+					<biblScope unit="page">12</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Che soave rapina</l>
+					<l xml:id="l2">Fù quella del mio core</l>
+					<l xml:id="l3">A l’armonia divina</l>
+					<l xml:id="l4">Mentre sciogliea sì vaghi spirti Amore</l>
+					<l xml:id="l5">[TACET] da me diviso</l>
+					<l xml:id="l6">[TACET] il Paradiso</l>
+					<l xml:id="l7">Più dolci che fra l’acque e fra l’arene</l>
+					<l xml:id="l8">In ciel son le sirene.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

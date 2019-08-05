@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Tu, bianca e vaga Luna</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S48</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S48">
+					<title>Delle Rime del Sig. Torquato Tasso. Parte quarta, e quinta. Nuovamente stampate</title>
+					<publisher>Antonio Orero</publisher>
+					<pubPlace>Genoa</pubPlace>
+					<date when="1586">1586</date>
+					<biblScope unit="page">114</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Tu, bianca e vaga Luna,</l>
+					<l xml:id="l2">C’hai tanti specchi, quanti sono i mari,</l>
+					<l xml:id="l3">Mira in questo candor, ch’è senza pari.</l>
+					<l xml:id="l4">A lei menail tuo carro, à lei distilla</l>
+					<l xml:id="l5">Le tue dolci rugiade;</l>
+					<l xml:id="l6">Specchiati in lei con amoroso affetto.</l>
+					<l xml:id="l7">E tu, Venere, allhor con lei scintilla,</l>
+					<l xml:id="l8">Che stanco il sol già cade;</l>
+					<l xml:id="l9">Tu, Giove e Marte, con benigno aspetto,</l>
+					<l xml:id="l10">Lumi sereni, e chiari,</l>
+					<l xml:id="l11">Non siate a lei de’ vostri doni avari.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>O timida lepretta</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S28</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S28">
+					<title>Gioie di rime, e prose del Sig. Torquato Tasso, nuovamente poste in luce. Per ordine dell'altre sue opere. Quinta, e sesta parte</title>
+					<publisher>Giulio Vasalini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1587">1587</date>
+					<biblScope unit="page">57</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">O Timida lepretta,</l>
+					<l xml:id="l2">Che mentre fuggi per salvar la vita,</l>
+					<l xml:id="l3">Giungi, dove la morte è più gradita</l>
+					<l xml:id="l4">S’inanzi à sì begli occhi</l>
+					<l xml:id="l5">Là, dove, prego, che ’l mio fin mi tocchi;</l>
+					<l xml:id="l6">Il morir ti dispiace,</l>
+					<l xml:id="l7">Non sai come quiete apporti, e pace.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Deh perché sdegni me, com'egli è vago</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1581B</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1581B">
+					<title>Gierusalemme liberata, poema heroico del sig. Torquato Tasso. Tratta dal vero originale, con aggiunta di quanto manca nell'altre edittioni, &amp; con l'allegoria dello stesso autore</title>
+					<publisher>Vittorio Baldini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1581">1581</date>
+					<biblScope unit="page">152</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Deh poi che sdegni me, com’egli è vago</l>
+					<l xml:id="l2">Mirar tù almen potessi il proprio volto,</l>
+					<l xml:id="l3">Che’l guardo tuo, ch’altrove non è pago</l>
+					<l xml:id="l4">Gioirebbe felice in se rivolto,</l>
+					<l xml:id="l5">Non può specchio ritrar si dolce imago,</l>
+					<l xml:id="l6">Nè in picciol vetro è un paradiso accolto:</l>
+					<l xml:id="l7">Specchio t’è degno il Cielo, e ne le stelle</l>
+					<l xml:id="l8">Puoi riguardar le tue sembianze belle.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

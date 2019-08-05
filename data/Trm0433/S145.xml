@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Se tu mi lasci, perfida, tuo danno</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S145</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S145">
+					<title>Il Gareggiamento poetico del Confuso Accademico Ordito. Madrigali amorosi gravi, e piacevoli ne' quali si vede il bello, il leggiadro. &amp; il vivace de i più illustri poeti d'Italia</title>
+					<publisher>Barezzo Barezzi</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1611">1611</date>
+					<biblScope unit="page">Parte quinta, 167v</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">[FOCO DI SDEGNO] / Segue Resposta. </p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Se tu mi lasci perfido tuo danno</l>
+					<l xml:id="l2">Non ti pensar che sia,</l>
+					<l xml:id="l3">Misera senza te la vita mia:</l>
+					<l xml:id="l4">Misera ben sarei,</l>
+					<l xml:id="l5">Se miseria stimassi, e non ventura</l>
+					<l xml:id="l6">Perder chi non mi cura,</l>
+					<l xml:id="l7">E ritrovar quel che di me perdei:</l>
+					<l xml:id="l8">Misero tù, che per novello amore,</l>
+					<l xml:id="l9">Perdi quel fido core,</l>
+					<l xml:id="l10">Ch’era più tuo, che tu di tè non sei;</l>
+					<l xml:id="l11">Ma'l tuo già non perd’io,</l>
+					<l xml:id="l12">Per che non fù mai mio.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

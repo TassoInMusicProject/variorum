@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Come vivrò ne le mie pene, Amore</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S54</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S54">
+					<title>Il rimanente delle rime nuove del Sig. Torquato Tasso</title>
+					<publisher>Vittorio Baldini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1587">1587</date>
+					<biblScope unit="page">57</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Come vivrò ne le mie pene, Amore,</l>
+					<l xml:id="l2">Si lunge dal mio core,</l>
+					<l xml:id="l3">Se la dolce memoria non m’aita</l>
+					<l xml:id="l4">Di lei, ch’è la mia vita?</l>
+					<l xml:id="l5">Dolce memoria, e spene</l>
+					<l xml:id="l6">Imaginata, dolce, e caro oggetto:</l>
+					<l xml:id="l7">Voi siete il mio diletto,</l>
+					<l xml:id="l8">La mia vita, il mio bene,</l>
+					<l xml:id="l9">Ma pur mezo son’io tra morto, e vivo,</l>
+					<l xml:id="l10">Perche del cor son privo.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

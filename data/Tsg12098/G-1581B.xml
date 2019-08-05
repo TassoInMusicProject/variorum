@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Dalli lor tu ché, se mai gli occhi gira</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1581B</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1581B">
+					<title>Gierusalemme liberata, poema heroico del sig. Torquato Tasso. Tratta dal vero originale, con aggiunta di quanto manca nell'altre edittioni, &amp; con l'allegoria dello stesso autore</title>
+					<publisher>Vittorio Baldini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1581">1581</date>
+					<biblScope unit="page">123</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Dalli lor tu, che se mai gli occhi gira</l>
+					<l xml:id="l2">L’Anima bella à le sue belle spoglie,</l>
+					<l xml:id="l3">Tua pietate, e mio ardir non havrà in ira,</l>
+					<l xml:id="l4">Ch'odio, ò sdegno la sù non si raccoglie.</l>
+					<l xml:id="l5">Perdona ella il mio fallo, e sol respira</l>
+					<l xml:id="l6">In questa speme il cor fra tante doglie.</l>
+					<l xml:id="l7">Sà, ch’empia è sol la mano, e non l’è noia,</l>
+					<l xml:id="l8">Che, s’amando lei vissi, amando moia.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

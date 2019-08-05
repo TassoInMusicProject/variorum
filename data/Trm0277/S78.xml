@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Perché la mia Dïana, anzi 'l mio sole</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S78</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S78">
+					<title>Della nova scelta di rime di diversi eccellenti scrittori de l'età nostra, novamente raccolte, et mandate in luce per Benedetto Varoli</title>
+					<publisher>Antonio Guerino e Compagno</publisher>
+					<pubPlace>Casalmaggiore</pubPlace>
+					<date when="1590">1590</date>
+					<biblScope unit="page">44-45</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">NELL'AMOROSA CACCIA.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Perche la mia Diana, anzi il mio sole,</l>
+					<l xml:id="l2">Anzi la vita mia,</l>
+					<l xml:id="l3">Talhor si mostri amorosetta, e pia,</l>
+					<l xml:id="l4">E de l’humil Sampogna ascolti il suono;</l>
+					<l xml:id="l5">Non scende à me, s'io miro i dolci raggi,</l>
+					<l xml:id="l6">E tutte le sembianze, e le sue forme,</l>
+					<l xml:id="l7">Se ricerco de l’orme,</l>
+					<l xml:id="l8">Se misuro i suoi passi, e i  suoi viaggi,</l>
+					<l xml:id="l9">Ne mai candida lana, od'altro dono</l>
+					<l xml:id="l10">Di tal, che preghi, et ami,</l>
+					<l xml:id="l11">Nè di serici stami</l>
+					<l xml:id="l12">La moverebbe ancor vago lavoro,</l>
+					<l xml:id="l13">Non pur il vello d’oro.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

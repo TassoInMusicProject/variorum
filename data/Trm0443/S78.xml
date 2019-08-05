@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Questa vita è la selva, il verde e l'ombra</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S78</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S78">
+					<title>Della nova scelta di rime di diversi eccellenti scrittori de l'età nostra, novamente raccolte, et mandate in luce per Benedetto Varoli</title>
+					<publisher>Antonio Guerino e Compagno</publisher>
+					<pubPlace>Casalmaggiore</pubPlace>
+					<date when="1590">1590</date>
+					<biblScope unit="page">38-39</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">ASSOMILIA LO STATO AMOROSO / ad una Selva.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Questa vita è la selva, il verde, e l’ombra</l>
+					<l xml:id="l2">Son fallaci speranze, e son le reti</l>
+					<l xml:id="l3">Piacer dolci, e secreti,</l>
+					<l xml:id="l4">E sono hispidi dumi</l>
+					<l xml:id="l5">Fere voglie, e costumi,</l>
+					<l xml:id="l6">La fera è la mia Donna, Amor l’arciero,</l>
+					<l xml:id="l7">E veltro il mio pensiero,</l>
+					<l xml:id="l8">Ella ratto se’n và senza ritegno,</l>
+					<l xml:id="l9">Ne fugge per timor, ma per disdegno,</l>
+					<l xml:id="l10">Non servitù, ma pace</l>
+					<l xml:id="l11">E quanto è più superba, è più fugace.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

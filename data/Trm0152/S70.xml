@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Voi mi chiedeste il core</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S70</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S70">
+					<title>Rime, et prose del Sig. Torquato Tasso. Parte quarta. Ristampate, et corrette. Et aggiuntovi i Discorsi dell'arte poetica</title>
+					<publisher>Giulio Vasalini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1589">1589</date>
+					<biblScope unit="page">89</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Voi mi chiedeste il core,</l>
+					<l xml:id="l2">E partendo il portaste.</l>
+					<l xml:id="l3">Nè’l vostro in quella vece à me lasciaste.</l>
+				</lg>
+				<lg>
+					<l xml:id="l4">S’odio pur, e dispregio</l>
+					<l xml:id="l5">Egli ritrova in voi;</l>
+					<l xml:id="l6">Deh non rimanga in parte, ove v'annoi.</l>
+				</lg>
+				<lg>
+					<l xml:id="l7">Ma s’smor forse, e pregio;</l>
+					<l xml:id="l8">Onde nasce l’oblio?</l>
+					<l xml:id="l9">Che non chiamate il corpo, ov’è'l cor mio?</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

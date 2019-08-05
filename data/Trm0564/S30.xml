@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Se l'alma è prigioniera</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S30</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S30">
+					<title>Delle rime et prose del Sig. Torquato Tasso. Parte seconda. Di nuovo ristampate, con diligenza rivedute, e corrette</title>
+					<publisher>Simon Vasalini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1585">1585</date>
+					<biblScope unit="page">69</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Alla Signora Leonora S. Vitale</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Se l’alma è prigioniera</l>
+					<l xml:id="l2">De la vostra beltade,</l>
+					<l xml:id="l3">Viva almen Donna il corpo in libertade.</l>
+				</lg>
+				<lg>
+					<l xml:id="l4">L’una prigione homai</l>
+					<l xml:id="l5">O' l’altra si dischiuda,</l>
+					<l xml:id="l6">Perche l’una per l’altra è vie più cruda.</l>
+				</lg>
+				<lg>
+					<l xml:id="l7">Ma qual destra giamai</l>
+					<l xml:id="l8">Cosi destra, e leggiera</l>
+					<l xml:id="l9">Aprir l’una potrà, ch’io non ne pera.</l>
+				</lg>
+				<lg>
+					<l xml:id="l10">L’altra non di pietade</l>
+					<l xml:id="l11">Può ben sì dolce aprire,</l>
+					<l xml:id="l12">Che l’alma brami in servitù morire.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

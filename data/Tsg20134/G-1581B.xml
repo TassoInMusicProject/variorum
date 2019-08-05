@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Così doleasi e con le flebil onde</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1581B</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1581B">
+					<title>Gierusalemme liberata, poema heroico del sig. Torquato Tasso. Tratta dal vero originale, con aggiunta di quanto manca nell'altre edittioni, &amp; con l'allegoria dello stesso autore</title>
+					<publisher>Vittorio Baldini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1581">1581</date>
+					<biblScope unit="page">207</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Così doleasi, e con le flebil’onde,</l>
+					<l xml:id="l2">Ch’amor, e sdegno da begli occhi stilla,</l>
+					<l xml:id="l3">L’affettuoso pianto egli confonde,</l>
+					<l xml:id="l4">In cui pudíca la pietà sfavilla:</l>
+					<l xml:id="l5">E con modi dolcissimi risponde,</l>
+					<l xml:id="l6">Armida, il cor turbato homai tranquilla;</l>
+					<l xml:id="l7">Non à gli scherni, al Regno io ti riservo,</l>
+					<l xml:id="l8">Nemico nò; ma tuo campione, e servo.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

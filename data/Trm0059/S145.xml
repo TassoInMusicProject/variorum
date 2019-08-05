@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Lunge da voi, ben mio</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S145</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S145">
+					<title>Il Gareggiamento poetico del Confuso Accademico Ordito. Madrigali amorosi gravi, e piacevoli ne' quali si vede il bello, il leggiadro. &amp; il vivace de i più illustri poeti d'Italia</title>
+					<publisher>Barezzo Barezzi</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1611">1611</date>
+					<biblScope unit="page">Quinta parte, 131r-131v</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Segue. [AMOROSA LONTANANZA. / Torquato Tasso.]</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Lunge da voi, ben mio</l>
+					<l xml:id="l2">Non hò vita ne core, e non son io</l>
+					<l xml:id="l3">Non sono (oime) non sono</l>
+					<l xml:id="l4">Quel, ch’altra volta fui, ma un’ombra m[missing remaining letters]</l>
+					<l xml:id="l5">Un lagrimevol suono,</l>
+					<l xml:id="l6">Una voce dolente, e ciò mi resta</l>
+					<l xml:id="l7">Solo per vostro dono,</l>
+					<l xml:id="l8">Ma resta il male onde morir desio.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

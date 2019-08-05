@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Se l'imagine vostra</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S54</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S54">
+					<title>Il rimanente delle rime nuove del Sig. Torquato Tasso</title>
+					<publisher>Vittorio Baldini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1587">1587</date>
+					<biblScope unit="page">16</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Rende la ragione per che havendo la S. D. impressa nel cuore desideri la sua imagine.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Se l’imagine vostra</l>
+					<l xml:id="l2">In me dipinge amore</l>
+					<l xml:id="l3">Perche l’opra chied'io d’altro pittore?</l>
+				</lg>
+				<lg>
+					<l xml:id="l4">Ben puote il mio pensiero</l>
+					<l xml:id="l5">Veder quel ch'ei descriva,</l>
+					<l xml:id="l6">Ma vi s'abbaglia la virtù visiva:</l>
+					<l xml:id="l7">Dunque privo del vero</l>
+					<l xml:id="l8">L’habbia almen finta il senso</l>
+					<l xml:id="l9">Perch’io rimiri in voi, mentre vi penso.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

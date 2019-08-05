@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Là dove sono i pargoletti Amori</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S27</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S27">
+					<title>Delle rime et prose del Sig. Torquato Tasso. Parte quarta. Di nuovo posta in luce, con gli argomenti dell'istesso auttore</title>
+					<publisher>Giulio Vasalini</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1586">1586</date>
+					<biblScope unit="page">112</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">La', dove sono i pargoletti Amori,</l>
+					<l xml:id="l2">Et altri hà teso l’arco,</l>
+					<l xml:id="l3">Altri saette al varco,</l>
+					<l xml:id="l4">Altri polisce le quadrella d’oro,</l>
+					<l xml:id="l5">Un pareste di loro</l>
+					<l xml:id="l6">Scherzando in verde colle, ò' n riva ombrosa</l>
+					<l xml:id="l7">Fra la turba vezzosa.</l>
+					<l xml:id="l8">E se voi non havete auree saette,</l>
+					<l xml:id="l9">Le dolci parolette,</l>
+					<l xml:id="l10">E i dolci sguardi son facelle, e strali,</l>
+					<l xml:id="l11">E i bei pensieri in voi son piume, &amp; ali.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

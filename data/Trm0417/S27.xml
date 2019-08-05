@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Dolce mia fiamma, dolce</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S27</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S27">
+					<title>Delle rime et prose del Sig. Torquato Tasso. Parte quarta. Di nuovo posta in luce, con gli argomenti dell'istesso auttore</title>
+					<publisher>Giulio Vasalini</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1586">1586</date>
+					<biblScope unit="page">114</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Dolce mia fiamma, dolce</l>
+					<l xml:id="l2">Mia pena, e mio tormento</l>
+					<l xml:id="l3">Dolce è ’l languir, dolce è ’l martir ch’io sento,</l>
+					<l xml:id="l4">Dolci sono i tuoi raggi, e le faville,</l>
+					<l xml:id="l5">E mentre à mille à mille</l>
+					<l xml:id="l6">Passan in questo core,</l>
+					<l xml:id="l7">Dico, s’egli sì more,</l>
+					<l xml:id="l8">Il suo morir non prezza,</l>
+					<l xml:id="l9">Nè morra per dolor, ma per dolcezza.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

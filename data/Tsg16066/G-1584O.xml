@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Questa bellezza mia sarà mercede</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1584O</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1584O">
+					<title>Gierusalemme liberata poema heroico del sig. Torquato Tasso. Ridotta alla sua vera lettione secondo il proprio originale dello stesso autore, &amp; di nuovo ristampata, con gli argomenti a ciascun canto del signor Horatio Ariosti, &amp; allegorie del poema. Con la aggiunta di molte stanze, che dall'autore sono state rifiutate, et mutate a' suoi luoghi</title>
+					<publisher>Francesco Osanna</publisher>
+					<pubPlace>Mantua</pubPlace>
+					<date when="1584">1584</date>
+					<biblScope unit="page">170</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Questa bellezza mia sarà mercede</l>
+					<l xml:id="l2">Del troncator de l’essecrabil testa.</l>
+					<l xml:id="l3">O miei famosi Amanti, ecco si chiede</l>
+					<l xml:id="l4">Difficil sì da voi, ma impresa honesta.</l>
+					<l xml:id="l5">Io, che sarò d’ampie ricchezze herede,</l>
+					<l xml:id="l6">D’una vendetta in guiderdon son presta.</l>
+					<l xml:id="l7">S’esser compra à tal prezzo indegna io sono,</l>
+					<l xml:id="l8">Beltà, sei di natura inutil dono.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

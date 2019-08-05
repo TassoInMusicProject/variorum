@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Se m'odii e in ciò diletto alcun tu senti</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1581B</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1581B">
+					<title>Gierusalemme liberata, poema heroico del sig. Torquato Tasso. Tratta dal vero originale, con aggiunta di quanto manca nell'altre edittioni, &amp; con l'allegoria dello stesso autore</title>
+					<publisher>Vittorio Baldini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1581">1581</date>
+					<biblScope unit="page">154</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Se m’odij, e in ciò diletto alcun tu senti,</l>
+					<l xml:id="l2">Non ten vengo à privar, godi pur d’esso.</l>
+					<l xml:id="l3">Giusto à tè pare, e siasi, anch’io le genti</l>
+					<l xml:id="l4">Christiane odiai, no'l nego, odiai te stesso.</l>
+					<l xml:id="l5">Nacqui Pagana, usai vari argomenti,</l>
+					<l xml:id="l6">Che per me fosse il vostro Imperio oppresso,</l>
+					<l xml:id="l7">Te perseguij, te presi, e te lontano</l>
+					<l xml:id="l8">Da l’armi trassi in loco ignoto, e strano.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

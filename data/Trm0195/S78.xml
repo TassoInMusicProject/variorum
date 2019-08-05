@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Sovra le verdi chiome</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S78</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S78">
+					<title>Della nova scelta di rime di diversi eccellenti scrittori de l'età nostra, novamente raccolte, et mandate in luce per Benedetto Varoli</title>
+					<publisher>Antonio Guerino e Compagno</publisher>
+					<pubPlace>Casalmaggiore</pubPlace>
+					<date when="1590">1590</date>
+					<biblScope unit="page">52-53</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">IL LAURO VERDE. SOPRA LA SIGNORA LAURA></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Sovra le verdi chiome</l>
+					<l xml:id="l2">Di questo novo Lauro udite, come</l>
+					<l xml:id="l3">De canori Augelletti</l>
+					<l xml:id="l4">Altri scherzando van di ramo in ramo,</l>
+					<l xml:id="l5">Cantando io t’amo, io t’amo:</l>
+					<l xml:id="l6">Ond'ei par, che responda</l>
+					<l xml:id="l7">Co'l dolce mormorio</l>
+					<l xml:id="l8">De la tremante fronda</l>
+					<l xml:id="l9">Si, si, che v’amo anch’io,</l>
+					<l xml:id="l10">Et altri vezzosetti</l>
+					<l xml:id="l11">Cantano quivi, quivi,</l>
+					<l xml:id="l12">Quasi voglian dire in questi rivi,</l>
+					<l xml:id="l13">O intorno à queste linfe</l>
+					<l xml:id="l14">Si vagheggian le Ninfe.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

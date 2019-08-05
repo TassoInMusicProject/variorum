@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Sovente, allor che su gli estivi ardori</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1581B</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1581B">
+					<title>Gierusalemme liberata, poema heroico del sig. Torquato Tasso. Tratta dal vero originale, con aggiunta di quanto manca nell'altre edittioni, &amp; con l'allegoria dello stesso autore</title>
+					<publisher>Vittorio Baldini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1581">1581</date>
+					<biblScope unit="page">63</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Sovente all’hor, che sù gli estivi ardori</l>
+					<l xml:id="l2">Giacean le Pecorelle à l’ombra assise,</l>
+					<l xml:id="l3">Ne la scorza de’ Faggi, e degli Allori</l>
+					<l xml:id="l4">Segnò l’amato nome in mille guise,</l>
+					<l xml:id="l5">E de’ suoi strani, &amp; infelici amori</l>
+					<l xml:id="l6">Gli aspri successi in mille piante incise,</l>
+					<l xml:id="l7">E in rileggendo poi le proprie note</l>
+					<l xml:id="l8">Rigò di belle lacrime le gote.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

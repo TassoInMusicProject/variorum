@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Portano l'altre il velo</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S145</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S145">
+					<title>Il Gareggiamento poetico del Confuso Accademico Ordito. Madrigali amorosi gravi, e piacevoli ne' quali si vede il bello, il leggiadro. &amp; il vivace de i più illustri poeti d'Italia</title>
+					<publisher>Barezzo Barezzi</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1611">1611</date>
+					<biblScope unit="page">Parte seconda, 12r</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">CHIOMA SVELATA . / Torquato Tasso.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Portano l’altre il velo,</l>
+					<l xml:id="l2">Voi le chiome dorate</l>
+					<l xml:id="l3">Forse per alterezza al Sol mostrate;</l>
+					<l xml:id="l4">Ma s’à sdegno prendete</l>
+					<l xml:id="l5">Ogni essempio terreno</l>
+					<l xml:id="l6">Con alti essempi il Ciel vi muova almeno.</l>
+					<l xml:id="l7">L’Alba col vel vedete,</l>
+					<l xml:id="l8">Ha il suo la Dea di Delo,</l>
+					<l xml:id="l9">E l’Iri il suo colora anco nel Cielo.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

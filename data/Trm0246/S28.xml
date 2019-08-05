@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Al lume delle stelle</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S28</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S28">
+					<title>Gioie di rime, e prose del Sig. Torquato Tasso, nuovamente poste in luce. Per ordine dell'altre sue opere. Quinta, e sesta parte</title>
+					<publisher>Giulio Vasalini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1587">1587</date>
+					<biblScope unit="page">16	</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Al lume de le stelle</l>
+					<l xml:id="l2">Tirsi sotto un’alloro</l>
+					<l xml:id="l3">Si dolea lagrimando in questi accenti.</l>
+				</lg>
+				<lg>
+					<l xml:id="l4">O celesti facelle</l>
+					<l xml:id="l5">Di lei, ch’amo ed adoro</l>
+					<l xml:id="l6">Rassomigliate voi gli occhi lucenti.</l>
+				</lg>
+				<lg>
+					<l xml:id="l7">Luci serene e liete,</l>
+					<l xml:id="l8">Sento la fiamma lor mentre splendete.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

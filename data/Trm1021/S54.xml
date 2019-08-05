@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Là dove sono i pargoletti Amori</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S54</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S54">
+					<title>Il rimanente delle rime nuove del Sig. Torquato Tasso</title>
+					<publisher>Vittorio Baldini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1587">1587</date>
+					<biblScope unit="page">57</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">La dove sono i pargoletti amori,</l>
+					<l xml:id="l2">Et altri han teso l’arco,</l>
+					<l xml:id="l3">Altri s'è volto al varco,</l>
+					<l xml:id="l4">Altri polisce le quadrella d’oro;</l>
+					<l xml:id="l5">Voi pareste un di loro</l>
+					<l xml:id="l6">Scherzando in verde colle, o in riva ombrosa</l>
+					<l xml:id="l7">De la turba vezzosa,</l>
+					<l xml:id="l8">E se voi non havete auree saette,</l>
+					<l xml:id="l9">Le dolci parolette</l>
+					<l xml:id="l10">E i dolci sguardi son saette, e strali,</l>
+					<l xml:id="l11">E i bei pensieri in voi son piu mortali.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

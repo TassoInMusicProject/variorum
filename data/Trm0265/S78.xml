@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Mentre la donna mia cangiando aspetto</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S78</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S78">
+					<title>Della nova scelta di rime di diversi eccellenti scrittori de l'età nostra, novamente raccolte, et mandate in luce per Benedetto Varoli</title>
+					<publisher>Antonio Guerino e Compagno</publisher>
+					<pubPlace>Casalmaggiore</pubPlace>
+					<date when="1590">1590</date>
+					<biblScope unit="page">46</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">ERA TANTO VERGOGNOSA LA S. / Donna, che vedendolo si mutava di colore / e facendosi cadder leggiadramente / occasione dubita della sua / costanza. </p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Mentre la donna mia, cangiand'aspetto</l>
+					<l xml:id="l2">Di bianco nel vermiglio,</l>
+					<l xml:id="l3">Mostra l’intero affetto,</l>
+					<l xml:id="l4">E pare hor fresca rosa, hor bianco giglio:</l>
+					<l xml:id="l5">Dico, se cosi muta il bel colore,</l>
+					<l xml:id="l6">Non è ferma nel core;</l>
+					<l xml:id="l7">Ma’l variar è cosi dolce, e vago,</l>
+					<l xml:id="l8">Che d’altro io non m’appago.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

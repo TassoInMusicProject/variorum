@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Poi cominciò: "Non aspettar ch'io preghi</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1581B</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1581B">
+					<title>Gierusalemme liberata, poema heroico del sig. Torquato Tasso. Tratta dal vero originale, con aggiunta di quanto manca nell'altre edittioni, &amp; con l'allegoria dello stesso autore</title>
+					<publisher>Vittorio Baldini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1581">1581</date>
+					<biblScope unit="page">154</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Poi cominciò; Non aspettar, ch’io preghi,</l>
+					<l xml:id="l2">Crudel, te, come Amante Amante deve:</l>
+					<l xml:id="l3">Tai fummo un tempo, hor se tal’esser nieghi,</l>
+					<l xml:id="l4">E di ciò la memoria anco t’è greve.</l>
+					<l xml:id="l5">Come nemico almeno ascolta, i preghi</l>
+					<l xml:id="l6">D’un nemico tal'hor l’altro riceve,</l>
+					<l xml:id="l7">Ben quel, ch’io chieggio è tal, che darlo puoi,</l>
+					<l xml:id="l8">E integri conservar gli sdegni tuoi.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

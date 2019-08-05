@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Non sono in queste rive</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0307c</idno>
+			<idno type="label">Trm0307c (Alto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0307c-Alto">
+					<title>Vittoria amorosa. A cinque voci</title>
+					<author role="composer">Narducci, Benedetto</author>
+					<publisher>G. Vincenzi</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1596">1596</date>
+					<idno type="RISM">1596-11</idno>
+					<biblScope unit="page">5</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Non sono in queste rive</l>
+					<l xml:id="l2">Fiori così vermigli</l>
+					<l xml:id="l3">Come le labra di Vittoria mia</l>
+					<l xml:id="l4">Nel suon de l’aure estive</l>
+					<l xml:id="l5">Tra fonti e rose e gigli</l>
+					<l xml:id="l6">Fan del suo canto più dolce armonia</l>
+					<l xml:id="l7">Canto che m’ardi e piaci</l>
+					<l xml:id="l8">T’interrompano solo i nostri baci.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Ha ninfe adorne e belle</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S174</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S174">
+					<title>Delle opere non più stampate del Signor Torquato Tasso. Raccolte, e pubblicate da Marc'Antonio Foppa. Volume terzo. Nel qual si contengono varie sue poesie</title>
+					<publisher>Giacomo Dragondelli</publisher>
+					<pubPlace>Rome</pubPlace>
+					<date when="1666">1666</date>
+					<biblScope unit="page">249</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">In lode della Mesola, dov'era à diporto la Signora Duchessa di Ferrara.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Ha Ninfe adorne, e belle,</l>
+					<l xml:id="l2">La casta Margarita, &amp; essa è Dea,</l>
+					<l xml:id="l3">Se virtù fà gli Dei, come solea,</l>
+					<l xml:id="l4">Però boschi, palagi, e prati, e valli</l>
+					<l xml:id="l5">Secchi, &amp; ondosi calli,</l>
+					<l xml:id="l6">Le fece il grande Alfonso, e cinse intorno</l>
+					<l xml:id="l7">Navi, e d'erranti fere ampio soggiorno,</l>
+					<l xml:id="l8">E giunse i porti, e i lustri, in cui le serra,</l>
+					<l xml:id="l9">Perche sia la prigion campo di guerra,</l>
+					<l xml:id="l10">E i diletti sian glorie,</l>
+					<l xml:id="l11">E tutte le sue prede, alte vittorie.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

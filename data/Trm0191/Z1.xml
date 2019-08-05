@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Arsi mentre m'amaste</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">Z1</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Z1">
+					<msIdentifier>
+						<region>France</region>
+						<settlement>Paris</settlement>
+						<repository>Bibliothèque Nationale</repository>
+						<idno>ms. Ital. 575</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 181</locus>
+							<p>miscellaneous codex, containing copies of 5 lyric poems by Tasso</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>17th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Madrigale</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Arsi mentre à voi piacque</l>
+					<l xml:id="l2">Et al cortese affetto</l>
+					<l xml:id="l3">Pagò tributo di sospiri il petto</l>
+					<l xml:id="l4">Ma poi ch'el bel disio</l>
+					<l xml:id="l5">Volgeste in altra parte</l>
+					<l xml:id="l6">Donna s'estinse anco'l mio foco in parte.</l>
+					<l xml:id="l7">Sorse poi novo ardore,</l>
+					<l xml:id="l8">Ma fu fiamma di sdegno</l>
+					<l xml:id="l9">Ch’el mio dono di voi stimaste indegno.</l>
+					<l xml:id="l10">[OMITTED]</l>
+					<l xml:id="l11">[OMITTED]</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Si volse Armida e 'l rimirò improvviso</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1581B</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1581B">
+					<title>Gierusalemme liberata, poema heroico del sig. Torquato Tasso. Tratta dal vero originale, con aggiunta di quanto manca nell'altre edittioni, &amp; con l'allegoria dello stesso autore</title>
+					<publisher>Vittorio Baldini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1581">1581</date>
+					<biblScope unit="page">207</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Si volse Armida, e ’l rimirò improviso,</l>
+					<l xml:id="l2">Che nol sentì, quando da prima ei venne.</l>
+					<l xml:id="l3">Alzò le strida, e da l’amato viso.</l>
+					<l xml:id="l4">Torse le luci, disdegnosa, e svenne,</l>
+					<l xml:id="l5">Ella cadea, quasi fior mezo inciso,</l>
+					<l xml:id="l6">Piegando il lento collo, ei la sostenne.</l>
+					<l xml:id="l7">Le fè d’un braccio al bel fianco colonna,</l>
+					<l xml:id="l8">E’ntanto al sen le rallentò la gonna.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

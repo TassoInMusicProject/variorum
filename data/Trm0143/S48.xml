@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Ecco mormorar l'onde</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S48</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S48">
+					<title>Delle Rime del Sig. Torquato Tasso. Parte quarta, e quinta. Nuovamente stampate</title>
+					<publisher>Antonio Orero</publisher>
+					<pubPlace>Genoa</pubPlace>
+					<date when="1586">1586</date>
+					<biblScope unit="page">42	</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Descrive l'aurora e la bellezza della sua Donna.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Ecco sparir le stelle, e spirar l'aura,</l>
+					<l xml:id="l2">E tremolar le fronde</l>
+					<l xml:id="l3">De gli arboscelli al mormorio de l'onde,</l>
+					<l xml:id="l4">Che'l suo spirto dolcissimo ristaura;</l>
+					<l xml:id="l5">E tra frondosi rami i vaghi augelli</l>
+					<l xml:id="l6">Cantar sù l'alba, che la bella fronte</l>
+					<l xml:id="l7">Coronata di rose in cielo appare,</l>
+					<l xml:id="l8">E le campagne'mperla e'ndora il monte,</l>
+					<l xml:id="l9">E dispiegando al vento i bei capelli</l>
+					<l xml:id="l10">Chiaro specchio si fà de l'ampio mare.</l>
+					<l xml:id="l11">O bell'Aurora al cui venir più care</l>
+					<l xml:id="l12">Sono tutte le cose</l>
+					<l xml:id="l13">Piu liete più ridenti e piu gioiose,</l>
+					<l xml:id="l14">L'aura è tua messaggiera, e tu di Laura.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

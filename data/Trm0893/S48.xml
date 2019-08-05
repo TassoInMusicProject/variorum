@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Ben può ritrar le tue fattezze conte</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S48</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S48">
+					<title>Delle Rime del Sig. Torquato Tasso. Parte quarta, e quinta. Nuovamente stampate</title>
+					<publisher>Antonio Orero</publisher>
+					<pubPlace>Genoa</pubPlace>
+					<date when="1586">1586</date>
+					<biblScope unit="page">99-100</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Loda il Duca di Gioiosa che fù alloggiato nelle stanze Ducali de gli specchi di Ferrara.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Ben puo ritrar le tue fatezze conte</l>
+					<l xml:id="l2">Lucido specchio, over tranquillo humore,</l>
+					<l xml:id="l3">Ma non quella beltà ne quel valore</l>
+					<l xml:id="l4">Che suol far a la morte oltraggio, &amp; onte.</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Perche degno non è christallo o fonte</l>
+					<l xml:id="l6">D’immortal forma, o di celeste honore:</l>
+					<l xml:id="l7">Ma specchio Sol di eterno alto splendore</l>
+					<l xml:id="l8">Dove il primo amator mirò la fronte.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">La su la tua virtude, e la tua luce</l>
+					<l xml:id="l10">Si vedrà fiammeggiar, e ne sereni</l>
+					<l xml:id="l11">Occhi un bel raggio si rimira e scerne.</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">E mentre agl’occhi altrui vago traluce</l>
+					<l xml:id="l13">Signor novo Narciso ho non divenij,</l>
+					<l xml:id="l14">Anzi ti volgi a le bellezze eterne.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Qui tacque: e stabilito il suo pensiero</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1584O</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1584O">
+					<title>Gierusalemme liberata poema heroico del sig. Torquato Tasso. Ridotta alla sua vera lettione secondo il proprio originale dello stesso autore, &amp; di nuovo ristampata, con gli argomenti a ciascun canto del signor Horatio Ariosti, &amp; allegorie del poema. Con la aggiunta di molte stanze, che dall'autore sono state rifiutate, et mutate a' suoi luoghi</title>
+					<publisher>Francesco Osanna</publisher>
+					<pubPlace>Mantua</pubPlace>
+					<date when="1584">1584</date>
+					<biblScope unit="page">223</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Quì tacque; e stabilito il suo pensiero</l>
+					<l xml:id="l2">Strale sceglieva il più pungente; e forte:</l>
+					<l xml:id="l3">Quando giunse; e mirolla il Cavaliero</l>
+					<l xml:id="l4">Tanto vicina à la sua estrema sorte,</l>
+					<l xml:id="l5">Già compostasi in atto atroce, e fero:</l>
+					<l xml:id="l6">Già tinta in viso di pallor di morte.</l>
+					<l xml:id="l7">Da tergo ei se le avventa, e ’l braccio prende,</l>
+					<l xml:id="l8">Che già la fera punta al petto stende.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

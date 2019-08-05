@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Ha gigli e rose ed ha rubini ed oro</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S28</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S28">
+					<title>Gioie di rime, e prose del Sig. Torquato Tasso, nuovamente poste in luce. Per ordine dell'altre sue opere. Quinta, e sesta parte</title>
+					<publisher>Giulio Vasalini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1587">1587</date>
+					<biblScope unit="page">58</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Loda la Signora Donna Marfisa d’Este, Marchesa di Carrara.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Hà gigli, e rose, &amp; hà rubini, &amp; oro,</l>
+					<l xml:id="l2">E due serene stelle e mille raggi</l>
+					<l xml:id="l3">Il bel vostro purpureo, e bianco viso,</l>
+					<l xml:id="l4">Onde sua primavera è ’l suo tesoro,</l>
+					<l xml:id="l5">E gemme i vaghi fiori, e lieti Maggi</l>
+					<l xml:id="l6">Lucide fiamme son di paradiso;</l>
+					<l xml:id="l7">Ma ’l piú bel pregio è la virtú de l’alma,</l>
+					<l xml:id="l8">Ch’è di se stessa à voi corona, e palma.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">La natura v’armò, bella guerriera,</l>
+					<l xml:id="l10">E strali sono i guardi, e nodi i crini;</l>
+					<l xml:id="l11">E le due chiare luci ambe facelle,</l>
+					<l xml:id="l12">E ’n vostro campo è ne la prima schiera</l>
+					<l xml:id="l13">L’honor, la gloria, e stanno à lor vicini</l>
+					<l xml:id="l14">Gli alti costume, e le virtuti anch’elle;</l>
+					<l xml:id="l15">Et un diaspro intorno il cor v’hà cinto,</l>
+					<l xml:id="l16">E voi sete la Duce, Amore il vinto.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

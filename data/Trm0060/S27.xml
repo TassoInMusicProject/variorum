@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Lunge da voi, mio core</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S27</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S27">
+					<title>Delle rime et prose del Sig. Torquato Tasso. Parte quarta. Di nuovo posta in luce, con gli argomenti dell'istesso auttore</title>
+					<publisher>Giulio Vasalini</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1586">1586</date>
+					<biblScope unit="page">162</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Dice di morir mille volte mentre è lontano dalla sua donna però chiama felice, chi muore una sola.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Lunge da voi, mio core,</l>
+					<l xml:id="l2">Mille volte m’uccide il mio dolore;</l>
+					<l xml:id="l3">Perche la mia partita</l>
+					<l xml:id="l4">Mi tolse l’alma, e s’io ripenso in lei,</l>
+					<l xml:id="l5">Mi ritoglie la vita</l>
+					<l xml:id="l6">E tutti sono morti i pensier miei.</l>
+					<l xml:id="l7">O miseria infinita,</l>
+					<l xml:id="l8">E' quel felice, ch’una volta more.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

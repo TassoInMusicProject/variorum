@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Mentr'io mirava fiso</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S70</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S70">
+					<title>Rime, et prose del Sig. Torquato Tasso. Parte quarta. Ristampate, et corrette. Et aggiuntovi i Discorsi dell'arte poetica</title>
+					<publisher>Giulio Vasalini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1589">1589</date>
+					<biblScope unit="page">86</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Mentr'io mirava fiso</l>
+					<l xml:id="l2">De la mia Donna gli occhi ardenti, e belli,</l>
+					<l xml:id="l3">Due vaghi spiritelli</l>
+					<l xml:id="l4">Fiammeggiando n’usciro a l’improviso.</l>
+					<l xml:id="l5">E leggiadretti, e snelli</l>
+					<l xml:id="l6">Facendo mille scherzi, e mille giri</l>
+					<l xml:id="l7">Mille fughe d’intorno,</l>
+					<l xml:id="l8">E mille aguati dentro al seno adorno,</l>
+					<l xml:id="l9">Mi trassero del cor mille sospiri,</l>
+					<l xml:id="l10">Onde con dolci, &amp; amorosi lai</l>
+					<l xml:id="l11">Pietà, pietà gridai.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

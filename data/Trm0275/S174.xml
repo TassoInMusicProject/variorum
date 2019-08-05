@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>O via più bianca e fredda</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S174</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S174">
+					<title>Delle opere non più stampate del Signor Torquato Tasso. Raccolte, e pubblicate da Marc'Antonio Foppa. Volume terzo. Nel qual si contengono varie sue poesie</title>
+					<publisher>Giacomo Dragondelli</publisher>
+					<pubPlace>Rome</pubPlace>
+					<date when="1666">1666</date>
+					<biblScope unit="page">266</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">La S.D. comparata alla Luna.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">O via più bianca, e fredda</l>
+					<l xml:id="l2">Di lei, che spesso fà parir men belle,</l>
+					<l xml:id="l3">Col suo splendor le Stelle,</l>
+					<l xml:id="l4">Turba il suo puro argento,</l>
+					<l xml:id="l5">O nube, ò pioggia, ò vento;</l>
+					<l xml:id="l6">Nulla il tuo bel candore, e i vaghi giri,</l>
+					<l xml:id="l7">S’in mè Tù lieta giri,</l>
+					<l xml:id="l8">Sia la mia vita un sogno, &amp; io contento.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

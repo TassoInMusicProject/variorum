@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>O nemica d'Amor, che sì ti rendi</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S4</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S4">
+					<title>Rime de gli Academici Eterei</title>
+					<publisher>Gli Eterei</publisher>
+					<pubPlace>Padua</pubPlace>
+					<date when="1567">1567</date>
+					<biblScope unit="page">68r	</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">[TORQUATO TASSO DETTO IL PENTITO.]	</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">O nemica d’Amor, che sì ti rendi</l>
+					<l xml:id="l2">Schiva di quel, ch’altrui dà pace, e vita,</l>
+					<l xml:id="l3">E dolce schiera à’ suoi diporti unita</l>
+					<l xml:id="l4">Dispergi, e parti, e lui turbi, &amp; offendi:</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Se de l’altrui bellezza invidia prendi,</l>
+					<l xml:id="l6">Che de’ tuoi danni a rimembrar t’invita,</l>
+					<l xml:id="l7">Lassa, che non t’ascondi, &amp; in romita</l>
+					<l xml:id="l8">Parte, e selvaggia i giorni estremi spendi?</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Che non conviensi già tra le felici</l>
+					<l xml:id="l10">Squadre d’Amore, e tra’l diletto, e’l gioco,</l>
+					<l xml:id="l11">Donna antica in imagine di Morte.</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">Deh fuggi homai dal Sole in chiuso loco,</l>
+					<l xml:id="l13">Come notturno augel: ne’ tristi auspici</l>
+					<l xml:id="l14">Il tuo apparir à' lieti amanti apporte.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

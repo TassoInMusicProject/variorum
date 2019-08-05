@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Cantava in riva al fiume</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S145</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S145">
+					<title>Il Gareggiamento poetico del Confuso Accademico Ordito. Madrigali amorosi gravi, e piacevoli ne' quali si vede il bello, il leggiadro. &amp; il vivace de i più illustri poeti d'Italia</title>
+					<publisher>Barezzo Barezzi</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1611">1611</date>
+					<biblScope unit="page">38v</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Le Bellezze / Segue. [Torquato Tasso]</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Cantava in riva al fiume</l>
+					<l xml:id="l2">Tirsi d’Eleonora;</l>
+					<l xml:id="l3">E rispondean le selve, e l’onde honora.</l>
+					<l xml:id="l4">E parea mormorando</l>
+					<l xml:id="l5">Dir l’ora, hora, ch’apare</l>
+					<l xml:id="l6">L’Aurora par, che lieta esca del mare.</l>
+					<l xml:id="l7">Hor chi l’honora amando?</l>
+					<l xml:id="l8">E l’acque insieme, e i rami;</l>
+					<l xml:id="l9">Hor chi fia, che l’honori, e che non l’ami?</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

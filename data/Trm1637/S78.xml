@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Anime sante e belle</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S78</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S78">
+					<title>Della nova scelta di rime di diversi eccellenti scrittori de l'età nostra, novamente raccolte, et mandate in luce per Benedetto Varoli</title>
+					<publisher>Antonio Guerino e Compagno</publisher>
+					<pubPlace>Casalmaggiore</pubPlace>
+					<date when="1590">1590</date>
+					<biblScope unit="page">38</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">SOPRA LE SACRE RELIQUIE / poste nella Chiesa di Santa Barbara di / MANTOVA.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Anime sante, e belle,</l>
+					<l xml:id="l2">Che da gli affanni humani, e da martiri</l>
+					<l xml:id="l3">Volaste à più sublimi, et alti giri:</l>
+					<l xml:id="l4">Gradite i nostri preghi</l>
+					<l xml:id="l5">Su l’ale de la fede, e de la speme.</l>
+					<l xml:id="l6">E pur co’ vostri insieme</l>
+					<l xml:id="l7">La Giustitia superna</l>
+					<l xml:id="l8">Rallenti'l suo furor'e à noi si pieghi</l>
+					<l xml:id="l9">Peccatori, e no’l celo,</l>
+					<l xml:id="l10">Voi colonne del Cielo,</l>
+					<l xml:id="l11">Anzi i Cieli voi sete</l>
+					<l xml:id="l12">Alme felici, e liete,</l>
+					<l xml:id="l13">Che narrate di Dio la gloria eterna.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

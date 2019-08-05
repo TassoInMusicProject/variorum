@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Dolcissimi colori</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S54</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S54">
+					<title>Il rimanente delle rime nuove del Sig. Torquato Tasso</title>
+					<publisher>Vittorio Baldini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1587">1587</date>
+					<biblScope unit="page">67</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Dolcissimi colori,</l>
+					<l xml:id="l2">Voi vi mutate, &amp; io</l>
+					<l xml:id="l3">Muto aspetto con voi; ma non desio.</l>
+					<l xml:id="l4">Sempre vorrei mirarvi, e se fiorire</l>
+					<l xml:id="l5">Un bel purpureo veggio,</l>
+					<l xml:id="l6">O quel vago candor, sempre il vagheggio.</l>
+					<l xml:id="l7">[OMITTED]</l>
+					<l xml:id="l8">E perche varij segno al mio pensiero</l>
+					<l xml:id="l9">E costante l’arciero.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

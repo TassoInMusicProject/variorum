@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>La bella pargoletta</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0611n</idno>
+			<idno type="label">Trm0611n (Alto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0611n-Alto">
+					<title>Il sesto libro de madrigali a sei voci</title>
+					<author role="composer">Monte, Filippo di</author>
+					<publisher>Gardano</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1591">1591</date>
+					<idno type="RISM">M 3384</idno>
+					<biblScope unit="page">28</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">La bella pargoletta</l>
+					<l xml:id="l2">Ch’ancor non sente amore</l>
+					<l xml:id="l3">Ne pur noto ha per fama il suo valore</l>
+					<l xml:id="l4">[TACET]</l>
+					<l xml:id="l5">[TACET]</l>
+					<l xml:id="l6">Ne s’accorge c'ha l'arme nel bel viso</l>
+					<l xml:id="l7">Qual colp'ha nel morire</l>
+					<l xml:id="l8">De la trafitta gente</l>
+					<l xml:id="l9">[OMITTED]</l>
+					<l xml:id="l10">Se non sa di ferire</l>
+					<l xml:id="l11">O bellezz'homicida &amp; innocente</l>
+					<l xml:id="l12">[TACET]</l>
+					<l xml:id="l13">Homai nelle tue piaghe i dolor nostri.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

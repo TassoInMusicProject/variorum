@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Forse è cagion l'aurora</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S145</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S145">
+					<title>Il Gareggiamento poetico del Confuso Accademico Ordito. Madrigali amorosi gravi, e piacevoli ne' quali si vede il bello, il leggiadro. &amp; il vivace de i più illustri poeti d'Italia</title>
+					<publisher>Barezzo Barezzi</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1611">1611</date>
+					<biblScope unit="page">38r</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Torquato Tasso. / Per la Illustre Sign. Tarquinia Molza.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Forse è cagion l’Aurora</l>
+					<l xml:id="l2">Di questo bel concento,</l>
+					<l xml:id="l3">Che fan le fronde, e i rami, e l’acque, e ’l vento?</l>
+					<l xml:id="l4">O con si dolce modo</l>
+					<l xml:id="l5">Il Ciel Tarquinia honora,</l>
+					<l xml:id="l6">E per lei de la terra s’innamora?</l>
+					<l xml:id="l7">I odo (ò parmi) i odo</l>
+					<l xml:id="l8">La voce ella è pur dessa</l>
+					<l xml:id="l9">Ecco Tarquinia viene, Amor s’appressa.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

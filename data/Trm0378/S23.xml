@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Nel dolce seno de la bella Clori</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S23</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S23">
+					<title>Aggiunta alle rime, et prose del Sig. Torquato Tasso</title>
+					<publisher>Aldo [Manuzio]</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1585">1585</date>
+					<biblScope unit="page">17</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Ballata</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Nel dolce seno della bella Clori</l>
+					<l xml:id="l2">Tirsi, che del suo fine</l>
+					<l xml:id="l3">Già languendo sentia l'hore vicine;</l>
+					<l xml:id="l4">Tirsi levando gli occhi</l>
+					<l xml:id="l5">Ne' languidetti rai del suo desio</l>
+					<l xml:id="l6">Anima, disse, homai beata mori:</l>
+					<l xml:id="l7">Quand’ella, ahime, ben mio,</l>
+					<l xml:id="l8">Aspetta, sospirò, dolce anhelando,</l>
+					<l xml:id="l9">Ahi crudo, ir dunque à morte</l>
+					<l xml:id="l10">Senza me pensi? io teco (e non me'n pento)</l>
+					<l xml:id="l11">Morir promisi, e già moro, e già sento</l>
+					<l xml:id="l12">Le mortali mie scorte.</l>
+					<l xml:id="l13">Perche l’una, e l’altra alma insieme scocchi</l>
+					<l xml:id="l14">Si stringe egli soave, e sol risponde</l>
+					<l xml:id="l15">Con meste voci à le voci gioconde.</l>
+					<l xml:id="l16">O fortunati, l’un’entro spirando</l>
+					<l xml:id="l17">Ne la bocca de l’altra: una dolce ombra</l>
+					<l xml:id="l18">Di morte gli occhi lor tremanti ingombra,</l>
+					<l xml:id="l19">E si sentian mancando i rotti accenti</l>
+					<l xml:id="l20">Agghiacciar tra le labra i baci ardenti.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

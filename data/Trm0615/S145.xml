@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Al tuo vago pallore</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S145</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S145">
+					<title>Il Gareggiamento poetico del Confuso Accademico Ordito. Madrigali amorosi gravi, e piacevoli ne' quali si vede il bello, il leggiadro. &amp; il vivace de i più illustri poeti d'Italia</title>
+					<publisher>Barezzo Barezzi</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1611">1611</date>
+					<biblScope unit="page">103v</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">PALLORI. / ALLA M. ILLUSTRE SIGNORA / Lucretia de' Massimi. / Torquato Tasso.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Al tuo dolce Pallore</l>
+					<l xml:id="l2">La rosa il pregio cede:</l>
+					<l xml:id="l3">Che per lo scorno hor più arrossir si vede.</l>
+					<l xml:id="l4">Quest'è’l color, ch’Amore</l>
+					<l xml:id="l5">Di sua man tinge, e segna</l>
+					<l xml:id="l6">Ne vanno i suoi guerrier sott’altr’insegna.</l>
+					<l xml:id="l7">Che più l’Alba homai sdegna</l>
+					<l xml:id="l8">L’ostro, e’n vaghisse il Ciel di tue viole,</l>
+					<l xml:id="l9">E teco brama impallidire il Sole.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

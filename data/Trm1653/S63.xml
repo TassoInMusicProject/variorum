@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Dove rivolgi o lusinghier fallace</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S63</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S63">
+					<title>Le Lagrime di S. Pietro del Signor Luigi Tansillo di nuovo ristampate.</title>
+					<publisher>Girolamo Bartoli</publisher>
+					<pubPlace>Genoa</pubPlace>
+					<date when="1587">1587</date>
+					<biblScope unit="page">165v</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">DIALOGO / <i>Spirituale.</i> / DEL SIGNOR TORQUATO / TASSO.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Dove rivolgi ò lusinghier fallace,</l>
+					<l xml:id="l2">Gli occhi bramosi, e vaghi?</l>
+					<l xml:id="l3">Dove, ò come t'appaghi</l>
+					<l xml:id="l4">Di quel, che breve spatio alletta, e piace?</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Il Ré, che fece il sole, e l'auree Stelle</l>
+					<l xml:id="l6">Fisse in celesti giri</l>
+					<l xml:id="l7">Par, ch'io vagheggi, e miri</l>
+					<l xml:id="l8">In opre di sua mano assai più belle.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">O dolce inganno, ò fero ardore, ò gelo</l>
+					<l xml:id="l10">De gl'infelici Amanti,</l>
+					<l xml:id="l11">Deh mutiamo sembianti</l>
+					<l xml:id="l12">Imaginati in terra, e vivi in Cielo.</l>
+				</lg>
+				<lg>
+					<l xml:id="l13">Mentre in Croce il contempli, il veggio esangue,</l>
+					<l xml:id="l14">O lacrime, ò dolore,</l>
+					<l xml:id="l15">Hoggi languisce, e more</l>
+					<l xml:id="l16">La salute, la vita: ò piaghe, ò sangue.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

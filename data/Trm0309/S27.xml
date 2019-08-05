@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>O verdi selve, o dolci fonti, o rivi</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S27</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S27">
+					<title>Delle rime et prose del Sig. Torquato Tasso. Parte quarta. Di nuovo posta in luce, con gli argomenti dell'istesso auttore</title>
+					<publisher>Giulio Vasalini</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1586">1586</date>
+					<biblScope unit="page">62</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">O verdi elve, ò dolci fonti, ò rivi</l>
+					<l xml:id="l2">O luoghi ermi, e selvaggi,</l>
+					<l xml:id="l3">Pini, abeti, ginebri, allori, e faggi:</l>
+					<l xml:id="l4">O' vaghi augelli semplici, e lascivi:</l>
+					<l xml:id="l5">Ecco, e tu, che rispondi al mio lamento,</l>
+					<l xml:id="l6">Chi può dar fine à sì crudel fortuna?</l>
+					<l xml:id="l7">Una. Dunque sol una,</l>
+					<l xml:id="l8">E fà così lacrimevol concento?</l>
+					<l xml:id="l9">Cento. Non son già cento, e pur son molte</l>
+					<l xml:id="l10">In bella festa accolte.</l>
+					<l xml:id="l11">Come una potra dunque il mal fornire?</l>
+					<l xml:id="l12">Ire; Per ira mai, nè per dispetto</l>
+					<l xml:id="l13">Non havrà fine Amor nel nostro petto.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

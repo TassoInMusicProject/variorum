@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Donna, lunge da voi</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S70</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S70">
+					<title>Rime, et prose del Sig. Torquato Tasso. Parte quarta. Ristampate, et corrette. Et aggiuntovi i Discorsi dell'arte poetica</title>
+					<publisher>Giulio Vasalini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1589">1589</date>
+					<biblScope unit="page">114</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Donna, lunge da voi</l>
+					<l xml:id="l2">Vivo del mio dolore,</l>
+					<l xml:id="l3">Nè manca il cibo con la vita al core:</l>
+					<l xml:id="l4">Perche da voi deriva,</l>
+					<l xml:id="l5">E pare un fiume senza fondo, ò riva:</l>
+					<l xml:id="l6">Voi sete il fonte, e’l rio</l>
+					<l xml:id="l7">De la vostra bellezza è’l pianto mio.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

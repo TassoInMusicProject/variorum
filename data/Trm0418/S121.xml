@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Ardi e gela a tua voglia</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S121</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S121">
+					<title>Rime del molto illustre Signor Cavaliere Battista Guarini</title>
+					<publisher>Giovanni Battista Ciotti</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1598">1598</date>
+					<biblScope unit="page">108v</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Risposta del Tasso.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Ardi, e gela à tua voglia</l>
+					<l xml:id="l2">Perfido, &amp; impudico,</l>
+					<l xml:id="l3">Or amante, or nemico;</l>
+					<l xml:id="l4">Che d’inconstante ingegno</l>
+					<l xml:id="l5">Poco l’amor io stimo, &amp; men lo sdegno:</l>
+					<l xml:id="l6">E se'l tuo amor fu vano,</l>
+					<l xml:id="l7">Van fia lo sdegno del tuo cor insano.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

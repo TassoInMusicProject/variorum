@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Ben può ritrar le tue fattezze conte</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S70</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S70">
+					<title>Rime, et prose del Sig. Torquato Tasso. Parte quarta. Ristampate, et corrette. Et aggiuntovi i Discorsi dell'arte poetica</title>
+					<publisher>Giulio Vasalini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1589">1589</date>
+					<biblScope unit="page">40</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Loda il Signor Duca di Gioiosa, il quale fù alloggiato dal Serenissimo Sig. Duca di Ferrara nelle stanze de gli specchi.</p>
+			</div>
+			<div>
+				<lg>
+				</lg>
+				<lg>
+					<l xml:id="l1">Ben può ritrar le tue fatezze conte</l>
+					<l xml:id="l2">Lucido vetro, ò pur tranquillo humore:</l>
+					<l xml:id="l3">Ma non quella beltà, nè quel valore,</l>
+					<l xml:id="l4">Che può fare à la morte oltraggi, &amp; onte.</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Perche degno non è cristallo, ò fonte</l>
+					<l xml:id="l6">D’immortal fama, ò di celeste honore;</l>
+					<l xml:id="l7">Ma specchio sol d angelico splendore,</l>
+					<l xml:id="l8">Dove il primo amator mirò la fronte.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Là sù la tua virtute, e la tua luce</l>
+					<l xml:id="l10">Si vedrà fiammeggiare, e'n sì bel viso</l>
+					<l xml:id="l11">A' pena un raggio hora s'adombra, e scerne.</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">E mentre à gli occhi altrui, vago traluce,</l>
+					<l xml:id="l13">Non divieni, Signor, novo Narciso,</l>
+					<l xml:id="l14">Anzi ti volgi à le bellezze eterne.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

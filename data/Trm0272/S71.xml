@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Occhi leggiadri e belli,/Nel vostro dolce nero</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S71</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S71">
+					<title>Rime nove del Sig. Torquato Tasso, composte nell'alma città di Roma. Con altre compositioni del medesimo ultimamente poste in luce</title>
+					<publisher>Giulio Vasalini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1589">1589</date>
+					<biblScope unit="page">69-70</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Occhi leggiadri,  e belli,</l>
+					<l xml:id="l2">Nel vostro dolce nero</l>
+					<l xml:id="l3">Un fanciul diventò scherzando Arciero.</l>
+					<l xml:id="l4">E saetta da gioco</l>
+					<l xml:id="l5">Mill’alme, e mille cori;</l>
+					<l xml:id="l6">E rinfresca gli ardori</l>
+					<l xml:id="l7">E non gli mancan le saette, e’l foco:</l>
+					<l xml:id="l8">Nè gli mancar giamai,</l>
+					<l xml:id="l9">Che sono strali e fiamme i vostri rai.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

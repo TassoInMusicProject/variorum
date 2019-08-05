@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Se tu mi lasci, perfida, tuo danno</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S70</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S70">
+					<title>Rime, et prose del Sig. Torquato Tasso. Parte quarta. Ristampate, et corrette. Et aggiuntovi i Discorsi dell'arte poetica</title>
+					<publisher>Giulio Vasalini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1589">1589</date>
+					<biblScope unit="page">185</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Se tu mi lasci, perfida, tuo danno:</l>
+					<l xml:id="l2">Non ti pensar, che sia</l>
+					<l xml:id="l3">Misera senza te la vita mia.</l>
+				</lg>
+				<lg>
+					<l xml:id="l4">Misera ben sarei,</l>
+					<l xml:id="l5">Se miseria i' stimassi, e non ventura</l>
+					<l xml:id="l6">Perder, chi non mi cura;</l>
+					<l xml:id="l7">E ritrovar quel, che di me perdei.</l>
+					<l xml:id="l8">Misera, e tu, che per novello amore</l>
+					<l xml:id="l9">Perdi quel fido core,</l>
+					<l xml:id="l10">Ch’era più tuo, che tu di te non sei:</l>
+					<l xml:id="l11">Ma il tuo già non perd’io,</l>
+					<l xml:id="l12">Perche non fù mai mio.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Qual cavalier ardito</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S70</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S70">
+					<title>Rime, et prose del Sig. Torquato Tasso. Parte quarta. Ristampate, et corrette. Et aggiuntovi i Discorsi dell'arte poetica</title>
+					<publisher>Giulio Vasalini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1589">1589</date>
+					<biblScope unit="page">31</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Loda la zenzara.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Qual Cavagliero ardito</l>
+					<l xml:id="l2">A le famose prove</l>
+					<l xml:id="l3">Il sonoro metallo accende, e move;</l>
+				</lg>
+				<lg>
+					<l xml:id="l4">Tal zenzaretta fiera</l>
+					<l xml:id="l5">Zuffola intorno, e vola,</l>
+					<l xml:id="l6">E vi percote poi la bianca gola.</l>
+				</lg>
+				<lg>
+					<l xml:id="l7">O' mirabil guerriera,</l>
+					<l xml:id="l8">In cui natura giunge</l>
+					<l xml:id="l9">La tromba à l’arme, ond’ella suona, e punge.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Ché qual tenera rosa</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tec2073a</idno>
+			<idno type="label">Tec2073a (Basso)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tec2073a-Basso">
+					<title>ll terzo libro de madrigali a cinque voci</title>
+					<author role="composer">Tresti, Flaminio</author>
+					<publisher>A. Gardano</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1590">1590</date>
+					<idno type="RISM">T 1173</idno>
+					<biblScope unit="page">19-20</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Come tenera rosa</l>
+					<l xml:id="l2">Alla ruggiada à l'ora</l>
+					<l xml:id="l3">Della nascente aurora</l>
+					<l xml:id="l4">Non apre vergognosa</l>
+					<l xml:id="l5">Il suo vermiglio et odorato seno</l>
+					<l xml:id="l6">Ma poi che piu vicino il caldo sente</l>
+					<l xml:id="l7">Del gran Pianett'ardente</l>
+					<l xml:id="l8">Apre languendo le purpuree spoglie</l>
+					<l xml:id="l9">E'l bel raggio del sole in gremb'accoglie.</l>
+				</lg>
+				<lg>
+					<l xml:id="l10">Cosi la virginella</l>
+					<l xml:id="l11">A i pianti &amp; ai sospiri</l>
+					<l xml:id="l12">Di novell'amator che lunge miri</l>
+					<l xml:id="l13">[TACET]</l>
+					<l xml:id="l14">Ma poi che s'avvicina il vivo ardore</l>
+					<l xml:id="l15">D'un'amoroso aspetto</l>
+					<l xml:id="l16">Languendo apre la via per gli occh'al core</l>
+					<l xml:id="l17">E nel virgineo sen riceve amore.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

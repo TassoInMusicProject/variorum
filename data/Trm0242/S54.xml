@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Sovra l'erbetta e i fiori</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S54</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S54">
+					<title>Il rimanente delle rime nuove del Sig. Torquato Tasso</title>
+					<publisher>Vittorio Baldini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1587">1587</date>
+					<biblScope unit="page">54</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Sovra l’herbette, e i fiori</l>
+					<l xml:id="l2">Fuggia tutta smarrita</l>
+					<l xml:id="l3">La mia crudel Licori,</l>
+					<l xml:id="l4">Anzi’l cor mio che fù da lei rapito;</l>
+					<l xml:id="l5">E me di piaggia in piaggia</l>
+					<l xml:id="l6">Seguia Ninfa selvaggia,</l>
+					<l xml:id="l7">Quando m’aggiunse, e con soavi baci</l>
+					<l xml:id="l8">Mi disse, hor prendi, e taci.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

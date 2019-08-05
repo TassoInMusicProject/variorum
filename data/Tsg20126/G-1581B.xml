@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Piacquele assai che 'n quelle valli ombrose</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1581B</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1581B">
+					<title>Gierusalemme liberata, poema heroico del sig. Torquato Tasso. Tratta dal vero originale, con aggiunta di quanto manca nell'altre edittioni, &amp; con l'allegoria dello stesso autore</title>
+					<publisher>Vittorio Baldini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1581">1581</date>
+					<biblScope unit="page">207</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Felice me, se nel morir non reco</l>
+					<l xml:id="l2">Questa mia peste ad infettar l’Inferno.</l>
+					<l xml:id="l3">Restine Amor, venga sol sdegn’ hor meco</l>
+					<l xml:id="l4">E sia de l’ombra mia compagno eterno:</l>
+					<l xml:id="l5">Ò ritorni con lui dal Regno cieco</l>
+					<l xml:id="l6">À colui, che di me fè l’empio scherno,</l>
+					<l xml:id="l7">E se gli mostri tal, che’n fere notti</l>
+					<l xml:id="l8">Habbia riposi horribili e’nterrotti.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

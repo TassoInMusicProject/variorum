@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Argo non mai, non vide Cipro e Delo</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1581B</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1581B">
+					<title>Gierusalemme liberata, poema heroico del sig. Torquato Tasso. Tratta dal vero originale, con aggiunta di quanto manca nell'altre edittioni, &amp; con l'allegoria dello stesso autore</title>
+					<publisher>Vittorio Baldini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1581">1581</date>
+					<biblScope unit="page">32</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Argo non mai, non vide Cipro, ò Delo</l>
+					<l xml:id="l2">D’habito, ò di beltà forme si care,</l>
+					<l xml:id="l3">D’auro hà la chioma, et hor dal bianco velo</l>
+					<l xml:id="l4">Traluce involta, hor discoperta appare,</l>
+					<l xml:id="l5">Cosi qual’hor si rasserena il cielo,</l>
+					<l xml:id="l6">Hor da candida nube il Sol traspare;</l>
+					<l xml:id="l7">Hor da la nube uscendo i raggi intorno</l>
+					<l xml:id="l8">Piu chiari spiega, e ne raddoppia il giorno.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

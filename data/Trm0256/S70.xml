@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Amor, che qui d'intorno</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S70</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S70">
+					<title>Rime, et prose del Sig. Torquato Tasso. Parte quarta. Ristampate, et corrette. Et aggiuntovi i Discorsi dell'arte poetica</title>
+					<publisher>Giulio Vasalini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1589">1589</date>
+					<biblScope unit="page">113</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">[Ad Amore]</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Amor, che quì d’intorno</l>
+					<l xml:id="l2">Hor fai ben mille scherzi, e mille giri</l>
+					<l xml:id="l3">S’ardisci numerar tante mie pene,</l>
+					<l xml:id="l4">E tanti miei sospiri.</l>
+					<l xml:id="l5">Che son piu de l’arene,</l>
+					<l xml:id="l6">Piu de l’onde del mar, piu de le stelle;</l>
+					<l xml:id="l7">Racconta a la mia Donna, e queste, e quelle</l>
+					<l xml:id="l8">E dì, ch’io vivo, accioche resti in vita</l>
+					<l xml:id="l9">La mia doglia infinita.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

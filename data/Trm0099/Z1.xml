@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Geloso amante apro mill'occhi e giro</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">Z1</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Z1">
+					<msIdentifier>
+						<region>France</region>
+						<settlement>Paris</settlement>
+						<repository>Bibliothèque Nationale</repository>
+						<idno>ms. Ital. 575</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 39</locus>
+							<p>miscellaneous codex, containing copies of 5 lyric poems by Tasso</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>17th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Del <del>Incerto</del> Tasso</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Geloso amante apro mill occhi e giro</l>
+					<l xml:id="l2">E mill orecchi ad ogni suono intenti</l>
+					<l xml:id="l3">E sol di cieco horror' larve é spaventi</l>
+					<l xml:id="l4">Quasi animal ch'adombra odo é rimiro</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">S’apre un riso costei se 'n dolce giro</l>
+					<l xml:id="l6">Lieti rivolge i bell' occhi lucenti</l>
+					<l xml:id="l7">Se tinta di pieta gli altrui lamenti</l>
+					<l xml:id="l8">Accoglie, o muove un detto od' un sospiro</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Temo ch'altri ne goda, é che m’invole</l>
+					<l xml:id="l10">L’aura, é la luce, é ben mi duol' che spieghi</l>
+					<l xml:id="l11">Raggio di sua belezza in alcun lato</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">Si neghi a me pur' ch’a ciascun si neghi</l>
+					<l xml:id="l13">Che quando altrui non splenda il mio bel sole</l>
+					<l xml:id="l14">Nelle tenebre ancor' vivro beato.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

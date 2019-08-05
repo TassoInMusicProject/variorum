@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Chiudesti i lumi, Armida: il cielo avaro</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1584O</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1584O">
+					<title>Gierusalemme liberata poema heroico del sig. Torquato Tasso. Ridotta alla sua vera lettione secondo il proprio originale dello stesso autore, &amp; di nuovo ristampata, con gli argomenti a ciascun canto del signor Horatio Ariosti, &amp; allegorie del poema. Con la aggiunta di molte stanze, che dall'autore sono state rifiutate, et mutate a' suoi luoghi</title>
+					<publisher>Francesco Osanna</publisher>
+					<pubPlace>Mantua</pubPlace>
+					<date when="1584">1584</date>
+					<biblScope unit="page">170</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Chiudesti i lumi Armida: il Cielo avaro</l>
+					<l xml:id="l2">Invidiò il conforto à' tuoi martíri.</l>
+					<l xml:id="l3">Apri misera gli occhi: il pianto amaro</l>
+					<l xml:id="l4">Ne gli occhi al tuo nemico hor che non miri?</l>
+					<l xml:id="l5">Ò s’udir tu’l potessi, ò come caro</l>
+					<l xml:id="l6">T’addolcirebbe il suon de’ suoi sospiri.</l>
+					<l xml:id="l7">Dà quanto ei puote, e prende (ah tu no'l credi)</l>
+					<l xml:id="l8">Pietoso in vista gli ultimi congedi.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

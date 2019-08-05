@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Se 'l mio core è con voi, come desia</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S145</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S145">
+					<title>Il Gareggiamento poetico del Confuso Accademico Ordito. Madrigali amorosi gravi, e piacevoli ne' quali si vede il bello, il leggiadro. &amp; il vivace de i più illustri poeti d'Italia</title>
+					<publisher>Barezzo Barezzi</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1611">1611</date>
+					<biblScope unit="page">Quinta parte, 131v</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Segue. [AMOROSA LONTANANZA. / Torquato Tasso.]</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Se’l mio core è con voi, come desia,</l>
+					<l xml:id="l2">Dov’è l’anima mia?</l>
+					<l xml:id="l3">Credo sia col pensiero, e’l pensier vago,</l>
+					<l xml:id="l4">E con la bella imago;</l>
+					<l xml:id="l5">E l’imagine bella</l>
+					<l xml:id="l6">De la vostra bellezza è ne la mente</l>
+					<l xml:id="l7">Viva, vera, e presente,</l>
+					<l xml:id="l8">E vi spira, e favella:</l>
+					<l xml:id="l9">Ma pur senza il mio core, e la mia vita</l>
+					<l xml:id="l10">Dolente, e sbigottita.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

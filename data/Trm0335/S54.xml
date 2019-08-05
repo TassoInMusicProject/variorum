@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Voi bramate, ben mio</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S54</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S54">
+					<title>Il rimanente delle rime nuove del Sig. Torquato Tasso</title>
+					<publisher>Vittorio Baldini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1587">1587</date>
+					<biblScope unit="page">59</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Voi amate, ben mio,</l>
+					<l xml:id="l2">Che m’uccida il dolore,</l>
+					<l xml:id="l3">Però crescete pena in questo core,</l>
+					<l xml:id="l4">Ma pur mentre mi doglio,</l>
+					<l xml:id="l5">Sento un piacer si novo</l>
+					<l xml:id="l6">Del piacer, che mi porge il mio cordoglio.</l>
+					<l xml:id="l7">O meraviglia, e quasi avvien ch’allhora</l>
+					<l xml:id="l8">Per doglia nò; ma per diletto mora.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Ciò che morte rallenta, Amor ristringi</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S84</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S84">
+					<title>Scelta di rime di diversi moderni autori non più stampate. Parte prima [e seconda]</title>
+					<publisher>Heredi di Gieronimo Bartoli</publisher>
+					<pubPlace>Genoa/Pavia</pubPlace>
+					<date when="1591">1591</date>
+					<biblScope unit="page">28</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Torquato Tasso. Nelle  nozzi di Don Cesare da Este, con Donna Verginia de Medeci.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Ciò che morte rallenta, amor restringi</l>
+					<l xml:id="l2">Amico tu di pace, ella di guerra,</l>
+					<l xml:id="l3">E del suo trionfar, trionfi, e regni,</l>
+					<l xml:id="l4">E mentre due bell’alme annodi, e cingi,</l>
+					<l xml:id="l5">Cosi rendi sembiante al ciel la terra,</l>
+					<l xml:id="l6">Che d’habitarla tu non fuggi, o sdegni;</l>
+					<l xml:id="l7">Non sono ire la sù, gli humani ingegni</l>
+					<l xml:id="l8">Tu placidi ne rendi, e l’odio interno</l>
+					<l xml:id="l9">Sgombri, Signor, da mansueti cori,</l>
+					<l xml:id="l10">Sgombri mille furori,</l>
+					<l xml:id="l11">E quasi fai co'l tuo valor superno</l>
+					<l xml:id="l12">Delle cose mortali un giro eterno.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

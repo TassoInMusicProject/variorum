@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Dove rivolgi o lusinghier fallace</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S118</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S118">
+					<title>Rime spirituali del Signor Torquato Tasso. Nuovamente raccolte e date in luce.</title>
+					<publisher>Comin Ventura</publisher>
+					<pubPlace>Bergamo</pubPlace>
+					<date when="1597">1597</date>
+					<biblScope unit="page">25r</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">DIALOGO</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Dove rivolgi ò lusinghier fallace,</l>
+					<l xml:id="l2">Gli occhi bramosi, e vaghi?</l>
+					<l xml:id="l3">Dove, ò come t’appaghi</l>
+					<l xml:id="l4">Di quel, che picciol tempo alletta, e piace?</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Il Rè che fece il Sole, e l’auree Stelle,</l>
+					<l xml:id="l6">Fisse in celeste giro,</l>
+					<l xml:id="l7">Mi diletta, ov’io miro</l>
+					<l xml:id="l8">Opere di sua mano assai più belle.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">O crudo inganno, o fero ardore, o gelo,</l>
+					<l xml:id="l10">De gli infelici amanti;</l>
+					<l xml:id="l11">Deh miriamo i sembianti</l>
+					<l xml:id="l12">Imaginati in Terra, e vivi in Cielo.</l>
+				</lg>
+				<lg>
+					<l xml:id="l13">Mentre in Croce il contémplo, il veggio essangue;</l>
+					<l xml:id="l14">Ahi lagrime, ahi dolore,</l>
+					<l xml:id="l15">Hoggi languisce, e more</l>
+					<l xml:id="l16">La salute, la vita: ahi piaghe, ahi sangue.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Mesola, il Po da' lati e 'l mar a fronte</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S174</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S174">
+					<title>Delle opere non più stampate del Signor Torquato Tasso. Raccolte, e pubblicate da Marc'Antonio Foppa. Volume terzo. Nel qual si contengono varie sue poesie</title>
+					<publisher>Giacomo Dragondelli</publisher>
+					<pubPlace>Rome</pubPlace>
+					<date when="1666">1666</date>
+					<biblScope unit="page">249</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Nel medesimo Soggetto [i.e., Rime 930, "In lode della Mesola, dov'era à diporto la Signora Duchessa di Ferrara."]</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Mesola, il Pò da’ lati, e ’l mar'à fronte,</l>
+					<l xml:id="l2">Et intorno le mura, e dentro i boschi,</l>
+					<l xml:id="l3">E seggi ombrosi, e foschi,</l>
+					<l xml:id="l4">Fanno le tue bellezze altere, e conte,</l>
+					<l xml:id="l5">[OMITTED]</l>
+					<l xml:id="l6">[OMITTED]</l>
+					<l xml:id="l7">E sono opre d’Alfonso, e più non fece</l>
+					<l xml:id="l8">Mai la Natura, e l’Arte, e far non lece:</l>
+					<l xml:id="l9">Mà che la valle sembri un Paradiso,</l>
+					<l xml:id="l10">La Donna il fà, che n’hà sembianti, e viso.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Mentre volgea il mio sole</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S174</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S174">
+					<title>Delle opere non più stampate del Signor Torquato Tasso. Raccolte, e pubblicate da Marc'Antonio Foppa. Volume terzo. Nel qual si contengono varie sue poesie</title>
+					<publisher>Giacomo Dragondelli</publisher>
+					<pubPlace>Rome</pubPlace>
+					<date when="1666">1666</date>
+					<biblScope unit="page">276</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Specchio ripercosso al Sole dalla S.D.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Mentre volgea’l mio Sole</l>
+					<l xml:id="l2">Lucido specchio al Sol, così l’accese,</l>
+					<l xml:id="l3">Che quasi un terzo Sol gli occhi m’offese;</l>
+					<l xml:id="l4">Io, perdendo la vista à tanti rai,</l>
+					<l xml:id="l5">Quasi cieco restai.</l>
+					<l xml:id="l6">Qual gloria è questa, Amore,</l>
+					<l xml:id="l7">Tormi la vista, hor che m’hai tolto il core?</l>
+					<l xml:id="l8">E perch'io non gioisca al foco, ond’ardo,</l>
+					<l xml:id="l9">Con trè lumi abbagliarmi à un vago sguardo?</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

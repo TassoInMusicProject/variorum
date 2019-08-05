@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Bella e vaga brunetta</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S78</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S78">
+					<title>Della nova scelta di rime di diversi eccellenti scrittori de l'età nostra, novamente raccolte, et mandate in luce per Benedetto Varoli</title>
+					<publisher>Antonio Guerino e Compagno</publisher>
+					<pubPlace>Casalmaggiore</pubPlace>
+					<date when="1590">1590</date>
+					<biblScope unit="page">45</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">LODA UNA GIOVANETTA BELISS. / per altro ma un poco bruna, e dice che se be- / ne Amore l'impiaga nondimeno / non grida vendetta perche / gli è dolce, e cara l'offesa.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Bella, e vaga Brunetta</l>
+					<l xml:id="l2">I vostri occhi lucenti,</l>
+					<l xml:id="l3">Son strali, e fiamme ardenti,</l>
+					<l xml:id="l4">Con che Amor il mio cor arde, e saetta.</l>
+					<l xml:id="l5">Ne grido ancor vendetta</l>
+					<l xml:id="l6">Perche son dolci, e cari</l>
+					<l xml:id="l7">I vostri sguardi avari.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

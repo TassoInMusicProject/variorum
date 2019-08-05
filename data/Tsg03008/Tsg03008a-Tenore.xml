@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Dunque ove tu, signor di mille rivi</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tsg03008a</idno>
+			<idno type="label">Tsg03008a (Tenore)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tsg03008a-Tenore">
+					<title>Musiche sacre e morali a una, due e tre voci</title>
+					<author role="composer">Mazzocchi, Domenico</author>
+					<publisher>Grignani</publisher>
+					<pubPlace>Rome</pubPlace>
+					<date when="1640">1640</date>
+					<idno type="RISM">M 1676</idno>
+					<biblScope unit="page">32</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">OTTAVA. Compuntione nel veder Gierusalemme, o rammentarsi la morte di CHRISTO.  Ten. Solo.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Dunque ove tù, Signor, di mille rivi</l>
+					<l xml:id="l2">Sanguinosi il terren lasciasti asperso,</l>
+					<l xml:id="l3">D’amaro pianto almen due fonti vivi</l>
+					<l xml:id="l4">In sì acerba memoria hoggi io non verso</l>
+					<l xml:id="l5">Agghiacciato mio cor, che non derivi</l>
+					<l xml:id="l6">Per gli occhi, e stilli in lagrime converso?</l>
+					<l xml:id="l7">Duro mio cor, che non ti spetri, e frangi?</l>
+					<l xml:id="l8">Pianger ben merti ogn'hor, s’hora non piangi.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

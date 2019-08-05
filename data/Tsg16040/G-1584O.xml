@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Forsennata gridava: "O tu che porte</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1584O</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1584O">
+					<title>Gierusalemme liberata poema heroico del sig. Torquato Tasso. Ridotta alla sua vera lettione secondo il proprio originale dello stesso autore, &amp; di nuovo ristampata, con gli argomenti a ciascun canto del signor Horatio Ariosti, &amp; allegorie del poema. Con la aggiunta di molte stanze, che dall'autore sono state rifiutate, et mutate a' suoi luoghi</title>
+					<publisher>Francesco Osanna</publisher>
+					<pubPlace>Mantua</pubPlace>
+					<date when="1584">1584</date>
+					<biblScope unit="page">158</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Forsennata gridava. Ò tu, che porte</l>
+					<l xml:id="l2">Teco parte di me, parte ne lassi;</l>
+					<l xml:id="l3">Ò prendi l’una, ò rendi l’altra, ò morte</l>
+					<l xml:id="l4">Dà insieme ad ambe, arresta, arresta i passi.</l>
+					<l xml:id="l5">Sol che ti sian le voci ultime porte;</l>
+					<l xml:id="l6">Non dico i baci: altra più degna havrassi</l>
+					<l xml:id="l7">Questi da te. che temi, empio, se resti?</l>
+					<l xml:id="l8">Potrai negar, poi che fuggir potesti.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

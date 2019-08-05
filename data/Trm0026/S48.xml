@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Se 'l mio core è con voi, come desia</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S48</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S48">
+					<title>Delle Rime del Sig. Torquato Tasso. Parte quarta, e quinta. Nuovamente stampate</title>
+					<publisher>Antonio Orero</publisher>
+					<pubPlace>Genoa</pubPlace>
+					<date when="1586">1586</date>
+					<biblScope unit="page">119</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Se’l mio core è con voi come desia,</l>
+					<l xml:id="l2">Dov’è l’anima mia?</l>
+					<l xml:id="l3">Credo sia co’l pensier, e’l pensier vago</l>
+					<l xml:id="l4">È con la bella imago,</l>
+					<l xml:id="l5">E l’imagine bella</l>
+					<l xml:id="l6">De la vostra bellezza è nella mente</l>
+					<l xml:id="l7">Viva vera presente;</l>
+					<l xml:id="l8">[OMITTED]</l>
+					<l xml:id="l9">Ma pur senza’l mio cor io vivo à pena,</l>
+					<l xml:id="l10">E la mia vita è pena.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Tra mille fior già colti in dolce speco</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S54</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S54">
+					<title>Il rimanente delle rime nuove del Sig. Torquato Tasso</title>
+					<publisher>Vittorio Baldini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1587">1587</date>
+					<biblScope unit="page">53</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Fra mille fior già colti in dolce speco,</l>
+					<l xml:id="l2">Quasi rosa non colta,</l>
+					<l xml:id="l3">Non incolta ma colta</l>
+					<l xml:id="l4">Era Amarilli, e Galatea con seco:</l>
+					<l xml:id="l5">Par come fior accolto in verdi spoglie;</l>
+					<l xml:id="l6">Ma chi le colse? Amor quando le coglie.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

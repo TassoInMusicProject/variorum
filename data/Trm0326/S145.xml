@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Lunge da gli occhi vostri</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S145</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S145">
+					<title>Il Gareggiamento poetico del Confuso Accademico Ordito. Madrigali amorosi gravi, e piacevoli ne' quali si vede il bello, il leggiadro. &amp; il vivace de i più illustri poeti d'Italia</title>
+					<publisher>Barezzo Barezzi</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1611">1611</date>
+					<biblScope unit="page">Quinta parte, 131v</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Segue. [AMOROSA LONTANANZA. / Torquato Tasso.]</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Lunge da gli occhi vostri</l>
+					<l xml:id="l2">Io vivo del pensiero</l>
+					<l xml:id="l3">Pensosa vita, e vivo, perche i spero:</l>
+					<l xml:id="l4">Spero il lieto ritorno,</l>
+					<l xml:id="l5">E s’avverrà, che nel felice giorno</l>
+					<l xml:id="l6">La mia dolce speranza in me si moia,</l>
+					<l xml:id="l7">Spero viver di gioia.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>
