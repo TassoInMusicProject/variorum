@@ -33,15 +33,15 @@
 			<div>
 				<lg>
 					<l xml:id="l1">Non <seg xml:id="l1v1">puo</seg> l’humil terreno</l>
-					<l xml:id="l2">Tra primi abeti e faggi</l>
-					<l xml:id="l3">Celar'i vostri puri e lieti raggi</l>
-					<l xml:id="l4">E'l vivo e dolce foco</l>
-					<l xml:id="l5">E chi nasconde il Sole</l>
-					<l xml:id="l6">Perche non splenda pur com’egli suole</l>
-					<l xml:id="l7">Occhi soavi e cari</l>
+					<l xml:id="l2">Tra <seg xml:id="l2v1">primi</seg> abeti e faggi</l>
+					<l xml:id="l3"><seg xml:id="l3v1">Celar'</seg>i vostri <seg xml:id="l3v2">puri</seg> e lieti raggi</l>
+					<l xml:id="l4"><seg xml:id="l4v1">E'l vivo e dolce foco</seg></l>
+					<l xml:id="l5"><seg xml:id="l5v1">E chi nasconde il Sole</seg></l>
+					<l xml:id="l6">Perche non splenda <seg xml:id="l6v1">pur</seg> com’egli suole</l>
+					<l xml:id="l7">Occhi <seg xml:id="l7v1">soavi</seg> e cari</l>
 					<l xml:id="l8">Occhi sereni e chiari</l>
 					<l xml:id="l9">Voi somigliar sovente</l>
-					<l xml:id="l10">Fate l'Angusta villa a l'Oriente.</l>
+					<l xml:id="l10">Fate <seg xml:id="l10v1">l'Angusta</seg> villa <seg xml:id="l10v2">a l</seg>'Oriente.</l>
 				</lg>
 			</div>
 		</body>

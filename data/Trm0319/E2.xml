@@ -42,15 +42,15 @@
 			<div>
 				<lg>
 					<l xml:id="l1">Non <seg xml:id="l1v1">può</seg> l’<seg xml:id="l1v2">angusto loco</seg></l>
-					<l xml:id="l2">tra pini, abeti, e faggi</l>
-					<l xml:id="l3">celare i vostri <del>raggi</del> puri, e lieti raggi</l>
-					<l xml:id="l4">e ’l dolce, e vivo foco.</l>
-					<l xml:id="l5">e chi nasconde il sole!</l>
-					<l xml:id="l6">P[er]che no[n] splenda pur com’egli sole •</l>
-					<l xml:id="l7">occhi graditi, e cari,</l>
+					<l xml:id="l2">tra <seg xml:id="l2v1">pini</seg>, abeti, e faggi</l>
+					<l xml:id="l3"><seg xml:id="l3v1">celare</seg> i vostri <seg xml:id="l3v2"><del>raggi</del> puri</seg>, e lieti raggi</l>
+					<l xml:id="l4"><seg xml:id="l4v1">e ’l dolce, e vivo foco</seg>.</l>
+					<l xml:id="l5"><seg xml:id="l5v1">e chi nasconde il sole</seg>!</l>
+					<l xml:id="l6">Perche non splenda <seg xml:id="l6v1">pur</seg> com’egli sole</l>
+					<l xml:id="l7">occhi <seg xml:id="l7v1">graditi</seg>, e cari,</l>
 					<l xml:id="l8">occhi sereni, e chiari,</l>
 					<l xml:id="l9">voi somigliar sovente</l>
-					<l xml:id="l10">fate questa humil villa un oriente.</l>
+					<l xml:id="l10">fate <seg xml:id="l10v1">questa humil</seg> villa <seg xml:id="l10v2">un</seg> oriente.</l>
 				</lg>
 			</div>
 		</body>
