@@ -17,7 +17,7 @@
 					<publisher>Antonio Orero</publisher>
 					<pubPlace>Genoa</pubPlace>
 					<date when="1586">1586</date>
-					<biblScope unit="page">118</biblScope>
+					<biblScope unit="page">118-119</biblScope>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -29,7 +29,7 @@
 			</div>
 			<div>
 				<lg>
-					<l xml:id="l1">Come vivrò ne le mie pene Amore</l>
+					<l xml:id="l1">Come vivrò nelle mie pene Amore</l>
 					<l xml:id="l2">Si lunge dal mio core,</l>
 					<l xml:id="l3">Se la dolce memoria non m’aita</l>
 					<l xml:id="l4">Di lei, ch’è la mia vita?</l>
@@ -37,7 +37,7 @@
 					<l xml:id="l6">Imaginata, dolce e caro oggetto,</l>
 					<l xml:id="l7">Voi siete il mio diletto,</l>
 					<l xml:id="l8">La mia vita, il mio bene,</l>
-					<l xml:id="l9">Ma pur mezzo son’io tra morto e vivo,</l>
+					<l xml:id="l9">Ma pur mezo son’io tra morto e vivo,</l>
 					<l xml:id="l10">Perche del cor son privo.</l>
 				</lg>
 			</div>

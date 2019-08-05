@@ -1,5 +1,6 @@
 [
 "E1.xml",
+"S4.xml",
 "S8.xml",
 "S9.xml",
 "S11.xml",
@@ -8,5 +9,8 @@
 "S29.xml",
 "Trm0075a-Tenore.xml",
 "Trm0075b-Canto.xml",
-"Trm0075b-Quinto.xml"
+"Trm0075b-Quinto.xml",
+"Trm0075d-Alto.xml",
+"Trm0075d-Tenore.xml",
+"Trm0075d-Quinto.xml"
 ]

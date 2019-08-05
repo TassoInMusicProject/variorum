@@ -17,7 +17,7 @@
 					<publisher>Antonio Orero</publisher>
 					<pubPlace>Genoa</pubPlace>
 					<date when="1586">1586</date>
-					<biblScope unit="page">119-20</biblScope>
+					<biblScope unit="page">119-120</biblScope>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -30,7 +30,7 @@
 			<div>
 				<lg>
 					<l xml:id="l1">A chi creder degg’io</l>
-					<l xml:id="l2">Se vani sono I detti</l>
+					<l xml:id="l2">Se vani sono i detti</l>
 					<l xml:id="l3">E’l vento se ne porta le parole?</l>
 					<l xml:id="l4">Non à le voci sole</l>
 					<l xml:id="l5">Che scompagnate sian da veri effetti</l>

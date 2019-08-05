@@ -14,6 +14,7 @@
 "S12.xml",
 "S13.xml",
 "S29.xml",
+"S145.xml",
 "Trm0611a-Canto.xml",
 "Trm0611a-Alto.xml",
 "Trm0611a-Tenore.xml",
@@ -34,5 +35,11 @@
 "Trm0611d-Alto.xml",
 "Trm0611d-Tenore.xml",
 "Trm0611d-Basso.xml",
-"Trm0611d-Quinto.xml"
+"Trm0611d-Quinto.xml",
+"Trm0611m-Canto.xml",
+"Trm0611m-Tenore.xml",
+"Trm0611m-Basso.xml",
+"Trm0611n-Alto.xml",
+"Trm0611n-Tenore.xml",
+"Trm0611n-Quinto.xml"
 ]

@@ -2,6 +2,7 @@
 "Ber.xml",
 "J4.xml",
 "Rv.xml",
+"S4.xml",
 "S8.xml",
 "S9.xml",
 "S11.xml",
@@ -10,10 +11,17 @@
 "S29.xml",
 "S85.xml",
 "S87.xml",
+"S105.xml",
 "S118.xml",
 "Trm1688b-Canto.xml",
 "Trm1688b-Alto.xml",
 "Trm1688b-Tenore.xml",
 "Trm1688b-Basso.xml",
-"Trm1688b-Quinto.xml"
+"Trm1688b-Quinto.xml",
+"Trm1688d-Canto.xml",
+"Trm1688d-Alto.xml",
+"Trm1688d-Tenore.xml",
+"Trm1688d-Basso.xml",
+"Trm1688d-Quinto.xml",
+"Trm1688d-Sesto.xml"
 ]

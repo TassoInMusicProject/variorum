@@ -1,5 +1,12 @@
 [
+"S27.xml",
 "S48.xml",
+"S70.xml",
+"S145.xml",
+"Trm0023a-Alto.xml",
+"Trm0023a-Tenore.xml",
+"Trm0023a-Basso.xml",
+"Trm0023a-Quinto.xml",
 "Trm0023b-Tenore.xml",
 "Trm0023b-Quinto.xml",
 "Trm0023c-Canto.xml",
@@ -7,5 +14,10 @@
 "Trm0023c-Tenore.xml",
 "Trm0023c-Basso.xml",
 "Trm0023c-Quinto.xml",
-"Trm0023d-Tenore.xml"
+"Trm0023d-Tenore.xml",
+"Trm0023e-Canto.xml",
+"Trm0023e-Alto.xml",
+"Trm0023e-Tenore.xml",
+"Trm0023e-Basso.xml",
+"Trm0023e-Quinto.xml"
 ]
