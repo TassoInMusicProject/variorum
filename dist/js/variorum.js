@@ -12499,14 +12499,14 @@ function _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj;
 var TEImetadata_tpl = '<h2 class="worktitle">{{title}}</h2>\
 <ul style="padding-right:100px; padding-top:25px; padding-bottom:15px;" class="TEImetadata list-unstyled">\
   {{#if ms}}\
-    <li>
+    <li>\
     {{#if ms.url}}\
-        <a target="_blank" href="{{ms.url}}">
-    {{/if}}
-    {{ms.idno}}
+        <a target="_blank" href="{{ms.url}}">\
+    {{/if}}\
+    {{ms.idno}}\
     {{#if ms.url}}\
         </a>\
-    {{/if}}
+    {{/if}}\
     </li>\
     <li>{{ms.repository}}, {{ms.settlement}} {{ms.region}}</li>\
     <li>{{ms.origDate}}</li>\
