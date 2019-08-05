@@ -12502,9 +12502,7 @@ var TEImetadata_tpl = '<h2 class="worktitle">{{title}}</h2>\
     <li>{{ms.idno}}</li>\
     <li>{{ms.repository}}, {{ms.settlement}} {{ms.region}}</li>\
     <li>{{ms.origDate}}</li>\
-        {{#if ms.description}}\
-            <li>{{ms.description}}</li>\
-        {{/if}}\
+    <li>Description: {{ms.description}}</li>\
     <li>{{ms.locus}}</li>\
   {{/if}}\
   {{#if print}}\
@@ -12855,6 +12853,7 @@ var TEIfileView = function (_Backbone$View) {
                 metadata["ms"]["origDate"] = raw_data.find('origDate').text();
                 metadata["ms"]["locus"] = raw_data.find('locus').text();
                 metadata["ms"]["description"] = raw_data.find('msItem p').text();
+console.log("METADATA:", metadata);
             }
 
             //Print metadata
