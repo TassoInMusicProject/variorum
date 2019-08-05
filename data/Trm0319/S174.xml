@@ -29,7 +29,7 @@
 			</div>
 			<div>
 				<lg>
-					<l xml:id="l1">Non può l’angusto loco</l>
+					<l xml:id="l1">Non <seg xml:id="l1v1">può</seg> l’<seg xml:id="l1v2">angusto loco</seg></l>
 					<l xml:id="l2">Trà pini, abeti, e faggi,</l>
 					<l xml:id="l3">Celare i vostri puri, e lieti raggi,</l>
 					<l xml:id="l4">E’l dolce, e vivo foco;</l>

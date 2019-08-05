@@ -32,7 +32,7 @@
 			</div>
 			<div>
 				<lg>
-					<l xml:id="l1">Non puo l’humil terreno</l>
+					<l xml:id="l1">Non <seg xml:id="l1v1">puo</seg> l’humil terreno</l>
 					<l xml:id="l2">Tra primi abeti e faggi</l>
 					<l xml:id="l3">Celar'i vostri puri e lieti raggi</l>
 					<l xml:id="l4">E'l vivo e dolce foco</l>
