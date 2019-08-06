@@ -12517,7 +12517,15 @@ var TEImetadata_tpl = '<h2 class="worktitle">{{title}}</h2>\
   {{/if}}\
   {{#if print}}\
   {{#if print.author}}<li>{{{printAuthor print.author}}}</li>{{/if}}\
-    <li><em>{{print.title}}</em></li>\
+    <li><em>\
+    {{#if print.url}}\
+        <a target="_blank" href="{{print.url}}">\
+    {{/if}}\
+    {{print.title}}\
+    {{#if print.url}}\
+        </a>\
+    {{/if}}\
+    </em></li>\
     <li>{{{printPublicationInfo print.publisher print.pubPlace print.region print.date}}} \
   {{#if print.idno}}<li>RISM: {{print.idno}}</li>{{/if}}\
     {{#if print.biblScope}}<li>{{{printPage print.biblScope}}}</li>{{/if}}\
