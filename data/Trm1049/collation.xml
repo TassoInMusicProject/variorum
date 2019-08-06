@@ -21,6 +21,64 @@
 				<app>
 					<rdgGrp n="1">
 						<rdg wit="#S141">
+							<ptr target="S141.xml#l1v1"></ptr>
+						</rdg>
+						<rdg wit="#S166">
+							<ptr target="S166.xml#l1v1"></ptr>
+						</rdg>
+						<rdg wit="#S169">
+							<ptr target="S169.xml#l1v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm1049a-Canto">
+							<ptr target="Trm1049a-Canto.xml#l1v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm1049a-Tenore">
+							<ptr target="Trm1049a-Tenore.xml#l1v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm1049a-Basso">
+							<ptr target="Trm1049a-Basso.xml#l1v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm1049b-Canto">
+							<ptr target="Trm1049b-Canto.xml#l1v1"></ptr>
+						</rdg>
+					</rdgGrp>
+					<rdg wit="#Trm1049b-Basso">
+						<ptr target="Trm1049b-Basso.xml#l1v1"></ptr>
+					</rdg>
+				</app>
+				<app>
+					<rdgGrp n="1">
+						<rdg wit="#S141">
+							<ptr target="S141.xml#l1v2"></ptr>
+						</rdg>
+						<rdg wit="#S166">
+							<ptr target="S166.xml#l1v2"></ptr>
+						</rdg>
+						<rdg wit="#S169">
+							<ptr target="S169.xml#l1v2"></ptr>
+						</rdg>
+						<rdg wit="#Trm1049b-Canto">
+							<ptr target="Trm1049b-Canto.xml#l1v2"></ptr>
+						</rdg>
+						<rdg wit="#Trm1049b-Basso">
+							<ptr target="Trm1049b-Basso.xml#l1v2"></ptr>
+						</rdg>
+					</rdgGrp>
+					<rdgGrp n="2">
+						<rdg wit="#Trm1049a-Canto">
+							<ptr target="Trm1049a-Canto.xml#l1v2"></ptr>
+						</rdg>
+						<rdg wit="#Trm1049a-Tenore">
+							<ptr target="Trm1049a-Tenore.xml#l1v2"></ptr>
+						</rdg>
+						<rdg wit="#Trm1049a-Basso">
+							<ptr target="Trm1049a-Basso.xml#l1v2"></ptr>
+						</rdg>
+					</rdgGrp>
+				</app>
+				<app>
+					<rdgGrp n="1">
+						<rdg wit="#S141">
 							<ptr target="S141.xml#l4v1"></ptr>
 						</rdg>
 						<rdg wit="#S166">
@@ -73,6 +131,34 @@
 						</rdg>
 						<rdg wit="#Trm1049b-Basso">
 							<ptr target="Trm1049b-Basso.xml#l5v1"></ptr>
+						</rdg>
+					</rdgGrp>
+				</app>
+				<app>
+					<rdgGrp n="1">
+						<rdg wit="#S141">
+							<ptr target="S141.xml#l6v1"></ptr>
+						</rdg>
+						<rdg wit="#S166">
+							<ptr target="S166.xml#l6v1"></ptr>
+						</rdg>
+						<rdg wit="#S169">
+							<ptr target="S169.xml#l6v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm1049a-Canto">
+							<ptr target="Trm1049a-Canto.xml#l6v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm1049a-Tenore">
+							<ptr target="Trm1049a-Tenore.xml#l6v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm1049a-Basso">
+							<ptr target="Trm1049a-Basso.xml#l6v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm1049b-Canto">
+							<ptr target="Trm1049b-Canto.xml#l6v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm1049b-Basso">
+							<ptr target="Trm1049b-Basso.xml#l6v1"></ptr>
 						</rdg>
 					</rdgGrp>
 				</app>
