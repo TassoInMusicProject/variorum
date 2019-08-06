@@ -84,6 +84,11 @@ body {
   color: #cba;
 }
 
+.TEImetadata a {
+	color:  #db835c;
+}
+
+
 .indent {
   padding-left: 4em !important;
 }
