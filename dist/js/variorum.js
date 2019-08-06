@@ -12511,7 +12511,7 @@ var TEImetadata_tpl = '<h2 class="worktitle">{{title}}</h2>\
     <li>{{ms.repository}}, {{ms.settlement}} {{ms.region}}</li>\
     <li>{{ms.origDate}}</li>\
     {{#if ms.description}}\
-       <li>{{ms.description}}</li>\
+       <li>Description: {{ms.description}}</li>\
     {{/if}}\
     <li>{{ms.locus}}</li>\
   {{/if}}\
