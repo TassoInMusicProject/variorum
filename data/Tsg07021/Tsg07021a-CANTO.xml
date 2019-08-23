@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Forse avverrà, se ’l Ciel benigno ascolta</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tsg07021a</idno>
+			<idno type="label">Tsg07021a ([CANTO])</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tsg07021a-[CANTO]">
+					<title>Musiche di Sigismondo d' India</title>
+					<url>https://gallica.bnf.fr/ark:/12148/bpt6k4500426m.r=sigismondo%20d%27india%20musiche?rk=42918;4</url>
+					<author role="composer">D'India, Sigismondo</author>
+					<publisher>Tini &amp; Lomazzo</publisher>
+					<pubPlace>Milan</pubPlace>
+					<date when="1609">1609</date>
+					<idno type="RISM">I 24</idno>
+					<biblScope unit="page">52-53	</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Forse averrà se’l ciel benigno ascolta</l>
+					<l xml:id="l2">Affettuos'alcun prego mortale,</l>
+					<l xml:id="l3">Che venga in queste selve anco tal volta</l>
+					<l xml:id="l4">Quegli à cui di me fors'hor nulla cale.</l>
+					<l xml:id="l5">E rivolgendo gl'occhi ove sepolta</l>
+					<l xml:id="l6">Giacerà questa spoglia inferm'e frale</l>
+					<l xml:id="l7">Tardo premio conced'à miei martiri</l>
+					<l xml:id="l8">Di poche lagrimett'e di sospiri.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

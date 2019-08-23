@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>O musa, tu che di caduchi allori</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tsg01002b</idno>
+			<idno type="label">Tsg01002b (Basso)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tsg01002b-Basso">
+					<title>Il primo libro de madrigali a cinque voci</title>
+					<url>https://orka.bibliothek.uni-kassel.de/viewer/image/1536245542824/5/LOG_0002/</url>
+					<author role="composer">Priuli, Giovanni</author>
+					<publisher>Gardano</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1604">1604</date>
+					<idno type="RISM">P 5480</idno>
+					<biblScope unit="page">20</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Prima Parte.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">O Musa tu che di caduchi Allori</l>
+					<l xml:id="l2">Non circondi la fronte in Helicona</l>
+					<l xml:id="l3">Ma su nel Cielo infra i beati chori</l>
+					<l xml:id="l4">Hai di stell'immortal aurea corona</l>
+					<l xml:id="l5">Tu spira al petto mio celesti ardori</l>
+					<l xml:id="l6">Tu rischiar'il mio canto e tu perdona</l>
+					<l xml:id="l7">S'intesso fregi al ver s'adorno in parte</l>
+					<l xml:id="l8">D'altri diletti che de tuoi le carte.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

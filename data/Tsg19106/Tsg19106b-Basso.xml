@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Misera, non credea ch'a gli occhi miei</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tsg19106b</idno>
+			<idno type="label">Tsg19106b (Basso)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tsg19106b-Basso">
+					<title>Il primo libro de madrigali a tre voci</title>
+					<url></url>
+					<author role="composer">Baccusi, Ippolito</author>
+					<publisher>Amadino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1594">1594</date>
+					<idno type="RISM">B 41</idno>
+					<biblScope unit="page">6</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Misera non credea ch’a gli occhi miei</l>
+					<l xml:id="l2">Potessi in alcun tempo esser noioso</l>
+					<l xml:id="l3">Hor cieca farmi volentier torrei</l>
+					<l xml:id="l4">Per non vederti e riguardar non oso</l>
+					<l xml:id="l5">Oime da gli occhi già si dolci e rei</l>
+					<l xml:id="l6">Ove è la fiamma ov’è il bel lume ascoso</l>
+					<l xml:id="l7">De le fiorite guancie il bel vermiglio</l>
+					<l xml:id="l8">Ove è fuggito ov’è il seren del ciglio.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

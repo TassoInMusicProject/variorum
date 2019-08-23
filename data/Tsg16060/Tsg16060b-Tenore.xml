@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Là tra 'l sangue e le morti egro giacente</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tsg16060b</idno>
+			<idno type="label">Tsg16060b (Tenore)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tsg16060b-Tenore">
+					<title>Il primo libro de madrigali a tre voci</title>
+					<url></url>
+					<author role="composer">Baccusi, Ippolito</author>
+					<publisher>Amadino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1594">1594</date>
+					<idno type="RISM">B 41</idno>
+					<biblScope unit="page">18</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Settima stanza.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">La tra’l sangue e le morti egro giacente</l>
+					<l xml:id="l2">Mi pagherai le pene empio guerriero</l>
+					<l xml:id="l3">Per nome Armida chiamerai sovente</l>
+					<l xml:id="l4">Ne gli ultimi singulti udir ciò spero</l>
+					<l xml:id="l5">Hor qui mancò lo spirto a la dolente</l>
+					<l xml:id="l6">Ne quest’ultimo suono espresse intero</l>
+					<l xml:id="l7">E cade tramortita e si diffuse</l>
+					<l xml:id="l8">Di gelato sudor ei lumi chiuse.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

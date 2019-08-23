@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Sia questa pur tra le mie frodi, e vaglia</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tsg16047b</idno>
+			<idno type="label">Tsg16047b (Tenore)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tsg16047b-Tenore">
+					<title>Il primo libro de madrigali a tre voci</title>
+					<url></url>
+					<author role="composer">Baccusi, Ippolito</author>
+					<publisher>Amadino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1594">1594</date>
+					<idno type="RISM">B 41</idno>
+					<biblScope unit="page">16</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Quinta stanza.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Sia questa pur tra le mie frodi e vaglia</l>
+					<l xml:id="l2">Si di tante mie colpe in te'l difetto</l>
+					<l xml:id="l3">Che tu quinci ti parta e non ti caglia</l>
+					<l xml:id="l4">Di quest'albergo tuo gia si diletto</l>
+					<l xml:id="l5">Vattene passa il mar pugna e travaglia</l>
+					<l xml:id="l6">Struggi la fede nostr'anch’io t’affretto</l>
+					<l xml:id="l7">Che dico nostra Ahi non più mia fedele</l>
+					<l xml:id="l8">Sono a te solo Idolo mio crudele.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Là tra 'l sangue e le morti egro giacente</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tsg16060e</idno>
+			<idno type="label">Tsg16060e ([Canto])</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tsg16060e-[Canto]">
+					<title>Musiche di Sigismondo d' India</title>
+					<url>https://gallica.bnf.fr/ark:/12148/bpt6k4500426m.r=sigismondo%20d%27india%20musiche?rk=42918;4</url>
+					<author role="composer">D'India, Sigismondo</author>
+					<publisher>Tini &amp; Lomazzo</publisher>
+					<pubPlace>Milan</pubPlace>
+					<date when="1609">1609</date>
+					<idno type="RISM">I 24</idno>
+					<biblScope unit="page">36</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Ottava in stile recitativo.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Là trà’l sangue e le morti egro giacente</l>
+					<l xml:id="l2">mi pagherai le pene empio guerriero,</l>
+					<l xml:id="l3">Per nom'Armida chiamerai sovente</l>
+					<l xml:id="l4">ne gli ultimi singulti udir ciò spero,</l>
+					<l xml:id="l5">Hor quí mancò lo spirto alla dolente,</l>
+					<l xml:id="l6">ne quest’ultimo suono espress'intero</l>
+					<l xml:id="l7">e cade tramortita, e si diffuse</l>
+					<l xml:id="l8">di gelato sudor e i lumi chiuse.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

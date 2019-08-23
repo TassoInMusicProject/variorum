@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Aggiungi a questo ancor quel ch'a maggiore</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tsg16046b</idno>
+			<idno type="label">Tsg16046b (Canto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tsg16046b-Canto">
+					<title>Il primo libro de madrigali a tre voci</title>
+					<url></url>
+					<author role="composer">Baccusi, Ippolito</author>
+					<publisher>Amadino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1594">1594</date>
+					<idno type="RISM">B 41</idno>
+					<biblScope unit="page">15</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Quarta stanza.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Aggiungi a quest'ancor quel ch’a maggiore</l>
+					<l xml:id="l2">Onta tu recchi &amp; a maggior tuo danno</l>
+					<l xml:id="l3">T’ingannai t’allettai nel nostro amore</l>
+					<l xml:id="l4">Empia lusinga certo iniquo inganno</l>
+					<l xml:id="l5">Lasciarsi corre il virginal suo fiore</l>
+					<l xml:id="l6">Far delle sue bellezze altrui tiranno</l>
+					<l xml:id="l7">Quelle ch’a mille antichi in premio sono</l>
+					<l xml:id="l8">Negate offrire a novo amante in dono.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

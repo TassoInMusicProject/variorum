@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Poi cominciò: "Non aspettar ch'io preghi</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tsg16044b</idno>
+			<idno type="label">Tsg16044b (Tenore)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tsg16044b-Tenore">
+					<title>Il primo libro de madrigali a tre voci</title>
+					<url></url>
+					<author role="composer">Baccusi, Ippolito</author>
+					<publisher>Amadino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1594">1594</date>
+					<idno type="RISM">B 41</idno>
+					<biblScope unit="page">13</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Seconda stanza.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">[TACET] non aspettar ch’io prieghi</l>
+					<l xml:id="l2">Crudel te com'amante amante deve</l>
+					<l xml:id="l3">Tal fummo un tempo hor se tal esser nieghi</l>
+					<l xml:id="l4">Et di ciò la memoria anco t’è greve</l>
+					<l xml:id="l5">Come nemico almen'ascolta i preghi</l>
+					<l xml:id="l6">D’un nemico tal'hor l’altro riceve</l>
+					<l xml:id="l7">Ben quel ch’io chieggio e tal che dar lo puoi</l>
+					<l xml:id="l8">E integri conservar gli sdegni tuoi.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>O giovinetti, mentre Aprile e Maggio</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tsg14062b</idno>
+			<idno type="label">Tsg14062b ([Canto])</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tsg14062b-[Canto]">
+					<title>Madrigali et Arie. Opera prima</title>
+					<url>https://jbc.bj.uj.edu.pl/dlibra/publication/290516/edition/277597/content</url>
+					<author role="composer">Camarella, Giovanni Battista</author>
+					<publisher>A. Vincenzi</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1633">1633</date>
+					<idno type="RISM">Unknown 11</idno>
+					<biblScope unit="page">10-12</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">O giovinetti Mentre aprile e maggio</l>
+					<l xml:id="l2">V’amantan di fiorite, e verdi spoglie</l>
+					<l xml:id="l3">Di gloria e di virtu fallace raggio</l>
+					<l xml:id="l4">La tenerella mente ah non v’invoglie.</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Solo che segue ciò che piace e saggio</l>
+					<l xml:id="l6">E in sua stagion de gli anni il frutto coglie</l>
+					<l xml:id="l7">Questo grida natura ah folle hor voi</l>
+					<l xml:id="l8">Indurarete l’alma i detti suoi</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Forsennata gridava: "O tu che porte</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tsg16040b</idno>
+			<idno type="label">Tsg16040b ([Canto])</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tsg16040b-[Canto]">
+					<title>Musiche di Sigismondo d' India</title>
+					<url>https://gallica.bnf.fr/ark:/12148/bpt6k4500426m.r=sigismondo%20d%27india%20musiche?rk=42918;4</url>
+					<author role="composer">D'India, Sigismondo</author>
+					<publisher>Tini &amp; Lomazzo</publisher>
+					<pubPlace>Milan</pubPlace>
+					<date when="1609">1609</date>
+					<idno type="RISM">I 24</idno>
+					<biblScope unit="page">35</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Aria da cantar ottave.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Forsennata gridava O tu che porte</l>
+					<l xml:id="l2">parte teco di me parte ne lassi</l>
+					<l xml:id="l3">ò prendi l’uno, ò rendi l’altro, ò morte</l>
+					<l xml:id="l4">dà insiem'ad ambi arrest'arrest'i passi.</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Sol che ti sian le voci ultime porte,</l>
+					<l xml:id="l6">Non dico i baci altra più degna havrassi</l>
+					<l xml:id="l7">Quelli da te che temi empio se resti,</l>
+					<l xml:id="l8">Potrai negar, poiche fuggir potesti.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Se m'odii, e in ciò diletto alcun tu senti</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tsg16045b</idno>
+			<idno type="label">Tsg16045b (Canto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tsg16045b-Canto">
+					<title>Il primo libro de madrigali a tre voci</title>
+					<url></url>
+					<author role="composer">Baccusi, Ippolito</author>
+					<publisher>Amadino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1594">1594</date>
+					<idno type="RISM">B 41</idno>
+					<biblScope unit="page">14</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Terza stanza.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Se m’odij e in ciò diletto alcun tu senti</l>
+					<l xml:id="l2">Non ten vengo a privar godi pur d’esso</l>
+					<l xml:id="l3">Giusto a te par e siasi anch’io le genti</l>
+					<l xml:id="l4">Christiane odiai nol nego odiai te stesso</l>
+					<l xml:id="l5">Nacqui pagana usai vari argomenti</l>
+					<l xml:id="l6">Che per me fosse il vostro imperio oppresso</l>
+					<l xml:id="l7">Te perseguij te presi e te lontano</l>
+					<l xml:id="l8">Da l’armi trassi in loco ignoto e strano.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

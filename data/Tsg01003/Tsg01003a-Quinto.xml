@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Sai che là corre il mondo, ove più versi</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tsg01003a</idno>
+			<idno type="label">Tsg01003a (Quinto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tsg01003a-Quinto">
+					<title>Il primo libro de madrigali a cinque voci</title>
+					<url>https://orka.bibliothek.uni-kassel.de/viewer/image/1536245542824/5/LOG_0002/</url>
+					<author role="composer">Priuli, Giovanni</author>
+					<publisher>Gardano</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1604">1604</date>
+					<idno type="RISM">P 5480</idno>
+					<biblScope unit="page">21</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Seconda Parte.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Sai che là corre il mondo ove piu versi</l>
+					<l xml:id="l2">Di sue dolcezze il lusinghier Parnaso</l>
+					<l xml:id="l3">[TACET]</l>
+					<l xml:id="l4">I piu schivi allettand'hà persuaso</l>
+					<l xml:id="l5">Cosi a l’egro fanciul porgiamo aspersi</l>
+					<l xml:id="l6">Di soavi licor gli orli del vaso</l>
+					<l xml:id="l7">Succhi amari ingannato intanto ei beve</l>
+					<l xml:id="l8">E da l'inganno suo vita riceve.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>
