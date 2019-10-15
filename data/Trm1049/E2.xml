@@ -42,15 +42,14 @@
 			</div>
 			<div>
 				<lg>
-					<l xml:id="l1">queste note son nove, e queste Amore</l>
+					<l xml:id="l1">queste note son nove, e <seg xml:id="l1v1">queste</seg> Amore</l>
 					<l xml:id="l2">comincia in novi modi</l>
 					<l xml:id="l3">queste note son nodi</l>
-					<l xml:id="l4">che mi fa la mia donna intorno al core :</l>
-					<l xml:id="l5">Anzi ella insieme et io</l>
-					<l xml:id="l6"><del>Ne facciam mille</del></l>
-					<l xml:id="l7">facciam soavi lacci, e ’l desir mio</l>
-					<l xml:id="l8">e gli stringe il piacere, e la speranza,</l>
-					<l xml:id="l9">Tal che di libertà nulla m’avanza.</l>
+					<l xml:id="l4">che mi fa la <seg xml:id="l4v1">mia donna</seg> intorno al core:</l>
+					<l xml:id="l5"><seg xml:id="l5v1">Anzi ella insieme et io</seg></l>
+					<l xml:id="l6"><seg xml:id="l6v1"><del>Ne facciam mille</del> facciam soavi lacci, e ’l desir mio</seg></l>
+					<l xml:id="l7">e <seg xml:id="l7v1">gli</seg> stringe il piacere, e la speranza,</l>
+					<l xml:id="l8">Tal che di libertà nulla m’avanza.</l>
 				</lg>
 			</div>
 		</body>

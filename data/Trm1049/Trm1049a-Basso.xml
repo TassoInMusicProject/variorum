@@ -33,13 +33,13 @@
 			</div>
 			<div>
 				<lg>
-					<l xml:id="l1">Queste notte son <seg xml:id="l1v1">nove</seg> E <seg xml:id="l1v2">quest</seg>'Amore</l>
+					<l xml:id="l1">Queste notte son nove E <seg xml:id="l1v1">quest</seg>'Amore</l>
 					<l xml:id="l2">Comintia in novi modi</l>
 					<l xml:id="l3">Queste note son nodi</l>
 					<l xml:id="l4">Che mi fa la <seg xml:id="l4v1">donna mia</seg> intorn'al core</l>
 					<l xml:id="l5"><seg xml:id="l5v1">[OMITTED]</seg></l>
 					<l xml:id="l6"><seg xml:id="l6v1">[OMITTED]</seg></l>
-					<l xml:id="l7"><seg xml:id="l7v1">E li</seg> stringe il piacer E la speranza</l>
+					<l xml:id="l7">E <seg xml:id="l7v1">li</seg> stringe il piacer E la speranza</l>
 					<l xml:id="l8">Tal che de liberta nulla mi avanza.</l>
 				</lg>
 			</div>
