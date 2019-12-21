@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Amatemi, ben mio</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0288o</idno>
+			<idno type="label">Trm0288o (Canto Primo.)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0288o-Canto Primo.">
+					<title>Madrigali concertati a due, tre, e quattro voci: libro primo</title>
+					<url></url>
+					<author role="composer">Sabbatini, Vincenzo</author>
+					<publisher>Magni</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1629">1629</date>
+					<idno type="RISM">S 36</idno>
+					<biblScope unit="page">8</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">A 2.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Amatemi ben mio</l>
+					<l xml:id="l2">perche sdegna il mio core</l>
+					<l xml:id="l3">ogn’altro cibo e vive sol d’Amore</l>
+					<l xml:id="l4">v’amerò se m’amate</l>
+					<l xml:id="l5">non men de la mia vita</l>
+					<l xml:id="l6">l’amor fia lungo e fia con lui finita</l>
+					<l xml:id="l7">Mà s’amarmi negate</l>
+					<l xml:id="l8">Morirò disperato</l>
+					<l xml:id="l9">Per non amarvi non essendo amato.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Se da sì nobil mano</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">A3</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="A3">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Milan</settlement>
+						<repository>Biblioteca Ambrosiana</repository>
+						<idno>I.149 inf.</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 258r</locus>
+							<p>miscellaneous codex, containing copies of 21 lyric poems by Tasso</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th&#x2013;17th centuries</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Se da si nobil mano</l>
+					<l xml:id="l2">Debbon venir le fascie alle mie piaghe</l>
+					<l xml:id="l3">Amor che non m’impiaghe</l>
+					<l xml:id="l4">Il cuor, con mille colpi?</l>
+					<l xml:id="l5">Ne fia ch’io te n’incolpi.</l>
+					<l xml:id="l6">Perche nulla ferita</l>
+					<l xml:id="l7">Sarebbe al cor si grave.</l>
+					<l xml:id="l8">Come fora soave,</l>
+					<l xml:id="l9">Della man bella Cortese aita.</l>
+					<l xml:id="l10">Amor pace non chero,</l>
+					<l xml:id="l11">Non cheggio usbergo, o scudo</l>
+					<l xml:id="l12">Ma contro al petto ignudo</l>
+					<l xml:id="l13">S’ella medica fia, sij tu guerriero.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

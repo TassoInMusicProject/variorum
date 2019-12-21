@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>O musa, tu che di caduchi allori</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1588S</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1588S">
+					<title>Il Goffredo overo Gierusalemme Liberata, poema heroico del sig. Torquato Tasso. Tratto dal vero originale, con aggiunta di quanto mancava nell'altre edittioni, con l'allegoria dell'istesso auttore. Et con gli argomenti a ciascun canto del signor Horatio Ariosti. Aggiuntovi l'Annotationi d'incerto auttore, et alcune stanze in lode del poeta. Et anco i Cinque canti del signor Camillo Camilli</title>
+					<url>https://books.google.com/books?vid=IBCR:BC000163539</url>
+					<publisher>Altobello Salicato</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1588">1588</date>
+					<biblScope unit="page">2</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Ò Musa, tù, che di caduchi Allori</l>
+					<l xml:id="l2">Non circondi la fronte in Helicona,</l>
+					<l xml:id="l3">Ma sù nel Cielo infrà i beati Cori</l>
+					<l xml:id="l4">Hai di stelle immortali aurea corona;</l>
+					<l xml:id="l5">Tù spira al petto mio celesti ardori;</l>
+					<l xml:id="l6">Tù rischiara il mio canto, e tù perdona,</l>
+					<l xml:id="l7">S’intesso fregi al ver, s’adorno in parte</l>
+					<l xml:id="l8">D’altri diletti, che de’ tuoi le carte.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

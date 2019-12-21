@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Così doleasi e con le flebil onde</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tsg20134a</idno>
+			<idno type="label">Tsg20134a (Alto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tsg20134a-Alto">
+					<title>L'Armida del Tasso posta in musica a cinque voci, col suo basso per suonare</title>
+					<url>http://www.bibliotecamusica.it/cmbm/viewschedatwbca.asp?path=/cmbm/images/ripro/gaspari/_Z/Z082/</url>
+					<author role="composer">Eredi, Francesco</author>
+					<publisher>A. Vincenzi</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1629">1629</date>
+					<idno type="RISM">E 741</idno>
+					<biblScope unit="page">19</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Decima, &amp; ultima Parte.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Così doleasi e con le flebil onde</l>
+					<l xml:id="l2">[TACET] e sdegno da begli occhi stilla</l>
+					<l xml:id="l3">L’affettuoso pianto egli confonde</l>
+					<l xml:id="l4">In cui pudica la pietà sfavilla</l>
+					<l xml:id="l5">E con modi dolcissimi risponde</l>
+					<l xml:id="l6">[TACET]</l>
+					<l xml:id="l7">[TACET]</l>
+					<l xml:id="l8">Nemico no ma tuo campione e servo.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

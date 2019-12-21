@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Dolcemente dormiva la mia Clori</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0376i</idno>
+			<idno type="label">Trm0376i (Tenore)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0376i-Tenore">
+					<title>Madrigali da concertarsi a cinque voci et il basso continuo</title>
+					<url></url>
+					<author role="composer">Guelfi, Antonio</author>
+					<publisher>Pignoni</publisher>
+					<pubPlace>Florence</pubPlace>
+					<date when="1631">1631</date>
+					<idno type="RISM">G 4826</idno>
+					<biblScope unit="page">17-18</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Dolcemente dormiva la mia Clori</l>
+					<l xml:id="l2">e intorno al suo bel volto</l>
+					<l xml:id="l3">givan scherzando i pargoletti amori</l>
+					<l xml:id="l4">mirava io da me tolto</l>
+					<l xml:id="l5">con gran diletto lei</l>
+					<l xml:id="l6">quando dir mi sentei stolto che fai</l>
+					<l xml:id="l7">tempo perduto non s'acquista mai</l>
+					<l xml:id="l8">allor io mi chinai cosi pian piano</l>
+					<l xml:id="l9">e baciandoli il viso</l>
+					<l xml:id="l10">provai quanta dolcezza ah il paradiso.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

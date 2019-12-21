@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Vattene pur, crudel, con quella pace</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tsg16059f</idno>
+			<idno type="label">Tsg16059f (Canto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tsg16059f-Canto">
+					<title>L'Armida del Tasso posta in musica a cinque voci, col suo basso per suonare</title>
+					<url>http://www.bibliotecamusica.it/cmbm/viewschedatwbca.asp?path=/cmbm/images/ripro/gaspari/_Z/Z082/</url>
+					<author role="composer">Eredi, Francesco</author>
+					<publisher>A. Vincenzi</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1629">1629</date>
+					<idno type="RISM">E 741</idno>
+					<biblScope unit="page">2</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Seconda Parte.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Vatene pur con quella pace</l>
+					<l xml:id="l2">Che lasci a me vatene iniquo homai</l>
+					<l xml:id="l3">Me tosto ignudo spirto ombra seguace</l>
+					<l xml:id="l4">Indivisibilmente a tergo havrai</l>
+					<l xml:id="l5">Nova furia co' serpi e con la face</l>
+					<l xml:id="l6">Tanto t’agiterò quanto t’amai.</l>
+					<l xml:id="l7">E s’è destin ch’esca del mar che schivi</l>
+					<l xml:id="l8">Gli scogli e l’onde e che a la pugna arrivi.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

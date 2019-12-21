@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Qui tacque: e stabilito il suo pensiero</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tsg20127a</idno>
+			<idno type="label">Tsg20127a (Tenore)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tsg20127a-Tenore">
+					<title>L'Armida del Tasso posta in musica a cinque voci, col suo basso per suonare</title>
+					<url>http://www.bibliotecamusica.it/cmbm/viewschedatwbca.asp?path=/cmbm/images/ripro/gaspari/_Z/Z082/</url>
+					<author role="composer">Eredi, Francesco</author>
+					<publisher>A. Vincenzi</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1629">1629</date>
+					<idno type="RISM">E 741</idno>
+					<biblScope unit="page">14</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Quinta Parte.	</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Qui taque e stabilito il suo pensiero</l>
+					<l xml:id="l2">Strale sceglieva il più pungente e forte</l>
+					<l xml:id="l3">Quando giunse e mirolla il Cavalliero</l>
+					<l xml:id="l4">Tanto vicina a la sua estrema sorte</l>
+					<l xml:id="l5">Già compostasi in atto atroce e fero</l>
+					<l xml:id="l6">Già tinta in viso di pallor di morte</l>
+					<l xml:id="l7">Da tergo ei se le aventa [TACET]</l>
+					<l xml:id="l8">Che già la fera punta al petto stende.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

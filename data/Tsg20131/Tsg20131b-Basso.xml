@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>"O sempre, e quando parti e quando torni</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tsg20131b</idno>
+			<idno type="label">Tsg20131b (Basso)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tsg20131b-Basso">
+					<title>L'Armida del Tasso posta in musica a cinque voci, col suo basso per suonare</title>
+					<url>http://www.bibliotecamusica.it/cmbm/viewschedatwbca.asp?path=/cmbm/images/ripro/gaspari/_Z/Z082/</url>
+					<author role="composer">Eredi, Francesco</author>
+					<publisher>A. Vincenzi</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1629">1629</date>
+					<idno type="RISM">E 741</idno>
+					<biblScope unit="page">18</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Nona Parte.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">O sempre e quando parti e quando torni</l>
+					<l xml:id="l2">Egualmente crudele hor chi ti guida</l>
+					<l xml:id="l3">Gran maraviglia che ’l morir distorni</l>
+					<l xml:id="l4">E di vita cagion sia l’homicida</l>
+					<l xml:id="l5">[TACET]</l>
+					<l xml:id="l6">[TACET]</l>
+					<l xml:id="l7">Conosco l’arte del fellone ignote</l>
+					<l xml:id="l8">Ma ben può nulla chi morir non puote.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

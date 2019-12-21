@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>O musa, tu che di caduchi allori</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1590B</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1590B">
+					<title>La Gierusalemme liberata di Torquato Tasso con le figure di Bernardo Castello; e le Annotationi di Scipio Gentili, e di Giulio Guastavini</title>
+					<url></url>
+					<publisher>Girolamo Bartoli</publisher>
+					<pubPlace>Genoa</pubPlace>
+					<date when="1590">1590</date>
+					<biblScope unit="page">1</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">O Musa, tu, che di caduchi allori</l>
+					<l xml:id="l2">Non circondi la fronte in Helicona;</l>
+					<l xml:id="l3">Ma sù nel cielo infra i beati chori</l>
+					<l xml:id="l4">Hai di stelle immortali aurea corona;</l>
+					<l xml:id="l5">Tu spira al petto mio celesti ardori,</l>
+					<l xml:id="l6">Tu rischiara il mio canto: e tu perdona,</l>
+					<l xml:id="l7">S’intesso fregi al ver, s’adorno in parte</l>
+					<l xml:id="l8">D’altri diletti, che de’ tuoi le carte.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

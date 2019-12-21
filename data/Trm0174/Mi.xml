@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Or che l'aura mia dolce altrove spira</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">Mi</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Mi">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Milan</settlement>
+						<repository>Biblioteca Braidense</repository>
+						<idno>AB 11 34</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. Parte prima, 255-56</locus>
+							<p>exemplar of print <span class="print">85</span>, with autograph annotations and corrections by Tasso</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Dice, che la sua Donna fà miracolosi effetti con la sua presenza, e con lo star lontana ne la Città, e ne la villa similmente.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">HOR, che l’aura mia dolce altrove spira</l>
+					<l xml:id="l2">Fra selve, e campi; ahi ben di ferro ha ’l core,</l>
+					<l xml:id="l3">Chi riman quì solingo, ove d’horrore</l>
+					<l xml:id="l4">E' cieca valle, di miseria, e d’ira.</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Qui nessun raggio di beltà si mira.</l>
+					<l xml:id="l6">Rustico è fatto, e co’ Bifolci, Amore</l>
+					<l xml:id="l7">Pasce gli amanti, e’n sù l’estivo ardore</l>
+					<l xml:id="l8">Hor tratta il rastro, &amp; hor la falce <del>aggira</del> ei gira.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Ò fortunata selva, ò liete piagge,</l>
+					<l xml:id="l10">Ove le fere, ove le piante, e i sassi,</l>
+					<l xml:id="l11">Appreso han di valor senso, e costume.</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">Hor, che far non potea quel dolce lume,</l>
+					<l xml:id="l13">Se fà, d’ond’egli parte, ov’egli stassi</l>
+					<l xml:id="l14">Civili i boschi, e le Città selvagge.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

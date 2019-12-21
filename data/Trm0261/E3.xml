@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Mentre volgea il mio sole</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">E3</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="E3">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Modena</settlement>
+						<repository>Biblioteca Estense Universitaria</repository>
+						<idno>It. 761</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 46v</locus>
+							<p>partial copy of <span class="manuscript">E<sub>2</sub></span> and <span class="manuscript">P<sub>1</sub></span></p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>17th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Mentre volgea il mio Sole</l>
+					<l xml:id="l2">Lucido specchio al Sol, cosi l’accese,</l>
+					<l xml:id="l3">Che quasi un terzo sol gli occhi m’offese.</l>
+					<l xml:id="l4">Io perdendo la vista à tanti rai</l>
+					<l xml:id="l5">Come cieco restai.</l>
+					<l xml:id="l6">Qual gloria è questa Amore,</l>
+					<l xml:id="l7">Tormi la vista, hor che m’hai tolto il core</l>
+					<l xml:id="l8">E perch'io non gioisca al foco ond’ardo</l>
+					<l xml:id="l9">Con trè lumi abbagliarmi un vago sguardo?</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

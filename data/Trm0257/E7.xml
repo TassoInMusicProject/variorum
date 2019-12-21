@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Ardi, Amor, se ti piace</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">E7</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="E7">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Modena</settlement>
+						<repository>Biblioteca Estense Universitaria</repository>
+						<idno>Campori Appendice 1634</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 54v-55r</locus>
+							<p>miscellaneous codex, containing copies of 4 lyric poems by Tasso</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">[Madrigalli del Tasso]</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Ardi amor se ti piace</l>
+					<l xml:id="l2">L’alma mia, non ch'il fianco</l>
+					<l xml:id="l3">Ch’io non saro di sofferir mai stanco</l>
+				</lg>
+				<lg>
+					<l xml:id="l4">Ma sembri la tua face</l>
+					<l xml:id="l5">Fulgor ch’a dentro passa</l>
+					<l xml:id="l6">e fuor di se vestigio a pena lassa</l>
+					<l xml:id="l7">Portino in me tuoi sdegni</l>
+					<l xml:id="l8">Anzi martir che segni</l>
+					<l xml:id="l9">Pur se restar vestigi</l>
+					<l xml:id="l10">Debbon di quel desir, onde m’affligi</l>
+					<l xml:id="l11">Dimostrin le mie labra e le mie gote</l>
+					<l xml:id="l12">Di cari baci impresse ardenti note.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

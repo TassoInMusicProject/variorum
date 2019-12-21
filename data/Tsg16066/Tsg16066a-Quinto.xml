@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Questa bellezza mia sarà mercede</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tsg16066a</idno>
+			<idno type="label">Tsg16066a (Quinto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tsg16066a-Quinto">
+					<title>L'Armida del Tasso posta in musica a cinque voci, col suo basso per suonare</title>
+					<url>http://www.bibliotecamusica.it/cmbm/viewschedatwbca.asp?path=/cmbm/images/ripro/gaspari/_Z/Z082/</url>
+					<author role="composer">Eredi, Francesco</author>
+					<publisher>A. Vincenzi</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1629">1629</date>
+					<idno type="RISM">E 741</idno>
+					<biblScope unit="page">9</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Nona, &amp; ultima Parte. 	</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Questa bellezza mia sarà mercede</l>
+					<l xml:id="l2">Del troncator de l’essecrabil testa</l>
+					<l xml:id="l3">O miei famosi Amanti ecco si chiede</l>
+					<l xml:id="l4">Difficil sì da voi [TACET]</l>
+					<l xml:id="l5">Io che sarò d’ampie richezze [TACET]</l>
+					<l xml:id="l6">D’una vendetta in guiderdon son presta</l>
+					<l xml:id="l7">S’esser compra a tal prezzo indegna sono</l>
+					<l xml:id="l8">Beltà sei di natura inutil dono.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

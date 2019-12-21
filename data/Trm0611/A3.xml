@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>La bella pargoletta</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">A3</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="A3">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Milan</settlement>
+						<repository>Biblioteca Ambrosiana</repository>
+						<idno>I.149 inf.</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 264r</locus>
+							<p>miscellaneous codex, containing copies of 21 lyric poems by Tasso</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th&#x2013;17th centuries</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">La bella pargoletta,</l>
+					<l xml:id="l2">Ch’ancor non sente amore,</l>
+					<l xml:id="l3">Ne pur noto ha per fama il suo valore.</l>
+					<l xml:id="l4">Co' begli occhi saetta,</l>
+					<l xml:id="l5">E co'l soave riso;</l>
+					<l xml:id="l6">Ne s’accorge che l’arme ha nel bel viso.</l>
+					<l xml:id="l7">Qual colpa ha del morire</l>
+					<l xml:id="l8">De la trafitta gente</l>
+					<l xml:id="l9">[OMITTED]</l>
+					<l xml:id="l10">Se non sa di ferire.</l>
+					<l xml:id="l11">O bellezza homicida, et innocente</l>
+					<l xml:id="l12">Temp'è ch’amor ti mostri</l>
+					<l xml:id="l13">Homai nelle tue piaghe i dolor nostri.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

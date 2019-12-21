@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Come cristallo in monte</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">VE3</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="VE3">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Rome</settlement>
+						<repository>Biblioteca Nazionale Vittorio Emanuele</repository>
+						<idno>68.8.A.19</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 638</locus>
+							<p>codex containing copies of 37 lyric poems by Tasso, with autograph corrections and annotations by Aldo Manuzio the younger</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Come cristallo in monte</l>
+					<l xml:id="l2">L’orgoglio in voi s’indura,</l>
+					<l xml:id="l3">Donna bella, e crudele oltra misura.</l>
+					<l xml:id="l4">In me l’amore affina,</l>
+					<l xml:id="l5">Com’or lucente infiamma,</l>
+					<l xml:id="l6">[OMITTED]</l>
+					<l xml:id="l7">Ne quella algente brina</l>
+					<l xml:id="l8">Struggo però, ma ne l’istesso loco</l>
+					<l xml:id="l9">Manterria fede eterna al gelo il foco.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

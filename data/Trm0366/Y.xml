@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Odi, Filli, che tuona; odi che 'n gelo</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">Y</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Y">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Rome</settlement>
+						<repository>Biblioteca Casanatense</repository>
+						<idno>ms. 3683</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 183r</locus>
+							<p>miscellaneous codex, containing copies of copies of 9 lyric poems by Tasso</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>15th&#x2013;16th centuries</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Tasso.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Odi Filli che tuona, odi che in gielo</l>
+					<l xml:id="l2">Il vapor di là sù converso piove;</l>
+					<l xml:id="l3">Ma che curar debiam che faccia Giove</l>
+					<l xml:id="l4">Godiam noi qui s’egli è turbato in Cielo</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Godiamo amando, et con ardente zelo</l>
+					<l xml:id="l6">Queste gioie noturne in noi rinove;</l>
+					<l xml:id="l7">Tema il volgo i suoi tuoni e porti altrove</l>
+					<l xml:id="l8">Fortuna o caso il suo fulmineo telo:</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Ben folle et à se stesso empio è colui</l>
+					<l xml:id="l10">Che dubia e pave e in aspettando il male</l>
+					<l xml:id="l11">Gli si fà incontro et sua miseria affretta</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">Pera il mondo e ruini à me non cale</l>
+					<l xml:id="l13">Se non di quanto hor qui piace e diletta</l>
+					<l xml:id="l14">Che se terra sarò terra ancor fui.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

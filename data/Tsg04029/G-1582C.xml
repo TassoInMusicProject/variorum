@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Argo non mai, non vide Cipro e Delo</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1582C</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1582C">
+					<title>La Gierusalemme liberata del sig. Torquato Tasso. Con l'allegoria dell'istesso autore, et con gli argomenti del sig. Oratio Ariosti. Di nuovo ristampata, e da infiniti errori, che si veggono nell'altre impressioni, corretta per Tomaso Costo. Aggiuntovi alcune annotationi di m. Giulio Cesare Capaccio</title>
+					<url>https://books.google.it/books?vid=IBNR:CR000221585&amp;redir_esc=y</url>
+					<publisher>Giovanni Battista Cappelli</publisher>
+					<pubPlace>Naples</pubPlace>
+					<date when="1582">1582</date>
+					<biblScope unit="page">51</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Argo non mai, non vide Cipro, ò Delo</l>
+					<l xml:id="l2">D’abito, ò di beltà forme sì care.</l>
+					<l xml:id="l3">D’auro ha la chioma, &amp; or dal bianco velo</l>
+					<l xml:id="l4">Traluce involta, or discoperta appare;</l>
+					<l xml:id="l5">Cosi qualhor si rasserena il Cielo,</l>
+					<l xml:id="l6">Or da candida nube il Sol traspare,</l>
+					<l xml:id="l7">Or da la nube uscendo i raggi intorno</l>
+					<l xml:id="l8">Più chiari spiega, e ne raddoppia il giorno.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

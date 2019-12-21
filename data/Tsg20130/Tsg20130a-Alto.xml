@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>E con man languidetta il forte braccio</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tsg20130a</idno>
+			<idno type="label">Tsg20130a (Alto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tsg20130a-Alto">
+					<title>L'Armida del Tasso posta in musica a cinque voci, col suo basso per suonare</title>
+					<url>http://www.bibliotecamusica.it/cmbm/viewschedatwbca.asp?path=/cmbm/images/ripro/gaspari/_Z/Z082/</url>
+					<author role="composer">Eredi, Francesco</author>
+					<publisher>A. Vincenzi</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1629">1629</date>
+					<idno type="RISM">E 741</idno>
+					<biblScope unit="page">17-18</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Ottava Parte.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">E con man languidetta il forte braccio</l>
+					<l xml:id="l2">Ch’era sostegno suo schiva respinse</l>
+					<l xml:id="l3">Tentò più volte e non uscì d’impaccio</l>
+					<l xml:id="l4">Che via più stretta ei rilegolla e cinse</l>
+					<l xml:id="l5">Al fin raccolta entro a quel caro laccio</l>
+					<l xml:id="l6">Che le fu caro forse e se n’infinse</l>
+					<l xml:id="l7">Parlando incominciò di spander fiumi</l>
+					<l xml:id="l8">Senza mai di rizzargli al volto i lumi.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

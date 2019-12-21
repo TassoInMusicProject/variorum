@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Dove rivolgi o lusinghier fallace</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">VE<sub>3</sub></idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="VE<sub>3</sub>">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Rome</settlement>
+						<repository>Biblioteca Nazionale Vittorio Emanuele</repository>
+						<idno>68.8.A.19</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 638		</locus>
+							<p>codex containing copies of 37 lyric poems by Tasso, with autograph corrections and annotations by Aldo Manuzio the younger</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Dialogo.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Dove rivolgi, o lusinghier fallace,</l>
+					<l xml:id="l2">Gli occhi bramosi, e vaghi?</l>
+					<l xml:id="l3">Dove, o come t'appaghi</l>
+					<l xml:id="l4">Di quel, che breve spatio alletta, e piace?</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Il Re, che fece il Sole, e l'auree stelle</l>
+					<l xml:id="l6">Fisse in celesti giri,</l>
+					<l xml:id="l7">Perch'io vagheggi, e miri</l>
+					<l xml:id="l8">In opere di sua mano assai più belle.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">O dolce inganno, o fero ardore, o gelo</l>
+					<l xml:id="l10">De gli infelici amanti,</l>
+					<l xml:id="l11">Deh miriamo sembianti</l>
+					<l xml:id="l12">Imaginati in terra, e vivi in Cielo:</l>
+				</lg>
+				<lg>
+					<l xml:id="l13">Mentre in Croce il contemplo, il veggio esangue:</l>
+					<l xml:id="l14">O lagrime, o dolore,</l>
+					<l xml:id="l15">Hoggi languisce, e more</l>
+					<l xml:id="l16">La salute, la vita, o piaghe, o sangue.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

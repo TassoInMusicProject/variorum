@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Che fa più meco il pianto? Altr'arme, altr'arte</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tsg16064a</idno>
+			<idno type="label">Tsg16064a (Alto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tsg16064a-Alto">
+					<title>L'Armida del Tasso posta in musica a cinque voci, col suo basso per suonare</title>
+					<url>http://www.bibliotecamusica.it/cmbm/viewschedatwbca.asp?path=/cmbm/images/ripro/gaspari/_Z/Z082/</url>
+					<author role="composer">Eredi, Francesco</author>
+					<publisher>A. Vincenzi</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1629">1629</date>
+					<idno type="RISM">E 741</idno>
+					<biblScope unit="page">7</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Settima Parte.	</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">[TACET] altr’arme altr’arte</l>
+					<l xml:id="l2">Io non ho dunque ahi seguirò pur l’empio</l>
+					<l xml:id="l3">Né l’Abisso per lui riposta parte</l>
+					<l xml:id="l4">Né ’l ciel sarà per lui sicuro tempio</l>
+					<l xml:id="l5">Già ’l giungo e ’l prendo e ’l cor gli svello [TACET]</l>
+					<l xml:id="l6">[TACET]</l>
+					<l xml:id="l7">Mastro di ferità vuo’ superarlo</l>
+					<l xml:id="l8">Ne l’arte sua ma dove son che parlo.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Di nettare amoroso ebro la mente</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">A1</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="A1">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Milan</settlement>
+						<repository>Biblioteca Ambrosiana</repository>
+						<idno>R.96 sup.</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 32</locus>
+							<p>miscellaneous codex, containing copies of 6 lyric poems by Tasso</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Di Nettare Amoroso ebro la mente Rapto fui non so come in chiusa chiostra, e due belle d’Amor Guerriere in giostra, Vidi con l’arme, onde egli è si posente;</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Vidi che in dolce aringo alteramente</l>
+					<l xml:id="l2">Fer pria di lor belta legiadra mostra,</l>
+					<l xml:id="l3">Poi movendosi incontro ove s’<del>illegible</del>inostra,</l>
+					<l xml:id="l4">La bocca si ferir di baccio ardente;</l>
+				</lg>
+				<lg>
+					<l xml:id="l5"><del>Scoccar</del>Sonar le labra, e vi restaro i segni</l>
+					<l xml:id="l6">de colpi impressi, Amor deh perche à vuoto,</l>
+					<l xml:id="l7">tante armi <del>à tue<del> e tai percosse usar, <del>che</del>da scherzo?</l>
+				</lg>
+				<lg>
+					<l xml:id="l8">Provinsi in vera pugna, e non si sdegni</l>
+					<l xml:id="l9">Scontro d’amante, Amor <del>che</del>ne tuo devoto</l>
+					<l xml:id="l10">opponi a l’una, o fra le due fa terzo.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

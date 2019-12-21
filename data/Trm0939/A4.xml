@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Le amare notti in ch'io m'affliggo e doglio</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">A4</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="A4">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Milan</settlement>
+						<repository>Biblioteca Ambrosiana</repository>
+						<idno>F.201 inf.</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 11r</locus>
+							<p>codex containing autographs of 23 lyric poems by Tasso</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Risponde ad un sonetto del padre Don Angelo Grillo il qual comincia</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">L'amare notti, in ch’io m’affliggo, e doglio</l>
+					<l xml:id="l2">Del ciel, che sì turbate a me sortille,</l>
+					<l xml:id="l3">E'nfiammo il cor di lucide faville</l>
+					<l xml:id="l4">Ne de l’antica mente anchor mi spoglio:</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Nè'n queto porto le mie vele accoglio,</l>
+					<l xml:id="l6">Ne l’aura incerta, che pur dianzi aprille</l>
+					<l xml:id="l7">Vien che l’aria sereni, e’l mar tranquille</l>
+					<l xml:id="l8">E son come nocchier, che rompe a scoglio.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Ma se non è la suso a me prescritta</l>
+					<l xml:id="l10">Sorte si dura, o se pietà sovente</l>
+					<l xml:id="l11">Volge le stelle e'l Sole in te non dorma.</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">Chiara mia luce, homai da l'oriente</l>
+					<l xml:id="l13">Tu movi, tu mi scampa, e tu mi ditta</l>
+					<l xml:id="l14">I preghi, e i voti e tu m’imprimi, e forma.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

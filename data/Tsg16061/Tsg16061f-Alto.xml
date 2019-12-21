@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Chiudesti i lumi, Armida: il cielo avaro</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tsg16061f</idno>
+			<idno type="label">Tsg16061f (Alto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tsg16061f-Alto">
+					<title>L'Armida del Tasso posta in musica a cinque voci, col suo basso per suonare</title>
+					<url>http://www.bibliotecamusica.it/cmbm/viewschedatwbca.asp?path=/cmbm/images/ripro/gaspari/_Z/Z082/</url>
+					<author role="composer">Eredi, Francesco</author>
+					<publisher>A. Vincenzi</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1629">1629</date>
+					<idno type="RISM">E 741</idno>
+					<biblScope unit="page">4</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Quarta Parte.	</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">[TACET] il cielo avaro</l>
+					<l xml:id="l2">Invidiò il conforto ai tuoi martiri</l>
+					<l xml:id="l3">[TACET] il pianto amaro</l>
+					<l xml:id="l4">Ne gl’occhi al tuo nemico hor che non miri</l>
+					<l xml:id="l5">O s’udir tu ’l potessi o come caro</l>
+					<l xml:id="l6">T’addolcirebbe il suon de suoi sospiri</l>
+					<l xml:id="l7">Da quanto ei pote ei prende e tu no ’l credi</l>
+					<l xml:id="l8">Pietoso in vista gl’ultimi congedi.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

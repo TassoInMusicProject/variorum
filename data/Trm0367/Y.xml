@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Aminta, poi ch'a Filli non dispiacque</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">Y</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Y">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Rome</settlement>
+						<repository>Biblioteca Casanatense</repository>
+						<idno>ms. 3683</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<p>miscellaneous codex, containing copies of copies of 9 lyric poems by Tasso</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>15th&#x2013;16th centuries</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">[The sonnet is placed at the bottom left margin of the page]</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Aminta poi che a Filli non dispiacque</l>
+					<l xml:id="l2">Del medesmo desir mostrarsi accesa</l>
+					<l xml:id="l3">Et ch’ella a questo sol gia tanto attesa</l>
+					<l xml:id="l4">Nelle sue braccia alfin nuda si giacque</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Dal soverchio piacer sentendo offesa</l>
+					<l xml:id="l6">L’alma felice in sì bel laccio presa</l>
+					<l xml:id="l7">A lei che più ch’alcun’altra li piacque,</l>
+					<l xml:id="l8">Cosi languendo disse e poi si tacque.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Cogliete anima mia quest’alma ch’io</l>
+					<l xml:id="l10">Vi spiro in braccio ahi che mi giunge al core</l>
+					<l xml:id="l11">Al core ahi lasso un venen dolce e rio</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">Io 'l sento hoime da queste labra amore</l>
+					<l xml:id="l13">Per troncar la radice al viver mio</l>
+					<l xml:id="l14">In dolcissimi baci il manda fore.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

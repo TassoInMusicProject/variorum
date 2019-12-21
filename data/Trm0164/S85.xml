@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Vuol che l'ami costei, ma duro freno</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S85</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S85">
+					<title>Delle rime del Sig. Torquato Tasso. Parte prima. Di nuovo dal medesimo in questa nuova impressione ordinate, corrette, accresciute, et date in luce. Con l'esposizione dello stesso autore</title>
+					<url></url>
+					<publisher>Francesco Osanna</publisher>
+					<pubPlace>Mantua</pubPlace>
+					<date when="1591">1591</date>
+					<biblScope unit="page">Prima parte, 168-69</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Mostra di non poter ricoprire le fiamme amorose.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Vuol ch'io l'ami costei: ma duro freno</l>
+					<l xml:id="l2">Mi pone ancor d'aspro silentio. Hor quale</l>
+					<l xml:id="l3">Havrò da lei, se non conosce il male,</l>
+					<l xml:id="l4">Ò medicina, ò refrigerio almeno?</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">E come esser potrà, ch'ardendo il seno</l>
+					<l xml:id="l6">Non si dimostri il mio dolor mortale;</l>
+					<l xml:id="l7">Nel risplender di fiamma à quella eguale,</l>
+					<l xml:id="l8">Ch'accende i monti in riva'l mar Tirreno.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Tacer ben posso, e tacerò: ch'io toglia,</l>
+					<l xml:id="l10">Sangue à le piaghe, e luce al vivo foco,</l>
+					<l xml:id="l11">Non brami già; questa è impossibil voglia.</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">Troppo spinse pungenti à dentro i colpi,</l>
+					<l xml:id="l13">E troppo ardore accolse in picciol loco,</l>
+					<l xml:id="l14">S'apparirà, Natura, e se n'incolpi.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

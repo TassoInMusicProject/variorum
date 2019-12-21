@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Fa nove crespe l'aura al crin disciolto</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1590B</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1590B">
+					<title>La Gierusalemme liberata di Torquato Tasso con le figure di Bernardo Castello; e le Annotationi di Scipio Gentili, e di Giulio Guastavini</title>
+					<url></url>
+					<publisher>Girolamo Bartoli</publisher>
+					<pubPlace>Genoa</pubPlace>
+					<date when="1590">1590</date>
+					<biblScope unit="page">38</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Fà nove crespe l’aura al crin disciolto,</l>
+					<l xml:id="l2">Che natura per se rincrespa in onde;</l>
+					<l xml:id="l3">Stassi l’avaro sguardo in se raccolto,</l>
+					<l xml:id="l4">E i tesori d’Amore, e i suoi nasconde.</l>
+					<l xml:id="l5">Dolce color di rose in quel bel volto</l>
+					<l xml:id="l6">Fra l’avorio si sparge, e si confonde:</l>
+					<l xml:id="l7">Ma ne la bocca, ond’esce aura amorosa,</l>
+					<l xml:id="l8">Sola rosseggia, e semplice la rosa.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

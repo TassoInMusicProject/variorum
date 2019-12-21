@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Lunge da voi, mio core</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0060b</idno>
+			<idno type="label">Trm0060b (Quinto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0060b-Quinto">
+					<title>MS. F.1525</title>
+					<url></url>
+					<author role="composer">Fontanelli, Alfonso</author>
+					<publisher>Biblioteca Estense Universitaria</publisher>
+					<pubPlace>Modena</pubPlace>
+					<date when="1590">1590</date>
+					<idno type="RISM"></idno>
+					<biblScope unit="page">6-7</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Lungi da voi mio core</l>
+					<l xml:id="l2">mille volte m’uccid'il mio dolore</l>
+					<l xml:id="l3">per che la mia partita</l>
+					<l xml:id="l4">mi tolse l’alma e s'io ripenso in lei</l>
+					<l xml:id="l5">mi ritoglie la vita</l>
+					<l xml:id="l6">[OMITTED]</l>
+					<l xml:id="l7">ò miseria infinita</l>
+					<l xml:id="l8">felic'e quelo ch'una volta more.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Dunque ove tu, signor di mille rivi</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1590B</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1590B">
+					<title>La Gierusalemme liberata di Torquato Tasso con le figure di Bernardo Castello; e le Annotationi di Scipio Gentili, e di Giulio Guastavini</title>
+					<url></url>
+					<publisher>Girolamo Bartoli</publisher>
+					<pubPlace>Genoa</pubPlace>
+					<date when="1590">1590</date>
+					<biblScope unit="page">26</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Dunque, ove tu, signor, di mille rivi</l>
+					<l xml:id="l2">Sanguinosi il terren lasciasti asperso,</l>
+					<l xml:id="l3">D’amaro pìanto almen duo fonti vivi</l>
+					<l xml:id="l4">In sì acerba memoria hoggi io non verso?</l>
+					<l xml:id="l5">Agghiacciato mio cor, che non derivi</l>
+					<l xml:id="l6">Per gli occhi, e stilli in lagrime converso?</l>
+					<l xml:id="l7">Duro mio cor, che non ti spetri, e frangi?</l>
+					<l xml:id="l8">Pianger ben merti ogn'hor, s’hora non piangi.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Bella non è costei</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">VE3</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="VE3">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Rome</settlement>
+						<repository>Biblioteca Nazionale Vittorio Emanuele</repository>
+						<idno>68.8.A.19</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 558</locus>
+							<p>codex containing copies of 37 lyric poems by Tasso, with autograph corrections and annotations by Aldo Manuzio the younger</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Bella non è costei</l>
+					<l xml:id="l2">Ma la beltad'istessa</l>
+					<l xml:id="l3">Perche fà bello ciò, ch’à lei s’appressa;</l>
+				</lg>
+				<lg>
+					<l xml:id="l4">E quant'ella comparte i dolci sguardi,</l>
+					<l xml:id="l5">E le parole, e’l riso,</l>
+					<l xml:id="l6">E l’altre gratie Amor del lieto viso</l>
+					<l xml:id="l7">Di cui più m’invaghisci, ove più m’ardi,</l>
+					<l xml:id="l8">Tanto sol questo mondo amaro, e vile,</l>
+					<l xml:id="l9">Mi par vago, e gentile.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>
