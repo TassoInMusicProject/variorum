@@ -12192,7 +12192,7 @@ var Application = function Application() {
     for (var i=0; i<VARIORUM_FILES.length; i++) {
         filelist[i] = "data/" + CGI.id + "/" + VARIORUM_FILES[i];
     }
-
+console.log("COLLATION FILE IS", COLLATION_FILE);
     new _variorum2.default({ 
             "files": filelist,
             "collation": COLLATION_FILE
