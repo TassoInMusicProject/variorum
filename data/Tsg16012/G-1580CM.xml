@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Vezzosi augelli infra le verdi fronde</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1580CM</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1580CM">
+					<title>Il Goffredo di m. Torquato Tasso. Nuouamente dato in luce</title>
+					<url>https://books.google.com/books?id=srteAAAAcAAJ&amp;dq=tasso+goffredo+cavalcalupo&amp;source=gbs_navlinks_s</url>
+					<publisher>Domenico Cavalcalupo [ad istanza di Marc'Antonio Malaspina]</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1580">1580</date>
+					<biblScope unit="page">59v</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Vezzosi Augelli, in fra le verdi fronde</l>
+					<l xml:id="l2">Suonano à prova lascivete note.</l>
+					<l xml:id="l3">Mormora l’aura, e fra le foglie, e l’onde</l>
+					<l xml:id="l4">Garrir, che dolcemente ella percote,</l>
+					<l xml:id="l5">Quando taccion gli Augelli, alto risponde;</l>
+					<l xml:id="l6">Quando cantan gli Augei più leve scote.</l>
+					<l xml:id="l7">Sia caso,od’ arte, hor accompagna, &amp; hora</l>
+					<l xml:id="l8">Alterna i versi lor la musica Ora.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

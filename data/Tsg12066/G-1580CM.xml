@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Amico hai vinto: io ti perdon...perdona</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1580CM</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1580CM">
+					<title>Il Goffredo di m. Torquato Tasso. Nuouamente dato in luce</title>
+					<url>https://books.google.com/books?id=srteAAAAcAAJ&amp;dq=tasso+goffredo+cavalcalupo&amp;source=gbs_navlinks_s</url>
+					<publisher>Domenico Cavalcalupo [ad istanza di Marc'Antonio Malaspina]</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1580">1580</date>
+					<biblScope unit="page">51v</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Amico hai vinto, io ti perdon; perdona</l>
+					<l xml:id="l2">Tu non al corpo, che più nulla hor pave;</l>
+					<l xml:id="l3">A l’alma sì: deh per lei prega, e dona</l>
+					<l xml:id="l4">Battesmo à me, ch’ogni sua macchia lave.</l>
+					<l xml:id="l5">In queste voci languide risuona</l>
+					<l xml:id="l6">Un non so che di flebile, e soave;</l>
+					<l xml:id="l7">Ch’al cor gli serpe, et ogni sdegno ammorza</l>
+					<l xml:id="l8">E gli occhi à lagrimar gli alletta, e sforza.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

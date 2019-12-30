@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Certo è scemo il tuo onor se non s'addita</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1590B</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1590B">
+					<title>La Gierusalemme liberata di Torquato Tasso con le figure di Bernardo Castello; e le Annotationi di Scipio Gentili, e di Giulio Guastavini</title>
+					<url></url>
+					<publisher>Girolamo Bartoli</publisher>
+					<pubPlace>Genoa</pubPlace>
+					<date when="1590">1590</date>
+					<biblScope unit="page">242</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Certo è scemo il tuo honor, se non s’addita</l>
+					<l xml:id="l2">Incatenata al tuo trionfo avanti</l>
+					<l xml:id="l3">Femina hor presa à forza, e pria tradita.</l>
+					<l xml:id="l4">Quest’è ’l maggior de’ titoli, e de’ vanti.</l>
+					<l xml:id="l5">Tempo fù, ch’io ti chiesi e pace, e vita:</l>
+					<l xml:id="l6">Dolce hor saria con morte uscir di pianti;</l>
+					<l xml:id="l7">Ma non la chiedo à te, che non è cosa,</l>
+					<l xml:id="l8">Ch’essendo dono tuo non mi sia odiosa.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

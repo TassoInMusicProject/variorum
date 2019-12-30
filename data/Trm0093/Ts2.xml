@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Disdegno e gelosia</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">Ts2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Ts2">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Rome</settlement>
+						<repository>Biblioteca Angelica</repository>
+						<idno>Aut. 1.24</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 44v</locus>
+							<p>exemplar of print <span class="print">22</span>, with autograph corrections and annotations by Tasso</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Disdegno, e gelosia</l>
+					<l xml:id="l2">Vostri custodi, Donna e miei nemici;</l>
+					<l xml:id="l3">Fan gli occhi miei famelici, e mendici.</l>
+				</lg>
+				<lg>
+					<l xml:id="l4">Et insieme col raggio</l>
+					<l xml:id="l5">De bei vostr’occhi i bei cortesi detti</l>
+					<l xml:id="l6">Pien di spirti, e d’affetti</l>
+					<l xml:id="l7">Mi toglie <del>de duo dardi</del> ^de' be' guardi^ il doppio oltraggio.</l>
+				</lg>
+				<lg>
+					<l xml:id="l8">Ond’io lasso d’intorno</l>
+					<l xml:id="l9">A le guardate mura</l>
+					<l xml:id="l10">Erro la notte solitario, e’l giorno;</l>
+					<l xml:id="l11">Qual <del>predator</del> ^cacciator^ c’insidi</l>
+					<l xml:id="l12">D errante fera i boscarecci nidi.</l>
+				</lg>
+				<lg>
+					<l xml:id="l13">Ma non vuol mia ventura,</l>
+					<l xml:id="l14">Ch’involi senza pena onde devegno</l>
+					<l xml:id="l15">Preda di predator, <del>e d’arcier</del> ^d'arciero il^ segno.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

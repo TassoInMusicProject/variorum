@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Io veggio in cielo scintillar le stelle</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">Ts2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Ts2">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Rome</settlement>
+						<repository>Biblioteca Angelica</repository>
+						<idno>Aut. 1.24</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 19v</locus>
+							<p>exemplar of print <span class="print">22</span>, with autograph corrections and annotations by Tasso</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Io veggio in Cielo scintillar le stelle</l>
+					<l xml:id="l2">Oltra l’usato, e lampeggiar tremanti,</l>
+					<l xml:id="l3">Come ne gli occhi de cortesi amanti</l>
+					<l xml:id="l4">Rimiriamo tal’hor vive fiammelle.</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Aman forse la suso? ò pur son’elle</l>
+					<l xml:id="l6">Pietose à nostri affanni, à dolci pianti?</l>
+					<l xml:id="l7">E scorgono l’insidie, e i passi erranti</l>
+					<l xml:id="l8">Lì, dov’altr<del>u</del>i d’amor goda, e favelle?</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Pietose luci, se Leandro in mare</l>
+					<l xml:id="l10">O traviato peregrin fuss’io</l>
+					<l xml:id="l11">Tra boschi attenderei da voi soccorso.</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">Così con la sua luce il Sol più chiare</l>
+					<l xml:id="l13">Vi faccia; siate scorta al desir mio,</l>
+					<l xml:id="l14">E guidate de’ passi il dubbio corso.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

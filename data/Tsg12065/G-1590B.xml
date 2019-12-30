@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Segue egli la vittoria e la trafitta</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1590B</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1590B">
+					<title>La Gierusalemme liberata di Torquato Tasso con le figure di Bernardo Castello; e le Annotationi di Scipio Gentili, e di Giulio Guastavini</title>
+					<url></url>
+					<publisher>Girolamo Bartoli</publisher>
+					<pubPlace>Genoa</pubPlace>
+					<date when="1590">1590</date>
+					<biblScope unit="page">140</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Quel segue la vittoria, e la trafitta</l>
+					<l xml:id="l2">Vergine minacciando incalza, e preme.</l>
+					<l xml:id="l3">Ella, mentre cadea, la voce afflitta</l>
+					<l xml:id="l4">Movendo, disse le parole estreme:</l>
+					<l xml:id="l5">Parole, ch’à lei novo un spirto ditta.</l>
+					<l xml:id="l6">Spirto di fè, di carità, di speme:</l>
+					<l xml:id="l7">Virtù, ch’or Dio le infonde: e se rubella</l>
+					<l xml:id="l8">In vita fù, la vuole in morte ancella.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

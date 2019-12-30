@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Qual musico gentil, prima che chiara</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1580CM</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1580CM">
+					<title>Il Goffredo di m. Torquato Tasso. Nuouamente dato in luce</title>
+					<url>https://books.google.com/books?id=srteAAAAcAAJ&amp;dq=tasso+goffredo+cavalcalupo&amp;source=gbs_navlinks_s</url>
+					<publisher>Domenico Cavalcalupo [ad istanza di Marc'Antonio Malaspina]</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1580">1580</date>
+					<biblScope unit="page">61r</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Qual musico gentil priima, che chiara</l>
+					<l xml:id="l2">Altamente la lingua al canto snodi</l>
+					<l xml:id="l3">A l’harmonia gli animi altrui prepara</l>
+					<l xml:id="l4">Con dolci ricercate in varij modi;</l>
+					<l xml:id="l5">Così costei, che ne la doglia amara</l>
+					<l xml:id="l6">Già tutte non oblia l’arti, e le frodi;</l>
+					<l xml:id="l7">Fa di sospir breve concento in prima</l>
+					<l xml:id="l8">Per dispor l’alme, ove le voci impriima.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

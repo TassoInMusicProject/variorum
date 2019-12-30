@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Segue egli la vittoria e la trafitta</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-Am</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="G-Am">
+					<msIdentifier>
+						<region>Milan</region>
+						<repository>Biblioteca Ambrosiana</repository>
+						<idno>Q 120 sup. and R 99 sup.</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 217r</locus>
+							<p>Canti IV, VIII, IX, XII, XV</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Quel segue la vittoria e la trafitta</l>
+					<l xml:id="l2">Vergine minacciando incalza e preme</l>
+					<l xml:id="l3">Ella mentre cadea, la voce afflitta</l>
+					<l xml:id="l4">Movendo disse le parole estreme</l>
+					<l xml:id="l5">Parole che a lei novo un spirto ditta</l>
+					<l xml:id="l6">Spirto di fè, di carità, di speme</l>
+					<l xml:id="l7">Fede ,c’hor Dio l'infonde, e se rubella</l>
+					<l xml:id="l8">Vivendo fù, la vuole in morte ancella.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

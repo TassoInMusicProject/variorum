@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Dalli lor tu ché, se mai gli occhi gira</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-Am</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="G-Am">
+					<msIdentifier>
+						<region>Milan</region>
+						<repository>Biblioteca Ambrosiana</repository>
+						<idno>Q 120 sup. and R 99 sup.</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 222v</locus>
+							<p>Canti IV, VIII, IX, XII, XV</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Dagli lor tu che se mai gli occhi gira</l>
+					<l xml:id="l2">L’anima bella a le sue belle spoglie</l>
+					<l xml:id="l3">Tua pietade e mio ardir non havra in ira</l>
+					<l xml:id="l4">Ch'odio, o sdegno la sù non si raccoglie?</l>
+					<l xml:id="l5">Perdona ella il mio fallo, e sol respira</l>
+					<l xml:id="l6">In questa speme il cor fra tante doglie</l>
+					<l xml:id="l7">Sà ch’empia è sol la mano, e non gli è noia</l>
+					<l xml:id="l8">Che s’amando lei vissi amando i muoia.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

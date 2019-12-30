@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Ecco tu chiedi pur quella certezza</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">A-CM</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="A-CM">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Modena</settlement>
+						<repository>Biblioteca Estense Universitaria</repository>
+						<idno>gamma.K.7.8</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 33v</locus>
+							<url>http://bibliotecaestense.beniculturali.it/info/img/mss/i-mo-beu-gamma.k.7.8.pdf</url>
+							<p>manuscript compiled in Sabbioneta by Maurizio Pandori da Mondaino</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>1578</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">[TIRSI] Ecco tu chiedi pur quella certezza</l>
+					<l xml:id="l2">Ch'à lei dispaice e dispiacer le deve</l>
+					<l xml:id="l3">Dirittamente e tu cercar non devi</l>
+					<l xml:id="l4">Ma chi t’accerta ancor che non sia tale?</l>
+					<l xml:id="l5">Hor s’egli fosse tale e non n’andassi?</l>
+					<l xml:id="l6">Eguale e il dubio e il rischio. ahi pur e meglio</l>
+					<l xml:id="l7">Come ardito morir che come vile.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

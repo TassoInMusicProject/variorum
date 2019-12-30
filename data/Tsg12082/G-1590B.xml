@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>O bella destra che 'l soave pegno</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1590B</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1590B">
+					<title>La Gierusalemme liberata di Torquato Tasso con le figure di Bernardo Castello; e le Annotationi di Scipio Gentili, e di Giulio Guastavini</title>
+					<url></url>
+					<publisher>Girolamo Bartoli</publisher>
+					<pubPlace>Genoa</pubPlace>
+					<date when="1590">1590</date>
+					<biblScope unit="page">141</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">O bella destra, che’l  soave pegno</l>
+					<l xml:id="l2">D’amicitia, e di pace a me porgesti;</l>
+					<l xml:id="l3">Quali hor (lasso) vi trovo? e qual ne vegno?</l>
+					<l xml:id="l4">E voi, leggiadre membra, hor non son questi</l>
+					<l xml:id="l5">Del mio ferino, e scelerato sdegno</l>
+					<l xml:id="l6">Vestigi miserabili, e funesti?</l>
+					<l xml:id="l7">O di par con la man luci spietate,</l>
+					<l xml:id="l8">Essa le piaghe fè, voi le mirate.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

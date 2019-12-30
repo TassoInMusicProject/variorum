@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Sovra le verdi chiome</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">Ts2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Ts2">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Rome</settlement>
+						<repository>Biblioteca Angelica</repository>
+						<idno>Aut. 1.24</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 4r</locus>
+							<p>exemplar of print <span class="print">22</span>, with autograph corrections and annotations by Tasso</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">[The entire poem is deleted with a vertical strike-through]</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Sovra le verdi chiome</l>
+					<l xml:id="l2">Di questo novo Lauro udite, come</l>
+					<l xml:id="l3">De canori augelletti</l>
+					<l xml:id="l4">Altri scherzando van di ramo in ramo,</l>
+					<l xml:id="l5">Cantando; io t’amo, io t’amo.</l>
+					<l xml:id="l6">Et ei par gli risponda</l>
+					<l xml:id="l7">Col dolce mormorio</l>
+					<l xml:id="l8">De la tremante fronda;</l>
+					<l xml:id="l9">Sì, sì, che v’amo anch’io.</l>
+					<l xml:id="l10">Et altri vezzosetti</l>
+					<l xml:id="l11">Cantano; quivi, quivi;</l>
+					<l xml:id="l12">Quasi voglian dire in questi rivi,</l>
+					<l xml:id="l13">O intorno à queste linfe</l>
+					<l xml:id="l14">Ti vagheggian le Ninfe.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

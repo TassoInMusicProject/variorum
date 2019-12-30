@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Misera Armida, allor dovevi e degno</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1590B</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1590B">
+					<title>La Gierusalemme liberata di Torquato Tasso con le figure di Bernardo Castello; e le Annotationi di Scipio Gentili, e di Giulio Guastavini</title>
+					<url></url>
+					<publisher>Girolamo Bartoli</publisher>
+					<pubPlace>Genoa</pubPlace>
+					<date when="1590">1590</date>
+					<biblScope unit="page">184</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Misera Armida, all’hor dovevi, e degno</l>
+					<l xml:id="l2">Ben’ era, in quel crudele incrudelire,</l>
+					<l xml:id="l3">Che tu prigion l’havesti hor tardo sdegno</l>
+					<l xml:id="l4">T’infiamma, e movi neghittosa, l’ire.</l>
+					<l xml:id="l5">Pur, se beltà può nulla, ò scaltro ingegno,</l>
+					<l xml:id="l6">Non sia voto d’effetto il mio desire.</l>
+					<l xml:id="l7">O mia sprezzata forma, à te s’aspetta</l>
+					<l xml:id="l8">(Che tua l’ingiuria fù) l’alta vendetta.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

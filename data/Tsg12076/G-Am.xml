@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Passa per questo petto e feri scempi</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-Am</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="G-Am">
+					<msIdentifier>
+						<region>Milan</region>
+						<repository>Biblioteca Ambrosiana</repository>
+						<idno>Q 120 sup. and R 99 sup.</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 219r</locus>
+							<p>Canti IV, VIII, IX, XII, XV</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Passa pur questo petto e fieri scempi</l>
+					<l xml:id="l2">Col ferro tuo crudel fa del mio core.</l>
+					<l xml:id="l3">Ma forse usata à fatti atroci et empi</l>
+					<l xml:id="l4">Stimi pietà dar morte al mio dolore</l>
+					<l xml:id="l5">Dunque, i vivrò tra’ memorandi essempi</l>
+					<l xml:id="l6">Misero mostro d’infelice amore</l>
+					<l xml:id="l7">Misero mostro a cui sol pena è degna</l>
+					<l xml:id="l8">De l’immensa impieta la vita indegna.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

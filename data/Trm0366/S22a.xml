@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Odi, Filli, che tuona; odi che 'n gelo</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S22a</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S22a">
+					<title>Rime et prose del Signor Torquato Tasso. Parte terza. Novamente poste in luce</title>
+					<url>https://books.google.com/books?id=9yU8AAAAcAAJ&amp;printsec=frontcover&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false</url>
+					<publisher>Giulio Vasalini</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1584">1584</date>
+					<biblScope unit="page">30r</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Odi, Filli, che tuona, odi che in gielo 	Il vapor di là sù converso piove; 	Ma che curar debbiam, che faccia Giove? 	Godiam noi quì, s’egli è turbato in Cielo.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Godiamo amando, e un dolce ardente zelo</l>
+					<l xml:id="l2">Queste gioie notturne in noi rinove;</l>
+					<l xml:id="l3">Tema il volgo i suoi tuoni, e porti altrove</l>
+					<l xml:id="l4">Fortuna, ò caso il suo fulmineo telo.</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Ben folle, &amp; à se stesso empio è colui</l>
+					<l xml:id="l6">Che spera, e teme, e in aspettando il male</l>
+					<l xml:id="l7">Gli si fa incontro, e sua miseria affretta.</l>
+				</lg>
+				<lg>
+					<l xml:id="l8">Pera il mondo, e rovini à me non cale</l>
+					<l xml:id="l9">Se non di quel, che più piace, e diletta</l>
+					<l xml:id="l10">Che se terra sarò, terra ancor fui.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

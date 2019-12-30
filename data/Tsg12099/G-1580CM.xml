@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Ed amando morrò: felice giorno</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1580CM</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1580CM">
+					<title>Il Goffredo di m. Torquato Tasso. Nuouamente dato in luce</title>
+					<url>https://books.google.com/books?id=srteAAAAcAAJ&amp;dq=tasso+goffredo+cavalcalupo&amp;source=gbs_navlinks_s</url>
+					<publisher>Domenico Cavalcalupo [ad istanza di Marc'Antonio Malaspina]</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1580">1580</date>
+					<biblScope unit="page">53r</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Et amando morrò. felice giorno,</l>
+					<l xml:id="l2">Quando che sia; ma più felice molto;</l>
+					<l xml:id="l3">Se com’ hor vado errante à te d’intorno,</l>
+					<l xml:id="l4">Alhor sarò dentro al tuo grembo accolto;</l>
+					<l xml:id="l5">Faccian l’anime amiche in Ciel soggiorno:</l>
+					<l xml:id="l6">Sia l’un spirto, e l’altro in un sepolto:</l>
+					<l xml:id="l7">Ciò, che’l viver non hebbe, habbia la morte,</l>
+					<l xml:id="l8">O (se sperar ciò lice) altera sorte.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

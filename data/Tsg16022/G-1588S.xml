@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Deh perché sdegni me, com'egli è vago</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1588S</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1588S">
+					<title>Il Goffredo overo Gierusalemme Liberata, poema heroico del sig. Torquato Tasso. Tratto dal vero originale, con aggiunta di quanto mancava nell'altre edittioni, con l'allegoria dell'istesso auttore. Et con gli argomenti a ciascun canto del signor Horatio Ariosti. Aggiuntovi l'Annotationi d'incerto auttore, et alcune stanze in lode del poeta. Et anco i Cinque canti del signor Camillo Camilli</title>
+					<url>https://books.google.com/books?vid=IBCR:BC000163539</url>
+					<publisher>Altobello Salicato</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1588">1588</date>
+					<biblScope unit="page">415</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Deh poi che sdegni me, com’egli è vago</l>
+					<l xml:id="l2">Mirar tu almen potessi il proprio volto,</l>
+					<l xml:id="l3">Che’l guardo tuo, ch’altrove non è pago,</l>
+					<l xml:id="l4">Gioirebbe felice in se rivolto,</l>
+					<l xml:id="l5">Non può specchio ritrar sì dolce imago,</l>
+					<l xml:id="l6">Nè in picciol vetro è un Paradiso accolto:</l>
+					<l xml:id="l7">Specchio t’è degno il cielo, e ne le stelle</l>
+					<l xml:id="l8">Puoi riguardar le tue sembianze belle.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Sai che là corre il mondo, ove più versi</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-Bm</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="G-Bm">
+					<msIdentifier>
+						<region>London</region>
+						<repository>British Library</repository>
+						<idno>Additional 29312</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<p>Canti I-IV, IX, XV</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">[OMITTED]</l>
+					<l xml:id="l2">[OMITTED]</l>
+					<l xml:id="l3">[OMITTED]</l>
+					<l xml:id="l4">[OMITTED]</l>
+					<l xml:id="l5">[OMITTED]</l>
+					<l xml:id="l6">[OMITTED]</l>
+					<l xml:id="l7">[OMITTED]</l>
+					<l xml:id="l8">[OMITTED]</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Là tra 'l sangue e le morti egro giacente</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1625S</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1625S">
+					<title>La Gerusalemme liberata di Torquato Tasso con la vita di lui e con gli argomenti dell'opera del cav. Guido Casoni</title>
+					<url>http://www.internetculturale.it/jmms/iccuviewer/iccu.jsp?mode=all&amp;teca=Bncf&amp;id=oai:bncf.firenze.sbn.it:21:FI0098:Magliabechi:LO1E000625</url>
+					<publisher>Giacomo Sarzina</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1625">1625</date>
+					<biblScope unit="page">183</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Là tra’l sangue, e le morti egro giacente</l>
+					<l xml:id="l2">Mi pagherai le pene, empio Guerriero.</l>
+					<l xml:id="l3">Per nome Armida chiamerai sovente</l>
+					<l xml:id="l4">Ne gli ultimi singulti: udir ciò spero.</l>
+					<l xml:id="l5">Hor quì mancò lo spirto a la dolente:</l>
+					<l xml:id="l6">Nè quest’ultimo suono espresse intero:</l>
+					<l xml:id="l7">E cade tramortita, e si diffuse</l>
+					<l xml:id="l8">Di gelato sudore, e i lumi chiuse.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

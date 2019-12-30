@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Io verrò là dove sete; e voi</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1580CM</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1580CM">
+					<title>Il Goffredo di m. Torquato Tasso. Nuouamente dato in luce</title>
+					<url>https://books.google.com/books?id=srteAAAAcAAJ&amp;dq=tasso+goffredo+cavalcalupo&amp;source=gbs_navlinks_s</url>
+					<publisher>Domenico Cavalcalupo [ad istanza di Marc'Antonio Malaspina]</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1580">1580</date>
+					<biblScope unit="page">52r</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Verrò pur io là, dove sete, e voi</l>
+					<l xml:id="l2">Meco havrò (s’anco sete) amate spoglie;</l>
+					<l xml:id="l3">Ma s’egli avien, che i vaghi membri suoi</l>
+					<l xml:id="l4">Stati sian cibo di ferine voglie;</l>
+					<l xml:id="l5">Vò che la bocca stessa anco m’ ingoi,</l>
+					<l xml:id="l6">E’l ventre chiuda me, che lor raccoglie.</l>
+					<l xml:id="l7">Honorata per mè tomba, e felice</l>
+					<l xml:id="l8">Ovunque sia, s’esser con lor mi lice.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Io verrò là dove sete; e voi</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-Am</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="G-Am">
+					<msIdentifier>
+						<region>Milan</region>
+						<repository>Biblioteca Ambrosiana</repository>
+						<idno>Q 120 sup. and R 99 sup.</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 219v</locus>
+							<p>Canti IV, VIII, IX, XII, XV</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">I verro pur la dove sete e voi</l>
+					<l xml:id="l2">Meco havrò s’anco sete amate spoglie</l>
+					<l xml:id="l3">Ma s’egli avvien ch'i vaghi membri suoi</l>
+					<l xml:id="l4">Sati sien cibo di ferirne voglie</l>
+					<l xml:id="l5">Vuo che la bocca stessa anco m’ ingoi</l>
+					<l xml:id="l6">E’l ventre chiuda me, che lor raccoglie</l>
+					<l xml:id="l7">Honorata per me tomba e felice</l>
+					<l xml:id="l8">Ovunque sia s’esser con lor mi lice.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

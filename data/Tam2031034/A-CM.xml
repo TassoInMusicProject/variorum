@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Vorrò veder ciò che Tirsi avrà fatto</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">A-CM</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="A-CM">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Modena</settlement>
+						<repository>Biblioteca Estense Universitaria</repository>
+						<idno>gamma.K.7.8</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 31r-31v</locus>
+							<url>http://bibliotecaestense.beniculturali.it/info/img/mss/i-mo-beu-gamma.k.7.8.pdf</url>
+							<p>manuscript compiled in Sabbioneta by Maurizio Pandori da Mondaino</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>1578</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">SCENA TERZA AMINTA TIRSI</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">.A[MINTA]. Vorrò veder ciò che Tirsi havrà fatto</l>
+					<l xml:id="l2">E s’havrà fatto nulla</l>
+					<l xml:id="l3">Prima ch’io vada in nulla</l>
+					<l xml:id="l4">Uccider vo' me stesso inanzi à gli occhi</l>
+					<l xml:id="l5">De la crudel fanciulla:</l>
+					<l xml:id="l6">A lei cui tanto spiace</l>
+					<l xml:id="l7">La piaga del mio core</l>
+					<l xml:id="l8">Colpo de suoi begli occhi</l>
+					<l xml:id="l9">Altretanto piacer devria per certo</l>
+					<l xml:id="l10">La piaga del mio petto</l>
+					<l xml:id="l11">Colpo de la mia mano.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

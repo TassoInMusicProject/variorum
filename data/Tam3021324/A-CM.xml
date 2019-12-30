@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Dispietata pietate</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">A-CM</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="A-CM">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Modena</settlement>
+						<repository>Biblioteca Estense Universitaria</repository>
+						<idno>gamma.K.7.8</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 40v-41r</locus>
+							<url>http://bibliotecaestense.beniculturali.it/info/img/mss/i-mo-beu-gamma.k.7.8.pdf</url>
+							<p>manuscript compiled in Sabbioneta by Maurizio Pandori da Mondaino</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>1578</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">SCENA SECONDA AMINTA DAFNE NIRINA</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">.A[MINTA].	Dispietata pietade</l>
+					<l xml:id="l2">Fu la tua veramente ò Dafne all’hora</l>
+					<l xml:id="l3">Che ritenesti il dardo</l>
+					<l xml:id="l4">Però che ’l mio morire</l>
+					<l xml:id="l5">Più amaro sarà quanto più tardo</l>
+					<l xml:id="l6">Et hor perche m’avolgi</l>
+					<l xml:id="l7">Per si diverse strade e per si vari</l>
+					<l xml:id="l8">Ragionamenti in vano? di che temi?</l>
+					<l xml:id="l9">Ch’io non m’uccida? temi del mio bene</l>
+					<l xml:id="l10">[OMITTED]</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

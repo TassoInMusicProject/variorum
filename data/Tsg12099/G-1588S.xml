@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Ed amando morrò: felice giorno</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1588S</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1588S">
+					<title>Il Goffredo overo Gierusalemme Liberata, poema heroico del sig. Torquato Tasso. Tratto dal vero originale, con aggiunta di quanto mancava nell'altre edittioni, con l'allegoria dell'istesso auttore. Et con gli argomenti a ciascun canto del signor Horatio Ariosti. Aggiuntovi l'Annotationi d'incerto auttore, et alcune stanze in lode del poeta. Et anco i Cinque canti del signor Camillo Camilli</title>
+					<url>https://books.google.com/books?vid=IBCR:BC000163539</url>
+					<publisher>Altobello Salicato</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1588">1588</date>
+					<biblScope unit="page">339</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Et amando morrò: felice giorno,</l>
+					<l xml:id="l2">Quando che sia: ma più felice molto,</l>
+					<l xml:id="l3">Se come errand hor vado a te dintorno,</l>
+					<l xml:id="l4">Allhor sarò dentro al tuo grembo accolto,</l>
+					<l xml:id="l5">Faccian l’Anime amiche in ciel soggiorno,</l>
+					<l xml:id="l6">Sia l’un cenere, e l’altro in un sepolto,</l>
+					<l xml:id="l7">Ciò, che’l viver non hebbe, habbia la morte</l>
+					<l xml:id="l8">O (se sperar sì lice) altera sorte.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

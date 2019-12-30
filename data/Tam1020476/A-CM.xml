@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>E fatto, non so come, astuto e scaltro</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">A-CM</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="A-CM">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Modena</settlement>
+						<repository>Biblioteca Estense Universitaria</repository>
+						<idno>gamma.K.7.8</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 16r</locus>
+							<url>http://bibliotecaestense.beniculturali.it/info/img/mss/i-mo-beu-gamma.k.7.8.pdf</url>
+							<p>manuscript compiled in Sabbioneta by Maurizio Pandori da Mondaino</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>1578</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">E fatto (non so come) astuto, e scaltro</l>
+					<l xml:id="l2">Più de l’usato guarda quanto Amore</l>
+					<l xml:id="l3">Aguzza l’intelletto mi sovenne</l>
+					<l xml:id="l4">D’un inganno gentil,e co’l qual io</l>
+					<l xml:id="l5">Recar potessi à fine il mio talento</l>
+					<l xml:id="l6">Che fingendo che un Ape havesse morso</l>
+					<l xml:id="l7">Il mio labro di sotto incominciai</l>
+					<l xml:id="l8">A lamentarmi di cotal maniera</l>
+					<l xml:id="l9">Che quella medicina, che la lingua</l>
+					<l xml:id="l10">Non richiedeva il volto richiedeva</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

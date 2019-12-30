@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Vola fra gli altri un che le piume ha sparte</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1588S</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1588S">
+					<title>Il Goffredo overo Gierusalemme Liberata, poema heroico del sig. Torquato Tasso. Tratto dal vero originale, con aggiunta di quanto mancava nell'altre edittioni, con l'allegoria dell'istesso auttore. Et con gli argomenti a ciascun canto del signor Horatio Ariosti. Aggiuntovi l'Annotationi d'incerto auttore, et alcune stanze in lode del poeta. Et anco i Cinque canti del signor Camillo Camilli</title>
+					<url>https://books.google.com/books?vid=IBCR:BC000163539</url>
+					<publisher>Altobello Salicato</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1588">1588</date>
+					<biblScope unit="page">413</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Vola fra gli altri uni, che le piume hà sparte</l>
+					<l xml:id="l2">Di color vari, &amp; ha purpureo il rostro,</l>
+					<l xml:id="l3">E lingua snoda in guisa larga, e parte</l>
+					<l xml:id="l4">La voce sì, ch’assembra il sermon nostro.</l>
+					<l xml:id="l5">Questi ivi allhor continovò con arte</l>
+					<l xml:id="l6">Tanto il parlar, chè fu mirabil mostro.</l>
+					<l xml:id="l7">Tacquero gli altri ad ascoltarlo intenti,</l>
+					<l xml:id="l8">Fermaro i susurri in aria i venti.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

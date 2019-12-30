@@ -18,7 +18,7 @@
 					<publisher>Giulio Vasalini</publisher>
 					<pubPlace>Venice</pubPlace>
 					<date when="1584">1584</date>
-					<biblScope unit="page">36</biblScope>
+					<biblScope unit="page">36r</biblScope>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -38,12 +38,12 @@
 				<lg>
 					<l xml:id="l5">Son l'armi dolci, onde piagato il core</l>
 					<l xml:id="l6">In guisa tal, che di morir non pave;</l>
-					<l xml:id="l7">Ma fatto vago di languir [illegible] have</l>
+					<l xml:id="l7">Ma fatto vago di languir sol have</l>
 					<l xml:id="l8">Di risonar quasi di mal timore.</l>
 				</lg>
 				<lg>
 					<l xml:id="l9">Onde per languir sempre hor questa piaga</l>
-					<l xml:id="l10">Et hor quell'altra col pensier rinova</l>
+					<l xml:id="l10">Et hor quell'altra col pensier inova</l>
 					<l xml:id="l11">Vera Vittoria, e vera vincitrice.</l>
 				</lg>
 				<lg>

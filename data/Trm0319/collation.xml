@@ -48,6 +48,30 @@
 				<app>
 					<rdgGrp n="1">
 						<rdg wit="#E2">
+							<ptr target="E2.xml#l1v2"></ptr>
+						</rdg>
+						<rdg wit="#S174">
+							<ptr target="S174.xml#l1v2"></ptr>
+						</rdg>
+					</rdgGrp>
+					<rdgGrp n="2">
+						<rdg wit="#S71">
+							<ptr target="S71.xml#l1v2"></ptr>
+						</rdg>
+						<rdg wit="#Trm0319a-Canto">
+							<ptr target="Trm0319a-Canto.xml#l1v2"></ptr>
+						</rdg>
+						<rdg wit="#Trm0319a-Alto">
+							<ptr target="Trm0319a-Alto.xml#l1v2"></ptr>
+						</rdg>
+						<rdg wit="#Trm0319a-Basso">
+							<ptr target="Trm0319a-Basso.xml#l1v2"></ptr>
+						</rdg>
+					</rdgGrp>
+				</app>
+				<app>
+					<rdgGrp n="1">
+						<rdg wit="#E2">
 							<ptr target="E2.xml#l2v1"></ptr>
 						</rdg>
 						<rdg wit="#S174">

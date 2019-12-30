@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Amico hai vinto: io ti perdon...perdona</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1588S</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1588S">
+					<title>Il Goffredo overo Gierusalemme Liberata, poema heroico del sig. Torquato Tasso. Tratto dal vero originale, con aggiunta di quanto mancava nell'altre edittioni, con l'allegoria dell'istesso auttore. Et con gli argomenti a ciascun canto del signor Horatio Ariosti. Aggiuntovi l'Annotationi d'incerto auttore, et alcune stanze in lode del poeta. Et anco i Cinque canti del signor Camillo Camilli</title>
+					<url>https://books.google.com/books?vid=IBCR:BC000163539</url>
+					<publisher>Altobello Salicato</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1588">1588</date>
+					<biblScope unit="page">330</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Amico hai vinto; io ti perdon; perdona</l>
+					<l xml:id="l2">Tu ancora al corpo no, che nulla pave,</l>
+					<l xml:id="l3">A l’Alma sì, deh per lei prega e dona,</l>
+					<l xml:id="l4">Battemo a me, ch’ogni mia colpa lave.</l>
+					<l xml:id="l5">In queste voci languide risuona</l>
+					<l xml:id="l6">Un non sò che di flebile, e soave,</l>
+					<l xml:id="l7">Ch’al cor gli scende, &amp; ogni sdegno ammorza,</l>
+					<l xml:id="l8">E gl'occhi a lagrimar gli invoglia, e sforza.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

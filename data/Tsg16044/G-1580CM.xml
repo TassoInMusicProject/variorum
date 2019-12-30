@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Poi cominciò: "Non aspettar ch'io preghi</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1580CM</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1580CM">
+					<title>Il Goffredo di m. Torquato Tasso. Nuouamente dato in luce</title>
+					<url>https://books.google.com/books?id=srteAAAAcAAJ&amp;dq=tasso+goffredo+cavalcalupo&amp;source=gbs_navlinks_s</url>
+					<publisher>Domenico Cavalcalupo [ad istanza di Marc'Antonio Malaspina]</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1580">1580</date>
+					<biblScope unit="page">61r</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Poi cominciò, non aspestar, ch’io prieghi,</l>
+					<l xml:id="l2">Crudel te, come amante, amante deve:</l>
+					<l xml:id="l3">Tai fumo un tempo;:hor se tal’ esser neghi,</l>
+					<l xml:id="l4">E di ciò la memoria anco t’è greve;</l>
+					<l xml:id="l5">Come nimico almeno ascolta i preghi</l>
+					<l xml:id="l6">D’un nimico tal'hor, l’altro riceve.</l>
+					<l xml:id="l7">Ben quell, ch’io chieggio, è tal, che darlo puoi;</l>
+					<l xml:id="l8">E integri conservar gli sdegni tuoi.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

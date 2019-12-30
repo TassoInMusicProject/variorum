@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Ho visto al pianto mio</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">A-CM</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="A-CM">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Modena</settlement>
+						<repository>Biblioteca Estense Universitaria</repository>
+						<idno>gamma.K.7.8</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 12v-13r</locus>
+							<url>http://bibliotecaestense.beniculturali.it/info/img/mss/i-mo-beu-gamma.k.7.8.pdf</url>
+							<p>manuscript compiled in Sabbioneta by Maurizio Pandori da Mondaino</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>1578</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">SCENA SECONDA. AMINTA TIRSI.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">.A[MINTA]. Ho visto al pianto mio</l>
+					<l xml:id="l2">Risponder per pietate i sassi e l’onde</l>
+					<l xml:id="l3">E sospirar le fronde</l>
+					<l xml:id="l4">Ho visto al pianto mio:</l>
+					<l xml:id="l5">Ma non ho visto mai,</l>
+					<l xml:id="l6">Ne spero di vedere</l>
+					<l xml:id="l7">Compassion ne la crudele e bella</l>
+					<l xml:id="l8">Che non so s'io mi chiami ò donna ò fera</l>
+					<l xml:id="l9">Ma niega d’esser donna</l>
+					<l xml:id="l10">Poiche nega pietate</l>
+					<l xml:id="l11">À chi non la negaro</l>
+					<l xml:id="l12">Le cose inanimate</l>
+					<l xml:id="l13">.T[IRSI]. Pasce l’Agna l’herbette il Lupo l’Agno</l>
+					<l xml:id="l14">Ma'l crudo Amor di lagrime si pasce</l>
+					<l xml:id="l15">Ne se ne mostra mai sattollo .A[MINTA]. A lasso</l>
+					<l xml:id="l16">Ch'Amor satollo e del mio pianto homai</l>
+					<l xml:id="l17">E solo ha sete del mio sangue e tosto</l>
+					<l xml:id="l18">Voglio ch’egl’e quest’empia il sangue mio</l>
+					<l xml:id="l19">Bevan con gli occhi.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

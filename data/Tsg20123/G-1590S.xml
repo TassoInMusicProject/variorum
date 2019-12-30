@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Piacquele assai che 'n quelle valli ombrose</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1590S</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1590S">
+					<title>Il Goffredo, overo Gierusalemme liberata, poema heroico del sig. Torquato Tasso; tratto dal vero originale, con aggiunta di quanto mancava nell'altre edittioni, con l'allegoria dell'istesso auttore; et con gli argomenti a ciascun canto, del signor Horatio Ariosti. Aggiuntevi l'annotationi d'incerto auttore, et alcune stanze in lode del poeta. Et i Cinque canti del sig. Camillo Camilli; con i loro argomenti, del s. Francesco Melchiori opitergino</title>
+					<url></url>
+					<publisher>Altobello Salicato</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1590">1590</date>
+					<biblScope unit="page">241</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Piacquele assai, che ’n quelle valli ombrose</l>
+					<l xml:id="l2">L’orme sue erranti il caso abbia condutte.</l>
+					<l xml:id="l3">Quì scese dal destriero, e quì depose</l>
+					<l xml:id="l4">E l’arco, e la faretra, e l’armi tutte.</l>
+					<l xml:id="l5">Arme infelici, (disse) e vergognose,</l>
+					<l xml:id="l6">Ch’usciste fuor de la battaglia asciutte,</l>
+					<l xml:id="l7">Quì vi depongo: e quì sepolte state,</l>
+					<l xml:id="l8">Poi che l’ingiurie mie mal vendicate.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

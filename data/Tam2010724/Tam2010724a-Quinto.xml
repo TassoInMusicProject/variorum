@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Picciola è l'ape e fa col picciol morso</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tam2010724a</idno>
+			<idno type="label">Tam2010724a (Quinto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tam2010724a-Quinto">
+					<title>Novellette a sei voci</title>
+					<url>https://orka.bibliothek.uni-kassel.de/viewer/search/-/SUPERDEFAULT%3A%28%224%C2%B0+mus.+78%22%29+OR+SUPERFULLTEXT%3A%28%224%C2%B0+mus.+78%22%29+OR+NORMDATATERMS%3A%28%224%C2%B0+mus.+78%22%29+OR+UGCTERMS%3A%28%224%C2%B0+mus.+78%22%29+OR+OVERVIEWPAGE_DESCRIPTION%3A%28%224%C2%B0+mus.+78%22%29+OR+OVERVIEWPAGE_PUBLICATIONTEXT%3A%28%224%C2%B0+mus.+78%22%29/1/-/-/</url>
+					<author role="composer">Balsamino, Simone</author>
+					<publisher>Amadino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1594">1594</date>
+					<idno type="RISM">B 785</idno>
+					<biblScope unit="page"></biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">[EXTRA]</l>
+					<l xml:id="l2">[EXTRA]</l>
+					<l xml:id="l3">[EXTRA]</l>
+					<l xml:id="l4">[EXTRA]</l>
+					<l xml:id="l5">[EXTRA]</l>
+					<l xml:id="l6">[EXTRA]</l>
+					<l xml:id="l7">[EXTRA]</l>
+					<l xml:id="l8">[EXTRA]</l>
+					<l xml:id="l9">[EXTRA]</l>
+					<l xml:id="l10">[EXTRA]</l>
+					<l xml:id="l11">[EXTRA]</l>
+					<l xml:id="l12">[EXTRA]</l>
+					<l xml:id="l13">[EXTRA]</l>
+					<l xml:id="l14">[EXTRA]</l>
+					<l xml:id="l15">[EXTRA]</l>
+					<l xml:id="l16">[EXTRA]</l>
+					<l xml:id="l17">[EXTRA]</l>
+					<l xml:id="l18">[EXTRA]</l>
+					<l xml:id="l19">[EXTRA]</l>
+					<l xml:id="l20">[EXTRA]</l>
+					<l xml:id="l21">[EXTRA]</l>
+					<l xml:id="l22">[EXTRA]</l>
+					<l xml:id="l23">[EXTRA]</l>
+					<l xml:id="l24">[EXTRA]</l>
+					<l xml:id="l25">[EXTRA]</l>
+					<l xml:id="l26">[EXTRA]</l>
+					<l xml:id="l27">[EXTRA]</l>
+					<l xml:id="l28">[EXTRA]</l>
+					<l xml:id="l29">[EXTRA]</l>
+					<l xml:id="l30">[EXTRA]</l>
+					<l xml:id="l31">[EXTRA]</l>
+					<l xml:id="l32">[EXTRA]</l>
+					<l xml:id="l33">[EXTRA]</l>
+					<l xml:id="l34">[TACET]</l>
+					<l xml:id="l35">[TACET]</l>
+					<l xml:id="l36">Ma qual cosa è più picciola d’Amore</l>
+					<l xml:id="l37">Se’ in ogni breve spatio entra e s’asconde</l>
+					<l xml:id="l38">In ogni breve spatio [TACET]</l>
+					<l xml:id="l39">[TACET] hor tra minuti rivi</l>
+					<l xml:id="l40">d’un biondo crine [TACET]</l>
+					<l xml:id="l41">[TACET]</l>
+					<l xml:id="l42">E pur fa tanto grandi e si mortali</l>
+					<l xml:id="l43">E così immedicabile le piaghe</l>
+					<l xml:id="l44">Ohime che tutt’è piag’e tutto sangue</l>
+					<l xml:id="l45">Son le viscere mie E mille spiedi</l>
+					<l xml:id="l46">ha ne gli occhi di Silvia [TACET]</l>
+					<l xml:id="l47">Crudel Amore</l>
+					<l xml:id="l48">[TACET] O com’a te confassi</l>
+					<l xml:id="l49">Tal nome e quanto vide chi tel’ pose</l>
+					<l xml:id="l50">Celan le selv’Angui Leon’&amp; Orsi</l>
+					<l xml:id="l51">dent’il lor verde [TACET]</l>
+					<l xml:id="l52">[TACET]</l>
+					<l xml:id="l53">Fere peggior ch’angui Leon’&amp; Orsi</l>
+					<l xml:id="l54">[TACET] questi placarsi</l>
+					<l xml:id="l55">Non possono per prego ne per dono</l>
+					<l xml:id="l56">[TACET]</l>
+					<l xml:id="l57">Ohime quando ti porgo i vaghi pomi</l>
+					<l xml:id="l58">Tu li rifiuti disdegnosa Forse</l>
+					<l xml:id="l59">perche pomi più vaghi hai nel bel seno</l>
+					<l xml:id="l60">[TACET]</l>
+					<l xml:id="l61">Ma se mia povertà non puo donarti</l>
+					<l xml:id="l62">[TACET] Hor pche iniqua</l>
+					<l xml:id="l63">schern’e abhor’il dono</l>
+					<l xml:id="l64">[TACET]</l>
+					<l xml:id="l65">Non son io brutto nò ne tu mi sprezzi</l>
+					<l xml:id="l66">perche si fatt’io sia Ma solamente</l>
+					<l xml:id="l67">perche povero sono Hai che le ville</l>
+					<l xml:id="l68">Seguon l’essempio de le gran Cittadi</l>
+					<l xml:id="l69">e veramente il secol d’oro e questo</l>
+					<l xml:id="l70">poi che sol vince l’oro e regna l’oro</l>
+					<l xml:id="l71">[TACET]</l>
+					<l xml:id="l72">[TACET]</l>
+					<l xml:id="l73">[TACET]</l>
+					<l xml:id="l74">[OMITTED]</l>
+					<l xml:id="l75">[OMITTED]</l>
+					<l xml:id="l76">[OMITTED]</l>
+					<l xml:id="l77">[OMITTED]</l>
+					<l xml:id="l78">[OMITTED]</l>
+					<l xml:id="l79">[OMITTED]</l>
+					<l xml:id="l80">[OMITTED] Tu prima svergognasti</l>
+					<l xml:id="l81">La nobilità d’Amore [TACET]</l>
+					<l xml:id="l82">Amor venale</l>
+					<l xml:id="l83">Amor servo de l’or’e’l magior mostro</l>
+					<l xml:id="l84">[TACET]</l>
+					<l xml:id="l85">Che produca la terr’e’l mar fra l’onde</l>
+					<l xml:id="l86">Ma perche in van mi lagno Usa ciascun</l>
+					<l xml:id="l87">quell’armi Che gli ha date la natura</l>
+					<l xml:id="l88">per sua salute [TACET]</l>
+					<l xml:id="l89">il Leon gli Artigli [TACET]</l>
+					<l xml:id="l90">E son potenz’&amp; armi</l>
+					<l xml:id="l91">De la donna bellezza e leggiadria</l>
+					<l xml:id="l92">Io perche non per mia salute adopro</l>
+					<l xml:id="l93">La violenza se mi fe natura</l>
+					<l xml:id="l94">Atto a far violenzza &amp; a rapire</l>
+					<l xml:id="l95">[TACET]</l>
+					<l xml:id="l96">Pianga sospiri pur usi ogni sforzo</l>
+					<l xml:id="l97">Di pietà [TACET]</l>
+					<l xml:id="l98">Indi non partirà ch’io pria non tinga</l>
+					<l xml:id="l99">L’arme mie per vendetta nel suo sangue.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

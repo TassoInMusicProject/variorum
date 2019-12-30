@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Amico hai vinto: io ti perdon...perdona</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-Am</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="G-Am">
+					<msIdentifier>
+						<region>Milan</region>
+						<repository>Biblioteca Ambrosiana</repository>
+						<idno>Q 120 sup. and R 99 sup.</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 217r</locus>
+							<p>Canti IV, VIII, IX, XII, XV</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Amico hai vinto io ti perdon, perdona</l>
+					<l xml:id="l2">Tu non già al corpo, che piu nulla hor pave</l>
+					<l xml:id="l3">A l’alma sì. Deh per lei prega e dona</l>
+					<l xml:id="l4">Battesmo a me, ch’ogni sua macchia lave.</l>
+					<l xml:id="l5">In queste voci languide risuona</l>
+					<l xml:id="l6">Un non so che di flebile, e suave;</l>
+					<l xml:id="l7">Ch’al cor gli serpe, et ogni sdegno ammorza</l>
+					<l xml:id="l8">E gli occhi a lagrimar gli invoglia e sforza.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

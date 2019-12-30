@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>E 'l bel volto e 'l bel seno a la meschina</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1590B</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1590B">
+					<title>La Gierusalemme liberata di Torquato Tasso con le figure di Bernardo Castello; e le Annotationi di Scipio Gentili, e di Giulio Guastavini</title>
+					<url></url>
+					<publisher>Girolamo Bartoli</publisher>
+					<pubPlace>Genoa</pubPlace>
+					<date when="1590">1590</date>
+					<biblScope unit="page">242</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">E ’l bel volto, e ’l bel seno a la meschina</l>
+					<l xml:id="l2">Bagnò d’alcuna lagrima pietosa,</l>
+					<l xml:id="l3">Qual’ à pioggia d’argento, e matutina</l>
+					<l xml:id="l4">Si rabbellisce: scolorita rosa;</l>
+					<l xml:id="l5">Tal’ ella rivenendo alzò la china</l>
+					<l xml:id="l6">Faccia, del non suo piantoh or lagrimosa.</l>
+					<l xml:id="l7">Tre volte alzò le luci: e tre chinolle</l>
+					<l xml:id="l8">Dal caro oggetto, e rimirar no’l volle.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Io vivo? Io spiro ancora? E gli odiosi</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1590B</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1590B">
+					<title>La Gierusalemme liberata di Torquato Tasso con le figure di Bernardo Castello; e le Annotationi di Scipio Gentili, e di Giulio Guastavini</title>
+					<url></url>
+					<publisher>Girolamo Bartoli</publisher>
+					<pubPlace>Genoa</pubPlace>
+					<date when="1590">1590</date>
+					<biblScope unit="page">140</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">D’un bel pallore hà il bianco volto asperse,</l>
+					<l xml:id="l2">Come à gigli saran miste viole:</l>
+					<l xml:id="l3">E gli occhi al Cielo affisa, e in lei converso</l>
+					<l xml:id="l4">Sembra per la pietate il Cielo, e’l Sole:</l>
+					<l xml:id="l5">E la man nuda, e fredda alzando verso</l>
+					<l xml:id="l6">Il cavaliero in vece di parole,</l>
+					<l xml:id="l7">Gli dà pegno di pace. in questa forma</l>
+					<l xml:id="l8">Passa la bella donna, e par che dorma.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

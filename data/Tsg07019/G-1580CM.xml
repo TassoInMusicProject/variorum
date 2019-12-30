@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Sovente, allor che su gli estivi ardori</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1580CM</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1580CM">
+					<title>Il Goffredo di m. Torquato Tasso. Nuouamente dato in luce</title>
+					<url>https://books.google.com/books?id=srteAAAAcAAJ&amp;dq=tasso+goffredo+cavalcalupo&amp;source=gbs_navlinks_s</url>
+					<publisher>Domenico Cavalcalupo [ad istanza di Marc'Antonio Malaspina]</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1580">1580</date>
+					<biblScope unit="page">29r</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Sovente allhor ch'in su gli estivi ardori</l>
+					<l xml:id="l2">Giacean le pecorelle à l’ombra assise,</l>
+					<l xml:id="l3">Ne la scorza de’ faggi, e de gli allori</l>
+					<l xml:id="l4">Segnò l’amato nome in mille guise;</l>
+					<l xml:id="l5">E de’ suoi strani, &amp; infelici amori</l>
+					<l xml:id="l6">Gli aspri successi in mille piante incise;</l>
+					<l xml:id="l7">E rilegendo poi le proprie note</l>
+					<l xml:id="l8">Spargea di belle lagrime le gote.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

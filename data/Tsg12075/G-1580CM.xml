@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Io vivo? Io spiro ancora? E gli odiosi</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1580CM</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1580CM">
+					<title>Il Goffredo di m. Torquato Tasso. Nuouamente dato in luce</title>
+					<url>https://books.google.com/books?id=srteAAAAcAAJ&amp;dq=tasso+goffredo+cavalcalupo&amp;source=gbs_navlinks_s</url>
+					<publisher>Domenico Cavalcalupo [ad istanza di Marc'Antonio Malaspina]</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1580">1580</date>
+					<biblScope unit="page">52r</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Io vivo? io spiro ancora? e gli odiosi</l>
+					<l xml:id="l2">Rai miro ancor, di questo infausto dìe:</l>
+					<l xml:id="l3">Dì testimon, de’ miei misfatti ascosi,</l>
+					<l xml:id="l4">Che rimprovera à me le colpe mie?</l>
+					<l xml:id="l5">Ahi man timida e lenta, hor che non osi</l>
+					<l xml:id="l6">Tu, che sai tutte di ferir le vie?</l>
+					<l xml:id="l7">Tu ministra di morte empia, &amp; infame</l>
+					<l xml:id="l8">Di questa vita rea troncar lo stame?</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

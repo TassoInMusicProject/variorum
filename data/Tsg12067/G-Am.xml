@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Poco quindi lontan nel sen del monte</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-Am</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="G-Am">
+					<msIdentifier>
+						<region>Milan</region>
+						<repository>Biblioteca Ambrosiana</repository>
+						<idno>Q 120 sup. and R 99 sup.</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 217v</locus>
+							<p>Canti IV, VIII, IX, XII, XV</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Non lontano di la dal sen del monte</l>
+					<l xml:id="l2">Scaturìa mormorando un picciol rio.</l>
+					<l xml:id="l3">Quivi egli accorse, e l’elmo empie nel fonte</l>
+					<l xml:id="l4">E tornò mesto al grande officio, e pio</l>
+					<l xml:id="l5">La man tremar sent, mentre la fronte</l>
+					<l xml:id="l6">Non conosciuta ancor sciolse, e scoprìo</l>
+					<l xml:id="l7">La vide, e la cognobbe, e restò senza</l>
+					<l xml:id="l8">E voce, e moto. Ahi vista, Ahi conoscenza.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

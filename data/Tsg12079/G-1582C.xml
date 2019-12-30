@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Io verrò là dove sete; e voi</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1582C</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1582C">
+					<title>La Gierusalemme liberata del sig. Torquato Tasso. Con l'allegoria dell'istesso autore, et con gli argomenti del sig. Oratio Ariosti. Di nuovo ristampata, e da infiniti errori, che si veggono nell'altre impressioni, corretta per Tomaso Costo. Aggiuntovi alcune annotationi di m. Giulio Cesare Capaccio</title>
+					<url>https://books.google.it/books?vid=IBNR:CR000221585&amp;redir_esc=y</url>
+					<publisher>Giovanni Battista Cappelli</publisher>
+					<pubPlace>Naples</pubPlace>
+					<date when="1582">1582</date>
+					<biblScope unit="page">192</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Io pur verrò là, dove siete, e voi</l>
+					<l xml:id="l2">Meco havrò (s’anco siete) amate spoglie:</l>
+					<l xml:id="l3">Ma s’egli avien, che i vaghi membri suoi</l>
+					<l xml:id="l4">Stati sien cibo di ferine voglie,</l>
+					<l xml:id="l5">Vò, che la bocca stessa anco me ingoi,</l>
+					<l xml:id="l6">E ’l ventre chiuda me, che lor raccoglie:</l>
+					<l xml:id="l7">Honorata per me tomba, e felice</l>
+					<l xml:id="l8">Ovunque sia, s’esser con lor mi lice.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

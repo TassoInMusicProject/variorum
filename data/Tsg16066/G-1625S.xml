@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Questa bellezza mia sarà mercede</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1625S</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1625S">
+					<title>La Gerusalemme liberata di Torquato Tasso con la vita di lui e con gli argomenti dell'opera del cav. Guido Casoni</title>
+					<url>http://www.internetculturale.it/jmms/iccuviewer/iccu.jsp?mode=all&amp;teca=Bncf&amp;id=oai:bncf.firenze.sbn.it:21:FI0098:Magliabechi:LO1E000625</url>
+					<publisher>Giacomo Sarzina</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1625">1625</date>
+					<biblScope unit="page">184</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Questa bellezza mia sarà mercede</l>
+					<l xml:id="l2">Del troncator de l’essecrabil testa.</l>
+					<l xml:id="l3">O miei famosi amanti, ecco si chiede</l>
+					<l xml:id="l4">Difficil sì da voi, ma impresa honesta.</l>
+					<l xml:id="l5">Io, che sarò d’ampie ricchezze herede,</l>
+					<l xml:id="l6">D’una vendetta in guiderdon son presta.</l>
+					<l xml:id="l7">S’esser compra a tal prezzo indegna io sono</l>
+					<l xml:id="l8">Beltà, sei di natura inutil dono.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

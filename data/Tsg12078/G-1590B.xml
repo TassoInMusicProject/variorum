@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Ma dove, oh lasso, me! dove restaro</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1590B</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1590B">
+					<title>La Gierusalemme liberata di Torquato Tasso con le figure di Bernardo Castello; e le Annotationi di Scipio Gentili, e di Giulio Guastavini</title>
+					<url></url>
+					<publisher>Girolamo Bartoli</publisher>
+					<pubPlace>Genoa</pubPlace>
+					<date when="1590">1590</date>
+					<biblScope unit="page">141	</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Ma dove (ò lasso me) dove restaro</l>
+					<l xml:id="l2">Le reliquie del corpo bello, e casto?</l>
+					<l xml:id="l3">Ciò, ch’in lui sano i miei furor lasciaro,</l>
+					<l xml:id="l4">Dal furor de le fere, è forse guasto?</l>
+					<l xml:id="l5">Ahi troppo nobil preda: ahi dolce, e caro</l>
+					<l xml:id="l6">Troppo, e pur troppo pretioso pasto.</l>
+					<l xml:id="l7">Ahi sfortunato, in cui l’ombre, e le selve</l>
+					<l xml:id="l8">Irritaron me prima, e poi le belve.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Dunque ove tu, signor di mille rivi</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-Bm</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="G-Bm">
+					<msIdentifier>
+						<region>London</region>
+						<repository>British Library</repository>
+						<idno>Additional 29312</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 83r</locus>
+							<p>Canti I-IV, IX, XV</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Dunque ove tù signor di mille rivi</l>
+					<l xml:id="l2">Sanguinosi, il terren lasciasti asperso</l>
+					<l xml:id="l3">D’amaro pianto, almen due fonti vivi</l>
+					<l xml:id="l4">In si acerba memoria hoggi io non verso?</l>
+					<l xml:id="l5">Agghiacciato mio cor, che non derivi</l>
+					<l xml:id="l6">Per gli occhi, e stilli in lagrime converso?</l>
+					<l xml:id="l7">Duro mio cor che non ti spezzi, e frangi?</l>
+					<l xml:id="l8">Pianger ben merti ogn'hor, s’hora non piangi.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Credi tu dunque, sciocco. che mai Dafne</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">A-CM</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="A-CM">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Modena</settlement>
+						<repository>Biblioteca Estense Universitaria</repository>
+						<idno>gamma.K.7.8</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 33v</locus>
+							<url>http://bibliotecaestense.beniculturali.it/info/img/mss/i-mo-beu-gamma.k.7.8.pdf</url>
+							<p>manuscript compiled in Sabbioneta by Maurizio Pandori da Mondaino</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>1578</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">[TIRSI] Credi tu dunque sciocco che mai Dafne</l>
+					<l xml:id="l2">Consigliasse l’andar, se non vedesse</l>
+					<l xml:id="l3">In parte il cor di Silvia? e forse ch’ella</l>
+					<l xml:id="l4">Il sà ne vuol però ch’altri risappia</l>
+					<l xml:id="l5">Ch’ella ciò sappia? Hor se’l consenso espresso</l>
+					<l xml:id="l6">Cerchi di lei non vedi che tu cerchi</l>
+					<l xml:id="l7">Quello che più le spiace? hor dov’è dunque</l>
+					<l xml:id="l8">Questo tuo desiderio di piacerle?</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

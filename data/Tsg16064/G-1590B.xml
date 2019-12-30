@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Che fa più meco il pianto? Altr'arme, altr'arte</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1590B</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1590B">
+					<title>La Gierusalemme liberata di Torquato Tasso con le figure di Bernardo Castello; e le Annotationi di Scipio Gentili, e di Giulio Guastavini</title>
+					<url></url>
+					<publisher>Girolamo Bartoli</publisher>
+					<pubPlace>Genoa</pubPlace>
+					<date when="1590">1590</date>
+					<biblScope unit="page">183</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Che fà più meco il pianto? altr’arme, altr’arte</l>
+					<l xml:id="l2">Io non hò dunque? ahi seguirò pur l’empio:</l>
+					<l xml:id="l3">Nè l’abisso per lui riposta parte,</l>
+					<l xml:id="l4">Nè il ciel sarà per lui securo tempio.</l>
+					<l xml:id="l5">Già il giungo, e’l prendo, e’l cor gli svello, e sparte</l>
+					<l xml:id="l6">Le membra appendo, à i dispietati essempio.</l>
+					<l xml:id="l7">Mastro è di ferità: vuò superarlo</l>
+					<l xml:id="l8">Ne l’arti sue, ma dove son? che parlo?</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

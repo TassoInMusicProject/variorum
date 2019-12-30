@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Vuol nell'armi provarla: un uom la stima</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1582C</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1582C">
+					<title>La Gierusalemme liberata del sig. Torquato Tasso. Con l'allegoria dell'istesso autore, et con gli argomenti del sig. Oratio Ariosti. Di nuovo ristampata, e da infiniti errori, che si veggono nell'altre impressioni, corretta per Tomaso Costo. Aggiuntovi alcune annotationi di m. Giulio Cesare Capaccio</title>
+					<url>https://books.google.it/books?vid=IBNR:CR000221585&amp;redir_esc=y</url>
+					<publisher>Giovanni Battista Cappelli</publisher>
+					<pubPlace>Naples</pubPlace>
+					<date when="1582">1582</date>
+					<biblScope unit="page">187-189</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Vuol ne l’armi provarla: un’ huom la stima,</l>
+					<l xml:id="l2">Degno, à cui sua virtù si paragone.</l>
+					<l xml:id="l3">Và girando colei l’alpestre cima</l>
+					<l xml:id="l4">Verso altra porta, ove d’entrar dispone.</l>
+					<l xml:id="l5">Segue egli, impetuoso, onde assai prima</l>
+					<l xml:id="l6">Che giunga, in guisa avien, che d’armi suone;</l>
+					<l xml:id="l7">Ch’ella si volge, e grida; o tu, che porte,</l>
+					<l xml:id="l8">Che corri sì? risponde, e guerra, e morte.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Guerra, e morte havrai (disse) io non rifiuto</l>
+					<l xml:id="l10">Darlati, se la cerchi, e ferma attende.</l>
+					<l xml:id="l11">Non vuol Tancredi, che pedon veduto</l>
+					<l xml:id="l12">Ha il suo nemico, usar cavallo, e scende:</l>
+					<l xml:id="l13">E impugna l’uno e l’altro il ferro acuto,</l>
+					<l xml:id="l14">Et aguzza l’orgoglio, e l’ire accende.</l>
+					<l xml:id="l15">E vansi à ritrovar non altrimenti,</l>
+					<l xml:id="l16">Che duo Tori gelosi, e d’ira ardenti.</l>
+				</lg>
+				<lg>
+					<l xml:id="l17">Degne d’un chiaro Sol, degne d’un pieno</l>
+					<l xml:id="l18">Teatro, opre sarian sì memorande.</l>
+					<l xml:id="l19">Notte, che nel profondo oscuro seno</l>
+					<l xml:id="l20">Chiudesti, e ne l’oblio fatto sì grande,</l>
+					<l xml:id="l21">Piacciati, ch’io nel tragga, e'n bel sereno</l>
+					<l xml:id="l22">A le future età lo spieghi, e mande;</l>
+					<l xml:id="l23">Viva la fama loro, e tra lor gloria</l>
+					<l xml:id="l24">Splenda dal fosco tuo l’alta memoria.</l>
+				</lg>
+				<lg>
+					<l xml:id="l25">Non schivar, non parar, non ritirarsi</l>
+					<l xml:id="l26">Voglion costor, nè quì destrezza ha parte:</l>
+					<l xml:id="l27">Non danno i colpi finti, or pieni, or scarsi:</l>
+					<l xml:id="l28">Toglie l’ombra e’l furor l’uso de l’arte.</l>
+					<l xml:id="l29">Odi le spade orribilmente urtarsi</l>
+					<l xml:id="l30">A mezo il ferro: il piè d’orma non parte;</l>
+					<l xml:id="l31">Sempre è il più fermo, e la man sempre in moto;</l>
+					<l xml:id="l32">Nè scende tagliò in van, nè punta à voto.</l>
+				</lg>
+				<lg>
+					<l xml:id="l33">L’onta irrita lo sdegno à la vendetta,</l>
+					<l xml:id="l34">E la vendetta poi l’onta rinova:</l>
+					<l xml:id="l35">Onde sempre al ferir, sempre à la fretta</l>
+					<l xml:id="l36">Stimol novo s’aggiunge, e cagion nova:</l>
+					<l xml:id="l37">D’hor in hor più si mesce, e più ristretta</l>
+					<l xml:id="l38">Si fa la pugna, e spada oprar non giova;</l>
+					<l xml:id="l39">Dansi co’ pomi infelloniti, e crudi</l>
+					<l xml:id="l40">Cozzan con gli elmi insieme, e con gli scudi.</l>
+				</lg>
+				<lg>
+					<l xml:id="l41">Tre volte il Cavalier la donna stringe</l>
+					<l xml:id="l42">Con le robuste braccia, &amp; alttrettante</l>
+					<l xml:id="l43">Da que’nodi tenaci ella si scinge;</l>
+					<l xml:id="l44">Nodi di fier nemico, e non d’amante.</l>
+					<l xml:id="l45">Tornano al ferro, e l’uno e l’altro il tinge</l>
+					<l xml:id="l46">Con molte piaghe, e stanco, &amp; anhelante:</l>
+					<l xml:id="l47">E questi, e quegli al fin pur si ritira,</l>
+					<l xml:id="l48">E dopo lungo faticar respire.</l>
+				</lg>
+				<lg>
+					<l xml:id="l49">L’un l’altro guarda, e del suo corpo essangue</l>
+					<l xml:id="l50">Sù'l pomo de la spada appoggia il peso.</l>
+					<l xml:id="l51">Già de l’ultima stella il raggio langue</l>
+					<l xml:id="l52">Al primo albor, ch’è in Oriente acceso:</l>
+					<l xml:id="l53">Vede Tancredi in maggior copia il sangue</l>
+					<l xml:id="l54">Del suo nemico, e sè non tanto offeso:</l>
+					<l xml:id="l55">Ne gode, e superbisce. O nostra folle</l>
+					<l xml:id="l56">Mente, ch’ogn’ aura di fortuna estolle.</l>
+				</lg>
+				<lg>
+					<l xml:id="l57">Misero, di che godi? ò quanto mesti</l>
+					<l xml:id="l58">Fiano i trionfi, &amp; infelice il vanto.</l>
+					<l xml:id="l59">Gli occhi tuoi pagheran (se in vita resti)</l>
+					<l xml:id="l60">Di quel sangue ogni stilla un mar di pianto.</l>
+					<l xml:id="l61">Così tacendo, e rimirando questi</l>
+					<l xml:id="l62">Sanguinosi guerrier cessaro alquanto.</l>
+					<l xml:id="l63">Ruppe il silentio al fin Tancredi, e disse;</l>
+					<l xml:id="l64">Perche il suo nome à lui l’altro scoprisse.</l>
+				</lg>
+				<lg>
+					<l xml:id="l65">Nostra sventura è ben, che quì s’impieghi</l>
+					<l xml:id="l66">Nostro valor, dove silentio il copra:</l>
+					<l xml:id="l67">Ma poi che sorte rea vien, che ci neghi</l>
+					<l xml:id="l68">E lode e testimon degno de l’opra,</l>
+					<l xml:id="l69">Pregoti, (se fra l’arme han loco i preghi)</l>
+					<l xml:id="l70">Che’l tuo nome e’l tuo stato à me tu scopra.</l>
+					<l xml:id="l71">Accioch’io sappia, ò vinto, ò vincitore,</l>
+					<l xml:id="l72">Chi la mia morte, ò la vittoria honore.</l>
+				</lg>
+				<lg>
+					<l xml:id="l73">Risponde la feroce, indarno chiedi</l>
+					<l xml:id="l74">Quel, c’ho per uso di non far palese:</l>
+					<l xml:id="l75">Ma chiunque io mi sia, tu inanzi vedi</l>
+					<l xml:id="l76">Un di quei due, che la gran torre accese.</l>
+					<l xml:id="l77">Arse di sdegno à quel parlar Tancredi,</l>
+					<l xml:id="l78">E, in mal punto il dicesti, indi riprese:</l>
+					<l xml:id="l79">Il tuo dir e’l tacer di par m’alletta,</l>
+					<l xml:id="l80">Barbaro discortese, à la vendetta.</l>
+				</lg>
+				<lg>
+					<l xml:id="l81">Torna l’ira ne’ cori, e li trasporta,</l>
+					<l xml:id="l82">Benche debili in guerra à fera pugna;</l>
+					<l xml:id="l83">U’ l’arte in bando, u già la forza è morta,</l>
+					<l xml:id="l84">Ove, in vece d’entrambi il furor pugna.</l>
+					<l xml:id="l85">O che sanguigna, e spaziosa porta</l>
+					<l xml:id="l86">Fa l’una e l’altra spada, ovunque giugna</l>
+					<l xml:id="l87">Ne l’arme, e ne le carni; e se la vita</l>
+					<l xml:id="l88">Non esce, sdegno tienla al petto unita.</l>
+				</lg>
+				<lg>
+					<l xml:id="l89">Qual l’alto Egeo, perche Aquilone ò Noto</l>
+					<l xml:id="l90">Cessi, che tutto prima il volse e scosse:</l>
+					<l xml:id="l91">Non s’accheta ei però, ma l’ suono e l’ moto</l>
+					<l xml:id="l92">Ritien de l’onde, anco agitate, e grosse.</l>
+					<l xml:id="l93">Tal; se ben manca in lor col sangue voto</l>
+					<l xml:id="l94">Quel vigor; che le braccia à i colpi mosse:</l>
+					<l xml:id="l95">Serbano ancor l’impeto primo, e vanno,</l>
+					<l xml:id="l96">Da quel sospinti, à giunger danno à danno.</l>
+				</lg>
+				<lg>
+					<l xml:id="l97">Ma ecco homai l’hora fatale è giunta,</l>
+					<l xml:id="l98">Che’l viver di Clorinda al suo fin deve.</l>
+					<l xml:id="l99">Spinge egli il ferro nel bel sen di punta,</l>
+					<l xml:id="l100">Che vi s’immerge, e’l sangue avido beve:</l>
+					<l xml:id="l101">E la veste, che d’Or vago trapunta,</l>
+					<l xml:id="l102">Le mammelle stringea tenera, e leve,</l>
+					<l xml:id="l103">L’empie d’un caldo fiume: ella già sente</l>
+					<l xml:id="l104">Morirsi, e’l piè le manca egro e languente.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

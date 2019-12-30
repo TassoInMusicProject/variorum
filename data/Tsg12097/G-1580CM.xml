@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Non di morte sei tu ma di vivaci</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1580CM</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1580CM">
+					<title>Il Goffredo di m. Torquato Tasso. Nuouamente dato in luce</title>
+					<url>https://books.google.com/books?id=srteAAAAcAAJ&amp;dq=tasso+goffredo+cavalcalupo&amp;source=gbs_navlinks_s</url>
+					<publisher>Domenico Cavalcalupo [ad istanza di Marc'Antonio Malaspina]</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1580">1580</date>
+					<biblScope unit="page">53r</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Non di morte sei tù, ma di vivaci</l>
+					<l xml:id="l2">Ceneri albergo, ov'è nascosto Amore;</l>
+					<l xml:id="l3">Sento dal freddo tuo l’usate faci</l>
+					<l xml:id="l4">Men dolci sì; ma non men calde al core.</l>
+					<l xml:id="l5">Deh prendi i miei sospiri, e questi baci</l>
+					<l xml:id="l6">Prendi, ch’io bagno di doglioso humore:</l>
+					<l xml:id="l7">E dagli tu, poi ch’io non posso, almeno</l>
+					<l xml:id="l8">A l’ amate reliquie, c’hai nel seno.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

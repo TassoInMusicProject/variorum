@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Bello e dolce morir mi fu certo allora</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">A-CM</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="A-CM">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Modena</settlement>
+						<repository>Biblioteca Estense Universitaria</repository>
+						<idno>gamma.K.7.8</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 43v</locus>
+							<url>http://bibliotecaestense.beniculturali.it/info/img/mss/i-mo-beu-gamma.k.7.8.pdf</url>
+							<p>manuscript compiled in Sabbioneta by Maurizio Pandori da Mondaino</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>1578</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Bello e dolce morir fu certo all’hora</l>
+					<l xml:id="l2">Ch’uccider io mi volsi</l>
+					<l xml:id="l3">Tu mel negasti e’l ciel’a cui parea</l>
+					<l xml:id="l4">Ch’io precoressi co'l morir la noia</l>
+					<l xml:id="l5">Ch’apprestata m’havea</l>
+					<l xml:id="l6">Hor che fatto ha l’estremo</l>
+					<l xml:id="l7">De la sua crudeltade</l>
+					<l xml:id="l8">Ben soffrirà ch’io moia</l>
+					<l xml:id="l9">E tu soffrir lo dei</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

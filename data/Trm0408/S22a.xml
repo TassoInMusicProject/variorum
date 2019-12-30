@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Questo tra gli altri fiori</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S22a</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S22a">
+					<title>Rime et prose del Signor Torquato Tasso. Parte terza. Novamente poste in luce</title>
+					<url>https://books.google.com/books?id=9yU8AAAAcAAJ&amp;printsec=frontcover&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false</url>
+					<publisher>Giulio Vasalini</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1584">1584</date>
+					<biblScope unit="page">10v</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Questo tra gli altri fiori</l>
+					<l xml:id="l2">Sanguigno si fù tinto</l>
+					<l xml:id="l3">Del bel sangue d’Adone, ò di Giacinto?</l>
+				</lg>
+				<lg>
+					<l xml:id="l4">O pur’ in lui converse</l>
+					<l xml:id="l5">Il suo l’alato Iddio,</l>
+					<l xml:id="l6">Quando il suo stral gli cadde, e si ferio?</l>
+				</lg>
+				<lg>
+					<l xml:id="l7">Deh serà mai, ch' versi</l>
+					<l xml:id="l8">Si fortunati humori</l>
+					<l xml:id="l9">Ch’ei in se gli cangi, e ’l vostro seno infiori?</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

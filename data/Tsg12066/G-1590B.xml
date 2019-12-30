@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Amico hai vinto: io ti perdon...perdona</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1590B</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1590B">
+					<title>La Gierusalemme liberata di Torquato Tasso con le figure di Bernardo Castello; e le Annotationi di Scipio Gentili, e di Giulio Guastavini</title>
+					<url></url>
+					<publisher>Girolamo Bartoli</publisher>
+					<pubPlace>Genoa</pubPlace>
+					<date when="1590">1590</date>
+					<biblScope unit="page">140</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Amico hai vinto: io ti perdon. perdona</l>
+					<l xml:id="l2">Tu ancora, al corpo nò, che nulla pave,</l>
+					<l xml:id="l3">A l’alma sì: deh per lei prega: e dona</l>
+					<l xml:id="l4">Battesmo à mè, ch’ogni mia colpa lave.</l>
+					<l xml:id="l5">In queste voci languide risuona</l>
+					<l xml:id="l6">Un non sò che di flebile, e soave,</l>
+					<l xml:id="l7">Ch’al cor gli serpe, &amp; ogni sdegno ammorza,</l>
+					<l xml:id="l8">E gli occhi à lagrimar gli invoglia, e sforza.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

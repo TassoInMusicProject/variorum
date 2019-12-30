@@ -33,14 +33,10 @@
 			</div>
 			<div>
 				<lg>
-					<l xml:id="l1">TIRSI Dunque andar non vogliamo</l>
-					<l xml:id="l2">AMINTA Andare io voglio</l>
-					<l xml:id="l3">Ma non dove tu stimi</l>
-					<l xml:id="l4">TIRSI e dove</l>
-					<l xml:id="l5">AMINTA A morte</l>
-					<l xml:id="l6">s’altr’ in mio prò non hai fatto Che quant’</l>
-					<l xml:id="l7">hora mi narri</l>
-					<l xml:id="l8">TIRSI E poco parti questo.</l>
+					<l xml:id="l1">TIRSI Dunque andar non vogliamo AMINTA Andare io voglio</l>
+					<l xml:id="l2">Ma non dove tu stimi TIRSI e dove AMINTA A morte</l>
+					<l xml:id="l3">s’altr’ in mio prò non hai fatto Che quant’</l>
+					<l xml:id="l4">hora mi narri TIRSI E poco parti questo.</l>
 				</lg>
 			</div>
 		</body>

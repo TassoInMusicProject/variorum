@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Vola fra gli altri un che le piume ha sparte</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1582C</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1582C">
+					<title>La Gierusalemme liberata del sig. Torquato Tasso. Con l'allegoria dell'istesso autore, et con gli argomenti del sig. Oratio Ariosti. Di nuovo ristampata, e da infiniti errori, che si veggono nell'altre impressioni, corretta per Tomaso Costo. Aggiuntovi alcune annotationi di m. Giulio Cesare Capaccio</title>
+					<url>https://books.google.it/books?vid=IBNR:CR000221585&amp;redir_esc=y</url>
+					<publisher>Giovanni Battista Cappelli</publisher>
+					<pubPlace>Naples</pubPlace>
+					<date when="1582">1582</date>
+					<biblScope unit="page">234</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Vola fra gli altri un, che le piume ha sparte</l>
+					<l xml:id="l2">Di color varij, &amp; ha purpureo il rostro,</l>
+					<l xml:id="l3">E lingua snoda in guisa larga, e parte</l>
+					<l xml:id="l4">La voce sì, ch’assembra il sermon nostro.</l>
+					<l xml:id="l5">Questi ivi allor continuò con arte</l>
+					<l xml:id="l6">Tanta il parlar, che fu mirabil Mostro.</l>
+					<l xml:id="l7">Tacquero gli altri ad ascoltarlo intenti,</l>
+					<l xml:id="l8">E fermaro i susurri in aria i venti.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

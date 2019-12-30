@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Vattene pur, crudel, con quella pace</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1580CM</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1580CM">
+					<title>Il Goffredo di m. Torquato Tasso. Nuouamente dato in luce</title>
+					<url>https://books.google.com/books?id=srteAAAAcAAJ&amp;dq=tasso+goffredo+cavalcalupo&amp;source=gbs_navlinks_s</url>
+					<publisher>Domenico Cavalcalupo [ad istanza di Marc'Antonio Malaspina]</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1580">1580</date>
+					<biblScope unit="page">61v</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Vattene pur crudel con quella pace,</l>
+					<l xml:id="l2">Che lasci me; vattene iniquo homai:</l>
+					<l xml:id="l3">Me tosto nudo spirto ombra seguace</l>
+					<l xml:id="l4">Indivisibilmente àatergo havrai,</l>
+					<l xml:id="l5">Nuova furia, con serpi, e con la face</l>
+					<l xml:id="l6">Tanto t’agiterò; quanto t’amai;</l>
+					<l xml:id="l7">E s’è destin, ch’esci del mar, che schivi</l>
+					<l xml:id="l8">Li scogli, e l’onde, e ch’à la pugna arrivi.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

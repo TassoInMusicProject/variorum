@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Argo non mai, non vide Cipro e Delo</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-Bm</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="G-Bm">
+					<msIdentifier>
+						<region>London</region>
+						<repository>British Library</repository>
+						<idno>Additional 29312</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 120r</locus>
+							<p>Canti I-IV, IX, XV</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Argo non mai, non vide Cipro, ò Delo</l>
+					<l xml:id="l2">D’habito, ò di beltà forme si care.</l>
+					<l xml:id="l3">D’auro ha la chioma, et hor dal bianco velo</l>
+					<l xml:id="l4">Traluce rivolta, hor discoperta pare.</l>
+					<l xml:id="l5">Cosi qual hor si rasserena il Cielo</l>
+					<l xml:id="l6">Hor da candida nube il sol traspare</l>
+					<l xml:id="l7">Hor da la nube uscendo i raggi intorno</l>
+					<l xml:id="l8">Piu chiari spiega, e ne raddoppia il giorno.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

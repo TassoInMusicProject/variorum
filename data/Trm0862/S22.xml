@@ -18,7 +18,7 @@
 					<publisher>Giulio Vasalini</publisher>
 					<pubPlace>Venice</pubPlace>
 					<date when="1583">1583</date>
-					<biblScope unit="page">36</biblScope>
+					<biblScope unit="page">36r</biblScope>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -32,7 +32,7 @@
 				<lg>
 					<l xml:id="l1">La bella, e vaga man, che le sonore</l>
 					<l xml:id="l2">Corde, hor leggiera, e presta; hor tarda, e grave</l>
-					<l xml:id="l3">Percuote, e suon ne trahe, varie e soave,</l>
+					<l xml:id="l3">Percuote, e suon ne trahe, vario e soave,</l>
 					<l xml:id="l4">E 'l dolce canto tuo, che forma Amore.</l>
 				</lg>
 				<lg>
@@ -43,7 +43,7 @@
 				</lg>
 				<lg>
 					<l xml:id="l9">Onde per languir sempre hor questa piaga</l>
-					<l xml:id="l10">Et hor quell'altra col pensier rinova</l>
+					<l xml:id="l10">Et hor quell'altra col pensier inova</l>
 					<l xml:id="l11">Vera Vittoria, e vera vincitrice.</l>
 				</lg>
 				<lg>

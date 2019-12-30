@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Se m'odii, e in ciò diletto alcun tu senti</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1590B</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1590B">
+					<title>La Gierusalemme liberata di Torquato Tasso con le figure di Bernardo Castello; e le Annotationi di Scipio Gentili, e di Giulio Guastavini</title>
+					<url></url>
+					<publisher>Girolamo Bartoli</publisher>
+					<pubPlace>Genoa</pubPlace>
+					<date when="1590">1590</date>
+					<biblScope unit="page">182</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Se m’odij, e in ciò diletto alcun tu senti,</l>
+					<l xml:id="l2">Non ten’ vengo à privar: godi pur d’esso.</l>
+					<l xml:id="l3">Giusto à tè pare: e siasi. anch’io le genti</l>
+					<l xml:id="l4">Cristiane odiai: (no'l nego) odiai te stesso.</l>
+					<l xml:id="l5">Nacqui pagana: usai vaghi argomenti,</l>
+					<l xml:id="l6">Che per me fosse il vostro imperio oppresso:</l>
+					<l xml:id="l7">Te perseguìj: te presi: e te lontano</l>
+					<l xml:id="l8">Da l’arme trassi in loco ignoto, e strano.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

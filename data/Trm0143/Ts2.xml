@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Ecco mormorar l'onde</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">Ts2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Ts2">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Rome</settlement>
+						<repository>Biblioteca Angelica</repository>
+						<idno>Aut. 1.24</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 51r</locus>
+							<p>exemplar of print <span class="print">22</span>, with autograph corrections and annotations by Tasso</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Ecco mormorar l’onde,</l>
+					<l xml:id="l2">E tremolar le fronde</l>
+					<l xml:id="l3">A l’aura mattutina, e gli arboscelli;</l>
+					<l xml:id="l4">E sovra i verdi rami i vaghi augelli</l>
+					<l xml:id="l5">Cantar soavemente,</l>
+					<l xml:id="l6">E rider l’Oriente.</l>
+					<l xml:id="l7">Ecco già l’Alba appare,</l>
+					<l xml:id="l8">E si specchia nel Mare,</l>
+					<l xml:id="l9">E rasserena il Cielo,</l>
+					<l xml:id="l10">Et le campagne imperla, e’l dolce gelo;</l>
+					<l xml:id="l11">Et gli alti monti indora.</l>
+					<l xml:id="l12">O bella, e vaga Aurora,</l>
+					<l xml:id="l13">L’aura è tua Messaggiera, e tu de l’aura,</l>
+					<l xml:id="l14"><del>Ch’ogn’arso cor ristaura.</del> ^che m'accende e ristaura^</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

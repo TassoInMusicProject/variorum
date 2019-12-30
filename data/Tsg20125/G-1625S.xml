@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Dimostratevi in me (ch'io vi perdono</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1625S</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1625S">
+					<title>La Gerusalemme liberata di Torquato Tasso con la vita di lui e con gli argomenti dell'opera del cav. Guido Casoni</title>
+					<url>http://www.internetculturale.it/jmms/iccuviewer/iccu.jsp?mode=all&amp;teca=Bncf&amp;id=oai:bncf.firenze.sbn.it:21:FI0098:Magliabechi:LO1E000625</url>
+					<publisher>Giacomo Sarzina</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1625">1625</date>
+					<biblScope unit="page">242</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Dimostratevi in me (ch’io vi perdono</l>
+					<l xml:id="l2">La passata viltà) forti, &amp; acute;</l>
+					<l xml:id="l3">Misera Armida in qual fortuna hor sono</l>
+					<l xml:id="l4">Se sol posso da voi sperar salute?</l>
+					<l xml:id="l5">Poi ch’ogn’ altro rimedio è in me non buono</l>
+					<l xml:id="l6">Se non sol di ferute, à le ferute;</l>
+					<l xml:id="l7">Sani piaga di stral piaga d’amore:</l>
+					<l xml:id="l8">E sia la morte medicina al core.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

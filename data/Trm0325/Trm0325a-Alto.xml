@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>O dolci lagrimette</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0325a</idno>
+			<idno type="label">Trm0325a (Alto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0325a-Alto">
+					<title>Il secondo libro de madrigali a cinque voci</title>
+					<url></url>
+					<author role="composer">Virchi, Paolo</author>
+					<publisher>Vincenzi &amp; Amadino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1588">1588</date>
+					<idno type="RISM">V 2106</idno>
+					<biblScope unit="page">16</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">O dolci lagrimette</l>
+					<l xml:id="l2">Che già la donna mia de suoi begli occhi</l>
+					<l xml:id="l3">Quasi nembo che fiochi</l>
+					<l xml:id="l4">Sparse in questo odorato e bianco lino</l>
+					<l xml:id="l5">Misero peregrino</l>
+					<l xml:id="l6">Questo sol meco io porto e solo i tegno</l>
+					<l xml:id="l7">Caro mio si ma non felice pegno</l>
+					<l xml:id="l8">Perche n’asciughi i lumi</l>
+					<l xml:id="l9">E ne pianga lontano e mi consumi.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

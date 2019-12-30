@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>La bella e vaga man che le sonore</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">Ts2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Ts2">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Rome</settlement>
+						<repository>Biblioteca Angelica</repository>
+						<idno>Aut. 1.24</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 36r</locus>
+							<p>exemplar of print <span class="print">22</span>, with autograph corrections and annotations by Tasso</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1"><del>La bella, e vaga man, che le sonore</del> ^La man che già movea corde sonore^</l>
+					<l xml:id="l2"><del>Corde, hor</del> ^La man^ leggiera, e presta; hor tarda, e grave</l>
+					<l xml:id="l3"><del>Percuote, e suon ne trahe,</del> ^e'l suono che n'uscia^ vario e soave,</l>
+					<l xml:id="l4">E 'l dolce canto tuo, che forma Amore.</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Son l'armi dolci, onde piagato è il core</l>
+					<l xml:id="l6">In guisa tal, che di morir non pave;</l>
+					<l xml:id="l7">Ma vago fatto di languir sol have</l>
+					<l xml:id="l8">Di ris^u^onar quasi di mal timore.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Onde per languir sempre hor questa piaga</l>
+					<l xml:id="l10">Et hor quell'altra col pensier ^ri^inova</l>
+					<l xml:id="l11">Vera Vittoria, e vera vincitrice.</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">Che rende l'alma di penar sì vaga</l>
+					<l xml:id="l13">Che <del>quel, ch'</del> ^quanto^ altrui più noce, a lei più giova</l>
+					<l xml:id="l14">Ne' sospir liete, e ne' martir felice.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Ed amando morrò: felice giorno</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-Am</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="G-Am">
+					<msIdentifier>
+						<region>Milan</region>
+						<repository>Biblioteca Ambrosiana</repository>
+						<idno>Q 120 sup. and R 99 sup.</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 222v</locus>
+							<p>Canti IV, VIII, IX, XII, XV</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Et amando morro felice giorno</l>
+					<l xml:id="l2">Quando che sia ma più felice molto</l>
+					<l xml:id="l3">Se come hor vado errante a te d’intorno</l>
+					<l xml:id="l4">Allhor saro dentro al tuo grembo accolto</l>
+					<l xml:id="l5">Faccian l’anime amiche in un soggiorno</l>
+					<l xml:id="l6">Sia l’un cenere e l’altro insieme avolto</l>
+					<l xml:id="l7">Ciò che’l viver non hebbe habbia la morte</l>
+					<l xml:id="l8">O se sperar ciò lice, altera sorte.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

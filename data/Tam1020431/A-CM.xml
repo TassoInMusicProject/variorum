@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>E bevea da' suoi lumi</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">A-CM</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="A-CM">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Modena</settlement>
+						<repository>Biblioteca Estense Universitaria</repository>
+						<idno>gamma.K.7.8</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 15r</locus>
+							<url>http://bibliotecaestense.beniculturali.it/info/img/mss/i-mo-beu-gamma.k.7.8.pdf</url>
+							<p>manuscript compiled in Sabbioneta by Maurizio Pandori da Mondaino</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>1578</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">E bevea da suoi lumi</l>
+					<l xml:id="l2">Una strania dolcezza</l>
+					<l xml:id="l3">Che lasciava nel fine</l>
+					<l xml:id="l4">Un non sò che d’amaro</l>
+					<l xml:id="l5">Sospirava sovente, e non sapeva</l>
+					<l xml:id="l6">La cagion de i sospiri</l>
+					<l xml:id="l7">Cosi fui prima amante che intendessi</l>
+					<l xml:id="l8">Che cosa fosse amore</l>
+					<l xml:id="l9">Ben me n’accorsi al fine et in qual modo</l>
+					<l xml:id="l10">Hora m’ascolta e nota .T[IRSI]. è da notare</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

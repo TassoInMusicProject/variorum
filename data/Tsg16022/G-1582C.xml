@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Deh perché sdegni me, com'egli è vago</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1582C</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1582C">
+					<title>La Gierusalemme liberata del sig. Torquato Tasso. Con l'allegoria dell'istesso autore, et con gli argomenti del sig. Oratio Ariosti. Di nuovo ristampata, e da infiniti errori, che si veggono nell'altre impressioni, corretta per Tomaso Costo. Aggiuntovi alcune annotationi di m. Giulio Cesare Capaccio</title>
+					<url>https://books.google.it/books?vid=IBNR:CR000221585&amp;redir_esc=y</url>
+					<publisher>Giovanni Battista Cappelli</publisher>
+					<pubPlace>Naples</pubPlace>
+					<date when="1582">1582</date>
+					<biblScope unit="page">236</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Deh, poi che sdegni me, com’egli è vago</l>
+					<l xml:id="l2">Mirar tu almen potessi il proprio volto,</l>
+					<l xml:id="l3">Che ’l guardo tuo, ch’altrove non è pago,</l>
+					<l xml:id="l4">Gioirebbe felice in sè rivolto.</l>
+					<l xml:id="l5">Non può specchio ritrar sì dolce imago,</l>
+					<l xml:id="l6">Nè in picciol vetro è un Paradiso accolto:</l>
+					<l xml:id="l7">Specchio t’è degno il Cielo, e ne le stelle</l>
+					<l xml:id="l8">Puoi riguardar le tue sembianze belle.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

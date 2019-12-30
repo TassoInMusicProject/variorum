@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Vivrò fra i miei tormenti e le mie cure</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1590B</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1590B">
+					<title>La Gierusalemme liberata di Torquato Tasso con le figure di Bernardo Castello; e le Annotationi di Scipio Gentili, e di Giulio Guastavini</title>
+					<url></url>
+					<publisher>Girolamo Bartoli</publisher>
+					<pubPlace>Genoa</pubPlace>
+					<date when="1590">1590</date>
+					<biblScope unit="page">141</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Vivrò fra i miei tormenti, e fràale cure,</l>
+					<l xml:id="l2">Mie giuste furie, forsennato errante,</l>
+					<l xml:id="l3">Paventerò l’ombre solinghe, e scure,</l>
+					<l xml:id="l4">Che’l primo error mi recheranno anante.</l>
+					<l xml:id="l5">E del sol, che scoprì le mie sventure,</l>
+					<l xml:id="l6">A schivo, &amp; in horrore havrò il sembiante.</l>
+					<l xml:id="l7">Temerò me medesmo, e da me stesso</l>
+					<l xml:id="l8">Sempre fuggendo, havrò me sempre appresso.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

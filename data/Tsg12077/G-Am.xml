@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Vivrò fra i miei tormenti e le mie cure</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-Am</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="G-Am">
+					<msIdentifier>
+						<region>Milan</region>
+						<repository>Biblioteca Ambrosiana</repository>
+						<idno>Q 120 sup. and R 99 sup.</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 219r</locus>
+							<p>Canti IV, VIII, IX, XII, XV</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Vivero fra i tormenti e fra le cure</l>
+					<l xml:id="l2">Mie giuste furie forsennato errante</l>
+					<l xml:id="l3">Paventerò l’ombre solinghe, e scure</l>
+					<l xml:id="l4">Che’l primo error mi recheranno innante</l>
+					<l xml:id="l5">E del sol che scoprì le mie sventure</l>
+					<l xml:id="l6">A schivo et in horrore havrò il sembiante</l>
+					<l xml:id="l7">Temero me medesmo e da me stesso</l>
+					<l xml:id="l8">Sempre fuggendo, havrò me sempre appresso.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

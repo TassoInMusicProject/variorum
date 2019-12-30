@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Lei nel partir, lei nel tornar del sole</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-Am</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="G-Am">
+					<msIdentifier>
+						<region>Milan</region>
+						<repository>Biblioteca Ambrosiana</repository>
+						<idno>Q 120 sup. and R 99 sup.</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 221r</locus>
+							<p>Canti IV, VIII, IX, XII, XV</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Lei nel partir lei nel tornar del sole</l>
+					<l xml:id="l2">Chiama con voce stanca, e prega e plora:</l>
+					<l xml:id="l3">Come usignuol, cui il villan duro invo<del>l</del>le</l>
+					<l xml:id="l4">Dal nido i figli non pennuti ancora</l>
+					<l xml:id="l5">Ch'immiserabil canto, afflitte e sole</l>
+					<l xml:id="l6">Piange le notti e n’empie i boschi e l’ora.</l>
+					<l xml:id="l7">Al fin col novo di rinchiude alquanto</l>
+					<l xml:id="l8">Gli occhi et il sonno in lor serpe fra il pianto.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

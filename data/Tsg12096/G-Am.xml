@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Giunto a la tomba ove al suo spirto vivo</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-Am</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="G-Am">
+					<msIdentifier>
+						<region>Milan</region>
+						<repository>Biblioteca Ambrosiana</repository>
+						<idno>Q 120 sup. and R 99 sup.</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 222r</locus>
+							<p>Canti IV, VIII, IX, XII, XV</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Giunto alla tomba ov'il suo spirto vivo</l>
+					<l xml:id="l2">Dolorosa prigione il ciel prescrisse</l>
+					<l xml:id="l3">Di calor di color di di moto privo</l>
+					<l xml:id="l4">Già marmo in vista al marmo il volto affisse</l>
+					<l xml:id="l5">Al fin sgorgando un lacrimoso rivo</l>
+					<l xml:id="l6">In un languido oime proruppe e disse.</l>
+					<l xml:id="l7">O sasso amato tanto amaro tanto</l>
+					<l xml:id="l8">Che dentro hai le mie fiamme e fuori il pianto.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

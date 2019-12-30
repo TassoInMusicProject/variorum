@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Poi ch'ella in sé tornò, deserto e muto</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1625S</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1625S">
+					<title>La Gerusalemme liberata di Torquato Tasso con la vita di lui e con gli argomenti dell'opera del cav. Guido Casoni</title>
+					<url>http://www.internetculturale.it/jmms/iccuviewer/iccu.jsp?mode=all&amp;teca=Bncf&amp;id=oai:bncf.firenze.sbn.it:21:FI0098:Magliabechi:LO1E000625</url>
+					<publisher>Giacomo Sarzina</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1625">1625</date>
+					<biblScope unit="page">183</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Poi ch’ella in se tornò, deserto, e muto.</l>
+					<l xml:id="l2">Quanto mirar potè, d’intorno scorse.</l>
+					<l xml:id="l3">Ito se n’è pur (disse) &amp; ha potuto</l>
+					<l xml:id="l4">Me qui lasciar della mia vita in forse?</l>
+					<l xml:id="l5">Nè un momento indugiò: nè un breve aiuto</l>
+					<l xml:id="l6">Nel caso estremo il traditor mi porse?</l>
+					<l xml:id="l7">Et io pur anco l’ami? e in questo lido</l>
+					<l xml:id="l8">Invendicata ancor piango, e m’assido?</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

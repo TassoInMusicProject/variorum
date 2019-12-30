@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Misera, non credea ch'a gli occhi miei</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1625S</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1625S">
+					<title>La Gerusalemme liberata di Torquato Tasso con la vita di lui e con gli argomenti dell'opera del cav. Guido Casoni</title>
+					<url>http://www.internetculturale.it/jmms/iccuviewer/iccu.jsp?mode=all&amp;teca=Bncf&amp;id=oai:bncf.firenze.sbn.it:21:FI0098:Magliabechi:LO1E000625</url>
+					<publisher>Giacomo Sarzina</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1625">1625</date>
+					<biblScope unit="page">224</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Misera, non credea, ch’a gli occhi miei</l>
+					<l xml:id="l2">Potessi in alcun tempo esser noioso.</l>
+					<l xml:id="l3">Hor cieca farmi volentier torrei</l>
+					<l xml:id="l4">Per non vederti, e riguardar non oso.</l>
+					<l xml:id="l5">Ohime, de’ lumi già sì dolci, e rei</l>
+					<l xml:id="l6">Ov’è la fiamma? ov’è il bel raggio ascoso?</l>
+					<l xml:id="l7">De le fiorite guancie il bel vermiglio</l>
+					<l xml:id="l8">Ov’è fuggito? ov’è il seren del ciglio?</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

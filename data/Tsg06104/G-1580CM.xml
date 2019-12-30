@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Poi rimirando il campo ella dicea</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1580CM</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1580CM">
+					<title>Il Goffredo di m. Torquato Tasso. Nuouamente dato in luce</title>
+					<url>https://books.google.com/books?id=srteAAAAcAAJ&amp;dq=tasso+goffredo+cavalcalupo&amp;source=gbs_navlinks_s</url>
+					<publisher>Domenico Cavalcalupo [ad istanza di Marc'Antonio Malaspina]</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1580">1580</date>
+					<biblScope unit="page">28r</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Poscia gli occhi volgendo, ove scorgea</l>
+					<l xml:id="l2">Mille tende inalzarsi homai vicine;</l>
+					<l xml:id="l3">Felicissimi alberghi, à voi (dicea)</l>
+					<l xml:id="l4">Da le miserie mie rifuggo al fine.</l>
+					<l xml:id="l5">Così à mia vita combattuta, e rea</l>
+					<l xml:id="l6">Qualche honesto riposo il Ciel destine,</l>
+					<l xml:id="l7">Come in voi solo il cerco, e solo parmi,</l>
+					<l xml:id="l8">Che pace io trovar possa in mezo l’armi.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>
