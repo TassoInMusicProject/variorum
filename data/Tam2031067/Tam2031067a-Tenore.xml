@@ -33,19 +33,14 @@
 			</div>
 			<div>
 				<lg>
-					<l xml:id="l1">AMINTA Horsù scuoprimi il tutto</l>
-					<l xml:id="l2">[TACET]</l>
-					<l xml:id="l3">Di tosto.</l>
-					<l xml:id="l4">TIRSI [TACET]</l>
-					<l xml:id="l5">Ardirai tu d’andarvi</l>
-					<l xml:id="l6">AMINTA Oh che mi dici</l>
-					<l xml:id="l7">Silvia m’attend’ignud’e sola</l>
-					<l xml:id="l8">TIRSI [TACET]</l>
-					<l xml:id="l9">Se non quanto v’è Dafne [TACET]</l>
-					<l xml:id="l10">AMINTA ignud’ella m’aspetta</l>
-					<l xml:id="l11">[TACET]</l>
-					<l xml:id="l12">Ohime che ma tu taci tu m’uccidi</l>
-					<l xml:id="l13">TIRSI Ma non sa già che tu v’habbi d’andare.</l>
+					<l xml:id="l1">AMINTA Horsù scuoprimi il tutto [TACET] Di tosto.</l>
+					<l xml:id="l2">TIRSI [TACET]</l>
+					<l xml:id="l3">Ardirai tu d’andarvi AMINTA Oh che mi dici</l>
+					<l xml:id="l4">Silvia m’attend’ignud’e sola TIRSI [TACET]</l>
+					<l xml:id="l5">Se non quanto v’è Dafne [TACET]</l>
+					<l xml:id="l6">AMINTA ignud’ella m’aspetta [TACET]</l>
+					<l xml:id="l7">Ohime che ma tu taci tu m’uccidi</l>
+					<l xml:id="l8">TIRSI Ma non sa già che tu v’habbi d’andare.</l>
 				</lg>
 			</div>
 		</body>

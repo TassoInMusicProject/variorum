@@ -10,10 +10,10 @@
 				<publisher></publisher>
 				<availability status=""></availability>
 			<idno type="local">Tsg07021a</idno>
-			<idno type="label">Tsg07021a ([CANTO])</idno>
+			<idno type="label">Tsg07021a (Canto)</idno>
 			</publicationStmt>
 			<sourceDesc>
-				<bibl type="music" xml:id="Tsg07021a-[CANTO]">
+				<bibl type="music" xml:id="Tsg07021a-Canto">
 					<title>Musiche di Sigismondo d' India</title>
 					<url>https://gallica.bnf.fr/ark:/12148/bpt6k4500426m.r=sigismondo%20d%27india%20musiche?rk=42918;4</url>
 					<author role="composer">D'India, Sigismondo</author>

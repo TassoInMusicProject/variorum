@@ -33,19 +33,14 @@
 			</div>
 			<div>
 				<lg>
-					<l xml:id="l1">[TACET]</l>
-					<l xml:id="l2">TIRSI Odi</l>
-					<l xml:id="l3">[TACET]</l>
-					<l xml:id="l4">Silvia m’attend’a un font’ignud’e sola</l>
-					<l xml:id="l5">Ardirai tu d’andarvi</l>
-					<l xml:id="l6">[TACET]</l>
-					<l xml:id="l7">sola,</l>
-					<l xml:id="l8">Se non quanto v’è Dafne ch’è per noi</l>
-					<l xml:id="l9">[TACET]</l>
-					<l xml:id="l10">ignuda ma</l>
-					<l xml:id="l11">[TACET]</l>
-					<l xml:id="l12">Ohime che ma tu taci tu m’uccidi</l>
-					<l xml:id="l13">TIRSI Ma non sa già che tu v’habbi d’andare.</l>
+					<l xml:id="l1">[TACET] TIRSI Odi [TACET]</l>
+					<l xml:id="l2">Silvia m’attend’a un font’ignud’e sola</l>
+					<l xml:id="l3">Ardirai tu d’andarvi [TACET]</l>
+					<l xml:id="l4">[TACET] sola,</l>
+					<l xml:id="l5">Se non quanto v’è Dafne ch’è per noi</l>
+					<l xml:id="l6">[TACET] ignuda ma</l>
+					<l xml:id="l7">Ohime che ma tu taci tu m’uccidi</l>
+					<l xml:id="l8">TIRSI Ma non sa già che tu v’habbi d’andare.</l>
 				</lg>
 			</div>
 		</body>

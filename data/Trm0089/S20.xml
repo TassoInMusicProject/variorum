@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Mentre Madonna s'appoggiò pensosa</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S20</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S20">
+					<title>Rime, et prose del S. Torquato Tasso. Parte prima. Di nuovo reviste, et corrette, con aggiunta di quanto manca nell'altre edittioni</title>
+					<url></url>
+					<publisher>Giulio Vasalini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1583">1583</date>
+					<biblScope unit="page">Parte Prima, 47</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Mentre Madonna il lasso fianco posa,</l>
+					<l xml:id="l2">Dopo i suoi lieti, e volontarii errori,</l>
+					<l xml:id="l3">Al ferito soggionro i dolci humori</l>
+					<l xml:id="l4">Susurrando predava Ape ingegnosa.</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Ch’a le labbra, in cui nutre aura amorosa,</l>
+					<l xml:id="l6">Al Sol de due begli occhi, eterni fiori,</l>
+					<l xml:id="l7">Ingannata, à i dolcissimi colori</l>
+					<l xml:id="l8">Corse, e sugger pensò purpurea rosa.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Ahi, troppo saggia ne l’errar felice</l>
+					<l xml:id="l10">Temerità, che quel, ch’à le mie voglie</l>
+					<l xml:id="l11">Timide si contende, à te sol lice.</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">Vil Ape, Amor, cara mercè mi toglie,</l>
+					<l xml:id="l13">Che più ti resta? s’altri'l mel n’elice,</l>
+					<l xml:id="l14">Con che tempri i tuoi assentij, e le mie doglie.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

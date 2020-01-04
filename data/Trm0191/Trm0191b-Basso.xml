@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Arsi mentre m'amaste</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0191b</idno>
+			<idno type="label">Trm0191b (Basso)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0191b-Basso">
+					<title>Il primo libro de madrigali a quattro voci</title>
+					<url>http://www.bibliotecamusica.it/cmbm/viewschedatwbca.asp?path=/cmbm/images/ripro/gaspari/_U/U246/</url>
+					<author role="composer">Tosone, Marcello</author>
+					<publisher>Bartoli</publisher>
+					<pubPlace>Genoa</pubPlace>
+					<date when="1590">1590</date>
+					<idno type="RISM">T 1024</idno>
+					<biblScope unit="page">2</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Arsi mentr'à voi piacque,</l>
+					<l xml:id="l2">Et al cortes'affetto</l>
+					<l xml:id="l3">Pagò tributo di sospir'il petto.</l>
+				</lg>
+				<lg>
+					<l xml:id="l4">[TACET]</l>
+					<l xml:id="l5">[TACET]</l>
+					<l xml:id="l6">Donna, s'estins'anc'il mio foc'in parte.</l>
+					<l xml:id="l7">Sorse poi nov'ardore:</l>
+					<l xml:id="l8">Ma fiamma fù di sdegno,</l>
+					<l xml:id="l9">Ch’il mio dono di voi stimast'indegno;</l>
+					<l xml:id="l10">Questo seccò le chiome</l>
+					<l xml:id="l11">Del lauro, ond’honorav'il vostro nome.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

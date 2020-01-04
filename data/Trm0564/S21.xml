@@ -18,7 +18,7 @@
 					<publisher>Giulio Vasalini</publisher>
 					<pubPlace>Ferrara</pubPlace>
 					<date when="1583">1583</date>
-					<biblScope unit="page">8</biblScope>
+					<biblScope unit="page">Parte Seconda, 8</biblScope>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -26,7 +26,7 @@
 	<text>
 		<body xml:space="preserve">
 			<div type="dedication">
-				<p xml:id="p1">Alla Signora Leonora S. Vitale</p>
+				<p xml:id="p1"></p>
 			</div>
 			<div>
 				<lg>

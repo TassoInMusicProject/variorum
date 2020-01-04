@@ -37,13 +37,11 @@
 					<l xml:id="l2">[TACET]</l>
 					<l xml:id="l3">[TACET]</l>
 					<l xml:id="l4">[TACET]</l>
-					<l xml:id="l5">[TACET]</l>
-					<l xml:id="l6">V’andrei sicur e baldo</l>
-					<l xml:id="l7">Più che di festa Villanella al ballo</l>
-					<l xml:id="l8">[TACET]</l>
-					<l xml:id="l9">[TACET]</l>
-					<l xml:id="l10">V’andrei più liet’e pronto</l>
-					<l xml:id="l11">Che l’assettato Cerv’a la fontana.</l>
+					<l xml:id="l5">[TACET] V’andrei sicur e baldo</l>
+					<l xml:id="l6">Più che di festa Villanella al ballo</l>
+					<l xml:id="l7">[TACET]</l>
+					<l xml:id="l8">[TACET] V’andrei più liet’e pronto</l>
+					<l xml:id="l9">Che l’assettato Cerv’a la fontana.</l>
 				</lg>
 			</div>
 		</body>

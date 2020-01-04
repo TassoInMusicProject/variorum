@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Giunto a la tomba ove al suo spirto vivo</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tsg12096g</idno>
+			<idno type="label">Tsg12096g (Canto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tsg12096g-Canto">
+					<title>Le Musiche del Sig.r Sigismondo d'India. Libro Terzo a una e due voci</title>
+					<url></url>
+					<author role="composer">D'India, Sigismondo</author>
+					<publisher>Lomazzo</publisher>
+					<pubPlace>Milan</pubPlace>
+					<date when="1618">1618</date>
+					<idno type="RISM">I 31</idno>
+					<biblScope unit="page">23-24</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Voce sola.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Giunto a la tomba ove al suo spirto vivo</l>
+					<l xml:id="l2">dolorosa prigion il Ciel prescrisse</l>
+					<l xml:id="l3">pallido, freddo, muto, e quasi privo</l>
+					<l xml:id="l4">di movimento al marmo gli occhi affisse</l>
+					<l xml:id="l5">al fin sgorgando un lagrimoso rivo</l>
+					<l xml:id="l6">in un languido ohime proruppe e disse</l>
+					<l xml:id="l7">O sasso amato, &amp; honorato tanto</l>
+					<l xml:id="l8">che dentro hai le mie fiamme e fuori il pianto.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

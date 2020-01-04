@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Credi tu dunque, sciocco. che mai Dafne</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">A-1581Bbis</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="A-1581Bbis">
+					<title>Aminta favola boschereccia del sig. Torquato Tasso. Accresciuta, et ricorretta</title>
+					<url>http://www.opal.unito.it/psixsite/Teatro%20italiano%20del%20XVI%20e%20XVII%20secolo/Elenco%20opere/image218.pdf</url>
+					<publisher>Vittorio Baldini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1581">1581</date>
+					<biblScope unit="page">52-53</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Credi tu dunque, sciocco, che mai Dafne</l>
+					<l xml:id="l2">Consigliasse l’andar, se non vedesse</l>
+					<l xml:id="l3">In parte il cor di Silvia? e forse ch’ella</l>
+					<l xml:id="l4">Il sa, ne però vuol, ch’altri risappia,</l>
+					<l xml:id="l5">Ch’ella ciò sappia. hor, se’l consenso espresso</l>
+					<l xml:id="l6">Cerchi di lei, non vedi, che tu cerchi</l>
+					<l xml:id="l7">Quello che più gli dispiace? hor, dove è dunque</l>
+					<l xml:id="l8">Questo tuo desiderio di piacerle?</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

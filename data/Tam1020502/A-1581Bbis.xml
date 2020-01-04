@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Ma mentre al cor scendeva</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">A-1581Bbis</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="A-1581Bbis">
+					<title>Aminta favola boschereccia del sig. Torquato Tasso. Accresciuta, et ricorretta</title>
+					<url>http://www.opal.unito.it/psixsite/Teatro%20italiano%20del%20XVI%20e%20XVII%20secolo/Elenco%20opere/image218.pdf</url>
+					<publisher>Vittorio Baldini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1581">1581</date>
+					<biblScope unit="page">31</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Ma, mentre al cor scendeva</l>
+					<l xml:id="l2">Quella dolcezza mista</l>
+					<l xml:id="l3">D’un secreto veleno,</l>
+					<l xml:id="l4">Tal dileto n’havea,</l>
+					<l xml:id="l5">Che, fingendo, ch’anchor non mi passasse</l>
+					<l xml:id="l6">Il dolor di quel morso,</l>
+					<l xml:id="l7">Fei si, ch’ella più volte</l>
+					<l xml:id="l8">Vi replicò l’incanto.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Ne i vostri dolci baci</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S20</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S20">
+					<title>Rime, et prose del S. Torquato Tasso. Parte prima. Di nuovo reviste, et corrette, con aggiunta di quanto manca nell'altre edittioni</title>
+					<url></url>
+					<publisher>Giulio Vasalini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1583">1583</date>
+					<biblScope unit="page">Parte Prima, 52</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Ne i vostri dolci baci</l>
+					<l xml:id="l2">De l’Api è il dolce mele,</l>
+					<l xml:id="l3">E vi è il morso de l’Api anco crudele,</l>
+					<l xml:id="l4">Dunque addolcito, e punto</l>
+					<l xml:id="l5">Da voi parto in un punto.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

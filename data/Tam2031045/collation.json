@@ -1,4 +1,5 @@
 [
+"A-1581Bbis.xml",
 "A-CM.xml",
 "Tam2031045a-Canto.xml",
 "Tam2031045a-Alto.xml",
@@ -6,8 +7,16 @@
 "Tam2031045a-Basso.xml",
 "Tam2031045a-Quinto.xml",
 "Tam2031045a-Sesto.xml",
+"Tam2031045b-Canto-Canto-I.xml",
+"Tam2031045b-Canto-Canto-INOTECantoCantoI.xml",
+"Tam2031045b-Canto-Tenore-I.xml",
+"Tam2031045b-Canto-Tenore-INOTECantoTenoreI.xml",
 "Tam2031045b-CantoCantoI.xml",
 "Tam2031045b-CantoTenoreI.xml",
+"Tam2031045b-Quinto-Alto-II.xml",
+"Tam2031045b-Quinto-Alto-IINOTEQuintoAltoII.xml",
+"Tam2031045b-Quinto-Canto-II.xml",
+"Tam2031045b-Quinto-Canto-IINOTEQuintoCantoII.xml",
 "Tam2031045b-QuintoAltoII.xml",
 "Tam2031045b-QuintoCantoII.xml",
 "Tam2031045b-Basso.xml"

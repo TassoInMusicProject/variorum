@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Dura conclusion, che tutte affosca</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">A-1581B</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="A-1581B">
+					<title>Aminta fauola boschereccia, del sig. Torquato Tasso. Corretta, &amp; accresciuta</title>
+					<url></url>
+					<publisher>Vittorio Baldini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1581">1581</date>
+					<biblScope unit="page">51</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Am. Dura conclusion, che tutte attosca</l>
+					<l xml:id="l2">Le dolcezze passate. hor, con qual'arte,</l>
+					<l xml:id="l3">Crudel, tu mi tormenti?</l>
+					<l xml:id="l4">Poco dunque ti pare,</l>
+					<l xml:id="l5">Che infelice io sia,</l>
+					<l xml:id="l6">Che a crescer vieni la miseria mia.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

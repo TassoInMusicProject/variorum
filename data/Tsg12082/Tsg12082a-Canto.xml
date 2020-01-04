@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>O bella destra che 'l soave pegno</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tsg12082a</idno>
+			<idno type="label">Tsg12082a (Canto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tsg12082a-Canto">
+					<title>Le Musiche del Sig.r Sigismondo d'India. Libro Terzo a una e due voci</title>
+					<url></url>
+					<author role="composer">D'India, Sigismondo</author>
+					<publisher>Lomazzo</publisher>
+					<pubPlace>Milan</pubPlace>
+					<date when="1618">1618</date>
+					<idno type="RISM">I 31</idno>
+					<biblScope unit="page">25</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Voce sola.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">O bella destra che’l soave pegno</l>
+					<l xml:id="l2">d’amicitia e di pace à me porgesti</l>
+					<l xml:id="l3">qual'hor lasso vi trovo e qual ne vegno</l>
+					<l xml:id="l4">e voi leggiadre membra hor non son queste</l>
+					<l xml:id="l5">del mio ferino e scelerato sdegno</l>
+					<l xml:id="l6">vestigi miserabili e funesti</l>
+					<l xml:id="l7">ò di par con la man luci spietate</l>
+					<l xml:id="l8">essa le piaghe fe voi le mirate.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

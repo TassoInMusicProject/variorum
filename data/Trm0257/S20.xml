@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Ardi, Amor, se ti piace</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S20</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S20">
+					<title>Rime, et prose del S. Torquato Tasso. Parte prima. Di nuovo reviste, et corrette, con aggiunta di quanto manca nell'altre edittioni</title>
+					<url></url>
+					<publisher>Giulio Vasalini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1583">1583</date>
+					<biblScope unit="page">Parte Prima, 130</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Ardi, Amor, se ti piace</l>
+					<l xml:id="l2">L’alma mia, non che'l fianco,</l>
+					<l xml:id="l3">Ch’io non sarò di sofferir mai stanco.</l>
+					<l xml:id="l4">Ma sembri la tua face</l>
+					<l xml:id="l5">Fulgor, ch’à dentro passa,</l>
+					<l xml:id="l6">E fuor di se vestigio à pena lassa,</l>
+					<l xml:id="l7">Portino in me tuoi sdegni:</l>
+					<l xml:id="l8">Anzi martir, che segni:</l>
+					<l xml:id="l9">Pur se restar vestigi</l>
+					<l xml:id="l10">Debbon di quel martire, onde m’affliggi:</l>
+					<l xml:id="l11">Dimostrin le mie labra, e le mie gote</l>
+					<l xml:id="l12">Di cari baci impresse ardenti note.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

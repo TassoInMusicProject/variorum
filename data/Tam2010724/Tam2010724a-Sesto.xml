@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Picciola è l'ape e fa col picciol morso</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tam2010724a</idno>
+			<idno type="label">Tam2010724a (Sesto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tam2010724a-Sesto">
+					<title>Novellette a sei voci</title>
+					<url>https://orka.bibliothek.uni-kassel.de/viewer/search/-/SUPERDEFAULT%3A%28%224%C2%B0+mus.+78%22%29+OR+SUPERFULLTEXT%3A%28%224%C2%B0+mus.+78%22%29+OR+NORMDATATERMS%3A%28%224%C2%B0+mus.+78%22%29+OR+UGCTERMS%3A%28%224%C2%B0+mus.+78%22%29+OR+OVERVIEWPAGE_DESCRIPTION%3A%28%224%C2%B0+mus.+78%22%29+OR+OVERVIEWPAGE_PUBLICATIONTEXT%3A%28%224%C2%B0+mus.+78%22%29/1/-/-/</url>
+					<author role="composer">Balsamino, Simone</author>
+					<publisher>Amadino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1594">1594</date>
+					<idno type="RISM">B 785</idno>
+					<biblScope unit="page">18-20</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Canto da cantarsi senza Battuta e pause.	</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Picciola e l'Ape e fa col picciol morso</l>
+					<l xml:id="l2">Pur gravi e pur moleste ferite</l>
+					<l xml:id="l3">[TACET]</l>
+					<l xml:id="l4">[TACET]</l>
+					<l xml:id="l5">[TACET] Hor sott'a l'ombra</l>
+					<l xml:id="l6">De le palpebre [TACET]</l>
+					<l xml:id="l7">[TACET] hor dentr'a le pozzette</l>
+					<l xml:id="l8">Che form'un dolce riso in bella guancia</l>
+					<l xml:id="l9">E pur fa tanto grandi e si mortali</l>
+					<l xml:id="l10">E così immedicabile le piaghe</l>
+					<l xml:id="l11">Ohime che tutt’è piaga e tutto sangue</l>
+					<l xml:id="l12">Son le viscere mie e mille spiedi</l>
+					<l xml:id="l13">Ha ne gl'occhi di Silvia'l crud'amore.</l>
+					<l xml:id="l14">[TACET] Silvia crudel'ed empia</l>
+					<l xml:id="l15">Più che le selve O com’a te confassi</l>
+					<l xml:id="l16">Tal nome e quanto vide chi tel’ pose</l>
+					<l xml:id="l17">[TACET]</l>
+					<l xml:id="l18">[TACET] e tu dentr'al bel petto</l>
+					<l xml:id="l19">Nascondi odio disdegn' &amp; impietate</l>
+					<l xml:id="l20">Fere peggior ch’angui Leon’&amp; Orsi</l>
+					<l xml:id="l21">Che si placano quei questi placarsi</l>
+					<l xml:id="l22">Non possono per prego ne per dono</l>
+					<l xml:id="l23">Ohime quando ti porto i fior novelli</l>
+					<l xml:id="l24">Tu li riccusi ritrosetta Forse</l>
+					<l xml:id="l25">perche fior via piu bell’hai nel bel volto</l>
+					<l xml:id="l26">[TACET]</l>
+					<l xml:id="l27">[TACET]</l>
+					<l xml:id="l28">[TACET]</l>
+					<l xml:id="l29">Ohime quand’io t’offrisco il dolce mele</l>
+					<l xml:id="l30">tu lo disprezzi dispettosa Forse</l>
+					<l xml:id="l31">perche me’l via più dolc’hai ne le labra</l>
+					<l xml:id="l32">Ma se mia povertà non puo donarti</l>
+					<l xml:id="l33">Cosa ch’in te più bell’e dolce non sia</l>
+					<l xml:id="l34">Me medesmo ti dono [TACET]</l>
+					<l xml:id="l35">[TACET]</l>
+					<l xml:id="l36">[OMITTED]</l>
+					<l xml:id="l37">[OMITTED]</l>
+					<l xml:id="l38">[OMITTED]</l>
+					<l xml:id="l39">[OMITTED]</l>
+					<l xml:id="l40">[OMITTED]</l>
+					<l xml:id="l41">[OMITTED]</l>
+					<l xml:id="l42">[OMITTED]</l>
+					<l xml:id="l43">[OMITTED]</l>
+					<l xml:id="l44">[OMITTED]</l>
+					<l xml:id="l45">[OMITTED]</l>
+					<l xml:id="l46">[OMITTED]</l>
+					<l xml:id="l47">[OMITTED]</l>
+					<l xml:id="l48">[OMITTED]</l>
+					<l xml:id="l49">[OMITTED]</l>
+					<l xml:id="l50">[OMITTED]</l>
+					<l xml:id="l51">[OMITTED]</l>
+					<l xml:id="l52">[OMITTED]</l>
+					<l xml:id="l53">[TACET]</l>
+					<l xml:id="l54">[TACET]</l>
+					<l xml:id="l55">[TACET] Hai che le ville</l>
+					<l xml:id="l56">Seguon l’essempio de le gran Cittadi</l>
+					<l xml:id="l57">e veramente il secol d’oro e questo</l>
+					<l xml:id="l58">poi che sol vince l’oro e regna l’oro</l>
+					<l xml:id="l59">O chiunque tu fosti che insignasti</l>
+					<l xml:id="l60">prim’a vender l’amor sia maledetto</l>
+					<l xml:id="l61">[OMITTED]</l>
+					<l xml:id="l62">[OMITTED]</l>
+					<l xml:id="l63">[OMITTED]</l>
+					<l xml:id="l64">[OMITTED]</l>
+					<l xml:id="l65">[OMITTED]</l>
+					<l xml:id="l66">[OMITTED] [TACET]</l>
+					<l xml:id="l67">[TACET] tu le sue liete</l>
+					<l xml:id="l68">dolcezz’inamaristi [TACET]</l>
+					<l xml:id="l69">[TACET]</l>
+					<l xml:id="l70">Et e’l piu abominabil’el più sozzo</l>
+					<l xml:id="l71">Che produca la terr’e’l mar fra l’onde</l>
+					<l xml:id="l72">[TACET]</l>
+					<l xml:id="l73">[TACET]</l>
+					<l xml:id="l74">[TACET] il Cerv’adopra il corso</l>
+					<l xml:id="l75">[TACET] &amp; il bavoso</l>
+					<l xml:id="l76">Cinghial il dente e son potenz’&amp; armi</l>
+					<l xml:id="l77">De la donna bellezza e leggiadria</l>
+					<l xml:id="l78">Io perche non per mia salute adopro</l>
+					<l xml:id="l79">[TACET]</l>
+					<l xml:id="l80">[TACET]</l>
+					<l xml:id="l81">Sforzerò rappirò quel che costei</l>
+					<l xml:id="l82">Mi niega ingrat’in merto de l’Amore</l>
+					<l xml:id="l83">[OMITTED]</l>
+					<l xml:id="l84">[OMITTED]</l>
+					<l xml:id="l85">[OMITTED]</l>
+					<l xml:id="l86">[OMITTED]</l>
+					<l xml:id="l87">[OMITTED]</l>
+					<l xml:id="l88">[OMITTED]</l>
+					<l xml:id="l89">[OMITTED]</l>
+					<l xml:id="l90">[OMITTED]</l>
+					<l xml:id="l91">[OMITTED]</l>
+					<l xml:id="l92">[OMITTED]</l>
+					<l xml:id="l93">Pianga sospiri pur usi ogni sforzo</l>
+					<l xml:id="l94">Di pietà di bellezza che s’io posso</l>
+					<l xml:id="l95">Questa mano ravolgerle nel crine</l>
+					<l xml:id="l96">Indi non partirà ch’io pria non tinga</l>
+					<l xml:id="l97">L’arme mie per vendetta nel suo sangue.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

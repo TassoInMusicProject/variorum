@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Nove, Aminta, t'annuncio di conforto</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">A-1581Bbis</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="A-1581Bbis">
+					<title>Aminta favola boschereccia del sig. Torquato Tasso. Accresciuta, et ricorretta</title>
+					<url>http://www.opal.unito.it/psixsite/Teatro%20italiano%20del%20XVI%20e%20XVII%20secolo/Elenco%20opere/image218.pdf</url>
+					<publisher>Vittorio Baldini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1581">1581</date>
+					<biblScope unit="page">50</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Tir. Nuove, Aminta, t’annontio di conforto:</l>
+					<l xml:id="l2">Lascia homai questo tanto lamentarti.</l>
+					<l xml:id="l3">Am. Ohime, che di? che porte?</l>
+					<l xml:id="l4">O la vita, ò la morte?</l>
+					<l xml:id="l5">Tir. Porto salute, e vita, s’ardirai</l>
+					<l xml:id="l6">Di farti loro incontra: ma fa d'uopo</l>
+					<l xml:id="l7">D’esser un'huom, Aminta, un'huom ardito.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

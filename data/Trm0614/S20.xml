@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Al vostro dolce azzurro</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S20</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S20">
+					<title>Rime, et prose del S. Torquato Tasso. Parte prima. Di nuovo reviste, et corrette, con aggiunta di quanto manca nell'altre edittioni</title>
+					<url></url>
+					<publisher>Giulio Vasalini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1583">1583</date>
+					<biblScope unit="page">Parte Prima, 51</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Al vostro dolce azurro</l>
+					<l xml:id="l2">Ceda, ò luci serene,</l>
+					<l xml:id="l3">Qual più bel negro Italia in pregio tiene.</l>
+				</lg>
+				<lg>
+					<l xml:id="l4">Occhi, Cielo d’Amore,</l>
+					<l xml:id="l5">Sole di questo core,</l>
+					<l xml:id="l6">Sono gli altri appo voi notte, &amp; inferno.</l>
+					<l xml:id="l7">Azurro è’l Cielo eterno,</l>
+					<l xml:id="l8">E quel, ch’è bello, il bello hà sol da lui,</l>
+					<l xml:id="l9">Ei bello è sol, perch’assomiglia à vui.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

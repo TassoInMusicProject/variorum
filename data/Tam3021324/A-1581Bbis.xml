@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Dispietata pietate</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">A-1581Bbis</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="A-1581Bbis">
+					<title>Aminta favola boschereccia del sig. Torquato Tasso. Accresciuta, et ricorretta</title>
+					<url>http://www.opal.unito.it/psixsite/Teatro%20italiano%20del%20XVI%20e%20XVII%20secolo/Elenco%20opere/image218.pdf</url>
+					<publisher>Vittorio Baldini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1581">1581</date>
+					<biblScope unit="page">61</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">SCENA SECONDA. Aminta, Dafne, Nerina.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Dispietata pietate</l>
+					<l xml:id="l2">Fù la tua veramente, ò Dafne, all’hora,</l>
+					<l xml:id="l3">Che ritenesti il dardo,</l>
+					<l xml:id="l4">Però che ’l mio morire</l>
+					<l xml:id="l5">Più amaro sarà, quanto più tardo:</l>
+					<l xml:id="l6">Et hor, perche m’accogli</l>
+					<l xml:id="l7">Per si diverse strade, e per si varij</l>
+					<l xml:id="l8">Ragionamenti in vano? di che temi?</l>
+					<l xml:id="l9">Ch’io non m’uccida? temi del mio bene.</l>
+					<l xml:id="l10">[OMITTED]</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

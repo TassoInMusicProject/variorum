@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>D'aria un tempo nudrimmi, e cibo e vita</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S20</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S20">
+					<title>Rime, et prose del S. Torquato Tasso. Parte prima. Di nuovo reviste, et corrette, con aggiunta di quanto manca nell'altre edittioni</title>
+					<url></url>
+					<publisher>Giulio Vasalini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1583">1583</date>
+					<biblScope unit="page">Parte Prima, 39</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">D’aria un tempo nudrimmi, &amp; cibo, &amp; vita</l>
+					<l xml:id="l2">L’aura mi fù, che da un bel volto spira,</l>
+					<l xml:id="l3">Hor, che lei mi contende orgoglio, &amp; ira,</l>
+					<l xml:id="l4">Di qual altra esca fia l’alma nudrita?</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">I famelici spirti indarno aita</l>
+					<l xml:id="l6">Chiamano, e’ndarno il cor langue, &amp; sospira;</l>
+					<l xml:id="l7">Ma, se pur l’empia à darli morte aspira,</l>
+					<l xml:id="l8">Muoia non non di digiun, ma di ferita;</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Armi di sdegno i begli occhi, &amp; aventi</l>
+					<l xml:id="l10">Folgori à mille à mille: ecco, ch’ignuda</l>
+					<l xml:id="l11">Le porgo l’alma, non ch’inerme il seno;</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">Faccia il mio stratio i suoi desir contenti,</l>
+					<l xml:id="l13">Ben fia pietà, ch’io la riveggia almeno,</l>
+					<l xml:id="l14">Non dico pia, ma disdegnosa, &amp; cruda.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

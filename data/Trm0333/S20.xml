@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Gelo ha Madonna il seno</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S20</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S20">
+					<title>Rime, et prose del S. Torquato Tasso. Parte prima. Di nuovo reviste, et corrette, con aggiunta di quanto manca nell'altre edittioni</title>
+					<url></url>
+					<publisher>Giulio Vasalini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1583">1583</date>
+					<biblScope unit="page">Parte Prima, 50</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Gelo hà Madonna il seno, e fiamma il volto,</l>
+					<l xml:id="l2">Io son ghiaccio di fore,</l>
+					<l xml:id="l3">E’l foco ho dentro accolto.</l>
+				</lg>
+				<lg>
+					<l xml:id="l4">Questo avvien, perch’Amore</l>
+					<l xml:id="l5">Ne la sua fronte alberga, &amp; nel mio petto,</l>
+					<l xml:id="l6">Nè mai cangia ricetto</l>
+					<l xml:id="l7">Si, ch’io l’habbia ne gli occhi, ella nel core.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

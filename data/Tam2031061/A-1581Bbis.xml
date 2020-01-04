@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Bisogna a maggior prova ardir più grande</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">A-1581Bbis</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="A-1581Bbis">
+					<title>Aminta favola boschereccia del sig. Torquato Tasso. Accresciuta, et ricorretta</title>
+					<url>http://www.opal.unito.it/psixsite/Teatro%20italiano%20del%20XVI%20e%20XVII%20secolo/Elenco%20opere/image218.pdf</url>
+					<publisher>Vittorio Baldini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1581">1581</date>
+					<biblScope unit="page">51</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Tir. Bisogna à maggior prova ardir più grande.</l>
+					<l xml:id="l2">Am. Andrò per mezo i rapidi torrenti,</l>
+					<l xml:id="l3">Quando la neve si discioglie, e gonfi</l>
+					<l xml:id="l4">Li manda al mare: andrò per mezo'l foco,</l>
+					<l xml:id="l5">E ne l'Inferno, quand’ella vi sia,</l>
+					<l xml:id="l6">S’esser puo Inferno, ov’è cosa si bella.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

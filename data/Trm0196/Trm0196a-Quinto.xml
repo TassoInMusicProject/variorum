@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Felice primavera</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0196a</idno>
+			<idno type="label">Trm0196a (Quinto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0196a-Quinto">
+					<title>Il lauro verde</title>
+					<url></url>
+					<author role="composer">Virchi, Paolo</author>
+					<publisher>Baldini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1583">1583</date>
+					<idno type="RISM">1583-10</idno>
+					<biblScope unit="page">25</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Felice primavera</l>
+					<l xml:id="l2">Di bei pensier fiorisce nel mio core</l>
+					<l xml:id="l3">Novo Lauro d’Amore;</l>
+					<l xml:id="l4">A cui ride la terra, e’l Ciel d’intorno;</l>
+					<l xml:id="l5">E di bel manto adorno</l>
+					<l xml:id="l6">Di giaciti, e viole il Pò si veste;</l>
+					<l xml:id="l7">Danzan le Ninfe honeste, e i pastorelli;</l>
+					<l xml:id="l8">E cantano gli augelli infra le fronde</l>
+					<l xml:id="l9">Al mormorar de l’onde e'n grembo à i fiori</l>
+					<l xml:id="l10">Scherzan le Gratie, e i pargoletti Amori.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

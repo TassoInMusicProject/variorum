@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Arsi mentre m'amaste</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0191c</idno>
+			<idno type="label">Trm0191c (Basso)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0191c-Basso">
+					<title>Il primo libro de madrigali a cinque voci</title>
+					<url></url>
+					<author role="composer">Malpigli, Gentile</author>
+					<publisher>Amadino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1598">1598</date>
+					<idno type="RISM">M 253</idno>
+					<biblScope unit="page">12</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Arsi mentre a voi piacque</l>
+					<l xml:id="l2">Et al cortese affetto</l>
+					<l xml:id="l3">Pagò tributo di sospir il petto</l>
+					<l xml:id="l4">Ma poi ch'il vostro Amore</l>
+					<l xml:id="l5">Volgeste in altra parte</l>
+					<l xml:id="l6">Donna s'estinse anco il mio foc'in parte</l>
+					<l xml:id="l7">Sorse poi novo ardore</l>
+					<l xml:id="l8">Ma fiamma fu di sdegn'e non d'Amore.</l>
+					<l xml:id="l9">[OMITTED]</l>
+					<l xml:id="l10">[OMITTED]</l>
+					<l xml:id="l11">[OMITTED]</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>
