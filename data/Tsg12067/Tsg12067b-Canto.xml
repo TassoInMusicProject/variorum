@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Poco quindi lontan nel sen del monte</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tsg12067b</idno>
+			<idno type="label">Tsg12067b (Canto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tsg12067b-Canto">
+					<title>Le Musiche del Cavalier Sigismondo D'India a una et due voci da cantarsi nel chitarrone, clavicembalo, arpa doppia et altri stromenti da corpo</title>
+					<url></url>
+					<author role="composer">D'India, Sigismondo</author>
+					<publisher>A. Vincenzi</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1621">1621</date>
+					<idno type="RISM">I 33</idno>
+					<biblScope unit="page">16</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Seconda parte.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Poco quindi lontan nel sen del monte</l>
+					<l xml:id="l2">Scaturia mormorand'un picciol rio.</l>
+					<l xml:id="l3">Egli accorse e'l elmo empie nel fonte</l>
+					<l xml:id="l4">E tornò mesto al grande ufficio e pio</l>
+					<l xml:id="l5">tremar senti la man mentre la fronte</l>
+					<l xml:id="l6">non conosciuta ancor sciolse e scoprio</l>
+					<l xml:id="l7">La vide La conobbe è restò senza</l>
+					<l xml:id="l8">e voce e moto Ahi vista Ahi conoscenza.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

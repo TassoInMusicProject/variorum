@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Donna, se ben le chiome ho già ripiene</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">Ts1</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Ts1">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Milan</settlement>
+						<repository>Biblioteca Ambrosiana</repository>
+						<idno>S. P. 22. Cart.</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. Parte Prima, 36</locus>
+							<p>exemplar of print <span class="print">11</span>, with autograph corrections and annotations by Tasso</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Per il Signor C.B.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Donna, se ben le chiome ho già ripiene</l>
+					<l xml:id="l2">D’algente neve, il cor però non verna.</l>
+					<l xml:id="l3">Sasselo amor, che tacito il governa,</l>
+					<l xml:id="l4"><del>E’n lui conserva del suo</del> <del>amor</del> ^ardor^ ^E vive le favelle in lui^ mantiene.</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Etna cosi <del>sul</del> ^nel^ dorso alto sostiene</l>
+					<l xml:id="l6">Le brine, e’l gelo, e dentro ha fiamma eterna:</l>
+					<l xml:id="l7">Selce cosi gelata è ne l’esterna</l>
+					<l xml:id="l8">Parte, e’l foco nativo ha nelle vene.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Ben se’l petto talhor mi ripercuote</l>
+					<l xml:id="l10">Colpo de’ suoi begli occhi, à più d’un segno</l>
+					<l xml:id="l11"><del>Vengon le fiamme mie nel</del> ^Mostra l'interne fiamme il^ mio sembiante.</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">Ma tu risp<del>i</del>armi i colpi, e vuoi, ch’ignote</l>
+					<l xml:id="l13">Siano. forse è pietà, forse è disdegno,</l>
+					<l xml:id="l14"><del>Ch’alzi tanto il desio</del> ^che tanto osi sperar^ canuto amante.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

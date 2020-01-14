@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Or che l'aura mia dolce altrove spira</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">Ts1</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Ts1">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Milan</settlement>
+						<repository>Biblioteca Ambrosiana</repository>
+						<idno>S. P. 22. Cart.</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. Parte Prima, 30</locus>
+							<p>exemplar of print <span class="print">11</span>, with autograph corrections and annotations by Tasso</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Alla sua Donna in Villa</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Hor, che l’aura mia dolce altrove spira</l>
+					<l xml:id="l2">Frà selve, e campi; ahi ben di ferro ha’l core</l>
+					<l xml:id="l3">Chi ^vive^ quì solingo <del>vive</del>, ove d’horrore</l>
+					<l xml:id="l4">E’ cieca valle, di miseria, e d’ira:</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Quì nessun raggio hor di beltà si mira,</l>
+					<l xml:id="l6">Rustico è fatto, e co’ Bifolc<del>h</del>i Amore</l>
+					<l xml:id="l7">Pasce gli armenti, e’n sù l’estivo ardore</l>
+					<l xml:id="l8">Hor tratta il rastro, &amp; hor la falce aggira:</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">O’ fortunata selva, ò liete piagge,</l>
+					<l xml:id="l10">Ove le fere, ove le piante, e i sassi,</l>
+					<l xml:id="l11">Appreso han^no^ <del>di</del> valor^,^ senso, e costume: ^imparano valor senso e costume^</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">Hor, che far non potria quel dolce lume,</l>
+					<l xml:id="l13">Se fa, dond’egli parte, ov’egli stassi</l>
+					<l xml:id="l14">Civili i boschi, e le Città selvagge?</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

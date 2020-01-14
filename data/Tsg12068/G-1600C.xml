@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Non morì già: ché sue virtuti accolse</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1600C</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1600C">
+					<title>Goffredo overo Gierusalemme liberata: poema heroico del s. Torquato Tasso; nel quale sono state aggiunte molte stanze levate, con le varie lettioni; &amp; postivi gli argomenti, &amp; allegorie a ciascun canto d'incerto auttore; con l'aggiunta de' Cinque canti del sig. Camillo Camilli et i loro argomenti del sig. Francesco Melchiori opitergino. Di nuovo con somma diligenza corretto et ristampato</title>
+					<url>https://books.google.com/books?id=U7tfDDRwo0sC&amp;printsec=frontcover&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false</url>
+					<publisher>Giovanni Battista Ciotti</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1600">1600</date>
+					<biblScope unit="page">381</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Non morì già, che sue virtuti accolse</l>
+					<l xml:id="l2">Tutte in quel punto, e in guardia al cor le mise,</l>
+					<l xml:id="l3">E premendo il suo affanno à dar si volse</l>
+					<l xml:id="l4">Vita con l’acqua, à chi col ferro uccise.</l>
+					<l xml:id="l5">Mentre egli il suon de’ sacri detti sciolse.</l>
+					<l xml:id="l6">Colei di gioia trasmutossi, e rise;</l>
+					<l xml:id="l7">E in atto di morir lieto, e vivace,</l>
+					<l xml:id="l8">Dir parea: s’apre il cielo, io vado in pace.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

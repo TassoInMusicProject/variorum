@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Sai che là corre il mondo, ove più versi</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1582P</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1582P">
+					<title>Il Goffredo del s. Torquato Tasso, nouamente corretto, et ristampato. Con gli argomenti, &amp; allegorie a ciascun canto d'incerto auttore. Aggiuntovi molte stanze leuate, con le varie lettioni; et insieme una copiosissima tauola de’ nomi proprij, et materie principali</title>
+					<url>https://books.google.com/books?id=rXyueRwehY0C&amp;printsec=frontcover&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false</url>
+					<publisher>Grazioso Percaccino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1582">1582</date>
+					<biblScope unit="page">1r</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Sai, che là corre il Mondo, ove più versi</l>
+					<l xml:id="l2">Di sue dolcezze il lusinghier Parnaso,</l>
+					<l xml:id="l3">E che’l vero condito in molli versi</l>
+					<l xml:id="l4">I più schivi allettando hà persuaso.</l>
+					<l xml:id="l5">Cosi à l’egro fanciul porghiamo aspersi</l>
+					<l xml:id="l6">Di soavi licor gli orli del vaso,</l>
+					<l xml:id="l7">Succhi amari, ingannato, intanto ei beve,</l>
+					<l xml:id="l8">Et da l'inganno suo vita riceve.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

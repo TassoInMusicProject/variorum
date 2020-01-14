@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Stavasi Amor quasi in regno assiso</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">Ts1</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Ts1">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Milan</settlement>
+						<repository>Biblioteca Ambrosiana</repository>
+						<idno>S. P. 22. Cart.</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. Parte Prima, 15</locus>
+							<p>exemplar of print <span class="print">11</span>, with autograph corrections and annotations by Tasso</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Per le bellezze della sua Donna</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Stavasi amor, quasi in suo regno, assiso</l>
+					<l xml:id="l2">Nel seren di due luci ardenti, &amp; alme,</l>
+					<l xml:id="l3">Mille <del>vittrici</del> ^honorate^ insegne, e mille palme</l>
+					<l xml:id="l4">Trionfali spiegando <del>entro’l</del> ^in un^ bel viso;</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Quando rivolto à me, che’ntento e fiso</l>
+					<l xml:id="l6">Mirava le sue ricche altere salme,</l>
+					<l xml:id="l7">Disse. ^tu^ Canterai <del>tù</del>, come tant’alme</l>
+					<l xml:id="l8">Habbia, e te stesso ancor vinto, e conquiso.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Ne <del>tua cetra sonar</del> ^s'oda risonar^ l’arme di Marte</l>
+					<l xml:id="l10"><del>Più s’oda homai;</del> ^la voce tua:^ ma l’alte e chiare glorie,</l>
+					<l xml:id="l11">E i divin pregi nostri, e di costei,</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">Cosi convien, <del>c’hor</del> ^che^ ne l’altrui vittorie</l>
+					<l xml:id="l13">Canti mia servitute, e i <del>lacci</del> ^danni^ miei;</l>
+					<l xml:id="l14">E tessa de’ miei danni historia in carte.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

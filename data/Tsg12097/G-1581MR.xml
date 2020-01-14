@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Non di morte sei tu ma di vivaci</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1581MR</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1581MR">
+					<title>Gerusalemme liberata del sig. Torquato Tasso […] Aggiunti à ciascun canto sono gli argomenti del sig. Oratio Ariosti</title>
+					<url>https://numelyo.bm-lyon.fr/f_view/BML:BML_00GOO0100137001100780290#</url>
+					<publisher>Alessandro Marsilij &amp; Pietro Roussin</publisher>
+					<pubPlace>Lyon</pubPlace>
+					<date when="1581">1581</date>
+					<biblScope unit="page">202r</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Non di morte sei tù, ma di vivaci</l>
+					<l xml:id="l2">Ceneri albergo: ov'è nascosto Amore.</l>
+					<l xml:id="l3">E ben sent'io da te l'usate faci,</l>
+					<l xml:id="l4">Men dolci si, ma non men calde al core.</l>
+					<l xml:id="l5">Deh prendi i miei sospiri, e questi baci</l>
+					<l xml:id="l6">Prendi: ch’io bagno di doglioso humore;</l>
+					<l xml:id="l7">E dalli tù (poi ch’io non posso) almeno</l>
+					<l xml:id="l8">A l’ amate reliquie, c’hai nel seno.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

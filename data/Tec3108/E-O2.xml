@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Non sospirar pastor, non sospirare</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">E-O2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="E-O2">
+					<msIdentifier>
+						<region>Pesaro</region>
+						<repository>Biblioteca Oliveriana</repository>
+						<idno>ms. 374,II</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 129r</locus>
+							<p>unknonw hand</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Egloga Prima Di Torquato Tasso</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">A[MARILLI]. Non sospirar Pastor non sospirare,</l>
+					<l xml:id="l2">Queste lagrime amare</l>
+					<l xml:id="l3">Che spargi da tuoi lumi</l>
+					<l xml:id="l4">Non spegneran scintilla del ardore</l>
+					<l xml:id="l5">Ove ogn'hor ti consumi</l>
+					<l xml:id="l6">Che s’Amor da le fiamme del tuo core</l>
+					<l xml:id="l7">Può trarre humore, e venti</l>
+					<l xml:id="l8">Trarrà dal pianto ancor faville ardenti.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

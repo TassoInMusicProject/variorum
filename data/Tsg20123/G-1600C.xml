@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Piacquele assai che 'n quelle valli ombrose</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1600C</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1600C">
+					<title>Goffredo overo Gierusalemme liberata: poema heroico del s. Torquato Tasso; nel quale sono state aggiunte molte stanze levate, con le varie lettioni; &amp; postivi gli argomenti, &amp; allegorie a ciascun canto d'incerto auttore; con l'aggiunta de' Cinque canti del sig. Camillo Camilli et i loro argomenti del sig. Francesco Melchiori opitergino. Di nuovo con somma diligenza corretto et ristampato</title>
+					<url>https://books.google.com/books?id=U7tfDDRwo0sC&amp;printsec=frontcover&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false</url>
+					<publisher>Giovanni Battista Ciotti</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1600">1600</date>
+					<biblScope unit="page">570570</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Piacquele assai, che 'n quelle valli ombrose</l>
+					<l xml:id="l2">L’orme sue erranti il caso abbia condutte.</l>
+					<l xml:id="l3">Quì scese dal destriero, e quì depose</l>
+					<l xml:id="l4">E l’arco, e la faretra, e l’arme tutte.</l>
+					<l xml:id="l5">Arme infelici (disse) e vergognose,</l>
+					<l xml:id="l6">Ch’usciste fuor de la battaglia asciutte;</l>
+					<l xml:id="l7">Quì vi depongo, e quì sepolte state,</l>
+					<l xml:id="l8">Poi cheù l’ingiurie mie mal vendicate.</l>
+					<l xml:id="l9">Ah, mà non fia, che frà tant’arme, e tante</l>
+					<l xml:id="l10">Una di sangue hoggi si bagni almeno?</l>
+					<l xml:id="l11">S’ogni altro petto à voi par di diamante,</l>
+					<l xml:id="l12">Osarete piagar feminil seno?</l>
+					<l xml:id="l13">In questo mio, che vi stà nudo avante</l>
+					<l xml:id="l14">I pregj vostri, e le vittorie sieno.</l>
+					<l xml:id="l15">Tenero à colpi è questo mio; ben sallo</l>
+					<l xml:id="l16">Amor, che mai non vi saetta in fallo.</l>
+					<l xml:id="l17">@CATAL   OGNUM:	Tsg20124</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

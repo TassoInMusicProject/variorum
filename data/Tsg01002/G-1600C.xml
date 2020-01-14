@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>O musa, tu che di caduchi allori</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1600C</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1600C">
+					<title>Goffredo overo Gierusalemme liberata: poema heroico del s. Torquato Tasso; nel quale sono state aggiunte molte stanze levate, con le varie lettioni; &amp; postivi gli argomenti, &amp; allegorie a ciascun canto d'incerto auttore; con l'aggiunta de' Cinque canti del sig. Camillo Camilli et i loro argomenti del sig. Francesco Melchiori opitergino. Di nuovo con somma diligenza corretto et ristampato</title>
+					<url>https://books.google.com/books?id=U7tfDDRwo0sC&amp;printsec=frontcover&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false</url>
+					<publisher>Giovanni Battista Ciotti</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1600">1600</date>
+					<biblScope unit="page">2</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">O Musa, tù, che di caduchi Allori</l>
+					<l xml:id="l2">Non circondi la fronte in Helicona;</l>
+					<l xml:id="l3">Ma sù nel Cielo infra i beati Chori</l>
+					<l xml:id="l4">Hai di stelle immortali aurea corona;</l>
+					<l xml:id="l5">Tù spira al petto mio celesti ardori;</l>
+					<l xml:id="l6">Tù rischiara il mio canto, e tù perdona,</l>
+					<l xml:id="l7">S’intesso fregi al ver, s’adorno in parte</l>
+					<l xml:id="l8">D’altri diletti, che de’ tuoi le carte.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

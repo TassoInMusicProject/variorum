@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Ed amando morrò: felice giorno</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1600C</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1600C">
+					<title>Goffredo overo Gierusalemme liberata: poema heroico del s. Torquato Tasso; nel quale sono state aggiunte molte stanze levate, con le varie lettioni; &amp; postivi gli argomenti, &amp; allegorie a ciascun canto d'incerto auttore; con l'aggiunta de' Cinque canti del sig. Camillo Camilli et i loro argomenti del sig. Francesco Melchiori opitergino. Di nuovo con somma diligenza corretto et ristampato</title>
+					<url>https://books.google.com/books?id=U7tfDDRwo0sC&amp;printsec=frontcover&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false</url>
+					<publisher>Giovanni Battista Ciotti</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1600">1600</date>
+					<biblScope unit="page">339</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Et amando morrò: felice giorno,</l>
+					<l xml:id="l2">Quando, che sia; ma più felice molto,</l>
+					<l xml:id="l3">Se, come errando hor vado à tè dintorno,</l>
+					<l xml:id="l4">All'hor sarò dentro al tuo grembo accolto,</l>
+					<l xml:id="l5">Faccian l’anime amiche in ciel soggiorno,</l>
+					<l xml:id="l6">Sia l’un cenere, e l’altro in un sepolto,</l>
+					<l xml:id="l7">Ciò, che’l viver non hebbe, habbia la morte.</l>
+					<l xml:id="l8">Ò (sperar sì lice) altera sorte.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

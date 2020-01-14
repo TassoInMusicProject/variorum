@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Amico hai vinto; io ti perdon, perdona</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tsg12066a</idno>
+			<idno type="label">Tsg12066a (Alto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tsg12066a-Alto">
+					<title>Il terzo libro de madrigali a cinque voci. Novamente composto et dato in luce</title>
+					<url>http://pbc.gda.pl/dlibra/docmetadata?id=79137&amp;from=&amp;dirids=1&amp;ver_id=&amp;lp=1&amp;QI=</url>
+					<author role="composer">Massaino, Tiburtio</author>
+					<publisher>Gardano</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1587">1587</date>
+					<idno type="RISM">M 1292</idno>
+					<biblScope unit="page">18</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Seconda parte.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Amico hai vinto; [TACET] perdona</l>
+					<l xml:id="l2">Tu non già'l corpo che piu nulla hor pave,</l>
+					<l xml:id="l3">A l’alma sì deh per lei prega e dona</l>
+					<l xml:id="l4">Battesmo à me ch’ogni sua machia lave.</l>
+					<l xml:id="l5">In queste voci languide risuona</l>
+					<l xml:id="l6">Un non so che di flebile e soave</l>
+					<l xml:id="l7">Ch’al cor gli serpe &amp; ogni sdegn'ammorza,</l>
+					<l xml:id="l8">E gl'occhi à lagrimar gli invoglia e sforza.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

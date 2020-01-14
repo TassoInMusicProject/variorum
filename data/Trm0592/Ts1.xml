@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Negli anni acerbi tua purpurea rosa</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">Ts1</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Ts1">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Milan</settlement>
+						<repository>Biblioteca Ambrosiana</repository>
+						<idno>S. P. 22. Cart.</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. Parte Prima, 32</locus>
+							<p>exemplar of print <span class="print">11</span>, with autograph corrections and annotations by Tasso</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">All’Illustriss. Madama Lucretia Duchessa d’Urbino</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1"><del>Negli anni acerbi tuoi</del> ^Già solevi parer^ purpurea rosa</l>
+					<l xml:id="l2"><del>Sembravi tù, che à i rai tepidi, à l’ora</del> ^ch'a' caldi raggi a lo spirar de l'ora^</l>
+					<l xml:id="l3"><del>Non apre’l sen, ma</del> ^rinchiude il grembo^ nel suo verde ancora</l>
+					<l xml:id="l4">Verginella s’asconde, e vergognosa;</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">O’ <del>più tosto parei</del> ^mi sembravi pur^ (che mortal cosa</l>
+					<l xml:id="l6">Non s’assomiglia à te) celeste Aurora,</l>
+					<l xml:id="l7">Che le campagne imperla, e i monti indora</l>
+					<l xml:id="l8">Lucida in <del>Ciel</del> ^bel^ sereno, e ruggiadosa;</l>
+				</lg>
+				<lg>
+					<l xml:id="l9"><del>Hor la men verde età nulla à te toglie;</del> ^<del> Hor nulla a te l'età men verde toglie</del>^ ^Ma nulla a te l'età non fresca hor toglie^</l>
+					<l xml:id="l10">Nè te, benche negletta, in manto adorno</l>
+					<l xml:id="l11">Giovinetta beltà vince, ò pareggia;</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">Cosi più vago è’l fior, poi che le foglie</l>
+					<l xml:id="l13">Spiega odorate, e’l Sol nel mezzo giorno</l>
+					<l xml:id="l14">Via più, che nel mattin luce, e fiammeggia.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Ma che? squallido e scuro anco mi piaci</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1582P</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1582P">
+					<title>Il Goffredo del s. Torquato Tasso, nouamente corretto, et ristampato. Con gli argomenti, &amp; allegorie a ciascun canto d'incerto auttore. Aggiuntovi molte stanze leuate, con le varie lettioni; et insieme una copiosissima tauola de’ nomi proprij, et materie principali</title>
+					<url>https://books.google.com/books?id=rXyueRwehY0C&amp;printsec=frontcover&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false</url>
+					<publisher>Grazioso Percaccino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1582">1582</date>
+					<biblScope unit="page">105r</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Ma che? squallido; e scuro anco mi piaci,</l>
+					<l xml:id="l2">Anima bella, se quinci entro gire,</l>
+					<l xml:id="l3">S’odi il mio pianto, e le mie voglie audaci,</l>
+					<l xml:id="l4">Perdona il furto, e ’l temerario ardire.</l>
+					<l xml:id="l5">Da le pallide labbra i freddi baci,</l>
+					<l xml:id="l6">Che più caldi sperai, vuò pur rapire.</l>
+					<l xml:id="l7">Parte torrò di sue ragioni à Morte</l>
+					<l xml:id="l8">Baciando queste labbra essangui, e smorte.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

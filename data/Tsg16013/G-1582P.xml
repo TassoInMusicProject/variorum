@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Vola fra gli altri un che le piume ha sparte</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1582P</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1582P">
+					<title>Il Goffredo del s. Torquato Tasso, nouamente corretto, et ristampato. Con gli argomenti, &amp; allegorie a ciascun canto d'incerto auttore. Aggiuntovi molte stanze leuate, con le varie lettioni; et insieme una copiosissima tauola de’ nomi proprij, et materie principali</title>
+					<url>https://books.google.com/books?id=rXyueRwehY0C&amp;printsec=frontcover&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false</url>
+					<publisher>Grazioso Percaccino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1582">1582</date>
+					<biblScope unit="page">83v</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Vola frà gli altri un, che le piume hà sparte</l>
+					<l xml:id="l2">Di color vari, &amp; ha purpureo il rostro,</l>
+					<l xml:id="l3">E lingua snoda in guisa larga, e parte</l>
+					<l xml:id="l4">La voce sì, ch’assembra il sermon nostro.</l>
+					<l xml:id="l5">Quest’ivi all’hor continuò con arte</l>
+					<l xml:id="l6">Tanto il parlar, che fù mirabil mostro.</l>
+					<l xml:id="l7">Tacquero gli altri ad ascoltarlo intenti,</l>
+					<l xml:id="l8">E fermaro i sussurri in aria i venti.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

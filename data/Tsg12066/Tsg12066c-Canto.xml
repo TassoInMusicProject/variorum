@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Amico hai vinto; io ti perdon, perdona</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tsg12066c</idno>
+			<idno type="label">Tsg12066c (Canto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tsg12066c-Canto">
+					<title>Le Musiche del Cavalier Sigismondo D'India a una et due voci da cantarsi nel chitarrone, clavicembalo, arpa doppia et altri stromenti da corpo</title>
+					<url></url>
+					<author role="composer">D'India, Sigismondo</author>
+					<publisher>A. Vincenzi</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1621">1621</date>
+					<idno type="RISM">I 33</idno>
+					<biblScope unit="page">15</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Parole del Tasso. Prima parte</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Amico hai vint'io ti perdon Perdona</l>
+					<l xml:id="l2">tù ancora Al corpo nò che nulla pave</l>
+					<l xml:id="l3">al Alma sì Deh per lei prega è dona</l>
+					<l xml:id="l4">Battesmo à mè ch’ogni mia colpa lave</l>
+					<l xml:id="l5">In queste voci languide risuona</l>
+					<l xml:id="l6">un non sò che di flebile e soave</l>
+					<l xml:id="l7">Ch’al cor gli serpe, &amp; ogni sdegno ammorza</l>
+					<l xml:id="l8">E gl'occhi à lacrimar gl'invoglia è sforza.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

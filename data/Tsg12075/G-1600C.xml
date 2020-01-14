@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Io vivo? Io spiro ancora? E gli odiosi</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1600C</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1600C">
+					<title>Goffredo overo Gierusalemme liberata: poema heroico del s. Torquato Tasso; nel quale sono state aggiunte molte stanze levate, con le varie lettioni; &amp; postivi gli argomenti, &amp; allegorie a ciascun canto d'incerto auttore; con l'aggiunta de' Cinque canti del sig. Camillo Camilli et i loro argomenti del sig. Francesco Melchiori opitergino. Di nuovo con somma diligenza corretto et ristampato</title>
+					<url>https://books.google.com/books?id=U7tfDDRwo0sC&amp;printsec=frontcover&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false</url>
+					<publisher>Giovanni Battista Ciotti</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1600">1600</date>
+					<biblScope unit="page">333</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Io vivo? io spiro ancora? e gli odiosi</l>
+					<l xml:id="l2">Rai mira ancor di questo infauste dìe?</l>
+					<l xml:id="l3">Di testimon de miei misfatti ascosi,</l>
+					<l xml:id="l4">Che rimprovera à me le colpe mie.</l>
+					<l xml:id="l5">Ahi man timida, e lenta, hor che non osi</l>
+					<l xml:id="l6">Tù, che sai tutte del ferir le vie;</l>
+					<l xml:id="l7">Tù ministra di morte empia, &amp; infame</l>
+					<l xml:id="l8">Di questa vita rea troncar lo stame?</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>La bella pargoletta</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">Ts1</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Ts1">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Milan</settlement>
+						<repository>Biblioteca Ambrosiana</repository>
+						<idno>S. P. 22. Cart.</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. Parte Prima, 50</locus>
+							<p>exemplar of print <span class="print">11</span>, with autograph corrections and annotations by Tasso</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Madrigale</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">La bella pargoletta</l>
+					<l xml:id="l2"><del>Ch’ancor non sente amore,</del> ^che non conosce Amore^</l>
+					<l xml:id="l3">Ne pur noto ha per fama il suo valore,</l>
+					<l xml:id="l4">Co’ begli occhi saetta;</l>
+					<l xml:id="l5">E co’l soave riso,</l>
+					<l xml:id="l6">Nè s’accorge, che <del>l’arme ha nel bel</del> ^<del>tien</del>^ ^d'haver l'arme ne'l^ viso.</l>
+					<l xml:id="l7">Qual colpa ha nel morire</l>
+					<l xml:id="l8"><del>De la trafitta gente,</del> ^Di chi la vede, o sente^</l>
+					<l xml:id="l9">[OMITTED]</l>
+					<l xml:id="l10">Se non sà di ferire?</l>
+					<l xml:id="l11"><del>O bellezza homicida,</del> ^o beltà micidiale^ &amp; innocente.</l>
+					<l xml:id="l12">Tempo è, ch’<del>Amor</del> ^egli^ ti mostri</l>
+					<l xml:id="l13">Homai ne le tue piaghe i dolor nostri.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

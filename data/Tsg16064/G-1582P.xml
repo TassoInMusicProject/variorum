@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Che fa più meco il pianto? Altr'arme, altr'arte</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1582P</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1582P">
+					<title>Il Goffredo del s. Torquato Tasso, nouamente corretto, et ristampato. Con gli argomenti, &amp; allegorie a ciascun canto d'incerto auttore. Aggiuntovi molte stanze leuate, con le varie lettioni; et insieme una copiosissima tauola de’ nomi proprij, et materie principali</title>
+					<url>https://books.google.com/books?id=rXyueRwehY0C&amp;printsec=frontcover&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false</url>
+					<publisher>Grazioso Percaccino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1582">1582</date>
+					<biblScope unit="page">86r</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Che fà più meco il pianto? altr’arme, altr’arte</l>
+					<l xml:id="l2">Io non hò dunque? ahi seguirò pur l’empio;</l>
+					<l xml:id="l3">Nè l’Abisso per lui riposta parte,</l>
+					<l xml:id="l4">Nè i'l Ciel sarà, per lui sicuro Tempio.</l>
+					<l xml:id="l5">Già il giungo, e’l prendo, e’l cor gli svello, e sparte</l>
+					<l xml:id="l6">Le membra appendo, à i dispietati esempio,</l>
+					<l xml:id="l7">Mastro è di ferità; vuò superarlo</l>
+					<l xml:id="l8">Ne l’arti sue; ma dove son? che parlo?</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Ché qual tenera rosa</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">E-O2</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="E-O2">
+					<msIdentifier>
+						<region>Pesaro</region>
+						<repository>Biblioteca Oliveriana</repository>
+						<idno>ms. 374,II</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 133v</locus>
+							<p>unknonw hand</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Che qual tenera rosa</l>
+					<l xml:id="l2">Alla rugiada, à l'ora</l>
+					<l xml:id="l3">Della nascente Aurora</l>
+					<l xml:id="l4">Non apre vergognosa</l>
+					<l xml:id="l5">Il suo vermiglio, et odorato seno</l>
+					<l xml:id="l6">Ma poi che più vicino il caldo sente</l>
+					<l xml:id="l7">Del gran Pianeta, ardente</l>
+					<l xml:id="l8">Apre languendo le purpuree spoglie</l>
+					<l xml:id="l9">E'l bel raggio del sole in grembo accoglie.</l>
+					<l xml:id="l10">Cosi la verginella</l>
+					<l xml:id="l11">A i pianti, et ai sospiri</l>
+					<l xml:id="l12">Di novello amator che lunge miri</l>
+					<l xml:id="l13">Chiude il ritroso petto,</l>
+					<l xml:id="l14">Ma poi che s'avvicina il vivo ardore</l>
+					<l xml:id="l15">D'un'amoroso aspetto</l>
+					<l xml:id="l16">Languendo apre la via per gli occhi al core</l>
+					<l xml:id="l17">E nel virgineo sen riceve amore.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

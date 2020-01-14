@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Tre gran donne vid'io ch'in esser belle</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">Ts1</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Ts1">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Milan</settlement>
+						<repository>Biblioteca Ambrosiana</repository>
+						<idno>S. P. 22. Cart.</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. Parte Prima, 30</locus>
+							<p>exemplar of print <span class="print">11</span>, with autograph corrections and annotations by Tasso</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">A tre Gentildonne, in una delle quali s’innamorò</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Tre gran Donne vid’io, ch’in esser belle</l>
+					<l xml:id="l2">Mostran disparità, ma somigliante,</l>
+					<l xml:id="l3">Si che ne gli atti, e’n ogni lor sembiante</l>
+					<l xml:id="l4">Scrive<del>r</del> Natura <del>par</del>; Noi siam ^trè^ sorelle.</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Ben ciascuna io lodai, pur una d’elle</l>
+					<l xml:id="l6">Mi piacque sì, ch’io ne divenni Amante,</l>
+					<l xml:id="l7">Et ancor fia, ch’io ne sospiri, e cante,</l>
+					<l xml:id="l8">E’l mio foco, e’l suo nome alzi à le stelle;</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Lei sol vagheggio, &amp; se pur l’altre io miro,</l>
+					<l xml:id="l10"><del>Guardo nel vago altrui quel, ch’è in lei vago,</del> ^vo cercando in altrui quel c'ha di vago,^</l>
+					<l xml:id="l11">Et ne gl’Idoli suoi vien, ch’io l’adore;</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">Ma cotanto somiglia al ver l’imago,</l>
+					<l xml:id="l13">Ch’erro, &amp; dolc’è l’error, pur ne sospiro,</l>
+					<l xml:id="l14">Come d’ingiusta Idolatria d’Amore.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Mentre ne' cari balli in loco adorno</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">Ts1</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Ts1">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Milan</settlement>
+						<repository>Biblioteca Ambrosiana</repository>
+						<idno>S. P. 22. Cart.</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. Sopra il ballo della torcia</locus>
+							<p>exemplar of print <span class="print">11</span>, with autograph corrections and annotations by Tasso</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Prima Parte, 4</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1"><del>Ove tra care danze in bel soggiorno</del> ^<del>Ove tra balli in caro albergo adorno</del> ^Ove tra care <del>danze</del>balli in loco adorno^</l>
+					<l xml:id="l2">Si trahean le notturne, e placid’hore,</l>
+					<l xml:id="l3">Face, che nel suo foco accese Amore,</l>
+					<l xml:id="l4">Lieto n’apriva à mezza notte il giorno:</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">E da candide man vibrata intorno</l>
+					<l xml:id="l6">Spargea faville di sì puro ardore,</l>
+					<l xml:id="l7"><del>Che ^pareva^ rendea vago d’arder seco il core,</del> ^Che sembrava recar gioia et honore:^</l>
+					<l xml:id="l8"><del>E scherzar, qual farfalla, al raggio adorno:</del> ^A pochi eletti, a gli altri invidia e scorno:^</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Quand’^ecco à te man cruda offerta fue,</del> ^a te data fu man cruda e bella^</l>
+					<l xml:id="l10">E da te presa, e spenta: e ciechi, e mesti</l>
+					<l xml:id="l11">Restar mill’occhi à lo <del>spirar</del> ^sparir^ d’un lume.</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">Ahi come allhor cangiasti arte, e costume:</l>
+					<l xml:id="l13"><del>Tu ministra d’Amor, tu, che le sue</del> ^Tu che suoli avvivar la sua facella^</l>
+					<l xml:id="l14"><del>Fiamme suoli avvivar, tu l’estinguesti.</del> ^Tu ministra d'Amor tu l'estinguesti^</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

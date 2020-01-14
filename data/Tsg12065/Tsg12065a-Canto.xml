@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Segue egli la vittoria, e la trafitta</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tsg12065a</idno>
+			<idno type="label">Tsg12065a (Canto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tsg12065a-Canto">
+					<title>Il terzo libro de madrigali a cinque voci. Novamente composto et dato in luce</title>
+					<url>http://pbc.gda.pl/dlibra/docmetadata?id=79137&amp;from=&amp;dirids=1&amp;ver_id=&amp;lp=1&amp;QI=</url>
+					<author role="composer">Massaino, Tiburtio</author>
+					<publisher>Gardano</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1587">1587</date>
+					<idno type="RISM">M1292</idno>
+					<biblScope unit="page">17</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Prima parte.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Segue egli la vittoria e la trafflitta</l>
+					<l xml:id="l2">Vergine minacciando incalza e preme</l>
+					<l xml:id="l3">Ella mentre cadea la voce afflitta</l>
+					<l xml:id="l4">Movendo disse le parole estreme</l>
+					<l xml:id="l5">Parole ch’à lei novo un spirto ditta</l>
+					<l xml:id="l6">Spirto di fè di carità e di speme</l>
+					<l xml:id="l7">Fede c’hor Dio l'infonde, e se rubella</l>
+					<l xml:id="l8">Vivendo fù, la vuol in morte ancella.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

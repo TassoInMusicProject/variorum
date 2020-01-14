@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>O nemica d'Amor, che sì ti rendi</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">Ts1</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Ts1">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Milan</settlement>
+						<repository>Biblioteca Ambrosiana</repository>
+						<idno>S. P. 22. Cart.</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. Parte Prima, 15</locus>
+							<p>exemplar of print <span class="print">11</span>, with autograph corrections and annotations by Tasso</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Alla Madre de la sua Donna</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">O nemica d’Amor, che sì ti rendi</l>
+					<l xml:id="l2">Schiva di quel, ch’altrui dà pace e vita,</l>
+					<l xml:id="l3">E dolce schiera à suoi <del>diporti</del> ^diletti^ ^ne suoi giochi^ unita</l>
+					<l xml:id="l4">Dispergi e parti, e lui turbi, &amp; offendi:</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Se de l’altrui bellezza invidia prendi,</l>
+					<l xml:id="l6"><del>Che de’</del> ^Mentre^ tuoi danni à rimembrar t’invita,</l>
+					<l xml:id="l7"><del>Lassa, che non t’ascondi, &amp; in romita</del> ^che non t'ascondi homai sola e romita^</l>
+					<l xml:id="l8"><del>Parte, e selvaggia i giorni estremi spendi?</del> ^e'n fosca cella i giorni splendi?^</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Che non conviensi già tra le felici</l>
+					<l xml:id="l10">Squadre d’Amore, e tra’l diletto e’l gioco,</l>
+					<l xml:id="l11">^in^ Donna antica <del>in</del> imagine di morte.</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">Deh fuggi <del>homai dal</del> ^il^ Sole in chiuso loco,</l>
+					<l xml:id="l13">Come notturno augel: <del>ne' tristi auspici</del> <del>e tra gli augei</del> ^gli horrori amici^</l>
+					<l xml:id="l14"><del>Ne tuo apparir à lieti amanti apporte.</del> ^Ne qui <del>spavento</del> terrore il tuo sembiante apporte.^</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

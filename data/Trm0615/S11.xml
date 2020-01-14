@@ -18,7 +18,7 @@
 					<publisher>Vittorio Baldini</publisher>
 					<pubPlace>Ferrara</pubPlace>
 					<date when="1582">1582</date>
-					<biblScope unit="page">Parte Prima, 50</biblScope>
+					<biblScope unit="page">Parte Prima, 49</biblScope>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -26,7 +26,7 @@
 	<text>
 		<body xml:space="preserve">
 			<div type="dedication">
-				<p xml:id="p1"></p>
+				<p xml:id="p1">Madrigale</p>
 			</div>
 			<div>
 				<lg>

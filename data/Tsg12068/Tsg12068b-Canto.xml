@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Non morì già: ché sue virtuti accolse</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tsg12068b</idno>
+			<idno type="label">Tsg12068b (Canto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tsg12068b-Canto">
+					<title>Le Musiche del Cavalier Sigismondo D'India a una et due voci da cantarsi nel chitarrone, clavicembalo, arpa doppia et altri stromenti da corpo</title>
+					<url></url>
+					<author role="composer">D'India, Sigismondo</author>
+					<publisher>A. Vincenzi</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1621">1621</date>
+					<idno type="RISM">I 33</idno>
+					<biblScope unit="page">17</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Terza parte</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Non morì gia che sue virtudi accolse</l>
+					<l xml:id="l2">tutte in quel punto e in guardia al cor Le mise</l>
+					<l xml:id="l3">E premendo il suo affanno à dar si volse</l>
+					<l xml:id="l4">vita con l’acqua à chi col ferro uccise</l>
+					<l xml:id="l5">Mentr'egli il suon de sacri detti sciolse</l>
+					<l xml:id="l6">colei di gioia trasmutossi e rise</l>
+					<l xml:id="l7">e in atto di morir lieto è vivace</l>
+					<l xml:id="l8">dir parea s’apre il Ciel io Vado in pace.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

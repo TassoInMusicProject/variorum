@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Al tuo vago pallore</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">Ts1</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Ts1">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Milan</settlement>
+						<repository>Biblioteca Ambrosiana</repository>
+						<idno>S. P. 22. Cart.</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. Parte Prima, 49</locus>
+							<p>exemplar of print <span class="print">11</span>, with autograph corrections and annotations by Tasso</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Madrigale</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Al tuo dolce pallore</l>
+					<l xml:id="l2">La rosa il pregio cede,</l>
+					<l xml:id="l3">Che per lo scorno hor piu arrossir si vede.</l>
+					<l xml:id="l4">Questo è’l color, ch’Amore</l>
+					<l xml:id="l5">Di sua man tinge, e segna,</l>
+					<l xml:id="l6">Nè vanno i suo i guerrier sott’altr’insegna.</l>
+					<l xml:id="l7"><del>Che piu? l’Alba homai sdegna</del> ^e l'Alba no'l disdegna^</l>
+					<l xml:id="l8"><del>L’ostro, e’</del> ^Anzi i^nvaghisce il Ciel di tue viole,</l>
+					<l xml:id="l9">E teco brama impallidirsi il Sole.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

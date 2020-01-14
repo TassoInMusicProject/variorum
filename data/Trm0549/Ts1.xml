@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Quel labbro che le rose han colorito</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">Ts1</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Ts1">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Milan</settlement>
+						<repository>Biblioteca Ambrosiana</repository>
+						<idno>S. P. 22. Cart.</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. Parte Prima, 29</locus>
+							<p>exemplar of print <span class="print">11</span>, with autograph corrections and annotations by Tasso</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Per la Signora Leonora Sanvitale Contessa di Scandiano</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Quel labbro, <del>che le rose han</del> ^<del>si vermiglio</del>^ ^cosi vago e^ colorito,</l>
+					<l xml:id="l2">Molle si porge, e tumidetto in fuore,</l>
+					<l xml:id="l3">Spinto per arte, mi cred’io, d’Amore</l>
+					<l xml:id="l4">A fare à i baci insidioso invito.</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Amanti, alcun non sia cotanto ardito,</l>
+					<l xml:id="l6">Ch’osi appressarsi, ove tra fiore, &amp; fiore</l>
+					<l xml:id="l7"><del>Si stà, qual angue, ad</del> ^egli si stà pe^ attoscarvi il core</l>
+					<l xml:id="l8"><del>Quel fiero intento;</del> ^com'Angue suole^ io’l veggio, &amp; ve l’addito:</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Io, ch’altre volte fui ne l’amorose</l>
+					<l xml:id="l10">Insidie colto, hor ben le riconosco,</l>
+					<l xml:id="l11">Et le discopro, ò Giovinetti, à voi:</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">Quasi pomi di Tantalo, le rose</l>
+					<l xml:id="l13">Fansi à l’incontro, e s’allontanan poi,</l>
+					<l xml:id="l14">Sol resta Amor, che spira <del>fiamma, e</del> ^un dolce^ tosco.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

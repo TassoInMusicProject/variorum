@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>D'aria un tempo nudrimmi, e cibo e vita</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">Ts1</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Ts1">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Milan</settlement>
+						<repository>Biblioteca Ambrosiana</repository>
+						<idno>S. P. 22. Cart.</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. Parte Prima, 31</locus>
+							<p>exemplar of print <span class="print">11</span>, with autograph corrections and annotations by Tasso</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Alla sua Donna</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">D’aria un tempo nudrimmi, e cibo, e vita</l>
+					<l xml:id="l2">L’aura mi fu, che da un bel volto spira,</l>
+					<l xml:id="l3">Hor, che lei mi contende orgoglio, &amp; ira,</l>
+					<l xml:id="l4">Di qual’altra esca fia l’alma nudrita?</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">I famelici spirti indarno aita</l>
+					<l xml:id="l6">Chiamano, e’ndarno il cor langue, e sospira;</l>
+					<l xml:id="l7">Ma, se pur l’empia à darli morte aspira</l>
+					<l xml:id="l8">Muoia non <del>di</del> ^per^ digiun, ma di ferita;</l>
+				</lg>
+				<lg>
+					<l xml:id="l9"><del>Armi di sdegnoi begli occhi, &amp; avventi</del> ^Armi gli occhi di sdegno, e strali avventi^</l>
+					<l xml:id="l10"><del>Folgori à mille à mille: ecco, ch’ignuda</del> ^A mille a mille, ch'a suoi colpi ignuda^</l>
+					<l xml:id="l11"><del>Le porgo l’alma non ch’inerme il seno;</del> ^Io porgo l'alma non ch'inerme il seno:^</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">Faccia il mio stratio i suoi desir contenti,</l>
+					<l xml:id="l13">Ben fia pietà, ch’io la riveggia almeno,</l>
+					<l xml:id="l14">Non dico pia, ma disdegnosa, e cruda.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

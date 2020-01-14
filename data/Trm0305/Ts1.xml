@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Ne i vostri dolci baci</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">Ts1</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Ts1">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Milan</settlement>
+						<repository>Biblioteca Ambrosiana</repository>
+						<idno>S. P. 22. Cart.</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. Parte Prima, 50</locus>
+							<p>exemplar of print <span class="print">11</span>, with autograph corrections and annotations by Tasso</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Madrigale</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Ne i vostri dolci baci</l>
+					<l xml:id="l2">De l’Api è il dolce mele,</l>
+					<l xml:id="l3"><del>E vi è il morso de l’Api anco crudele.</del> ^e l'ago <del>ch'è si acuto de l'Api</del> anchor de l'Api ei par che cele^</l>
+					<l xml:id="l4">Dunque addolcito, e punto</l>
+					<l xml:id="l5">Da voi parto in un punto.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

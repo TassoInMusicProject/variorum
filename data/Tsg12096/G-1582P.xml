@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Giunto a la tomba ove al suo spirto vivo</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1582P</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1582P">
+					<title>Il Goffredo del s. Torquato Tasso, nouamente corretto, et ristampato. Con gli argomenti, &amp; allegorie a ciascun canto d'incerto auttore. Aggiuntovi molte stanze leuate, con le varie lettioni; et insieme una copiosissima tauola de’ nomi proprij, et materie principali</title>
+					<url>https://books.google.com/books?id=rXyueRwehY0C&amp;printsec=frontcover&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false</url>
+					<publisher>Grazioso Percaccino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1582">1582</date>
+					<biblScope unit="page">67r</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Giunto à la Tomba, ove al suo spirto vivo</l>
+					<l xml:id="l2">Dolorosa prigione il Ciel prescrisse;</l>
+					<l xml:id="l3">Pallido, freddo, muto, e quasi privo</l>
+					<l xml:id="l4">Di movimento al marmo gli occhi affisse:</l>
+					<l xml:id="l5">Al fin sgorgando un lacrimoso rivo</l>
+					<l xml:id="l6">In un languido, hoimè, proruppe, e disse:</l>
+					<l xml:id="l7">Ò sasso amato, &amp; honorato tanto,</l>
+					<l xml:id="l8">Che dentro hai le mie fiamme, e fuori il pianto.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

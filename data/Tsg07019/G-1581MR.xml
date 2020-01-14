@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Sovente, allor che su gli estivi ardori</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1581MR</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1581MR">
+					<title>Gerusalemme liberata del sig. Torquato Tasso […] Aggiunti à ciascun canto sono gli argomenti del sig. Oratio Ariosti</title>
+					<url>https://numelyo.bm-lyon.fr/f_view/BML:BML_00GOO0100137001100780290#</url>
+					<publisher>Alessandro Marsilij &amp; Pietro Roussin</publisher>
+					<pubPlace>Lyon</pubPlace>
+					<date when="1581">1581</date>
+					<biblScope unit="page">109r</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Sovente alhor, ch'in sù gli estivi ardori,</l>
+					<l xml:id="l2">Giacean le pecorelle a l’ombra assise;</l>
+					<l xml:id="l3">Ne la scorza de faggi, e de gli allori</l>
+					<l xml:id="l4">Segnò l’amato Nome in mille guise;</l>
+					<l xml:id="l5">E de’ suoi strani, &amp; infelici amori</l>
+					<l xml:id="l6">Gli aspri successi in mille parti incise;</l>
+					<l xml:id="l7">E’n rileggendo poi le proprie note:</l>
+					<l xml:id="l8">Rigò di belle lacrime le gote.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>
