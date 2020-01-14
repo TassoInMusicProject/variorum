@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Al lume delle stelle</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0246c</idno>
+			<idno type="label">Trm0246c (Tenore)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0246c-Tenore">
+					<title>Il terzo libro de madrigali a sei voci</title>
+					<url></url>
+					<author role="composer">Il Verso, Antonio</author>
+					<publisher>Maringo</publisher>
+					<pubPlace>Palermo</pubPlace>
+					<date when="1607">1607</date>
+					<idno type="RISM">1607-24</idno>
+					<biblScope unit="page">5</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Al lume de le stelle</l>
+					<l xml:id="l2">Tirsi sotto un all'oro</l>
+					<l xml:id="l3">Si dolea lagrimando in questi accenti.</l>
+					<l xml:id="l4">[TACET]</l>
+					<l xml:id="l5">Di lei ch’amo, &amp; adoro</l>
+					<l xml:id="l6">Rasomigliate voi gl'occhi lucenti</l>
+					<l xml:id="l7">Luci serene, e liete</l>
+					<l xml:id="l8">Sento la fiamma lor mentre splendete.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>
