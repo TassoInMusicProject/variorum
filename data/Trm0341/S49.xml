@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Fuggi, fuggi, dolor, da questo petto</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S49</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S49">
+					<title>Delle Rime, et prose del Sig. Torquato Tasso. Nuovamente poste in luce. Parte quarta.</title>
+					<url></url>
+					<publisher>Pietro Tini</publisher>
+					<pubPlace>Milan</pubPlace>
+					<date when="1586">1586</date>
+					<biblScope unit="page">110</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Fugi fugi dolor da questo petto,</l>
+					<l xml:id="l2">Hor che vi torna la gioiosa spene,</l>
+					<l xml:id="l3">Hor che promette al cor pace, e diletto,</l>
+					<l xml:id="l4">Tutti fuggite homai tormenti, e pene,</l>
+					<l xml:id="l5">Già vicino è’l mio sole, ò Cieli amici,</l>
+					<l xml:id="l6">Già s’appressa il mio bene, ò dì felici</l>
+					<l xml:id="l7">Non potendo tornar senza partita,</l>
+					<l xml:id="l8">Mi piace che partì la cara vita.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

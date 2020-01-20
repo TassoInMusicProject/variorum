@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Stavasi Amor quasi in regno assiso</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">C</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="C">
+					<msIdentifier>
+						<region>Vatican City</region>
+						<repository>Biblioteca Vaticana</repository>
+						<idno>Chig. L.VIII.302</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 16r</locus>
+							<url>https://digi.vatlib.it/view/MSS_Chig.L.VIII.302</url>
+							<p>codex containing autographs of 156 lyric poems by Tasso, divided in two books</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century (1584-85)</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Dice d’haver veduto Amore negli occhi della sua Donna, il quale gli havea comandato che non cantasse piu le<del>illegible</del> vittorie d’altrui ma quelle di lei, e la sua propria servitù.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Stavasi Amor quasi in suo Regno assiso</l>
+					<l xml:id="l2">Nel seren di due luci ardenti, et alme;</l>
+					<l xml:id="l3">Mille famose insegne, e mille palme</l>
+					<l xml:id="l4">Trionfali spiegando in un bel viso.</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Quando rivolto a mè, ch’intento, e fiso</l>
+					<l xml:id="l6">Mirava le sue ricche altere salme,</l>
+					<l xml:id="l7">Disse ^tù^ canterai <del>tù</del>, come tante alme,</l>
+					<l xml:id="l8">Habbia, e te' stesso anchor vinto, e conquiso.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Ne s’oda risonar l’arme di Marte</l>
+					<l xml:id="l10">la voce tua,  ma l’alta, e chiara gloria,</l>
+					<l xml:id="l11">e i divin pregi nostri, e di costei.</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">Così <del>convien</del> ^adivien^, che ne l’altrui vittoria</l>
+					<l xml:id="l13">canti mia servitute, e i <del>lacci</del> ^danni^ miei</l>
+					<l xml:id="l14">e tessa de' <del>gli affanni</del> ^gli affanni^ historie in carte.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

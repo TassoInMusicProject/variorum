@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Forse è cagion l'aurora</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S49</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S49">
+					<title>Delle Rime, et prose del Sig. Torquato Tasso. Nuovamente poste in luce. Parte quarta.</title>
+					<url></url>
+					<publisher>Pietro Tini</publisher>
+					<pubPlace>Milan</pubPlace>
+					<date when="1586">1586</date>
+					<biblScope unit="page">108</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Cagion forse è l’Aurora</l>
+					<l xml:id="l2">Di questo bel concento</l>
+					<l xml:id="l3">Che fan le fronde, e i rami, e l’acque e ’l vento.</l>
+				</lg>
+				<lg>
+					<l xml:id="l4">E con si dolce modo</l>
+					<l xml:id="l5">Il Ciel Tarquinia Honora,</l>
+					<l xml:id="l6">E per lei de la terra s’innamora.</l>
+				</lg>
+				<lg>
+					<l xml:id="l7">Io odo certo, io odo</l>
+					<l xml:id="l8">La voce ella è pur d'essa</l>
+					<l xml:id="l9">Ecco Tarquinia viene, Amor s’appressa.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

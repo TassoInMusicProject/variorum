@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Poiché madonna sdegna</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">C</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="C">
+					<msIdentifier>
+						<region>Vatican City</region>
+						<repository>Biblioteca Vaticana</repository>
+						<idno>Chig. L.VIII.302</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 28v</locus>
+							<url>https://digi.vatlib.it/view/MSS_Chig.L.VIII.302</url>
+							<p>codex containing autographs of 156 lyric poems by Tasso, divided in two books</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century (1584-85)</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">[The entire poem is deleted with two diagonal strike-throughs] Prega Amore, che poiche la sua donna sdegna, di rimirarlo gli insegni alcuna arte con la quale possa involarle qualche sguardo. </p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Poiche madonna sdegna,</l>
+					<l xml:id="l2">fuor d’ogni suo costume,</l>
+					<l xml:id="l3">volgere in me de’ suoi begli occhi il Sole.</l>
+				</lg>
+				<lg>
+					<l xml:id="l4">qualch’arte Amor m’insegna</l>
+					<l xml:id="l5">ond’io del vago lume,</l>
+					<l xml:id="l6">Alcun bel raggio ascosamente invole.</l>
+					<l xml:id="l7">[OMITTED]</l>
+					<l xml:id="l8">Ne giusto fia, che teco ella se’n doglia.</l>
+					<l xml:id="l9">Che se furommi il core,</l>
+					<l xml:id="l10">fia il mio furto minore</l>
+					<l xml:id="l11">quando in dolce vendetta un guardo i toglia.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

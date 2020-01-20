@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Vaghe Ninfe del Po, Ninfe sorelle</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S49</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S49">
+					<title>Delle Rime, et prose del Sig. Torquato Tasso. Nuovamente poste in luce. Parte quarta.</title>
+					<url></url>
+					<publisher>Pietro Tini</publisher>
+					<pubPlace>Milan</pubPlace>
+					<date when="1586">1586</date>
+					<biblScope unit="page">96</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">CORONA ALLA SIGN. Laura Peperara.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Vaghe Ninfe del Po, Ninfe sorelle,</l>
+					<l xml:id="l2">E voi de boschi, e voi de la marina,</l>
+					<l xml:id="l3">E voi de’ fonti; e de l’alpestre cime,</l>
+					<l xml:id="l4">Tessiamo hor care ghirlandette, e belle</l>
+					<l xml:id="l5">A questa giovinetta peregrina,</l>
+					<l xml:id="l6">Voi di fiori, e di fronde, &amp; io di rime;</l>
+					<l xml:id="l7">E mentre io sua beltà lodo, &amp; honoro</l>
+					<l xml:id="l8">Cingete a Laura voi le treccie d'oro.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

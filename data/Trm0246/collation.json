@@ -1,5 +1,6 @@
 [
 "S28.xml",
+"S49.xml",
 "S141.xml",
 "S166.xml",
 "S169.xml",
@@ -17,5 +18,9 @@
 "Trm0246c-Tenore.xml",
 "Trm0246c-Basso.xml",
 "Trm0246c-Quinto.xml",
-"Trm0246c-Sesto.xml"
+"Trm0246c-Sesto.xml",
+"Trm0246d-Canto.xml",
+"Trm0246d-Tenore.xml",
+"Trm0246d-Basso.xml",
+"Trm0246d-Quinto.xml"
 ]

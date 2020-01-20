@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Se m'odii, e in ciò diletto alcun tu senti</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1617P</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1617P">
+					<title>La Gerusalemme liberata di Torquato Tasso. Con le annotationi di Scipion Gentili, e di Giulio Guastavini, et li argomenti di Oratio Ariosti</title>
+					<url>https://gallica.bnf.fr/ark:/12148/bpt6k51335q/f4.image.r=tasso%20gerusalemme</url>
+					<publisher>Giuseppe Pavoni</publisher>
+					<pubPlace>Genoa</pubPlace>
+					<date when="1617">1617</date>
+					<biblScope unit="page">182</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">[44]</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Se m’odij, e in ciò diletto alcun tu senti,</l>
+					<l xml:id="l2">Non ten' vengo à privar: godi pur d’esso.</l>
+					<l xml:id="l3">Giusto à te pare, e siasi. anch’io le genti</l>
+					<l xml:id="l4">Christiane odiai: (no'l nego) odiai te stesso.</l>
+					<l xml:id="l5">Nacqui pagana: usai vagri argomenti,</l>
+					<l xml:id="l6">Che per me fosse il vostro imperio oppresso:</l>
+					<l xml:id="l7">Te perseguij: te presi: e te lontano</l>
+					<l xml:id="l8">Da l’arme trassi in loco ignoto, e strano.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

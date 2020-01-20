@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Poi rimirando il campo ella dicea</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1617P</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1617P">
+					<title>La Gerusalemme liberata di Torquato Tasso. Con le annotationi di Scipion Gentili, e di Giulio Guastavini, et li argomenti di Oratio Ariosti</title>
+					<url>https://gallica.bnf.fr/ark:/12148/bpt6k51335q/f4.image.r=tasso%20gerusalemme</url>
+					<publisher>Giuseppe Pavoni</publisher>
+					<pubPlace>Genoa</pubPlace>
+					<date when="1617">1617</date>
+					<biblScope unit="page">70</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Poi rimirando il campo; ella dicea.</l>
+					<l xml:id="l2">O belle à gli occhi miei tende Latine,</l>
+					<l xml:id="l3">Aura spiro da voi, che mi ricrea,</l>
+					<l xml:id="l4">E mi conforta, pur che m'avvicine.</l>
+					<l xml:id="l5">Così à mia vita combattuta, e rea,</l>
+					<l xml:id="l6">Qualche honesto riposo il Ciel destine;</l>
+					<l xml:id="l7">Come in voi solo il cerco: e solo parme,</l>
+					<l xml:id="l8">Che trovar pace io possa in mezo à l’arme.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

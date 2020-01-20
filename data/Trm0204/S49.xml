@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Giamai più dolce raggio</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S49</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S49">
+					<title>Delle Rime, et prose del Sig. Torquato Tasso. Nuovamente poste in luce. Parte quarta.</title>
+					<url></url>
+					<publisher>Pietro Tini</publisher>
+					<pubPlace>Milan</pubPlace>
+					<date when="1586">1586</date>
+					<biblScope unit="page">110</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Già mai più dolce raggio</l>
+					<l xml:id="l2">Non spiega il Sole in un fiorito Maggio</l>
+				</lg>
+				<lg>
+					<l xml:id="l3">Di quel che le tue Rose, e i tuoi ligustri</l>
+					<l xml:id="l4">Fan si chiari, &amp; illustri</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Nè cagiono già mai l'estate, e’l verno</l>
+					<l xml:id="l6">Tal c’hai l’Aprile eterno</l>
+				</lg>
+				<lg>
+					<l xml:id="l7">Perpetua Primavera hai nel bel viso</l>
+					<l xml:id="l8">E’l Sole, è’l dolce riso.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

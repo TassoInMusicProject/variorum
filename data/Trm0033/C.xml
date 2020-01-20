@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Io veggio in cielo scintillar le stelle</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">C</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="C">
+					<msIdentifier>
+						<region>Vatican City</region>
+						<repository>Biblioteca Vaticana</repository>
+						<idno>Chig. L.VIII.302</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 14v</locus>
+							<url>https://digi.vatlib.it/view/MSS_Chig.L.VIII.302</url>
+							<p>codex containing autographs of 156 lyric poems by Tasso, divided in two books</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century (1584-85)</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Caminando di notte prega le stelle, che guidino il suo corso.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Io veggio in cielo scintillar le stelle</l>
+					<l xml:id="l2">oltre l’usato, e lampeggiar tremanti,</l>
+					<l xml:id="l3">Come negli occhi de' cortesi amanti;</l>
+					<l xml:id="l4">Rimiriamo talhor vive <del>fiammelle</del> ^facelle^.</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Aman forse la suso, o pur son elle</l>
+					<l xml:id="l6">Pietose a’ nostri affanni, a' dolci pianti:</l>
+					<l xml:id="l7">e scorgono l’insidie, e passi erranti,</l>
+					<l xml:id="l8">la dove altri d’amor goda, e favelle.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9"><del>Pietose</del> <del>care</del> ^Cortesi^ luci, se Leandro in mare</l>
+					<l xml:id="l10">o traviato peregrin foss’io,</l>
+					<l xml:id="l11">Tra boschi attenderei da voi soccorso.</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">Così <del>con la sua luce</del> ^vi faccia^ il Sol più ^bello^, chiare</l>
+					<l xml:id="l13"><del>Vi faccia,</del> siate ^fidata^ scorta al desir mio,</l>
+					<l xml:id="l14">e guidate de' passi il dubbio corso.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Vattene pur, crudel, con quella pace</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1617P</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1617P">
+					<title>La Gerusalemme liberata di Torquato Tasso. Con le annotationi di Scipion Gentili, e di Giulio Guastavini, et li argomenti di Oratio Ariosti</title>
+					<url>https://gallica.bnf.fr/ark:/12148/bpt6k51335q/f4.image.r=tasso%20gerusalemme</url>
+					<publisher>Giuseppe Pavoni</publisher>
+					<pubPlace>Genoa</pubPlace>
+					<date when="1617">1617</date>
+					<biblScope unit="page">183</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">[58]</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Vattene pur crudel, con quella pace,</l>
+					<l xml:id="l2">Che lasci à me: vattene iniquo homai.</l>
+					<l xml:id="l3">Me tosto, ignudo spirto, ombra seguace,</l>
+					<l xml:id="l4">Indivisibilmente à tergo havrai.</l>
+					<l xml:id="l5">Nova furia, co' serpi, e con la face</l>
+					<l xml:id="l6">Tanto t’agiterò, quanto t’amai.</l>
+					<l xml:id="l7">Et s’è destin, ch’esca del mar: che schivi</l>
+					<l xml:id="l8">Gli scogli, e l’onde: e ch’à la pugna arrivi.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

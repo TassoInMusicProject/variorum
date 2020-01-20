@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Amor l'alma m'allaccia</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">C</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="C">
+					<msIdentifier>
+						<region>Vatican City</region>
+						<repository>Biblioteca Vaticana</repository>
+						<idno>Chig. L.VIII.302</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 19r</locus>
+							<url>https://digi.vatlib.it/view/MSS_Chig.L.VIII.302</url>
+							<p>codex containing autographs of 156 lyric poems by Tasso, divided in two books</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century (1584-85)</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">[the entire poem is deleted with a diagonal strike-through] Non havendo ardire di parlar <del>nella</del> con la sua donna nel ballo: prego, Amore, che sciolga il legami della lingua, e raddoppi quelli del core.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Amor l’alma m’allaccia</l>
+					<l xml:id="l2">D'aspre, e dolci catene,</l>
+					<l xml:id="l3">Ne mi doglio perciò, ma ben l’accuso,</l>
+					<l xml:id="l4">Che mi leghi, et affrene</l>
+					<l xml:id="l5">la lingua, accio ch’io taccia,</l>
+					<l xml:id="l6">Anzi Madonna timido, e confuso.</l>
+					<l xml:id="l7">[OMITTED]</l>
+					<l xml:id="l8">Sciogli pietoso Amore</l>
+					<l xml:id="l9">la lingua, e se pur non vuoi</l>
+					<l xml:id="l10">Meno stringere un sol de' lacci tuoi</l>
+					<l xml:id="l11">Tanti n'aggiungi in quella vece al core.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

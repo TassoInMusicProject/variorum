@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Messaggera de l'alba</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">C</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="C">
+					<msIdentifier>
+						<region>Vatican City</region>
+						<repository>Biblioteca Vaticana</repository>
+						<idno>Chig. L.VIII.302</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 62r</locus>
+							<url>https://digi.vatlib.it/view/MSS_Chig.L.VIII.302</url>
+							<p>codex containing autographs of 156 lyric poems by Tasso, divided in two books</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century (1584-85)</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">^del>assomi</del>^ fa comparatione della Sig.ra L all'Aura.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Messaggiera de l’Alba,</l>
+					<l xml:id="l2">e quest’aura terrena</l>
+					<l xml:id="l3">e torbida talhor, talhor serena.</l>
+				</lg>
+				<lg>
+					<l xml:id="l4">Laura mia par celeste</l>
+					<l xml:id="l5">cosi bella io la veggio</l>
+					<l xml:id="l6">Dopo l’aurora in <del>questo</del> ^fresco^ e verde seggio:</l>
+				</lg>
+				<lg>
+					<l xml:id="l7"><del>l'una di fior</del> ^Di fior l’una ri^veste</l>
+					<l xml:id="l8">il dilettoso Aprile,</l>
+					<l xml:id="l9">l’altra fiorir fà l’amoroso stile.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

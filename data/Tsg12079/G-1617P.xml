@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Io verrò là dove sete; e voi</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1617P</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1617P">
+					<title>La Gerusalemme liberata di Torquato Tasso. Con le annotationi di Scipion Gentili, e di Giulio Guastavini, et li argomenti di Oratio Ariosti</title>
+					<url>https://gallica.bnf.fr/ark:/12148/bpt6k51335q/f4.image.r=tasso%20gerusalemme</url>
+					<publisher>Giuseppe Pavoni</publisher>
+					<pubPlace>Genoa</pubPlace>
+					<date when="1617">1617</date>
+					<biblScope unit="page">141</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Io pur verrò là, dove sete, e voi</l>
+					<l xml:id="l2">Meco havrò, s’anco sete, amate spoglie.</l>
+					<l xml:id="l3">Ma, s’egli avvien, che i vaghi membri suoi</l>
+					<l xml:id="l4">Stati sian cibo di ferine voglie;</l>
+					<l xml:id="l5">Vuò, che la bocca stessa anco me ingoi,</l>
+					<l xml:id="l6">E’l ventre chiuda me, che lor raccoglie.</l>
+					<l xml:id="l7">Honorata per me tomba, e felice,</l>
+					<l xml:id="l8">Ovunque sia, s’esser con lor mi lice.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

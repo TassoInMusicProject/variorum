@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Se l'imagine vostra</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">C</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="C">
+					<msIdentifier>
+						<region>Vatican City</region>
+						<repository>Biblioteca Vaticana</repository>
+						<idno>Chig. L.VIII.302</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 64r</locus>
+							<url>https://digi.vatlib.it/view/MSS_Chig.L.VIII.302</url>
+							<p>codex containing autographs of 156 lyric poems by Tasso, divided in two books</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century (1584-85)</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Rende la cagione perche havendola impressa nel core desideri la sua imagine. ^<del>per amor di [illegible]^ [marginalia locate a the bottom left of the poem]</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Se l’imagine vostra</l>
+					<l xml:id="l2">In me depinge Amore,</l>
+					<l xml:id="l3">perche l’opra chied'io d’altro pittore?</l>
+					<l xml:id="l4">Ben puote il mio pennsiero,</l>
+					<l xml:id="l5"><del>vedervi bella, e viva</del> veder quel ch'ei descriva,</l>
+					<l xml:id="l6"><del> Ma l'occhio vi s'abbaglia, e non v'arriva</del> ^Ma vi s'abbaglia la virtu visiva^:</l>
+				</lg>
+				<lg>
+					<l xml:id="l7">Dunque privo del vero,</l>
+					<l xml:id="l8">L’habbia almen finta il senso,</l>
+					<l xml:id="l9">perch’io rimiri in voi, mentre vi penso.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

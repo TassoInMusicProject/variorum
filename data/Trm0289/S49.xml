@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Già tu volasti quattro volte e sei</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S49</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S49">
+					<title>Delle Rime, et prose del Sig. Torquato Tasso. Nuovamente poste in luce. Parte quarta.</title>
+					<url></url>
+					<publisher>Pietro Tini</publisher>
+					<pubPlace>Milan</pubPlace>
+					<date when="1586">1586</date>
+					<biblScope unit="page">112</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Già tu volasti quattro volte, e sei,</l>
+					<l xml:id="l2">In quel petto si molle</l>
+					<l xml:id="l3">Vaga farfalla, e morta al lume sei.</l>
+				</lg>
+				<lg>
+					<l xml:id="l4">Non bramo io luce, ne son tanto folle,</l>
+					<l xml:id="l5">Ma la morte vorrei,</l>
+					<l xml:id="l6">Dove fortuna darla à te non volle</l>
+					<l xml:id="l7">O dolce chiuder gl'occhi</l>
+					<l xml:id="l8">S’avverrà che spirar in lui mi tocchi.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

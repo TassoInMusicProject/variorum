@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Amor, se fia giamai che dolce i' tócchi</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">C</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="C">
+					<msIdentifier>
+						<region>Vatican City</region>
+						<repository>Biblioteca Vaticana</repository>
+						<idno>Chig. L.VIII.302</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 18r</locus>
+							<url>https://digi.vatlib.it/view/MSS_Chig.L.VIII.302</url>
+							<p>codex containing autographs of 156 lyric poems by Tasso, divided in two books</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century (1584-85)</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Offerisce ad Amore in voto una bendella di seta la quale egli haveva involata a la sua Donna. [bottom of the page] si ponga questo sonetto dopo il seguente.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Amor se fia giamai che dolce i tocchi</l>
+					<l xml:id="l2">il terso avorio de la bianca mano,</l>
+					<l xml:id="l3">e’l lampeggiar del riso humile e piano,</l>
+					<l xml:id="l4">Veggia d'appresso, e’l folgorar de gli occhi:</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">e notar possa come quindi scocchi</l>
+					<l xml:id="l6">lo stral tuo dolce, e mai non parta in vano:</l>
+					<l xml:id="l7">e come al cor dal bel sembiante humano,</l>
+					<l xml:id="l8">D’amorose dolcezze un nembo fiocchi;</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Tuo fia questo legame, onde era il braccio,</l>
+					<l xml:id="l10">Non pur, ma via piu stretto il core involgo,</l>
+					<l xml:id="l11">Caro furto onde'l crin madonna avolse.</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">Gradisci il voto, che piu forte laccio,</l>
+					<l xml:id="l13">Da man più <del>forte</del> ^eletta^ ordito <del>altrui</del>altrui non cinse</del> ^altri non tolse^,</l>
+					<l xml:id="l14">Ne perch'a te lo doni indi mi sciolgo.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

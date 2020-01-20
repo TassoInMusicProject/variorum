@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Non è questa la mano</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">C</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="C">
+					<msIdentifier>
+						<region>Vatican City</region>
+						<repository>Biblioteca Vaticana</repository>
+						<idno>Chig. L.VIII.302</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 19r</locus>
+							<url>https://digi.vatlib.it/view/MSS_Chig.L.VIII.302</url>
+							<p>codex containing autographs of 156 lyric poems by Tasso, divided in two books</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century (1584-85)</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">[The entire poem is deleted with a diagonal strike-through] Ballando con la sua donna desidera di far amorosa vendetta De la sua mano: ch'egli teneva stretta.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Non è questa la mano</l>
+					<l xml:id="l2">che tante e si mortali</l>
+					<l xml:id="l3">Aventò nel mio cor facelle, e strali?</l>
+					<l xml:id="l4">ecco pur si ritrova</l>
+					<l xml:id="l5">fra le mie chiusa e stretta</l>
+					<l xml:id="l6">Ne forza od arte per fuggir le giova,</l>
+					<l xml:id="l7">Ne tien face, o saetta,</l>
+					<l xml:id="l8">che da me la difenda,</l>
+					<l xml:id="l9">giusto e ben ch’io ne prenda,</l>
+					<l xml:id="l10">Amor qualche vendetta,</l>
+					<l xml:id="l11">e se piaghe mi diè baci le renda.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

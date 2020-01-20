@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Vuol che l'ami costei, ma duro freno</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">C</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="C">
+					<msIdentifier>
+						<region>Vatican City</region>
+						<repository>Biblioteca Vaticana</repository>
+						<idno>Chig. L.VIII.302</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 68r</locus>
+							<url>https://digi.vatlib.it/view/MSS_Chig.L.VIII.302</url>
+							<p>codex containing autographs of 156 lyric poems by Tasso, divided in two books</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century (1584-85)</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Dice, che la <del>sua donna</del> ^S. L.^ desiderando che egli celi l'amor suo, desidera cosa impossibile.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Vuol che l'ami costei, ma un duro freno</l>
+					<l xml:id="l2">M'impone <del>aspro</del> ancor d'aspro silentio, hor quale</l>
+					<l xml:id="l3">Havro da lei, se non l'è noto il male,</l>
+					<l xml:id="l4">O medicina, o refrigerio almeno?</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">E com'esser potrà, ch'ardendo il seno</l>
+					<l xml:id="l6">Non si dimostri il mio dolor mortale,</l>
+					<l xml:id="l7">Ne traluca la fiamma a questa eguale</l>
+					<l xml:id="l8">Ch'accende i monti <del>la su'</del>sovra'l mar Tirreno?</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Tacer ben posso, e tacerò, ch'io toglia</l>
+					<l xml:id="l10">Sangue a le piaghe, e luce al mio foco</l>
+					<l xml:id="l11">Non brami gia, questa è impossibil voglia.</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">Troppo spinse pungenti a dentro i colpi</l>
+					<l xml:id="l13">e troppo ardore <del>strinse</del> ^accolse^ in picciol loco,</l>
+					<l xml:id="l14">S'apparirà, natura, e se n'incolpi.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

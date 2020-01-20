@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Questa lieve zanzara</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S49</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S49">
+					<title>Delle Rime, et prose del Sig. Torquato Tasso. Nuovamente poste in luce. Parte quarta.</title>
+					<url></url>
+					<publisher>Pietro Tini</publisher>
+					<pubPlace>Milan</pubPlace>
+					<date when="1586">1586</date>
+					<biblScope unit="page"></biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Questa lieve zenzara</l>
+					<l xml:id="l2">Quanto hà sorte migliore</l>
+					<l xml:id="l3">De la farfalla che s’incende, e more</l>
+				</lg>
+				<lg>
+					<l xml:id="l4">L’una di chiaro foco,</l>
+					<l xml:id="l5">Di gentil sangue, e vaga</l>
+					<l xml:id="l6">L’altra che vive di sì bella piaga.</l>
+				</lg>
+				<lg>
+					<l xml:id="l7">O fortunato loco,</l>
+					<l xml:id="l8">Tra’l mento, e'l casto petto,</l>
+					<l xml:id="l9">Altrove mai non fu maggior diletto.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

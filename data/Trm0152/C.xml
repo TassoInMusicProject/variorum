@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Voi mi chiedeste il core</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">C</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="C">
+					<msIdentifier>
+						<region>Vatican City</region>
+						<repository>Biblioteca Vaticana</repository>
+						<idno>Chig. L.VIII.302</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 63v</locus>
+							<url>https://digi.vatlib.it/view/MSS_Chig.L.VIII.302</url>
+							<p>codex containing autographs of 156 lyric poems by Tasso, divided in two books</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century (1584-85)</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Dimanda a la S. L. perche nella sua partita non chiama il suo corpo ove è il suo core.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">il cor voi mi chiedete</l>
+					<l xml:id="l2">e partendo il portate,</l>
+					<l xml:id="l3">Ne’l vostro in quella vece a me lasciate.</l>
+					<l xml:id="l4">S’odio pur, e dispregio</l>
+					<l xml:id="l5">egli ritorna in voi,</l>
+					<l xml:id="l6"><del>deh perdio non vi resti e non</del> Deh non vi resti un’hora, e non v'annoi.</l>
+					<l xml:id="l7">Ma s’Amor forse, e pregio</l>
+					<l xml:id="l8">Onde nasce l’oblio,</l>
+					<l xml:id="l9">Perche non mi chiamate, ov’è l cor mio?</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

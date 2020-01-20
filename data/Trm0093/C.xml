@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Disdegno e gelosia</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">C</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="C">
+					<msIdentifier>
+						<region>Vatican City</region>
+						<repository>Biblioteca Vaticana</repository>
+						<idno>Chig. L.VIII.302</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 40r</locus>
+							<url>https://digi.vatlib.it/view/MSS_Chig.L.VIII.302</url>
+							<p>codex containing autographs of 156 lyric poems by Tasso, divided in two books</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century (1584-85)</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"><del>Mostra d'essersi accorto de l'amor della sua donna a piu manifesti segni</del> Dice, che disdegno e Gelosia ia li tolgono la vista della sua donna.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Disdegno, e Gelosia</l>
+					<l xml:id="l2">Vostri custodi Donna e miei nemici,</l>
+					<l xml:id="l3">fan gli occhi miei famelici, e mendici.</l>
+					<l xml:id="l4"><del>et</del> ^et^ insiene co ‘l raggio,</l>
+					<l xml:id="l5">De’ be’ vostri occhi i bei cortesi detti;</l>
+					<l xml:id="l6">Pien di spirti, e d’affetti,</l>
+					<l xml:id="l7">Mi toglie di <del>due</del> ^le^ guardie il doppio oltraggio:</l>
+					<l xml:id="l8">ond'io lasso <del>co'l raggio</del> d’intorno</l>
+					<l xml:id="l9">A le guardate mura,</l>
+					<l xml:id="l10">erro la notte solitario</l>
+					<l xml:id="l11">Qual <del>predator</del> ^cacciator^ ch'insidi</l>
+					<l xml:id="l12">D'errante fera i boscharecci nidi.</l>
+					<l xml:id="l13">Ma non vuol mia ventura,</l>
+					<l xml:id="l14">ch'imoli senza pena, onde io divegno</l>
+					<l xml:id="l15">preda di predator, d’arciero il segno.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

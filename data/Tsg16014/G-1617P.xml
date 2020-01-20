@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>"Deh mira," egli cantò, "spuntar la rosa</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">G-1617P</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="G-1617P">
+					<title>La Gerusalemme liberata di Torquato Tasso. Con le annotationi di Scipion Gentili, e di Giulio Guastavini, et li argomenti di Oratio Ariosti</title>
+					<url>https://gallica.bnf.fr/ark:/12148/bpt6k51335q/f4.image.r=tasso%20gerusalemme</url>
+					<publisher>Giuseppe Pavoni</publisher>
+					<pubPlace>Genoa</pubPlace>
+					<date when="1617">1617</date>
+					<biblScope unit="page">179</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Deh mira (egli cantò) spuntar la rosa</l>
+					<l xml:id="l2">Dal verde suo modesta, e virginella:</l>
+					<l xml:id="l3">Che mezo aperta ancora, e mezo ascosa,</l>
+					<l xml:id="l4">Quanto si mostra men, tanto è più bella.</l>
+					<l xml:id="l5">Ecco poi nudo il sen già baldanzosa</l>
+					<l xml:id="l6">Dispiega; ecco poi langue, e non par quella,</l>
+					<l xml:id="l7">Quella non par, che desiata avanti</l>
+					<l xml:id="l8">Fù da mille donzelle, e mille amanti.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

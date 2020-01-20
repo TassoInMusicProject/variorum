@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>S'a sdegno voi prendete</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">C</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="C">
+					<msIdentifier>
+						<region>Vatican City</region>
+						<repository>Biblioteca Vaticana</repository>
+						<idno>Chig. L.VIII.302</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 64r</locus>
+							<url>https://digi.vatlib.it/view/MSS_Chig.L.VIII.302</url>
+							<p>codex containing autographs of 156 lyric poems by Tasso, divided in two books</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century (1584-85)</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Prega la sua donna, che non gli vuol dare il suo core gli dia almeno la sua imagine: e poi conchiude che le debba donar l'una, e render l'altra:</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">S’a sdegno voi prendete,</l>
+					<l xml:id="l2">che'l cor vostro io vi chieda<del>illegible</del>,</l>
+					<l xml:id="l3">l’imagin vostra almeno hor si conceda.</l>
+					<l xml:id="l4">Ma chi fia, che l’ammiri,</l>
+					<l xml:id="l5">e se ne mostri vago,</l>
+					<l xml:id="l6">se non segue il mio cor la vostra imago!</l>
+					<l xml:id="l7">Dunque il cor mi rendete;</l>
+					<l xml:id="l8">Che perche in me respiri,</l>
+					<l xml:id="l9">Non fia men vostro in tutti i suoi desiri.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

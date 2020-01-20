@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Mentre nubi di sdegno</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">C</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="C">
+					<msIdentifier>
+						<region>Vatican City</region>
+						<repository>Biblioteca Vaticana</repository>
+						<idno>Chig. L.VIII.302</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 38v</locus>
+							<url>https://digi.vatlib.it/view/MSS_Chig.L.VIII.302</url>
+							<p>codex containing autographs of 156 lyric poems by Tasso, divided in two books</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century (1584-85)</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">[the entire poem is deleted with a diagonal strike-through] Dice a la sua donna, che mentre gli si mostrò sdegnosa potè soffrire il foco ma hora, che se gli mostra pietosa non può sopportarlo: laonde</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Mentre nubi di sdegno</l>
+					<l xml:id="l2">fra i vostri occhi, e’l mio core</l>
+					<l xml:id="l3">furono interposte, egli soffri l’ardore.</l>
+					<l xml:id="l4">Hor che chiaro si gira</l>
+					<l xml:id="l5">il sol di quei bei lumi,</l>
+					<l xml:id="l6">forza è, che si consumi,</l>
+					<l xml:id="l7">l’anima esposta a si gran foco ignuda.</l>
+					<l xml:id="l8">poiche donque può l’ira,</l>
+					<l xml:id="l9">Temprar si ardente face,</l>
+					<l xml:id="l10">poiche pietà mi sface,</l>
+					<l xml:id="l11">Siatemi prego per pieta piu cruda.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

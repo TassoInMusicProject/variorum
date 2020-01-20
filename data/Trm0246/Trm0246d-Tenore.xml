@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Al lume delle stelle</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0246d</idno>
+			<idno type="label">Trm0246d (Tenore)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0246d-Tenore">
+					<title>Il settimo libro de madrigali a 1, 2, 3, 4 e 6 voci</title>
+					<url>http://www.bibliotecamusica.it/cmbm/viewschedatwbca.asp?path=/cmbm/images/ripro/gaspari/BB/BB003/</url>
+					<author role="composer">Monteverdi, Claudio</author>
+					<publisher>Magni</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1619">1619</date>
+					<idno type="RISM">M 3494</idno>
+					<biblScope unit="page">30</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">A 4. Doi Soprani Tenore &amp; Basso.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Al lume de le stelle</l>
+					<l xml:id="l2">Tirsi sott'un alloro</l>
+					<l xml:id="l3">si dolea lagrimando in questi accenti</l>
+					<l xml:id="l4">o celesti facelle</l>
+					<l xml:id="l5">di lei ch'amo et adoro</l>
+					<l xml:id="l6">rassomigliate voi gl'occhi lucenti</l>
+					<l xml:id="l7"><seg xml:id="l7v1">[TACET]</seg></l>
+					<l xml:id="l8"><seg xml:id="l8v1">[TACET]</seg></l>
+					<l xml:id="l9">luci serene e liete</l>
+					<l xml:id="l10">sento <seg xml:id="l10v1">le fiamme</seg> lor mentre splendete.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

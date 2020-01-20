@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Donna, nel mio ritorno</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">C</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="C">
+					<msIdentifier>
+						<region>Vatican City</region>
+						<repository>Biblioteca Vaticana</repository>
+						<idno>Chig. L.VIII.302</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 64v</locus>
+							<url>https://digi.vatlib.it/view/MSS_Chig.L.VIII.302</url>
+							<p>codex containing autographs of 156 lyric poems by Tasso, divided in two books</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century (1584-85)</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Dice, che ritornando alla sua donna e seco per opera del suo pensiero: [the entire poem is deleted with a vertical strike-through] [above the argomento is the opening tercet of "Vorrei lagnarmi a pieno" (<i>Rime</i> 165), also deleted]</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Donna nel mio ritorno</l>
+					<l xml:id="l2">il mio pensiero a cui nulla pon freno</l>
+					<l xml:id="l3">precorre dove il cielo è più sereno,</l>
+					<l xml:id="l4">e se ne viene à far con voi soggiorno.</l>
+					<l xml:id="l5">Ne da voi si diparte</l>
+					<l xml:id="l6">Giamai la notte e ‘l giorno,</l>
+					<l xml:id="l7">perche l’annoia ciascun altra parte:</l>
+					<l xml:id="l8">onde sol per virtù del pensier ,</l>
+					<l xml:id="l9">Mentre ne vengo a voi, con voi sono io.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>
