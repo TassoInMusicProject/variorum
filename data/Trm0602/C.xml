@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Caro amoroso neo</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">C</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="C">
+					<msIdentifier>
+						<region>Vatican City</region>
+						<repository>Biblioteca Vaticana</repository>
+						<idno>Chig. L.VIII.302</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 82r</locus>
+							<url>https://digi.vatlib.it/view/MSS_Chig.L.VIII.302</url>
+							<p>codex containing autographs of 156 lyric poems by Tasso, divided in two books</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century (1584-85)</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Loda un neo, ch'era nel volto <del>della</della> ^d'una^ sorella della sua donna. [The entire poem is deleted with a diagonal strike-through, but in three separate annotations in the marginalia Tasso writes: "Non va casso"; "Non si cassino ma col seguente si trasponghi"; "Non si cassi"]</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Caro amoroso Neo,</l>
+					<l xml:id="l2">che si illustri un bel volto</l>
+					<l xml:id="l3">co'l negro tuo fra'l suo candore accolto:</l>
+					<l xml:id="l4">Se per te stesso sei,</l>
+					<l xml:id="l5"><del>Tu pur</del>^Tu pur^ macchia, e difetto,</l>
+					<l xml:id="l6">Con qual' arte perfetto</l>
+					<l xml:id="l7">Tu rendi quel che piu ne piace in lei.</l>
+					<l xml:id="l8">Forse del ciel le stelle</l>
+					<l xml:id="l9">sono macchie si belle</l>
+					<l xml:id="l10">Ma se tali ha costei</l>
+					<l xml:id="l11">in sua beltà le mende,</l>
+					<l xml:id="l12">quasi <del>saran</del> ^^ le bellezze ond’essa splende?</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

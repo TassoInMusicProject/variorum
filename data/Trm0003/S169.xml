@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Su l'ampia fronte il crespo oro lucente</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S169</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S169">
+					<title>Rime del Signor Torquato Tasso, divise in amorose, boscherezze, maritime, imenei, heroiche, morali, lugubri, sacre e varie. Con gli argomenti ad ogni compositione. Fatica del Sig. Carlo Fiamma. Aggiuntovi la vita, et sentenze dell'auttore scritta dell'illustrissimo Sig. Gio. Battista Manso</title>
+					<url>https://babel.hathitrust.org/cgi/pt?id=mdp.39015063702826;view=1up;seq=15</url>
+					<publisher>Evangelista Deuchino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1621">1621</date>
+					<biblScope unit="page">RIME DEL TASSO AMOROSE. PAR. II.,184</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Bellezza, e canto inamorano.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Sù l’ampia fronte il crespo oro lucente,</l>
+					<l xml:id="l2">Sparso ondeggiava, e de’ begli occhi il raggio</l>
+					<l xml:id="l3">Al terreno adducea fiorito Maggio,</l>
+					<l xml:id="l4">E Luglio à i cori oltre misura ardente.</l>
+					<l xml:id="l5">Nel bianco seno Amor vezzosamente</l>
+					<l xml:id="l6">Scherzava, e non osò di fargli oltraggio;</l>
+					<l xml:id="l7">E l’aura del parlar cortese e saggio,</l>
+					<l xml:id="l8">Fra le rose spirar s’udia sovente.</l>
+					<l xml:id="l9">Io che forma celeste in terra scorsi,</l>
+					<l xml:id="l10">Rinchiusi i lumi, e dissi, Ahi, come è stolto</l>
+					<l xml:id="l11">Sguardo che ’n lei sia d’affissarsi ardito?</l>
+					<l xml:id="l12">Ma del rischio minor  tardi m’accòrsi,</l>
+					<l xml:id="l13">Che mi fù per l’orecchie il cor ferito;</l>
+					<l xml:id="l14">E i detti andaro, ove non giunse in volto.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

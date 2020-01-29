@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Fuggìa di poggio in poggio</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S169</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S169">
+					<title>Rime del Signor Torquato Tasso, divise in amorose, boscherezze, maritime, imenei, heroiche, morali, lugubri, sacre e varie. Con gli argomenti ad ogni compositione. Fatica del Sig. Carlo Fiamma. Aggiuntovi la vita, et sentenze dell'auttore scritta dell'illustrissimo Sig. Gio. Battista Manso</title>
+					<url>https://babel.hathitrust.org/cgi/pt?id=mdp.39015063702826;view=1up;seq=15</url>
+					<publisher>Evangelista Deuchino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1621">1621</date>
+					<biblScope unit="page">RIME DEL TASSO. BOSCHERECCIE. P. II., 11</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">SEcreta fruitione amorosa.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Fuggia di poggio in poggio</l>
+					<l xml:id="l2">La mia dolce nemica,</l>
+					<l xml:id="l3">Et essa mi seguia bella, e pudica.</l>
+					<l xml:id="l4">Al fin mi giunse trà l’herbette, e l’acque,</l>
+					<l xml:id="l5">E mi trafisse il core, e non mi spiacque:</l>
+					<l xml:id="l6">Perche dir non saprei,</l>
+					<l xml:id="l7">S’ebbi vita più dolce, ò  morte in lei;</l>
+					<l xml:id="l8">Ma vita se parlò. morte, se tacque.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

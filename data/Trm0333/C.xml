@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Gelo ha Madonna il seno</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">C</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="C">
+					<msIdentifier>
+						<region>Vatican City</region>
+						<repository>Biblioteca Vaticana</repository>
+						<idno>Chig. L.VIII.302</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 83v</locus>
+							<url>https://digi.vatlib.it/view/MSS_Chig.L.VIII.302</url>
+							<p>codex containing autographs of 156 lyric poems by Tasso, divided in two books</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century (1584-85)</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"><del>Desidera che</del> <del>Dice ch'Amore sta sempre</del> Rende la cagione perche la sua donna sia amate, et egli amante. [The entire poem is deleted with a three diagonal strike-throughs]</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Gelo ha Madonna il seno, e fiamma il volto</l>
+					<l xml:id="l2">io son ghiaccio di fore,</l>
+					<l xml:id="l3">e'l foco ho dentro accolto.</l>
+				</lg>
+				<lg>
+					<l xml:id="l4">questo avien perch’Amore</l>
+					<l xml:id="l5">Ne la sua fronte alberg,a e nel mio petto</l>
+					<l xml:id="l6">Ne mai cangia ricetto,</l>
+					<l xml:id="l7">Si ch’io l’habbia negli occhi ella nel core.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

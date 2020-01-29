@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Messaggera de l'alba</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S169</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S169">
+					<title>Rime del Signor Torquato Tasso, divise in amorose, boscherezze, maritime, imenei, heroiche, morali, lugubri, sacre e varie. Con gli argomenti ad ogni compositione. Fatica del Sig. Carlo Fiamma. Aggiuntovi la vita, et sentenze dell'auttore scritta dell'illustrissimo Sig. Gio. Battista Manso</title>
+					<url>https://babel.hathitrust.org/cgi/pt?id=mdp.39015063702826;view=1up;seq=15</url>
+					<publisher>Evangelista Deuchino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1621">1621</date>
+					<biblScope unit="page">RIME DEL TASSO BOSCHERECCIE. P. II., 39</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Segue.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Messaggiera de l’Alba</l>
+					<l xml:id="l2">È quest’aura terrena,</l>
+					<l xml:id="l3">E torbida talhor, talhor serena.</l>
+					<l xml:id="l4">Laura mia par celeste,</l>
+					<l xml:id="l5">Così bella io la veggio</l>
+					<l xml:id="l6">Dopo l’Aurora in fresco, e verde seggìo:</l>
+					<l xml:id="l7">Di fior l’una riveste</l>
+					<l xml:id="l8">Il dilettoso Aprile</l>
+					<l xml:id="l9">L’altra fiorir fa l’amoroso stile.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Già fu mia dolce speme</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S169</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S169">
+					<title>Rime del Signor Torquato Tasso, divise in amorose, boscherezze, maritime, imenei, heroiche, morali, lugubri, sacre e varie. Con gli argomenti ad ogni compositione. Fatica del Sig. Carlo Fiamma. Aggiuntovi la vita, et sentenze dell'auttore scritta dell'illustrissimo Sig. Gio. Battista Manso</title>
+					<url>https://babel.hathitrust.org/cgi/pt?id=mdp.39015063702826;view=1up;seq=15</url>
+					<publisher>Evangelista Deuchino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1621">1621</date>
+					<biblScope unit="page">RIME DEL TASSO. AMOROSE. P. II., 247</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Speranza indeterminata.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Già fù dolce mia speme,</l>
+					<l xml:id="l2">Assai debile, e lenta,</l>
+					<l xml:id="l3">Hor cresce sì, ch’ella piacer diventa.</l>
+					<l xml:id="l4">Ma per che io speri insieme,</l>
+					<l xml:id="l5">E 'nsieme habbia diletto.</l>
+					<l xml:id="l6">Mai non adempie Amor ogni mio affetto</l>
+					<l xml:id="l7">E sempre il mio piacere</l>
+					<l xml:id="l8">Temprando va, perch’io maggior lo spere.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Tolse <span class="name">Barbara</span> gente il pregio a Roma</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">C</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="C">
+					<msIdentifier>
+						<region>Vatican City</region>
+						<repository>Biblioteca Vaticana</repository>
+						<idno>Chig. L.VIII.302</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 85r</locus>
+							<url>https://digi.vatlib.it/view/MSS_Chig.L.VIII.302</url>
+							<p>codex containing autographs of 156 lyric poems by Tasso, divided in two books</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century (1584-85)</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Loda la sig.ra Barbera [sic] Sanseverina Contessa di Sala, donna di bellezza e di merito singolare:</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Tolse Barbara gente il pregio à Roma</l>
+					<l xml:id="l2">De l’armi, e ^<del>De l'impero, e</del> de l’impero, e serva fella,</l>
+					<l xml:id="l3">O nome a lei fatale, ecco novella</l>
+					<l xml:id="l4">Barbara vincitrice, ancor la doma:</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">et a qual'altra più s’honora, e noma,</l>
+					<l xml:id="l6">togliendo il vanto, e’l titolo di bella</l>
+					<l xml:id="l7">spiega le squadre in campidoglio, e quella</l>
+					<l xml:id="l8">De' suoi prigioni incatenata, e doma.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Sono i guerrieri suoi dolce rigore,</l>
+					<l xml:id="l10">Con pudica beltà sdegno cortese,</l>
+					<l xml:id="l11">Che quanto sfida altrui, tanto gli piace.</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">I vinti un sesso, e l’altro, e l’un d’Amore,</l>
+					<l xml:id="l13">l’altro d’invidia, <del>hor com'è che la</del> ^e quella stessa^ face,</l>
+					<l xml:id="l14"><del>Agghiaccia l'uno, che prima</del> ^<del>l'uno hora agghiaccia, che gia</del>^ ^Agghiaccia hor l’uno che gia^ l’altro accese.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

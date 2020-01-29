@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Al vostro dolce azzurro</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">C</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="C">
+					<msIdentifier>
+						<region>Vatican City</region>
+						<repository>Biblioteca Vaticana</repository>
+						<idno>Chig. L.VIII.302</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 84r</locus>
+							<url>https://digi.vatlib.it/view/MSS_Chig.L.VIII.302</url>
+							<p>codex containing autographs of 156 lyric poems by Tasso, divided in two books</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century (1584-85)</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Loda gli occhi Azurri della Sig.ra Livia Pica Dama Nobiliss:ma e principaliss:ma ne la corte di Francia.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Al vostro dolce azurro</l>
+					<l xml:id="l2">Ceda, o luci serene,</l>
+					<l xml:id="l3">qual piu bel nero Italia in pregio tiene:</l>
+					<l xml:id="l4">occhi cielo d’Amore</l>
+					<l xml:id="l5">Sole di questo core</l>
+					<l xml:id="l6">Son gli altri <del>occhi appo voi notte, et</del> ^al paragone ombre d'^ inferno.</l>
+					<l xml:id="l7">Azurro è il cielo eterno,</l>
+					<l xml:id="l8">e quel ch’è bello il bello ha sol da lui,</l>
+					<l xml:id="l9">ei bello è sol, perch'assomiglia à vui.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

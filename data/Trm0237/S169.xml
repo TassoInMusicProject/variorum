@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Negro era intorno e 'n bianche falde il cielo</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S169</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S169">
+					<title>Rime del Signor Torquato Tasso, divise in amorose, boscherezze, maritime, imenei, heroiche, morali, lugubri, sacre e varie. Con gli argomenti ad ogni compositione. Fatica del Sig. Carlo Fiamma. Aggiuntovi la vita, et sentenze dell'auttore scritta dell'illustrissimo Sig. Gio. Battista Manso</title>
+					<url>https://babel.hathitrust.org/cgi/pt?id=mdp.39015063702826;view=1up;seq=15</url>
+					<publisher>Evangelista Deuchino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1621">1621</date>
+					<biblScope unit="page">RIME DEL TASSO.AMOROSE. P. I., 31</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Vista impedita dalla Neve.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Negro era intorno, e ’n bianche falde il Cielo</l>
+					<l xml:id="l2">Piovea converso, quando in alto ascese</l>
+					<l xml:id="l3">Madonna per mostrarsi a me cortese,</l>
+					<l xml:id="l4">E le fiamme mirar, che sì mal celo.</l>
+					<l xml:id="l5">Quand’ecco sù bel crin stille di gelo</l>
+					<l xml:id="l6">Sembrar perle sù l’oro ad' arte stese:</l>
+					<l xml:id="l7">Ma le mie luci al dolce obietto intese</l>
+					<l xml:id="l8">Chiuse ahi la pioggia, e lor di sè fè velo.</l>
+					<l xml:id="l9">Deh quando in giogo d’Alpe, ò d’Apennino</l>
+					<l xml:id="l10">Avenne, o in Hiperborea eccelsa rupe</l>
+					<l xml:id="l11">Si duro caso? e a cui si forte incresce?</l>
+					<l xml:id="l12">(Lasso) io rimasi allhor, qual peregrino</l>
+					<l xml:id="l13">A cui s’annotti in valli horridi, e cupe</l>
+					<l xml:id="l14">Mentre monti di neve il turbo mesce.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

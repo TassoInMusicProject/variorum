@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Poi che non spira al mio soave foco</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S169</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S169">
+					<title>Rime del Signor Torquato Tasso, divise in amorose, boscherezze, maritime, imenei, heroiche, morali, lugubri, sacre e varie. Con gli argomenti ad ogni compositione. Fatica del Sig. Carlo Fiamma. Aggiuntovi la vita, et sentenze dell'auttore scritta dell'illustrissimo Sig. Gio. Battista Manso</title>
+					<url>https://babel.hathitrust.org/cgi/pt?id=mdp.39015063702826;view=1up;seq=15</url>
+					<publisher>Evangelista Deuchino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1621">1621</date>
+					<biblScope unit="page">RIME DEL TASSO. AMOROSE. P. II., 219</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Segue.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Poi che non spira al mio soave foco,</l>
+					<l xml:id="l2">Amor, come solea, placida l’aura:</l>
+					<l xml:id="l3">Chi temprerà questa amorosa fiamma?</l>
+					<l xml:id="l4">Qual troverò solinga, e chiara fonte,</l>
+					<l xml:id="l5">Cinta di lauri, ò quale ombroso rivo:</l>
+					<l xml:id="l6">Mentre io mi sfaccio a si lucenti raggi?</l>
+					<l xml:id="l7">Ahi soavi ben furo, e dolci i raggi,</l>
+					<l xml:id="l8">Ch’acceser già ne l’alma il dolce foco,</l>
+					<l xml:id="l9">Struggendo il gelo interno in caldo rivo;</l>
+					<l xml:id="l10">E movendo i sospiri a guisa d’aura:</l>
+					<l xml:id="l11">Mentre d’ogni pietà la viva fonte</l>
+					<l xml:id="l12">Die qualche refrigerio a tanta fiamma.</l>
+					<l xml:id="l13">D’Etna, somiglia pur l’accesa fiamma</l>
+					<l xml:id="l14">O di Fetonte traviato i raggi:</l>
+					<l xml:id="l15">Quando s’ascose ne l’occulto fonte,</l>
+					<l xml:id="l16">Il Nilo per fuggir l’ardente foco;</l>
+					<l xml:id="l17">Nè da l’Istro, o dal Reno ò vento ò d' aura:</l>
+					<l xml:id="l18">Soffiar potea, non che da secco rivo:</l>
+					<l xml:id="l19">Che giova (oime) versar nel seno un rivo:</l>
+					<l xml:id="l20">Se cresce al suo stillar la crudel fiamma,</l>
+					<l xml:id="l21">E de lamenti miei s’accende à l’aura?</l>
+					<l xml:id="l22">Se non manca homai l’esca à questi raggi:</l>
+					<l xml:id="l23">Io fontana sarò di vivo foco,</l>
+					<l xml:id="l24">Ne mi varrà, ch’io mi converta in fonte.</l>
+					<l xml:id="l25">Perche la dolce mia tranquilla fonte,</l>
+					<l xml:id="l26">Più non mi scampi, ò fiume algente, ò rivo:</l>
+					<l xml:id="l27">Fuggirò il foco in mezo al novo foco,</l>
+					<l xml:id="l28">E le mie fiamme struggerà la fiamma.</l>
+					<l xml:id="l29">Che nacque in me da gli amorosi raggi:</l>
+					<l xml:id="l30">Mentre io gioiva il seno aprendo à l’aura.</l>
+					<l xml:id="l31">O Lauri, o Palme, ove giacendo à l’aura.</l>
+					<l xml:id="l32">Per dolcezza languiva, ò bella fonte,</l>
+					<l xml:id="l33">In cui già viddi tremolare i raggi;</l>
+					<l xml:id="l34">O solitaria chiostra, o vago rivo,</l>
+					<l xml:id="l35">S’io trovo ancor quella mia cara fiamma</l>
+					<l xml:id="l36">Tra i fiori, e l’herbe, ov’è sparito il foco?</l>
+					<l xml:id="l37">O s’estingua il mio foco, ò spiri l’aura:</l>
+					<l xml:id="l38">O s’adombrino i raggi, o cresca il rivo:</l>
+					<l xml:id="l39">E se scalda la fiamma: instilli il fonte.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

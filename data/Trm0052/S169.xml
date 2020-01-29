@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>O nemica d'Amor, che sì ti rendi</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S169</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S169">
+					<title>Rime del Signor Torquato Tasso, divise in amorose, boscherezze, maritime, imenei, heroiche, morali, lugubri, sacre e varie. Con gli argomenti ad ogni compositione. Fatica del Sig. Carlo Fiamma. Aggiuntovi la vita, et sentenze dell'auttore scritta dell'illustrissimo Sig. Gio. Battista Manso</title>
+					<url>https://babel.hathitrust.org/cgi/pt?id=mdp.39015063702826;view=1up;seq=15</url>
+					<publisher>Evangelista Deuchino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1621">1621</date>
+					<biblScope unit="page">RIME DEL TASSO AMOROSE. P. I., 116</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Donna vecchia terminò una danza.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Ò nemica d’Amor, che si ti rendi</l>
+					<l xml:id="l2">Schiva di quel, che altrui dà pace, e vita:</l>
+					<l xml:id="l3">E dolce schiera a dolci giochi unita.</l>
+					<l xml:id="l4">Dìspergi, e parti, e lui turbi, &amp; offendi.</l>
+					<l xml:id="l5">Se de l’altrui bellezza invidia prendi,</l>
+					<l xml:id="l6">Mentre i tuoi danni a rimembrar t’invita;</l>
+					<l xml:id="l7">Che non t’ascondi homai sola, e romita,</l>
+					<l xml:id="l8">E ’n humil cameretta i giorni spendi?</l>
+					<l xml:id="l9">Che non conviensi già tra le felici</l>
+					<l xml:id="l10">Squadre d’Amor, e tra ’l diletto, e ’l gioco;</l>
+					<l xml:id="l11">In Donna antica imagine di morte.</l>
+					<l xml:id="l12">Deh fuggi il Sole, e cerca in chiuso loco,</l>
+					<l xml:id="l13">Come notturno Augel, gli horrori amici,</l>
+					<l xml:id="l14">Né quì timor la tua sembianza apporte.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

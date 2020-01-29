@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Sul carro de la mente auriga siedi</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S169</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S169">
+					<title>Rime del Signor Torquato Tasso, divise in amorose, boscherezze, maritime, imenei, heroiche, morali, lugubri, sacre e varie. Con gli argomenti ad ogni compositione. Fatica del Sig. Carlo Fiamma. Aggiuntovi la vita, et sentenze dell'auttore scritta dell'illustrissimo Sig. Gio. Battista Manso</title>
+					<url>https://babel.hathitrust.org/cgi/pt?id=mdp.39015063702826;view=1up;seq=15</url>
+					<publisher>Evangelista Deuchino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1621">1621</date>
+					<biblScope unit="page">RIME DEL TASSO.VARIE. PAR. XI., 44</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Il Senso, e la Ragione ben guidati da l'anima perfetta.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Su 'l Carro de la mente auriga siedi,</l>
+					<l xml:id="l2">O bella donna, e prendi il freno altero,</l>
+					<l xml:id="l3">Onde vi regga il destrier bianco, e ’l nero,</l>
+					<l xml:id="l4">E drizzi lor ver le celesti sedi.</l>
+					<l xml:id="l5">L’un con rigida man percoti, e fiedi</l>
+					<l xml:id="l6">Se ribellante traviar ,dal vero</l>
+					<l xml:id="l7">Camino; e l’altro con soave impero</l>
+					<l xml:id="l8">D’ambrosia pasci, se gir dritto il vedi.</l>
+					<l xml:id="l9">Vedi, ch’egli ama il suon del la cervice</l>
+					<l xml:id="l10">Percossa e le lusinghe e trà se gode,</l>
+					<l xml:id="l11">Se la tua vaga man l’adorna, e come,</l>
+					<l xml:id="l12">E, mentre porta al ciel del tuo bel nome</l>
+					<l xml:id="l13">Il ricco incarco, e di tua chiara lode,</l>
+					<l xml:id="l14">Si tien più d’Eto, e di Piroo felice.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

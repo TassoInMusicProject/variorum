@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Tarquinia, se rimiri</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">C</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="C">
+					<msIdentifier>
+						<region>Vatican City</region>
+						<repository>Biblioteca Vaticana</repository>
+						<idno>Chig. L.VIII.302</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 83v</locus>
+							<url>https://digi.vatlib.it/view/MSS_Chig.L.VIII.302</url>
+							<p>codex containing autographs of 156 lyric poems by Tasso, divided in two books</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century (1584-85)</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">A la Sig;ra Tarquinia Molza la qual studiava la sfera andava la sera a contemplar le stelle. [The entire poem is deleted with three diagonal strike-throughs]</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1"><del>Ta</del>Tarquinia mentre miri</l>
+					<l xml:id="l2">i bei celesti giri</l>
+					<l xml:id="l3">il cielo esser vorrei</l>
+					<l xml:id="l4">perche negli occhi miei</l>
+					<l xml:id="l5">fiso tu rivolgessi</l>
+					<l xml:id="l6">le tue dolci faville</l>
+					<l xml:id="l7">io vaghegiar potessi</l>
+					<l xml:id="l8">Mille bellezze tue, con luci mille.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

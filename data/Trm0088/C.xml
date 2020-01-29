@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>M'apre talor madonna il suo celeste</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">C</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="C">
+					<msIdentifier>
+						<region>Vatican City</region>
+						<repository>Biblioteca Vaticana</repository>
+						<idno>Chig. L.VIII.302</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 38r</locus>
+							<url>https://digi.vatlib.it/view/MSS_Chig.L.VIII.302</url>
+							<p>codex containing autographs of 156 lyric poems by Tasso, divided in two books</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century (1584-85)</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Dice, che la pieta, la quale egli vede negli occhi della sua donna: non è vera pietà ma crudeltà, che prende quella sembianza per ingannarlo:</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">M’apre talhor Madonna il suo celeste</l>
+					<l xml:id="l2">Riso fra perle, e i bei rubini ardenti,</l>
+					<l xml:id="l3">e l'orecchie inchinando a' miei lamenti</l>
+					<l xml:id="l4">Di vago affetto il ciglio adorna, e veste.</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Ma non avien però, ch’<del>ella mai</del> ^in lei si^ deste</l>
+					<l xml:id="l6"><del>Nel crudo sen pietà</del> ^<del>Doglia alcuna</del>^ ^<del>dolor</del> ^Alcun breve dolor^ de' miei tormenti:</l>
+					<l xml:id="l7">Anzi mia cetra, e i miei non rozzi accenti,</l>
+					<l xml:id="l8">e me disprezza, e le mie voglie honeste.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9"><del>Specchi del cor fallaci infidi lumi,</del> ^Ne pieta vera ne begli occhi accoglie,</l>
+					<l xml:id="l10">Ma crudeltà ch’in <del>tal forma</del> ^tal sembianza^ si mostri,</l>
+					<l xml:id="l11">perche l’alma ingannata arda, e consumi.</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">Specchi del cor fallaci infidi lumi,</l>
+					<l xml:id="l13">Ben riconosco in voi gli inganni vostri,</l>
+					<l xml:id="l14">Ma che pro? se schivarli Amor mi toglie?</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

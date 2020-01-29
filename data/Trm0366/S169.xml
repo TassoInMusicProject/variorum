@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Odi, Filli, che tuona; odi che 'n gelo</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S169</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S169">
+					<title>Rime del Signor Torquato Tasso, divise in amorose, boscherezze, maritime, imenei, heroiche, morali, lugubri, sacre e varie. Con gli argomenti ad ogni compositione. Fatica del Sig. Carlo Fiamma. Aggiuntovi la vita, et sentenze dell'auttore scritta dell'illustrissimo Sig. Gio. Battista Manso</title>
+					<url>https://babel.hathitrust.org/cgi/pt?id=mdp.39015063702826;view=1up;seq=15</url>
+					<publisher>Evangelista Deuchino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1621">1621</date>
+					<biblScope unit="page">RIME DEL TASSO.AMOROSE. PAR. II., 231</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Godimento in procelloso tempo.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Odi Filli, che tuona, odi, che ’n gelo,</l>
+					<l xml:id="l2">Il vapor, di la sù, converso piove.</l>
+					<l xml:id="l3">Ma che curar debbiam', che faccia Giove?</l>
+					<l xml:id="l4">Godiam' poi quì, s’egli è turbata in Cielo.</l>
+					<l xml:id="l5">Godiam' felici è un dolce ardente zelo</l>
+					<l xml:id="l6">Queste gioie notturne in noi rinove,</l>
+					<l xml:id="l7">Tema il volgo i suoi tuoni, e porti altrove</l>
+					<l xml:id="l8">Fortuna, o caso, il suo fulmineo telo.</l>
+					<l xml:id="l9">Ben folle, &amp; à se stesso empio è colui,</l>
+					<l xml:id="l10">Che spera, e teme, e in aspettando il male</l>
+					<l xml:id="l11">Gli si fà incontro, e sua miseria affretta.</l>
+					<l xml:id="l12">Pera il Mondo, e rovini; a me non cale,</l>
+					<l xml:id="l13">Se non di quel, che più piace, e diletta;</l>
+					<l xml:id="l14">Che se terra sarò, terra ancor fui.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

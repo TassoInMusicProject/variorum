@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Ha gigli e rose ed ha rubini ed oro</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S169</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S169">
+					<title>Rime del Signor Torquato Tasso, divise in amorose, boscherezze, maritime, imenei, heroiche, morali, lugubri, sacre e varie. Con gli argomenti ad ogni compositione. Fatica del Sig. Carlo Fiamma. Aggiuntovi la vita, et sentenze dell'auttore scritta dell'illustrissimo Sig. Gio. Battista Manso</title>
+					<url>https://babel.hathitrust.org/cgi/pt?id=mdp.39015063702826;view=1up;seq=15</url>
+					<publisher>Evangelista Deuchino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1621">1621</date>
+					<biblScope unit="page">RIME DEL TASSO. L’EROICHE. P. V. , 85</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Segue. Per la stessa [Lucretia d’Este] alludendo al nome</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">[OMITTED]</l>
+					<l xml:id="l2">[OMITTED]</l>
+					<l xml:id="l3">[OMITTED]</l>
+					<l xml:id="l4">[OMITTED]</l>
+					<l xml:id="l5">[OMITTED]</l>
+					<l xml:id="l6">[OMITTED]</l>
+					<l xml:id="l7">[OMITTED]</l>
+					<l xml:id="l8">[OMITTED]</l>
+					<l xml:id="l9">La natura v’armò, bella guerriera,</l>
+					<l xml:id="l10">E strali sono i guardi e nodi i crini,</l>
+					<l xml:id="l11">E le due chiare luci ambe facelle;</l>
+					<l xml:id="l12">E ’n vostro campo è ne la prima schiera</l>
+					<l xml:id="l13">L’onor, la gloria, e stanno a lor vicini</l>
+					<l xml:id="l14">Gli alti costumi e le virtuti anch’elle;</l>
+					<l xml:id="l15">Ed un diaspro intorno il cor v’ha cinto,</l>
+					<l xml:id="l16">E voi sete la duce, Amore il vinto.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

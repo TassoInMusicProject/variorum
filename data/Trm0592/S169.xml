@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Negli anni acerbi tua purpurea rosa</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S169</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S169">
+					<title>Rime del Signor Torquato Tasso, divise in amorose, boscherezze, maritime, imenei, heroiche, morali, lugubri, sacre e varie. Con gli argomenti ad ogni compositione. Fatica del Sig. Carlo Fiamma. Aggiuntovi la vita, et sentenze dell'auttore scritta dell'illustrissimo Sig. Gio. Battista Manso</title>
+					<url>https://babel.hathitrust.org/cgi/pt?id=mdp.39015063702826;view=1up;seq=15</url>
+					<publisher>Evangelista Deuchino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1621">1621</date>
+					<biblScope unit="page">RIME DEL TASSO.AMOROSE. P. II., 252</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Donna attempata negletta, e bella.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Negli anni acerbi tuoi purpurea rosa,</l>
+					<l xml:id="l2">Sembravi tù, che a i rai tepidi a l’ora,</l>
+					<l xml:id="l3">Non apre ’l sen, ma nel suo verde ancora,</l>
+					<l xml:id="l4">Verginella s’asconde, e vergognosa.</l>
+					<l xml:id="l5">O più tosto parei, (che mortal cosa</l>
+					<l xml:id="l6">Non s’assomiglia a tè) celeste Aurora</l>
+					<l xml:id="l7">Che le campagne imperla, e i Monti indora,</l>
+					<l xml:id="l8">Lucida in Ciel sereno, e rugiadosa:</l>
+					<l xml:id="l9">Hor la men verde età nulla a te toglie,</l>
+					<l xml:id="l10">Nè tè, ben che negletta, in manto adorno</l>
+					<l xml:id="l11">Giovinetta beltà vince, o pareggia.</l>
+					<l xml:id="l12">Così è più vago il fior, poi che le foglie</l>
+					<l xml:id="l13">Spiega odorate, e ’l Sol nel mezo giorno,</l>
+					<l xml:id="l14">Via più, che nel matin, luce, e fiammeggia.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Quel labbro che le rose han colorito</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">C</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="C">
+					<msIdentifier>
+						<region>Vatican City</region>
+						<repository>Biblioteca Vaticana</repository>
+						<idno>Chig. L.VIII.302</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 87r</locus>
+							<url>https://digi.vatlib.it/view/MSS_Chig.L.VIII.302</url>
+							<p>codex containing autographs of 156 lyric poems by Tasso, divided in two books</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century (1584-85)</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"><del>Loda il labro ritondetto</del> Loda il labro di sotto de la sig;ra Leonora Sanvitale, il quale  è alquanto ritondetto: e si sporge fuori con mirabil gratia.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1"><del>Quel cosi vago labro, e colorito</del> ^<del>Il labro</del> Quel vago labro dal suo proprio sito</l>
+					<l xml:id="l2">Molle si sporge, e <del>tumidetto</del> ^ritondetto^ in fuore:</l>
+					<l xml:id="l3">Spinto per arte mi credo io d’amore,</l>
+					<l xml:id="l4">A fare a baci insidioso invito:</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Amanti alcun non sia cotanto ardito</l>
+					<l xml:id="l6">ch’osi appressarsi, ove tra fiore, e fiore</l>
+					<l xml:id="l7">egli si stà per attoscarvi il core,</l>
+					<l xml:id="l8">Come angue suole: io l' veggio, <del>e ve</del> ^et io^ l’addito.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Io ch’altre volte fui ne l'insidie ascose</l>
+					<l xml:id="l10">Al laccio caddi, hor ben le riconosco</l>
+					<l xml:id="l11">e le discopro o Giovenetti a voi.</l>
+				</lg>
+				<lg>
+					<l xml:id="l12"><del>Quasi pomi di Tantalo</del> ^<del>i pomi homai</del>^ ^Quasi di Tantalo i pomi homai^ le rose</l>
+					<l xml:id="l13">fansi a l'incontra, e s’allontanan poi,</l>
+					<l xml:id="l14">sol resta Amor, che spira <del>fi</del> un dolce tosco.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

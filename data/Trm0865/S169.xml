@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Deh! perché amar chi voi con pari affetto</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S169</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S169">
+					<title>Rime del Signor Torquato Tasso, divise in amorose, boscherezze, maritime, imenei, heroiche, morali, lugubri, sacre e varie. Con gli argomenti ad ogni compositione. Fatica del Sig. Carlo Fiamma. Aggiuntovi la vita, et sentenze dell'auttore scritta dell'illustrissimo Sig. Gio. Battista Manso</title>
+					<url>https://babel.hathitrust.org/cgi/pt?id=mdp.39015063702826;view=1up;seq=15</url>
+					<publisher>Evangelista Deuchino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1621">1621</date>
+					<biblScope unit="page">RIME DEL TASSO.AMOROSE. P. I., 25</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Sano consiglio.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Deh perche amar chi voi, con pari affetto</l>
+					<l xml:id="l2">Non ami, e sospirar chi non sospiri?</l>
+					<l xml:id="l3">E distillare in lagrime i martiri</l>
+					<l xml:id="l4">Per tal, che mai per voi non bagni il petto?</l>
+					<l xml:id="l5">E impallidir per chi non cangi aspetto.</l>
+					<l xml:id="l6">E volger gli occhi con si dolci giri</l>
+					<l xml:id="l7">Ad' un crudel, che in voi non gli raggiri,</l>
+					<l xml:id="l8">Com’a suo caro, e desiato oggetto?</l>
+					<l xml:id="l9">S’amor a voglia altrui s’estingue, e infiamma</l>
+					<l xml:id="l10">Spegnete il vostro mal gradito, e rio,</l>
+					<l xml:id="l11">E de begli occhi rasciugate il duolo.</l>
+					<l xml:id="l12">E geli il cor gentil per lungo oblio,</l>
+					<l xml:id="l13">E se pur dee sentir novella fiamma,</l>
+					<l xml:id="l14">S’accenda sì, ma non s’accenda ei solo.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Caro amoroso neo</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S169</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S169">
+					<title>Rime del Signor Torquato Tasso, divise in amorose, boscherezze, maritime, imenei, heroiche, morali, lugubri, sacre e varie. Con gli argomenti ad ogni compositione. Fatica del Sig. Carlo Fiamma. Aggiuntovi la vita, et sentenze dell'auttore scritta dell'illustrissimo Sig. Gio. Battista Manso</title>
+					<url>https://babel.hathitrust.org/cgi/pt?id=mdp.39015063702826;view=1up;seq=15</url>
+					<publisher>Evangelista Deuchino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1621">1621</date>
+					<biblScope unit="page">RIME DEL TASSO.AMOROSE. P. I., 38</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">SEgue l'incominciato. [Neo]</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Caro amoroso Neo,</l>
+					<l xml:id="l2">Che si illustri un bel volto,</l>
+					<l xml:id="l3">Co ’l negro tuo, fra ’l suo candore accolto.</l>
+					<l xml:id="l4">Se per te stesso sei</l>
+					<l xml:id="l5">Pura macchia, e difetto,</l>
+					<l xml:id="l6">Con qual arte perfetto,</l>
+					<l xml:id="l7">Poi rendi il colmo de le gratie in lei?</l>
+					<l xml:id="l8">Forse del Ciel le stelle,</l>
+					<l xml:id="l9">Sono macchie si belle.</l>
+					<l xml:id="l10">Hor se tali ha costei</l>
+					<l xml:id="l11">In sua beltà le mende</l>
+					<l xml:id="l12">Quali saran que' fregi, ond’ella splende?</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>
