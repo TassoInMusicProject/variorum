@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>O nemica d'Amor, che sì ti rendi</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">C</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="C">
+					<msIdentifier>
+						<region>Vatican City</region>
+						<repository>Biblioteca Vaticana</repository>
+						<idno>Chig. L.VIII.302</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 20v</locus>
+							<url>https://digi.vatlib.it/view/MSS_Chig.L.VIII.302</url>
+							<p>codex containing autographs of 156 lyric poems by Tasso, divided in two books</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century (1584-85)</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Contra una ^donna^ attempata la qual <del>togliendo</del> prendendo importunamento commiato: haveva interrotto un bel trattenimento:</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">O nemica d’Amor, che si ti rendi</l>
+					<l xml:id="l2">s di quel, ch’altrui da pace, e vita:</l>
+					<l xml:id="l3">e dolce schiera ne' suoi giochi unita,</l>
+					<l xml:id="l4">Dispergi, e parti, e lui turbi, et offendi:</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Se de l’altrui bellezza invidia prendi,</l>
+					<l xml:id="l6"><del>Che de’</del> ^Mentre i^ tuoi danni a rimembrar t’invita,</l>
+					<l xml:id="l7">che non t’ascondi homai sola e romita,</l>
+					<l xml:id="l8">e'n fosca cella i giorni estremi spendi.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Che non conviensi già tra le felici</l>
+					<l xml:id="l10">Squadre d’Amore, e tra’l diletto e gioco,</l>
+					<l xml:id="l11"><del>Donna</del> in donna antica in imagine di Morte.</l>
+				</lg>
+				<lg>
+					<l xml:id="l12"><del>Deh fuggi homai dal Sole in chiuso loco,</del> ^Deh fuggi il sole, e cerca oscuro loco^</l>
+					<l xml:id="l13"><del>Come notturno augel e fra</del> <del>qual nero</del> ^come notturno augel^ gli horrori amici,</l>
+					<l xml:id="l14">Ne qui timore il tuo sembiante apporte.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

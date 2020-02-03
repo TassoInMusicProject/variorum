@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Ben può ritrar le tue fattezze conte</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S169</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S169">
+					<title>Rime del Signor Torquato Tasso, divise in amorose, boscherezze, maritime, imenei, heroiche, morali, lugubri, sacre e varie. Con gli argomenti ad ogni compositione. Fatica del Sig. Carlo Fiamma. Aggiuntovi la vita, et sentenze dell'auttore scritta dell'illustrissimo Sig. Gio. Battista Manso</title>
+					<url>https://babel.hathitrust.org/cgi/pt?id=mdp.39015063702826;view=1up;seq=15</url>
+					<publisher>Evangelista Deuchino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1621">1621</date>
+					<biblScope unit="page">RIME DEL TASSO.L'EROICHE. P. V., 40</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Mirandossi il detto Principe nello specchio.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Ben può ritrar le tue fattezze conte</l>
+					<l xml:id="l2">Lucido vetro, ò pur  tranquillo humore:</l>
+					<l xml:id="l3">Ma non quella beltà, nè quell valore,</l>
+					<l xml:id="l4">Che può fare a la morte oltraggi, &amp; onte.</l>
+					<l xml:id="l5">Perche degno non è cristallo, ò fonte</l>
+					<l xml:id="l6">Di mortal forma, ò di celeste honore:</l>
+					<l xml:id="l7">Ma specchio sol d’angelico splendore,</l>
+					<l xml:id="l8">Dove il primo amator mirò la fronte.</l>
+					<l xml:id="l9">La sù la tua virtute, e la sua luce</l>
+					<l xml:id="l10">Si vedrà fiammeggiare, e ’n sì bel viso</l>
+					<l xml:id="l11">À pena un raggio hora s’adombra, e scerne.</l>
+					<l xml:id="l12">E mentre a gli occhi atrui vago traluce,</l>
+					<l xml:id="l13">Non divieni, signor, novo Narciso</l>
+					<l xml:id="l14">Anzi ti volgi à le bellezze eterne.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

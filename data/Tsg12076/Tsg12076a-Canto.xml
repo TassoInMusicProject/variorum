@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Passa pur questo petto, e feri scempi</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tsg12076a</idno>
+			<idno type="label">Tsg12076a (Canto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tsg12076a-Canto">
+					<title>Li diversi scherzi a due, a tre et quattro voci. Libro quinto</title>
+					<url></url>
+					<author role="composer">Cifra, Antonio</author>
+					<publisher>Robletti</publisher>
+					<pubPlace>Rome</pubPlace>
+					<date when="1617">1617</date>
+					<idno type="RISM">C 2221</idno>
+					<biblScope unit="page">6-8</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Aria di Romanesca.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Passa pur questo petto, e feri scempi,</l>
+					<l xml:id="l2">Co'l ferro tuo, crudel, fà del mio core.</l>
+				</lg>
+				<lg>
+					<l xml:id="l3">Ma forse usata a fatti atroci, &amp; empi</l>
+					<l xml:id="l4">Stimi pietà dar morte al mio dolore.</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Dunqu;io vivrò, trà memorandi essempi</l>
+					<l xml:id="l6">Misero mostro, d’infelice amore.</l>
+				</lg>
+				<lg>
+					<l xml:id="l7">Misero mostro à cui sol pena è degna</l>
+					<l xml:id="l8">De l’immensa empietà la vita indegna.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

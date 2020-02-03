@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Mentre ne' cari balli in loco adorno</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">C</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="C">
+					<msIdentifier>
+						<region>Vatican City</region>
+						<repository>Biblioteca Vaticana</repository>
+						<idno>Chig. L.VIII.302</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 20r</locus>
+							<url>https://digi.vatlib.it/view/MSS_Chig.L.VIII.302</url>
+							<p>codex containing autographs of 156 lyric poems by Tasso, divided in two books</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century (1584-85)</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Si lamenta della sua donna, che ballandosi al ballo del Torchio, con estinguerla ponesse fine al ballo.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Ove tra cari balli in loco adorno,</l>
+					<l xml:id="l2">Si trahean le notturne, e placide hore,</l>
+					<l xml:id="l3">face, che nel suo foco accese Amore,</l>
+					<l xml:id="l4">lieto n’apriva a mezza notte il giorno.</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">e da candide man vibrata intorno</l>
+					<l xml:id="l6">spargea faville di si puro ardore,</l>
+					<l xml:id="l7">che pareva recar gioia, et honore</l>
+					<l xml:id="l8">A' pochi eletti, agli altri invidia, e scorno.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Quando <del>ecco à te man cruda offerta fue,</del> ^à te data fù man cruda, e bella^</l>
+					<l xml:id="l10">e da te presa, e spenta, e ciechi e mesti;</l>
+					<l xml:id="l11">Restar mille occhi a lo sparir d’un lume.</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">Ah come allhor cangiasti arte, e costume,</l>
+					<l xml:id="l13"><del>Tu ministra d'Amor, tu che le sue</del> ^Tu che s^u^oli avvivar, la <del>sua</del> <del>alma</del> ^aurea^ facella^</l>
+					<l xml:id="l14"><del>fiamme soli avvivar tu l’estinguesti.</del> ^Tu ministra d'Amor, tu l'estinguesti.^</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

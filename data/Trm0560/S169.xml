@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Tarquinia, se rimiri</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S169</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S169">
+					<title>Rime del Signor Torquato Tasso, divise in amorose, boscherezze, maritime, imenei, heroiche, morali, lugubri, sacre e varie. Con gli argomenti ad ogni compositione. Fatica del Sig. Carlo Fiamma. Aggiuntovi la vita, et sentenze dell'auttore scritta dell'illustrissimo Sig. Gio. Battista Manso</title>
+					<url>https://babel.hathitrust.org/cgi/pt?id=mdp.39015063702826;view=1up;seq=15</url>
+					<publisher>Evangelista Deuchino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1621">1621</date>
+					<biblScope unit="page">RIME DEL TASSO.AMOROSE. P. I., 19</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Mentre rimira il Cielo.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Mentre mia stella, miri</l>
+					<l xml:id="l2">I bei celesti giri,</l>
+					<l xml:id="l3">Il Cielo esser vorrei,</l>
+					<l xml:id="l4">Perche ne gli occhi miei,</l>
+					<l xml:id="l5">Fisso tù rivolgessi,</l>
+					<l xml:id="l6">Le tue dolci faville;</l>
+					<l xml:id="l7">Io vagheggiar potessi,</l>
+					<l xml:id="l8">Mille bellezze tue, con luci mille.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

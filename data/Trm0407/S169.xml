@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>La natura compose</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S169</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S169">
+					<title>Rime del Signor Torquato Tasso, divise in amorose, boscherezze, maritime, imenei, heroiche, morali, lugubri, sacre e varie. Con gli argomenti ad ogni compositione. Fatica del Sig. Carlo Fiamma. Aggiuntovi la vita, et sentenze dell'auttore scritta dell'illustrissimo Sig. Gio. Battista Manso</title>
+					<url>https://babel.hathitrust.org/cgi/pt?id=mdp.39015063702826;view=1up;seq=15</url>
+					<publisher>Evangelista Deuchino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1621">1621</date>
+					<biblScope unit="page">RIME DEL TASSO.AMOROSE. P. II., 262</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Rosa lodata.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">La natura compose,</l>
+					<l xml:id="l2">Cotesto vago fiore,</l>
+					<l xml:id="l3">O pur bel magistero egli è d’Amore?</l>
+					<l xml:id="l4">Deh chi cosi vicine</l>
+					<l xml:id="l5">Le pene, e i dolci premi in lui ripose?</l>
+					<l xml:id="l6">E chi d’acute spine</l>
+					<l xml:id="l7">Cinse le belle foglie?</l>
+					<l xml:id="l8">Onde, s’incauta man talhora coglie,</l>
+					<l xml:id="l9">Punta, in un punto solo</l>
+					<l xml:id="l10">N' have allegrezza, e duolo:</l>
+					<l xml:id="l11">O fior meraviglioso, ond’ancor dura</l>
+					<l xml:id="l12">Frà l' amor lite incerta, e la natura.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

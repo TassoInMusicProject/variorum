@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Lunge da voi, ben mio</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S169</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S169">
+					<title>Rime del Signor Torquato Tasso, divise in amorose, boscherezze, maritime, imenei, heroiche, morali, lugubri, sacre e varie. Con gli argomenti ad ogni compositione. Fatica del Sig. Carlo Fiamma. Aggiuntovi la vita, et sentenze dell'auttore scritta dell'illustrissimo Sig. Gio. Battista Manso</title>
+					<url>https://babel.hathitrust.org/cgi/pt?id=mdp.39015063702826;view=1up;seq=15</url>
+					<publisher>Evangelista Deuchino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1621">1621</date>
+					<biblScope unit="page">RIME DEL TASSO AMOROSE. P. I., 76</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Segue lo stesso.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Lunge da voi ben mio,</l>
+					<l xml:id="l2">Non ho vita nè core, e non son io:</l>
+					<l xml:id="l3">Non sono (ohimè) non sono</l>
+					<l xml:id="l4">Quel, ch’altra volta fui, ma un’ombra mesta,</l>
+					<l xml:id="l5">Un lagrimevol suono,</l>
+					<l xml:id="l6">Una voce dolente, e ciò mi resta</l>
+					<l xml:id="l7">Solo per vostro dono,</l>
+					<l xml:id="l8">Ma resta il male, onde morir desio.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

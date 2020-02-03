@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Non si levava ancor l'alba novella</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S169</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S169">
+					<title>Rime del Signor Torquato Tasso, divise in amorose, boscherezze, maritime, imenei, heroiche, morali, lugubri, sacre e varie. Con gli argomenti ad ogni compositione. Fatica del Sig. Carlo Fiamma. Aggiuntovi la vita, et sentenze dell'auttore scritta dell'illustrissimo Sig. Gio. Battista Manso</title>
+					<url>https://babel.hathitrust.org/cgi/pt?id=mdp.39015063702826;view=1up;seq=15</url>
+					<publisher>Evangelista Deuchino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1621">1621</date>
+					<biblScope unit="page">RIME DEL TASSO.AMOROSE. PAR. II., 234</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Giorno importuno.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Non si levava ancor l’Alba novella,</l>
+					<l xml:id="l2">Nè spiegavan le piume</l>
+					<l xml:id="l3">Gli augelli al nuovo lume,</l>
+					<l xml:id="l4">Ma fiammeggiava l’amorosa stella.</l>
+					<l xml:id="l5">Quando i due vaghi, e leggiadretti amanti,</l>
+					<l xml:id="l6">Ch’una felice notte aggionse insieme,</l>
+					<l xml:id="l7">Come Acanto si volge i varij giri:</l>
+					<l xml:id="l8">Divise il novo raggio, e i dolci pianti,</l>
+					<l xml:id="l9">Ne l’accoglienze estreme,</l>
+					<l xml:id="l10">Mescolavan con baci, e co’ sospiri:</l>
+					<l xml:id="l11">Mille ardenti pensier mille desiri.</l>
+					<l xml:id="l12">Mille voglie non paghe,</l>
+					<l xml:id="l13">In quelle luci vaghe</l>
+					<l xml:id="l14">Scoprìa quest’alma innamorata, e quella.</l>
+					<l xml:id="l15">[OMITTED]</l>
+					<l xml:id="l16">[OMITTED]</l>
+					<l xml:id="l17">[OMITTED]</l>
+					<l xml:id="l18">[OMITTED]</l>
+					<l xml:id="l19">[OMITTED]</l>
+					<l xml:id="l20">[OMITTED]</l>
+					<l xml:id="l21">[OMITTED]</l>
+					<l xml:id="l22">[OMITTED]</l>
+					<l xml:id="l23">[OMITTED]</l>
+					<l xml:id="l24">[OMITTED]</l>
+					<l xml:id="l25">[OMITTED]</l>
+					<l xml:id="l26">[OMITTED]</l>
+					<l xml:id="l27">[OMITTED]</l>
+					<l xml:id="l28">[OMITTED]</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

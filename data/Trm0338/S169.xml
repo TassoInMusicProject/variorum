@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Donna cortese e bella</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S169</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S169">
+					<title>Rime del Signor Torquato Tasso, divise in amorose, boscherezze, maritime, imenei, heroiche, morali, lugubri, sacre e varie. Con gli argomenti ad ogni compositione. Fatica del Sig. Carlo Fiamma. Aggiuntovi la vita, et sentenze dell'auttore scritta dell'illustrissimo Sig. Gio. Battista Manso</title>
+					<url>https://babel.hathitrust.org/cgi/pt?id=mdp.39015063702826;view=1up;seq=15</url>
+					<publisher>Evangelista Deuchino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1621">1621</date>
+					<biblScope unit="page">RIME DEL TASSO. BOSCHERECCIE. P. II., 64</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Bramato favore.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Alma cortese, e bella,</l>
+					<l xml:id="l2">Deh non voler ch’io moia</l>
+					<l xml:id="l3">Di temenza, e di noia;</l>
+					<l xml:id="l4">Libera il corpo, e fa l’anima ancella;</l>
+					<l xml:id="l5">E se disdegni signoria si bassa</l>
+					<l xml:id="l6">Altrui non mi dona, o lassa;</l>
+					<l xml:id="l7">Che tra pastori forse, o tra bifolci.</l>
+					<l xml:id="l8">Havrò l’hore più dolci.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

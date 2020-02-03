@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Del puro lume onde i celesti giri</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">C</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="C">
+					<msIdentifier>
+						<region>Vatican City</region>
+						<repository>Biblioteca Vaticana</repository>
+						<idno>Chig. L.VIII.302</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 94r</locus>
+							<url>https://digi.vatlib.it/view/MSS_Chig.L.VIII.302</url>
+							<p>codex containing autographs of 156 lyric poems by Tasso, divided in two books</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century (1584-85)</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Loda gli occhi de la Sig:ra Lucretia Susena, Dama della Sig:ra Duchessa d'Urbino, dicendo, che son formati del lume delle stelle, e del sole: Pongasi questo e'l seguente sonetto dopo quello, che comincia: due donne in un di vidi</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Del puro lume, onde i celesti giri,</l>
+					<l xml:id="l2">Fece il sole, e le Stelle il mastro eterno,</l>
+					<l xml:id="l3">formò i vostri occhi anchora, et al governo</l>
+					<l xml:id="l4">Vi pose Amor, perche gli informi e giri.</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">e solo un raggio, che di lor si miri</l>
+					<l xml:id="l6">Lunge sgombra da noi la notte e’l verno,</l>
+					<l xml:id="l7">Degli affetti mondani, e un foco interno</l>
+					<l xml:id="l8">V’accende di leggiadri alti desiri.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">La fiamma crea gli spirti à lei sembianti;</l>
+					<l xml:id="l10">Ne l'alme vaghe, e l’arde, e le non sface,</l>
+					<l xml:id="l11">Ma le fa pure di terrene, e miste.</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">Non è tema o dolor, che mai m’attriste,</l>
+					<l xml:id="l13">serena è come voi la nostra pace,</l>
+					<l xml:id="l14">e son pianti di gioia i nostri pianti.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

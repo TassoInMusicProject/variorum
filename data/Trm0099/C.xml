@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Geloso amante apro mill'occhi e giro</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">C</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="C">
+					<msIdentifier>
+						<region>Vatican City</region>
+						<repository>Biblioteca Vaticana</repository>
+						<idno>Chig. L.VIII.302</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 70v</locus>
+							<url>https://digi.vatlib.it/view/MSS_Chig.L.VIII.302</url>
+							<p>codex containing autographs of 156 lyric poems by Tasso, divided in two books</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century (1584-85)</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Dice, che per Gelosia torrebbe di non veder la sua donna pur che non la vedesse alcuno altro;</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Geloso Amante apro mille occhi, e giro</l>
+					<l xml:id="l2">e mille orecchi ad ogni suono intenti:</l>
+					<l xml:id="l3">e sol di cieco horror larve, e spaventi</l>
+					<l xml:id="l4">quasi animal che adombre <del>odo, e ri</del> ^ascolto e^ miro.</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">S’apre un riso costei, se'n dolce giro,</l>
+					<l xml:id="l6">^Lieta rivolge i begli occhi lucenti^</l>
+					<l xml:id="l7">S'accoglie <del>di</del> ^con^ pietà gli altrui lamenti,</l>
+					<l xml:id="l8">e s'ella forma un detto, et un sospiro;</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Temo, ch'altri ne goda, e che m’invole</l>
+					<l xml:id="l10">l’aura, e la luce, e ben mi duol, che spieghi</l>
+					<l xml:id="l11">Raggio di sua bellezza in alcun lato.</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">Si neghi a me, pur ch’à ciascun si nieghi,</l>
+					<l xml:id="l13">Che quando altrui non splenda il <del>mio bel</del> ^vivo^ sole,</l>
+					<l xml:id="l14">Ne le tenebre anchor vivrò beato.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

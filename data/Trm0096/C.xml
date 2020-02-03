@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Donna, quanto più a dentro</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">C</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="C">
+					<msIdentifier>
+						<region>Vatican City</region>
+						<repository>Biblioteca Vaticana</repository>
+						<idno>Chig. L.VIII.302</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 41v</locus>
+							<url>https://digi.vatlib.it/view/MSS_Chig.L.VIII.302</url>
+							<p>codex containing autographs of 156 lyric poems by Tasso, divided in two books</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century (1584-85)</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Dice a la sua donna, che quanto piu conosce del suo core: tanto meno gli presta credenza:  [the entire pome is deleted with three vertical strike-throughs]</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Donna quanto pia a dentro</l>
+					<l xml:id="l2">Conobbi il vostro core,</l>
+					<l xml:id="l3">Tanto a darvi credenza io son piu tardo.</l>
+					<l xml:id="l4">Ne stimo quel di fore,</l>
+					<l xml:id="l5">Io dico un vago inchino, un dolce sguardo,</l>
+					<l xml:id="l6">Un dir nel foco io ardo,</l>
+					<l xml:id="l7">Un scolorir di viso</l>
+					<l xml:id="l8">Un dolente sospiro, un lieto riso.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

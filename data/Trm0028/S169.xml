@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Giacea la mia virtù vinta e smarrita</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S169</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S169">
+					<title>Rime del Signor Torquato Tasso, divise in amorose, boscherezze, maritime, imenei, heroiche, morali, lugubri, sacre e varie. Con gli argomenti ad ogni compositione. Fatica del Sig. Carlo Fiamma. Aggiuntovi la vita, et sentenze dell'auttore scritta dell'illustrissimo Sig. Gio. Battista Manso</title>
+					<url>https://babel.hathitrust.org/cgi/pt?id=mdp.39015063702826;view=1up;seq=15</url>
+					<publisher>Evangelista Deuchino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1621">1621</date>
+					<biblScope unit="page">RIME DEL TASSO AMOROSE. P. I., 39</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Sogno felice.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Giacea la mia virtù vinta, e smarrita</l>
+					<l xml:id="l2">Nel duol, ch' è sempre in sua ragion più forte:</l>
+					<l xml:id="l3">Quando pietosa di si dura sorte,</l>
+					<l xml:id="l4">Venne in sogno madonna, a darle aita,</l>
+					<l xml:id="l5">E ristorò gli spirti, e ’n me sopita</l>
+					<l xml:id="l6">La doglia a nova speme aprì le porte:</l>
+					<l xml:id="l7">E cosi ne l’imagine di Morte,</l>
+					<l xml:id="l8">Trovò l’egro mio cor salute, e vita:</l>
+					<l xml:id="l9">Ella volgendo gli occhi in dolci giri,</l>
+					<l xml:id="l10">Parea, che mi dicesse, a che pur tanto,</l>
+					<l xml:id="l11">O mio fedel t’affliggi, e ti consumi?</l>
+					<l xml:id="l12">E perche non fai tregua a’ tuoi sospiri,</l>
+					<l xml:id="l13">E ’n queste amate luci, asciughi il pianto?</l>
+					<l xml:id="l14">Speri forse  d’haver più fidi lumi?</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Giacea la mia virtù vinta e smarrita</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">C</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="C">
+					<msIdentifier>
+						<region>Vatican City</region>
+						<repository>Biblioteca Vaticana</repository>
+						<idno>Chig. L.VIII.302</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 11r</locus>
+							<url>https://digi.vatlib.it/view/MSS_Chig.L.VIII.302</url>
+							<p>codex containing autographs of 156 lyric poems by Tasso, divided in two books</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century (1584-85)</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Dice, ch'essendo vinto dal dolore gli apparve in sogno la sua donna, e'l racconsolò.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Giacea la mia virtù vinta, e smarrita</l>
+					<l xml:id="l2"><del>Dal</del> ^nel^ duol<del>o</del> ^ch'è sempre^ in sua ragion <del>sempre</del> piu forte,</l>
+					<l xml:id="l3">quando il <del>sonno</del> pietosa di <del>mia</del> ^si dura^ sorte,</l>
+					<l xml:id="l4"><del>Seco addusse Madonna</del> ^Venne in sogno Madonna^ a darle aita.</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Che rostprò gli spirti, e'n me sopita</l>
+					<l xml:id="l6">la doglia à nova speme apri le porte:</l>
+					<l xml:id="l7">e cosi <del>allhor</del> ne l’immagine di morte,</l>
+					<l xml:id="l8">Trovò l’egro mio cor salute, e vita.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">ella volse in me gli occhi, e le parole</l>
+					<l xml:id="l10">Di pieta vera ardenti, a che pur tanto,</l>
+					<l xml:id="l11">O mio fedel t’affligi, e ti consumi?</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">Ben tempo anchor verrà, ch’al chiaro sole</l>
+					<l xml:id="l13">Di queste amate luci asciughi il pianto,</l>
+					<l xml:id="l14">e’l foco di tua vita in lui rallumi.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

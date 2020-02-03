@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Qui dove i sacri e verdeggianti allori</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S169</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S169">
+					<title>Rime del Signor Torquato Tasso, divise in amorose, boscherezze, maritime, imenei, heroiche, morali, lugubri, sacre e varie. Con gli argomenti ad ogni compositione. Fatica del Sig. Carlo Fiamma. Aggiuntovi la vita, et sentenze dell'auttore scritta dell'illustrissimo Sig. Gio. Battista Manso</title>
+					<url>https://babel.hathitrust.org/cgi/pt?id=mdp.39015063702826;view=1up;seq=15</url>
+					<publisher>Evangelista Deuchino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1621">1621</date>
+					<biblScope unit="page">RIME DEL TASSO.BOSCHERECCIE. P. II., 6</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Invito a Filli.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Qui dove i sacri, e verdeggianti allori</l>
+					<l xml:id="l2">Forman di se vago boschetto ombroso,</l>
+					<l xml:id="l3">Per cui serpendo al mar da l’herbe ascoso</l>
+					<l xml:id="l4">Porta limpido Rio suoi dolci humori.</l>
+					<l xml:id="l5">Onde per sì, vermigli, e bianchi fiori</l>
+					<l xml:id="l6">Rendon vago il terreno, e dilettoso</l>
+					<l xml:id="l7">Ove fra ’l crin degli arboscei frondoso</l>
+					<l xml:id="l8">Scherzano l’aure con leggiadri errori.</l>
+					<l xml:id="l9">Vieni, ò Fillide mia se pur non hai</l>
+					<l xml:id="l10">Non men c’humano volto, il cor spietato,</l>
+					<l xml:id="l11">Ond’io tregua al dolor ritrovi homai.</l>
+					<l xml:id="l12">Ma chi m’ode? a chi parlo? ove son io?</l>
+					<l xml:id="l13">Lasso ella altrove al caro Alcippo amato</l>
+					<l xml:id="l14">S’asside in grembo, e spregia l’ardor mio.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

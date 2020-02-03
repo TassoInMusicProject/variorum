@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Di nettare amoroso ebro la mente</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S169</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S169">
+					<title>Rime del Signor Torquato Tasso, divise in amorose, boscherezze, maritime, imenei, heroiche, morali, lugubri, sacre e varie. Con gli argomenti ad ogni compositione. Fatica del Sig. Carlo Fiamma. Aggiuntovi la vita, et sentenze dell'auttore scritta dell'illustrissimo Sig. Gio. Battista Manso</title>
+					<url>https://babel.hathitrust.org/cgi/pt?id=mdp.39015063702826;view=1up;seq=15</url>
+					<publisher>Evangelista Deuchino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1621">1621</date>
+					<biblScope unit="page">RIME DEL TASSO. AMOROSE. P. II., 225</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Baci di complimento.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Di nettare amoroso ebro la mente;</l>
+					<l xml:id="l2">Ratto fui, nè sò come e in chiusa chiostra,</l>
+					<l xml:id="l3">E due belle d’Amor guerriere in giostra</l>
+					<l xml:id="l4">Vidi con l’arme, ond’egli è sì possente.</l>
+					<l xml:id="l5">Vidi, che in dolce arringo alteramente,</l>
+					<l xml:id="l6">Fer pria di lor beltà, leggiadra mostra:</l>
+					<l xml:id="l7">Poi movendosi incontra, ove s’inoltra,</l>
+					<l xml:id="l8">La bocca, sì ferir di bacio ardente.</l>
+					<l xml:id="l9">Sonar le labra, e vi restaro i segni</l>
+					<l xml:id="l10">Di colpi impressi. Amor, deh, perche avoto</l>
+					<l xml:id="l11">Tant’arme, e tai percosse usar da scherzo?</l>
+					<l xml:id="l12">Provinsi in vera pugna, e non si sdegni</l>
+					<l xml:id="l13">Scontro d’amante, Amor, mè tuo devoto</l>
+					<l xml:id="l14">Oppon à l’una, ò frà le due fà terzo.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

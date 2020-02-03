@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Certo è scemo il tuo onor, se non s'addita</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tsg20132a</idno>
+			<idno type="label">Tsg20132a (Canto_1)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tsg20132a-Canto_1">
+					<title>Scherzi et arie a une, due, tre, et quattro voci per cantare nel clavicembalo ò altro simile istromento</title>
+					<url>https://uurl.kbr.be/1561864</url>
+					<author role="composer">Cifra, Antonio</author>
+					<publisher>G. Vincenzi</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1614">1614</date>
+					<idno type="RISM">C 2216</idno>
+					<biblScope unit="page">6-9</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">[Aria del Gazzella. A 2 Soprani]</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Certo è scorno il tuo honor se non s’addita</l>
+					<l xml:id="l2">Incatenata al tuo trionfo avanti</l>
+					<l xml:id="l3">Femina hor presa a forza e pria tradita</l>
+					<l xml:id="l4">Quest’e il maggior de titoli e de’ vanti.</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Tempo fù ch’io ti chiesi e pace e vita</l>
+					<l xml:id="l6">Dolce hor saria con morte uscir de pianti</l>
+					<l xml:id="l7">Ma non la chiedo a te che non e cosa</l>
+					<l xml:id="l8">Ch’essendo dono tuo non mi sia odiosa.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

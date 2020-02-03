@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>In un bel bosco di leggiadre fronde</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S169</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S169">
+					<title>Rime del Signor Torquato Tasso, divise in amorose, boscherezze, maritime, imenei, heroiche, morali, lugubri, sacre e varie. Con gli argomenti ad ogni compositione. Fatica del Sig. Carlo Fiamma. Aggiuntovi la vita, et sentenze dell'auttore scritta dell'illustrissimo Sig. Gio. Battista Manso</title>
+					<url>https://babel.hathitrust.org/cgi/pt?id=mdp.39015063702826;view=1up;seq=15</url>
+					<publisher>Evangelista Deuchino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1621">1621</date>
+					<biblScope unit="page">RIME DEL TASSO.BOSCHERECCIE. P. II., 5</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Amore improviso.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">In un bel bosco di leggiadre fronde,</l>
+					<l xml:id="l2">Ch’ombra si fà con le ramose braccia,</l>
+					<l xml:id="l3">Amor, che và de l’alme nostre a caccia,</l>
+					<l xml:id="l4">Tese le reti di due treccie bionde.</l>
+					<l xml:id="l5">Così il mio cor, c’havea di due gioconde</l>
+					<l xml:id="l6">Luci seguita la fallace traccia,</l>
+					<l xml:id="l7">Preso restò, com’animal s’allaccia</l>
+					<l xml:id="l8">Ne’ bei legami, che ne l’ombra asconde.</l>
+					<l xml:id="l9">O dolce laccio, o vaghe reti o bosco</l>
+					<l xml:id="l10">Vezzoso, o cacciator, che mi togliesti</l>
+					<l xml:id="l11">Il core, dove l’hai crudele ascosto?</l>
+					<l xml:id="l12">Io pur ritorno spesso a pianger vosco,</l>
+					<l xml:id="l13">Et a cercar tra queste herbette, e questi</l>
+					<l xml:id="l14">Vaghi fioretti, ove egli sia nascosto.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

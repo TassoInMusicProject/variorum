@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Stavasi Amor quasi in regno assiso</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S169</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S169">
+					<title>Rime del Signor Torquato Tasso, divise in amorose, boscherezze, maritime, imenei, heroiche, morali, lugubri, sacre e varie. Con gli argomenti ad ogni compositione. Fatica del Sig. Carlo Fiamma. Aggiuntovi la vita, et sentenze dell'auttore scritta dell'illustrissimo Sig. Gio. Battista Manso</title>
+					<url>https://babel.hathitrust.org/cgi/pt?id=mdp.39015063702826;view=1up;seq=15</url>
+					<publisher>Evangelista Deuchino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1621">1621</date>
+					<biblScope unit="page">RIME DEL TASSO AMOROSE. P. I., 4</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Canto imposto d'Amore.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Stavasi Amor, quasi in suo regno assiso,</l>
+					<l xml:id="l2">Nel seren di due luci ardenti, &amp; alme;</l>
+					<l xml:id="l3">Mille famose insegne, e mille palme.</l>
+					<l xml:id="l4">Spiegando in un sereno, e chiaro viso.</l>
+					<l xml:id="l5">Quando rivolto a me, che intento, e fiso</l>
+					<l xml:id="l6">Mirava le sue ricche, e care salme,</l>
+					<l xml:id="l7">Hor canta (disse) come i cori, e l’alme,</l>
+					<l xml:id="l8">E’ tuo mdesmo ancora habbia conquiso.</l>
+					<l xml:id="l9">Né s’oda risonar l’arme di Marte,</l>
+					<l xml:id="l10">La voce tua: ma l’alta, e chiara gloria,</l>
+					<l xml:id="l11">E i divin pregi nostri, e di costei.</l>
+					<l xml:id="l12">Così adivien, che ne l’altrui vittoria</l>
+					<l xml:id="l13">Canti mia servitute, e i lacci miei;</l>
+					<l xml:id="l14">E tessa de gli affanni historia in carte.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>
