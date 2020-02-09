@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Così trapassa al trapassar d'un giorno</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tsg16015a</idno>
+			<idno type="label">Tsg16015a (Canto_1)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tsg16015a-Canto_1">
+					<title>Arie a più voci. Primo libro della Seconda Opera</title>
+					<url></url>
+					<author role="composer">Giramo, Pietro Antonio</author>
+					<publisher>Beltramo</publisher>
+					<pubPlace>Naples</pubPlace>
+					<date when="1630">1630</date>
+					<idno type="RISM">G 2504</idno>
+					<biblScope unit="page">5-8</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Partita Quinta [Sesta, Settima, Ottava] sopra la Romana</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Così trapassa al trapassar d’un giorno</l>
+					<l xml:id="l2">de la vita mortale il fiore e'l verde.</l>
+				</lg>
+				<lg>
+					<l xml:id="l3">Ne perche faccia indietro April ritorno</l>
+					<l xml:id="l4">si rinforza ella mai ne si rinverde.</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Cogliam la rosa in su'l mattino adorno</l>
+					<l xml:id="l6">di questo di che tosto il seren perde.</l>
+				</lg>
+				<lg>
+					<l xml:id="l7">Cogliam d’amor la rosa amiamo hor quando</l>
+					<l xml:id="l8">esser si puote riamato amando.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

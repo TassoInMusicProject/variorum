@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Argo non mai, non vide Cipro o Delo</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tsg04029a</idno>
+			<idno type="label">Tsg04029a (Canto_2)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tsg04029a-Canto_2">
+					<title>Le musiche a due voci</title>
+					<url>http://hz.imslp.info/files/imglnks/usimg/f/f7/IMSLP245236-PMLP397498-Sigismondo_d%C3%A2%E2%82%AC%E2%84%A2India_-_Le_musiche2.pdf</url>
+					<author role="composer">D'India, Sigismondo</author>
+					<publisher>Amadino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1615">1615</date>
+					<idno type="RISM">I 28</idno>
+					<biblScope unit="page">28-32</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Ottave Passeggiate.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Argo non mai non vide Cipro ò Delo</l>
+					<l xml:id="l2">d’habito, ò di belta forme si care.</l>
+				</lg>
+				<lg>
+					<l xml:id="l3">D’auro ha la chioma &amp hor dal bianco velo</l>
+					<l xml:id="l4">Traluce involta hor discoperta appare.</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Cosi qual hor si rasserena il Cielo</l>
+					<l xml:id="l6">Hor da candida nube il Sol traspare,</l>
+				</lg>
+				<lg>
+					<l xml:id="l7">Hor da le nube uscendo i raggi intorno</l>
+					<l xml:id="l8">Più chiari spiega e ne raddoppia il giorno.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

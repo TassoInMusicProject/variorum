@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Lei nel partir, lei nel tornar del sole</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tsg12090a</idno>
+			<idno type="label">Tsg12090a (Canto_2)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tsg12090a-Canto_2">
+					<title>Li diversi scherzi a una, a due, a tre et quattro voci. Libro quarto</title>
+					<url></url>
+					<author role="composer">Cifra, Antonio</author>
+					<publisher>Robletti</publisher>
+					<pubPlace>Rome</pubPlace>
+					<date when="1615">1615</date>
+					<idno type="RISM">C 2219</idno>
+					<biblScope unit="page">14-15</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Aria del Gazzella, a 2. Soprani.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Lei nel partir, lei nel tornar del Sole</l>
+					<l xml:id="l2">Chiama con voce stanca, e prega, e plora</l>
+					<l xml:id="l3">Come Usignuol cui'l Villan duro invole</l>
+					<l xml:id="l4">Dal nido i figli non pennuti ancora.</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Che in miserabil canto, afflitte, e sole</l>
+					<l xml:id="l6">Piange le notti, e n’empie i boschi, e l’hora</l>
+					<l xml:id="l7">Al fin col novo di rinchiude alquanto</l>
+					<l xml:id="l8">I lume e'l sonno in lor serpe fra'l' pianto.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

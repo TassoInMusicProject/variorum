@@ -37,24 +37,30 @@
 	<text>
 		<body xml:space="preserve">
 			<div type="dedication">
-				<p xml:id="p1">[Di Messer Torquato Tasso] Mentre madonna il lasso fianco posa 	Doppo suoi lunghi e volontarij errori 	A fiorito soggiorno dolci umori 	Susurrando predava Ape ingegnosa</p>
+				<p xml:id="p1">[Di Messer Torquato Tasso]</p>
 			</div>
 			<div>
 				<lg>
-					<l xml:id="l1">Ch'alle labbra in cui nudria aura amorosa</l>
-					<l xml:id="l2">Al sol di due begli occhi eterni fiori</l>
-					<l xml:id="l3">Ingannata à i dolcissimi colori</l>
-					<l xml:id="l4">Corse e sugger credea purpurea rosa.</l>
+					<l xml:id="l1">Mentre madonna il lasso fianco posa</l>
+					<l xml:id="l2">Doppo suoi lunghi e volontarij errori</l>
+					<l xml:id="l3">A fiorito soggiorno dolci umori</l>
+					<l xml:id="l4">Susurrando predava Ape ingegnosa</l>
 				</lg>
 				<lg>
-					<l xml:id="l5">Ahi troppo saggia nell'errar felice</l>
-					<l xml:id="l6">Temerità e se quel che alle mie voglie</l>
-					<l xml:id="l7">Timide si contende a te sol lice</l>
+					<l xml:id="l5">Ch'alle labbra in cui nudria aura amorosa</l>
+					<l xml:id="l6">Al sol di due begli occhi eterni fiori</l>
+					<l xml:id="l7">Ingannata à i dolcissimi colori</l>
+					<l xml:id="l8">Corse e sugger credea purpurea rosa.</l>
 				</lg>
 				<lg>
-					<l xml:id="l8">Vil Ape Amor cara merce mi toglie</l>
-					<l xml:id="l9">Che più ti resta? s'altri l' mel n’elice</l>
-					<l xml:id="l10">Con che tempri l' tuo assentio e le mie voglie?</l>
+					<l xml:id="l9">Ahi troppo saggia nell'errar felice</l>
+					<l xml:id="l10">Temerità e se quel che alle mie voglie</l>
+					<l xml:id="l11">Timide si contende a te sol lice</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">Vil Ape Amor cara merce mi toglie</l>
+					<l xml:id="l13">Che più ti resta? s'altri l' mel n’elice</l>
+					<l xml:id="l14">Con che tempri l' tuo assentio e le mie voglie?</l>
 				</lg>
 			</div>
 		</body>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Signor, non sotto l’ombra in piaggia molle</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tsg17061a</idno>
+			<idno type="label">Tsg17061a (Canto_1)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tsg17061a-Canto_1">
+					<title>Musiche sacre e morali a una, due e tre voci</title>
+					<url>http://www.bibliotecamusica.it/cmbm/viewschedatwbca.asp?path=/cmbm/images/ripro/gaspari/AA/AA278/</url>
+					<author role="composer">Mazzocchi, Domenico</author>
+					<publisher>Grignani</publisher>
+					<pubPlace>Rome</pubPlace>
+					<date when="1640">1640</date>
+					<idno type="RISM">M 1676</idno>
+					<biblScope unit="page">75-78</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">OTTAVA. A 2 Soprani. Eccitamento alle Virtù.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Signor, non sotto l’ombra, in piaggia molle</l>
+					<l xml:id="l2">Trà fonti, e fior, trà Ninfe, e trà Sirene,</l>
+					<l xml:id="l3">Ma in cima all’erto, e faticoso colle</l>
+					<l xml:id="l4">Della Virtù riposto è il nostro bene.</l>
+					<l xml:id="l5">@VERSE:</l>
+					<l xml:id="l6">Chi non gela, e non suda, e non s’estolle</l>
+					<l xml:id="l7">Da le vie del piacer, là non perviene.</l>
+					<l xml:id="l8">@VERSE:</l>
+					<l xml:id="l9">Hor vorrai tù, lungi dall’alte cime</l>
+					<l xml:id="l10">Giacer quasi trà valli Augel sublime?</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>
