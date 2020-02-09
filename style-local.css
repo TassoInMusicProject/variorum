@@ -18,8 +18,26 @@ html, body {
 	/* Added for horizontal scrolling of long lines */
 	white-space: nowrap;
 	overflow-x: scroll;
-	width: 560px;
+	width: 570px;
+	padding-right: 50px;
+	margin-right: 50px;
+	z-index: 1000;
 }
+
+#TEI ul li {
+	display: block;
+	width: 400px;
+	white-space: normal;
+	text-indent: -24px;
+	padding-left: 24px;
+}
+
+tei-p {
+	display: block;
+	width: 500px;
+	white-space: normal;
+}
+
 
 
 #contents {
@@ -84,7 +102,7 @@ h4 {
 	border-left: 1px solid #eee;
 	min-height: 100px;
 	line-height: 1.1;
-	min-width: 350px;
+	min-width: 300px;
 }
 
 
