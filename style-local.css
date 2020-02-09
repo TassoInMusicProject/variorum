@@ -14,7 +14,11 @@ html, body {
 	padding-top:  20px !important;
 	overflow: scroll;
 	font-size: 0.9rem;
-	max-width: 650px;
+
+	/* Added for horizontal scrolling of long lines */
+	white-space: nowrap;
+	overflow-x: scroll;
+	width: 560px;
 }
 
 
