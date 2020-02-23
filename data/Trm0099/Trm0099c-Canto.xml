@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Geloso amante apro mill'occhi e giro</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0099c</idno>
+			<idno type="label">Trm0099c (Canto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0099c-Canto">
+					<title>Arie a voce sola</title>
+					<url>https://imslp.org/wiki/Arie_a_voce_sola_(Vittori%2C_Loreto)</url>
+					<author role="composer">Vittori, Loreto</author>
+					<publisher>A. Vincenzi</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1649">1649</date>
+					<idno type="RISM">V 2186</idno>
+					<biblScope unit="page">19-22</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Sonetto</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Geloso amante apro mill'occhi e giro</l>
+					<l xml:id="l2">e mill'orecchi ad ogni suono intenti</l>
+					<l xml:id="l3">e sol di cieco horor larve e spaventi</l>
+					<l xml:id="l4">quasi animal ch’adombra odo e rimiro.</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">S’apre un riso costei s’in dole giro</l>
+					<l xml:id="l6">lieta rivolge i suoi bei rai lucenti</l>
+					<l xml:id="l7">se tinta di pieàa gl'altrui lamenti</l>
+					<l xml:id="l8">accoglie o muov'un guardo o d’un sospiro.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Temo ch’altri ne goda è che m’invole</l>
+					<l xml:id="l10">l'aura è la luce è sol mi duol che spieghi</l>
+					<l xml:id="l11">raggio di sua bellezza in alcun lato.</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">Si nieghi à me pur ch’à ciascun si nieghi</l>
+					<l xml:id="l13">che quando altrui non splenda il mio bel Sole</l>
+					<l xml:id="l14">nelle tenebre ancor vivro Beato.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Se tu mi lasci, perfida, tuo danno</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0433i</idno>
+			<idno type="label">Trm0433i (Basso)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0433i-Basso">
+					<title>Arie a una voce</title>
+					<url>https://books.google.com/books?id=q78sAQAAMAAJ&amp;printsec=frontcover&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false</url>
+					<author role="composer">Landi, Stefano</author>
+					<publisher>Magni</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1620">1620</date>
+					<idno type="RISM">L 530</idno>
+					<biblScope unit="page">73-74</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Madrigale.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Se tu mi lasci perfida tuo danno</l>
+					<l xml:id="l2">non ti pensar che sia</l>
+					<l xml:id="l3">misera senza te la vita mia</l>
+					<l xml:id="l4">Misero ben sarei</l>
+					<l xml:id="l5">Se miseria stimassi e non ventura</l>
+					<l xml:id="l6">perder chi non mi cura</l>
+					<l xml:id="l7">e ritrovar quel che di me perdei</l>
+					<l xml:id="l8">Misera è tu che per novello amore</l>
+					<l xml:id="l9">perdi quel fido Core</l>
+					<l xml:id="l10">ch’era piu tuo che tu di tè non sei</l>
+					<l xml:id="l11">ma'l il tuo già non perd’io</l>
+					<l xml:id="l12">perche non fu mai mio.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

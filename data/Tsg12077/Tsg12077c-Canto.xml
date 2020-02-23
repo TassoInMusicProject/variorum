@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Vivrò fra i miei tormenti e fra le cure</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tsg12077c</idno>
+			<idno type="label">Tsg12077c (Canto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tsg12077c-Canto">
+					<title>Giardino musicale di varii eccellenti autori</title>
+					<url></url>
+					<author role="composer">Boschetti, Giovanni Boschetto</author>
+					<publisher>Robletti</publisher>
+					<pubPlace>Rome</pubPlace>
+					<date when="1621">1621</date>
+					<idno type="RISM">1621/15</idno>
+					<biblScope unit="page">21</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Del Sig. Gio. Boschetto Boschetti</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Vivrò frà miei tormenti è le mie pene</l>
+					<l xml:id="l2">Mie giuste furie forsennato Amante</l>
+					<l xml:id="l3">Paventerò l’ombre solingh'e scure</l>
+					<l xml:id="l4">ch'il primo error mi recheranno avante.</l>
+					<l xml:id="l5">E del sol che scopri le mie sventure</l>
+					<l xml:id="l6">A schivo &amp; in orror havrò il sembiante</l>
+					<l xml:id="l7">Temerò me medesmo E da me stesso</l>
+					<l xml:id="l8">Sempre fuggend'havrò me sempre appresso.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

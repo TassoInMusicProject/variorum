@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Se tu mi lasci, perfida, tuo danno</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0433j</idno>
+			<idno type="label">Trm0433j (Canto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0433j-Canto">
+					<title>Terze musiche a una voce</title>
+					<url>https://imslp.org/wiki/Le_terze_Musiche_(Saracini%2C_Claudio)</url>
+					<author role="composer">Saracini, Claudio</author>
+					<publisher>A. Vincenzi</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1620">1620</date>
+					<idno type="RISM">S 912</idno>
+					<biblScope unit="page">18</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Intitolato Al Molto Illustre Signor Gio. Battista Rapani.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Se tu mi lasci perfida è crudele</l>
+					<l xml:id="l2">Non ti pensar che sia</l>
+					<l xml:id="l3">Misera senza te La vita mia.</l>
+					<l xml:id="l4">Misera ben sarei</l>
+					<l xml:id="l5">Se miseria stimasse e non ventura</l>
+					<l xml:id="l6">Perder chi non mi cura</l>
+					<l xml:id="l7">E ricusar quel che di me perdei</l>
+					<l xml:id="l8">Misera te Che per novell'Amore</l>
+					<l xml:id="l9">Perdi q[illegible]re</l>
+					<l xml:id="l10">Ch’eri piu mio che tu di te non sei</l>
+					<l xml:id="l11">Il tuo già non per Dio</l>
+					<l xml:id="l12">Poiche non fu mai mio.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

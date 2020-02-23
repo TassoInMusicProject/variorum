@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>"Deh mira," egli cantò, "spuntar la rosa</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tsg16014b</idno>
+			<idno type="label">Tsg16014b (Canto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tsg16014b-Canto">
+					<title>in Vezzosetti fiori di varii autori</title>
+					<url></url>
+					<author role="composer">Torscianello, Enrico</author>
+					<publisher>Robletti</publisher>
+					<pubPlace>Rome</pubPlace>
+					<date when="1622">1622</date>
+					<idno type="RISM">1622-11</idno>
+					<biblScope unit="page">8-9</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Deh mira egli cantò spuntar la rosa</l>
+					<l xml:id="l2">Dal verde suo modesta e verginella.</l>
+				</lg>
+				<lg>
+					<l xml:id="l3">Che mezzo aperta ancora e mezzo ascosa</l>
+					<l xml:id="l4">Quanto si mostra men tanto è più bella.</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Eccho poi nudo il sen già baldanzosa</l>
+					<l xml:id="l6">Dispiega Eccho poi langue e non par quella.</l>
+				</lg>
+				<lg>
+					<l xml:id="l7">Quella non par che desiata avanti</l>
+					<l xml:id="l8">Fù da mille donzelle e mille Amanti.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

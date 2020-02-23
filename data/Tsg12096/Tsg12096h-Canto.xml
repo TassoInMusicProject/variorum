@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Giunto a la tomba ove al suo spirto vivo</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tsg12096h</idno>
+			<idno type="label">Tsg12096h (Canto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tsg12096h-Canto">
+					<title>Li diversi scherzi a due, a tre et quattro voci. Libro sesto</title>
+					<url></url>
+					<author role="composer">Cifra, Antonio</author>
+					<publisher>Robletti</publisher>
+					<pubPlace>Antwerp</pubPlace>
+					<date when="1619">1619</date>
+					<idno type="RISM">C 2217Z</idno>
+					<biblScope unit="page">N/A</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Romanesca</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Giunto à la tomba ov'al suo spirto vivo</l>
+					<l xml:id="l2">Dolorosa prigion il Ciel prescrisse.</l>
+				</lg>
+				<lg>
+					<l xml:id="l3">Pallido freddo, e muto, e quasi privo</l>
+					<l xml:id="l4">Di movimento al marmo gli occhi affisse.</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Al fin sgorgando un lacrimoso rivo,</l>
+					<l xml:id="l6">In un languid'ohime proruppe, e disse.</l>
+				</lg>
+				<lg>
+					<l xml:id="l7">O sasso amato, et honorato tanto,</l>
+					<l xml:id="l8">Che dentro hai le mie fiamme, e fuori il pianto.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

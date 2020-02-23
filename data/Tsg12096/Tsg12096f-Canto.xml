@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Giunto a la tomba ove al suo spirto vivo</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tsg12096f</idno>
+			<idno type="label">Tsg12096f (Canto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tsg12096f-Canto">
+					<title>Musiche: Libro secondo a voce sola e basso continuo</title>
+					<url>http://ks4.imslp.info/files/imglnks/usimg/9/95/IMSLP440592-PMLP71873-Benedetti_-_Musiche_2.pdf</url>
+					<author role="composer">Benedetti, Piero</author>
+					<publisher>Amadino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1613">1613</date>
+					<idno type="RISM">B 1916</idno>
+					<biblScope unit="page">9</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Giunt'alla tomba, ov’al suo spirto vivo</l>
+					<l xml:id="l2">Dolorosa prigion il Ciel prescrisse</l>
+					<l xml:id="l3">Pallido freddo muto e quasi privo</l>
+					<l xml:id="l4">Di movimento al marmo gl'occhi affisse</l>
+					<l xml:id="l5">Al fin sgorgando un lagrimoso rivo</l>
+					<l xml:id="l6">In un languido hoime proruppe e disse</l>
+					<l xml:id="l7">O sass'amato &amp; honorato tanto,</l>
+					<l xml:id="l8">Che dentr’hai le mie fiamme è fora il pianto.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

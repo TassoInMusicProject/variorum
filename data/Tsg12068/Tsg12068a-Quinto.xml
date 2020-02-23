@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Non morì già: ché sue virtuti accolse</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tsg12068a</idno>
+			<idno type="label">Tsg12068a (Quinto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tsg12068a-Quinto">
+					<title>Il decimoquinto libro de' madrigali à cinque voci</title>
+					<url></url>
+					<author role="composer">Il Verso, Antonio</author>
+					<publisher>Maringo</publisher>
+					<pubPlace>Palermo</pubPlace>
+					<date when="1619">1619</date>
+					<idno type="RISM">I 15</idno>
+					<biblScope unit="page">5</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Terza stanza.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Non morì già che sue virtute accolse</l>
+					<l xml:id="l2">Tutte in quel punto, e in guardia al cor le mise</l>
+					<l xml:id="l3">E premendo il suo affanno a dar si volse</l>
+					<l xml:id="l4">Vita con l’acqua à chi col ferro uccise</l>
+					<l xml:id="l5">Mentr'egli il suon de’ sacri detti sciolse</l>
+					<l xml:id="l6">Colei di gioia [TACET]</l>
+					<l xml:id="l7">E in atto di morir lieto, e vivace</l>
+					<l xml:id="l8">Dir parea s’apre il Ciel io vado in pace.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Poco quindi lontan nel sen del monte</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tsg12067a</idno>
+			<idno type="label">Tsg12067a (Tenore)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tsg12067a-Tenore">
+					<title>Il decimoquinto libro de' madrigali à cinque voci. Novamente dato in luce. Opera trentesima sesta</title>
+					<url></url>
+					<author role="composer">Il Verso, Antonio</author>
+					<publisher>Maringo</publisher>
+					<pubPlace>Palermo</pubPlace>
+					<date when="1619">1619</date>
+					<idno type="RISM">I 15</idno>
+					<biblScope unit="page">4</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Seconda stanza.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Poco quindi lontan nel sen del monte</l>
+					<l xml:id="l2">Scaturia mormorand'un picciol rio</l>
+					<l xml:id="l3">Egli v’accorse, e l’elmo empie nel fonte</l>
+					<l xml:id="l4">E tornò mesto al grande ufficio, e pio</l>
+					<l xml:id="l5">Tremar senti la man mentre la fronte</l>
+					<l xml:id="l6">Non conosciuta ancor sciolse, e scoprìo</l>
+					<l xml:id="l7">La vide, e la conobbe, e restò senza</l>
+					<l xml:id="l8">Voce, e moto Ahi vista, hai conoscenza.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

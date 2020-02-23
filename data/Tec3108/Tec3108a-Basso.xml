@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Non sospirar, Pastor, non sospirare</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tec3108a</idno>
+			<idno type="label">Tec3108a (Basso)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tec3108a-Basso">
+					<title>L'ottavo libro de madrigali a cinque voci</title>
+					<url>https://stimmbuecher.digitale-sammlungen.de/view?id=bsb00075248</url>
+					<author role="composer">Wert, Giaches de</author>
+					<publisher>A. Gardano</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1586">1586</date>
+					<idno type="RISM">W 885</idno>
+					<biblScope unit="page">18-19</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">[TACET]</l>
+					<l xml:id="l2">Queste lagrime amare</l>
+					<l xml:id="l3">Che spargi da tuoi lumi</l>
+					<l xml:id="l4">Non spegneran scintilla de l'ardore</l>
+					<l xml:id="l5">Ov'ogn'hor ti consumi</l>
+					<l xml:id="l6">Che s’Amor dalle fiamme del tuo core</l>
+					<l xml:id="l7">Puo trarre humor'e venti</l>
+					<l xml:id="l8">Trarrà dal piant'ancor faville ardenti.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

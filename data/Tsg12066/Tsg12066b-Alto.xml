@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Amico hai vinto; io ti perdon, perdona</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tsg12066b</idno>
+			<idno type="label">Tsg12066b (Alto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tsg12066b-Alto">
+					<title>Il decimoquinto libro de' madrigali à cinque voci</title>
+					<url></url>
+					<author role="composer">Il Verso, Antonio</author>
+					<publisher>Maringo</publisher>
+					<pubPlace>Palermo</pubPlace>
+					<date when="1619">1619</date>
+					<idno type="RISM">I 15</idno>
+					<biblScope unit="page">3</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Prima stanza.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Amico hai vinto io ti perdon perdona</l>
+					<l xml:id="l2">Tu ancora al corpo nò che nulla pave</l>
+					<l xml:id="l3">A l’alma sì deh per lei prega, e dona</l>
+					<l xml:id="l4">Battesmo à me [TACET]</l>
+					<l xml:id="l5">In queste voci languide risuona</l>
+					<l xml:id="l6">Un non sò che di flebile, e soave</l>
+					<l xml:id="l7">Ch’al cor gli serpe, &amp; ogni sdegno ammorza</l>
+					<l xml:id="l8">E gl'occhi à lagrimar gli invoglia, e sforza.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

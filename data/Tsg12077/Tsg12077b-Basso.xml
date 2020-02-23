@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Vivrò fra i miei tormenti e fra le cure</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tsg12077b</idno>
+			<idno type="label">Tsg12077b (Basso)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tsg12077b-Basso">
+					<title>Il decimoquinto libro de' madrigali à cinque voci</title>
+					<url></url>
+					<author role="composer">Il Verso, Antonio</author>
+					<publisher>Maringo</publisher>
+					<pubPlace>Palermo</pubPlace>
+					<date when="1619">1619</date>
+					<idno type="RISM">I 15</idno>
+					<biblScope unit="page">9</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Terza stanza.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">[TACET]</l>
+					<l xml:id="l2">Mie giuste furie forsennato errante</l>
+					<l xml:id="l3">Paventerò l’ombre solinghe, e scure</l>
+					<l xml:id="l4">Che’l primo horror mi recheranno avante</l>
+					<l xml:id="l5">[TACET]</l>
+					<l xml:id="l6">À schivo, &amp; in horror havrò il sembiante</l>
+					<l xml:id="l7">Temerò me medesmo, e da me stesso</l>
+					<l xml:id="l8">Sempre fuggendo havrò in odio me stesso.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

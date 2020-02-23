@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Geloso amante apro mill'occhi e giro</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0099b</idno>
+			<idno type="label">Trm0099b (Alto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0099b-Alto">
+					<title>Il secondo libro de madrigali a cinque voci</title>
+					<url>http://daten.digitale-sammlungen.de/~db/ausgaben/urn/resolver.php?urn=urn:nbn:de:bvb:12-bsb00080486-8</url>
+					<author role="composer">Mosto, Giovanni Battista</author>
+					<publisher>Vincenzi &amp; Amadino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1584">1584</date>
+					<idno type="RISM">M 3813</idno>
+					<biblScope unit="page">17-18</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Geloso Amante apro mill’occhi e giro</l>
+					<l xml:id="l2">E mill'orecchi ad ogni suon intenti</l>
+					<l xml:id="l3">E sol del ciec'horror larve e spaventi</l>
+					<l xml:id="l4">Quasi animal ch'adombre odo e rimiro</l>
+					<l xml:id="l5">S'apre un riso costei se'n dolce giro</l>
+					<l xml:id="l6">Lieta rivolge i begli occhi lucenti</l>
+					<l xml:id="l7">Se tinta di pietà gli altrui lamenti</l>
+					<l xml:id="l8">Accoglie o move un dett'od un sospiro.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Temo ch'altri ne goda e che m’invole</l>
+					<l xml:id="l10">L’aur'e la luce e sol mi duol che spieghi</l>
+					<l xml:id="l11">Raggio di sua bellezza in alcun lato</l>
+					<l xml:id="l12">Si nieghi a me pur ch’a ciascun si nieghi</l>
+					<l xml:id="l13">Che quand'altrui non splenda il mio bel sole</l>
+					<l xml:id="l14">Ne le tenebre ancor vivrò beato.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

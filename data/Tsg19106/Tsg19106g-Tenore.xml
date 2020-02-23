@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Misera, non credea ch'a gli occhi miei</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tsg19106g</idno>
+			<idno type="label">Tsg19106g (Tenore)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tsg19106g-Tenore">
+					<title>Arie musicali da cantarsi nel clavecembalo chitarone o altro simile istromento a una e doi voci</title>
+					<url></url>
+					<author role="composer">Negri, Francesco</author>
+					<publisher>A. Vincenzi</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1635">1635</date>
+					<idno type="RISM">N 360</idno>
+					<biblScope unit="page">25-26</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Aria Per Ottave. Parte Prima d'Incerto. Seconda Terza &amp; Quarta dell'Autore.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Misera non credea ch’a gl'occhi miei</l>
+					<l xml:id="l2">potessi in alcun temp'esser noioso</l>
+					<l xml:id="l3">hor cieca farmi volentier torrei</l>
+					<l xml:id="l4">per non vederti e riguardar non oso.</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Oime de gl'occhi gia si dolci e rei</l>
+					<l xml:id="l6">ov’è la fiamma ov’el bel lum'ascoso</l>
+					<l xml:id="l7">delle fiorite guance il bel vermiglio</l>
+					<l xml:id="l8">ov’è sparito ov’el seren del ciglio.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>
