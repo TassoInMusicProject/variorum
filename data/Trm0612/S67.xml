@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Del puro lume onde i celesti giri</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S67</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S67">
+					<title>Rime, et prose del Sig. Torquato Tasso. Parte prima. Accresciute, et corrette, con diligenza in questa nuova impressione</title>
+					<url>https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10190157_00005.html</url>
+					<publisher>Giulio Vasalini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1589">1589</date>
+					<biblScope unit="page">141</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">ASSENTE</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Dal puro lume, onde i celesti giri</l>
+					<l xml:id="l2">Fece il Sol, e le Stelle e il mastro eterno</l>
+					<l xml:id="l3">Formò i vostr’ occhi ancora, &amp; al governo</l>
+					<l xml:id="l4">Vi pose Amor, perche gl’informi, e giri.</l>
+					<l xml:id="l5">E sol un raggio, che di lor si miri,</l>
+					<l xml:id="l6">Lunge sgombra da noi la notte, e ’l verno</l>
+					<l xml:id="l7">De gli affetti mondani, e un foco interno</l>
+					<l xml:id="l8">V’accende di leggiadri, almi desiri.</l>
+					<l xml:id="l9">La fiamma, da lor desta, à lor sembianti</l>
+					<l xml:id="l10">L’anime rende, e l’arde, e non le sface,</l>
+					<l xml:id="l11">Ma le fa pure di terrene, e miste.</l>
+					<l xml:id="l12">Non è tema, ò dolor che mai n’attriste,</l>
+					<l xml:id="l13">Serena è come voi la nostra pace,</l>
+					<l xml:id="l14">E son pianti di gioia i nostri pianti.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

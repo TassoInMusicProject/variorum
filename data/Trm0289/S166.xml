@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Già tu volasti quattro volte e sei</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S166</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S166">
+					<title>Rime del Signor Torquato Tasso, divise in sei parti</title>
+					<url></url>
+					<publisher>Giovanni Battista Bidelli</publisher>
+					<pubPlace>Milan</pubPlace>
+					<date when="1619">1619</date>
+					<biblScope unit="page">Parte quarta delle Rime, 105</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Invidia la morte d’una Farfalla.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Già tu volasti quattro volte, e sei</l>
+					<l xml:id="l2">In quel petto si molle,</l>
+					<l xml:id="l3">Vaga farfalla, hor morta al lume sei.</l>
+					<l xml:id="l4">Non bramo io luce, né son tanto folle;</l>
+					<l xml:id="l5">Ma la morte vorrei</l>
+					<l xml:id="l6">Dove fortuna darla a te non volle.</l>
+					<l xml:id="l7">O dolce chiuder gli occhi</l>
+					<l xml:id="l8">S’averrà, che spirare in lui mi tocchi.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

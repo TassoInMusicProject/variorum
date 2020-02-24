@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Sul carro de la mente auriga siedi</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S68</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S68">
+					<title>Rime, et prose del Sig. Torquato Tasso. Parte seconda. Di nuovo ristampate, con diligenza rivedute, et corrette</title>
+					<url>https://books.google.com/books?id=RiY8AAAAcAAJ&amp;printsec=frontcover&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false</url>
+					<publisher>Giulio Vasalini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1589">1589</date>
+					<biblScope unit="page">27</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Alla Signora Leonora S. Vitale.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Su’l Carro de la mente auriga siedi;</l>
+					<l xml:id="l2">O bella donna, e prendi il freno altero,</l>
+					<l xml:id="l3">Onde vi regga il destrier bianco, e ’l nero,</l>
+					<l xml:id="l4">E drizzi lor ver le celesti sedi.</l>
+					<l xml:id="l5">L’un con rigida man percoti, e fiedi</l>
+					<l xml:id="l6">Se ribellante traviar dal vero</l>
+					<l xml:id="l7">Camino; e l’altro, con soave impero</l>
+					<l xml:id="l8">D’ambrosia pasci, se gir dritto il vedi.</l>
+					<l xml:id="l9">Vedi, ch’egli ama il suon de la cervice</l>
+					<l xml:id="l10">Percossa, e le lusinghe, e tra se gode,</l>
+					<l xml:id="l11">Se la tua vaga man l’adorna e come,</l>
+					<l xml:id="l12">E, mentre porta al ciel del tuo bel nome</l>
+					<l xml:id="l13">Il ricco incarco e di tua chiara lode,</l>
+					<l xml:id="l14">Si tien più d’Eto, e di Piroo felice.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

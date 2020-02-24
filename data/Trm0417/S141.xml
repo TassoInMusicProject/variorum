@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Dolce mia fiamma, dolce</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S141</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S141">
+					<title>Rime del Signor Torquato Tasso, divise in sei parti</title>
+					<url></url>
+					<publisher>Evangelista Deuchino &amp; Giovanni Battista Pulciani</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1608">1608</date>
+					<biblScope unit="page">Parte quarta delle Rime, 173</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Loda le pene, che pativa amando.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Dolce mia fiamma, dolce</l>
+					<l xml:id="l2">Mia pena, e mio tormento</l>
+					<l xml:id="l3">Dolc’ è ’l languir, dolc’ è ’l martir, ch’io sento,</l>
+					<l xml:id="l4">Dolci sono i tuoi raggi, e le faville,</l>
+					<l xml:id="l5">E mentre a mille a mille</l>
+					<l xml:id="l6">Passano in questo core,</l>
+					<l xml:id="l7">Dico, s’egli si more,</l>
+					<l xml:id="l8">Il suo morir non prezza,</l>
+					<l xml:id="l9">Nè morrà per dolor, ma per dolcezza.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

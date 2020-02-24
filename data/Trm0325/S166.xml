@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>O dolci lagrimette</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S166</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S166">
+					<title>Rime del Signor Torquato Tasso, divise in sei parti</title>
+					<url></url>
+					<publisher>Giovanni Battista Bidelli</publisher>
+					<pubPlace>Milan</pubPlace>
+					<date when="1619">1619</date>
+					<biblScope unit="page">Parte quarta delle Rime, 168</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Si trovava un facioletto, che la sua donna gli havea donato, non perche vedendolo si consolasse, ma perche s’asciugasse le lagrime, ch’ella gli faceva spargere.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">O dolci lagrimette,</l>
+					<l xml:id="l2">Che già la Donna mia da suoi begl’ occhi</l>
+					<l xml:id="l3">Quasi nembo, che fiocchi,</l>
+					<l xml:id="l4">Sparse in questo odorato, e bianco lino:</l>
+					<l xml:id="l5">Misero peregrino,</l>
+					<l xml:id="l6">Questo sol meco io porto, e solo io tegno</l>
+					<l xml:id="l7">Caro mio si, ma non felice pegno,</l>
+					<l xml:id="l8">Perche n’asciughi i lumi,</l>
+					<l xml:id="l9">E ne pianga lontano, e mi consumi.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

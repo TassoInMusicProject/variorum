@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Gli augelletti diversi</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S166</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S166">
+					<title>Rime del Signor Torquato Tasso, divise in sei parti</title>
+					<url></url>
+					<publisher>Giovanni Battista Bidelli</publisher>
+					<pubPlace>Milan</pubPlace>
+					<date when="1619">1619</date>
+					<biblScope unit="page">Parte terza delle Rime, 75</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Loda il dolce canto della Signora Lucretia Sanese.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Gli augelletti diversi</l>
+					<l xml:id="l2">Al tuo venir, Licori,</l>
+					<l xml:id="l3">Fra bei Mirti cantaro, e verde allori</l>
+					<l xml:id="l4">Soavemente amorosetti versi</l>
+					<l xml:id="l5">Da intenerire i cori:</l>
+					<l xml:id="l6">Ma tù piu dolci assai gli canti, e detti.</l>
+					<l xml:id="l7">Felice, chi gli impara</l>
+					<l xml:id="l8">E la sua voce al tuo nome rischiara.</l>
+					<l xml:id="l9">Felici que’ boschetti</l>
+					<l xml:id="l10">Ch’insegni risonarli, e que’ poggetti.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

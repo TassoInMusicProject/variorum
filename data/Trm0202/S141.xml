@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Picciola verga e bella</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S141</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S141">
+					<title>Rime del Signor Torquato Tasso, divise in sei parti</title>
+					<url></url>
+					<publisher>Evangelista Deuchino &amp; Giovanni Battista Pulciani</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1608">1608</date>
+					<biblScope unit="page">Parte seconda delle Rime, 173</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Picciola verga, e bella</l>
+					<l xml:id="l2">D’alloro trionfale</l>
+					<l xml:id="l3">Cresci à la pianta, onde sei svelta eguale</l>
+					<l xml:id="l4">Cresci felice; e s’ella</l>
+					<l xml:id="l5">Secca non si rinverde,</l>
+					<l xml:id="l6">Tu mantien vivo frondeggiando il verde.</l>
+					<l xml:id="l7">Frà sua chioma novella</l>
+					<l xml:id="l8">Scherzin con dolci errori</l>
+					<l xml:id="l9">L’aure mai sempre e i pargoletti Amori.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

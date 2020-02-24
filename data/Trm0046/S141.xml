@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Amor, se fia giamai che dolce i' tócchi</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S141</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S141">
+					<title>Rime del Signor Torquato Tasso, divise in sei parti</title>
+					<url></url>
+					<publisher>Evangelista Deuchino &amp; Giovanni Battista Pulciani</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1608">1608</date>
+					<biblScope unit="page">Parte prima delle Rime, 16</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Fa voto di donare ad Amore un nobil nastro ch'egli havea furato alla sua donna, se sarà ch'egli la trovi verso di lui pietosa, e cortese.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Amor, se fia giamai, che dolce i tocchi</l>
+					<l xml:id="l2">Il terso avorio de la bianca mano:</l>
+					<l xml:id="l3">E ’l lampeggiar del riso humile, e piano,</l>
+					<l xml:id="l4">Veggia da presso, e ’l folgorar de gli occhi:</l>
+					<l xml:id="l5">E notar possa, come quindi scocchi</l>
+					<l xml:id="l6">Lo stral tuo dolce, e mai non parta in vano,</l>
+					<l xml:id="l7">E come al cor del bel sembiante humano,</l>
+					<l xml:id="l8">D’amorose dolcezze un nembo fiocchi.</l>
+					<l xml:id="l9">Fia tuo questo lacciuol, ch’annodo al braccio,</l>
+					<l xml:id="l10">Non pur, ma via più stretto il cor n’involgo,</l>
+					<l xml:id="l11">Caro furto, ond’il crin Madonna vvolse.</l>
+					<l xml:id="l12">Gradisci il voto, ché più forte laccio</l>
+					<l xml:id="l13">Da man più dotta ordito altri non tolse:</l>
+					<l xml:id="l14">Nè perche à te lo doni, indi mi sciolgo.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Non fonte o fiume od aura</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S141</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S141">
+					<title>Rime del Signor Torquato Tasso, divise in sei parti</title>
+					<url></url>
+					<publisher>Evangelista Deuchino &amp; Giovanni Battista Pulciani</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1608">1608</date>
+					<biblScope unit="page">Parte seconda delle Rime, 94</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Paragona il canto dll'amata Donna a suoni soavi fatti dalla natura, &amp non dall'arte. &amp palesa gli effetti della rara sua armonia.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Non fonte, fiume, od aura</l>
+					<l xml:id="l2">Odo in più dolce suon di quel di Laura.</l>
+					<l xml:id="l3">Nè ’n lauro, ò ’n pino, ò ’n mirto,</l>
+					<l xml:id="l4">Mormorar s’udì mai più dolce spirto.</l>
+					<l xml:id="l5">O felice, à cui spira;</l>
+					<l xml:id="l6">E quel beato che per lei sospira.</l>
+					<l xml:id="l7">Che se gli inspira il core,</l>
+					<l xml:id="l8">Pote al Ciel aspirar co' l suo valore.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

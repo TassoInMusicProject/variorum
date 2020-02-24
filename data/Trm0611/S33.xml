@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>La bella pargoletta</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S33</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S33">
+					<title>Delle rime et prose del Sig. Torquato Tasso. Parte prima. Di nuovo ristampate, con diligenza rivedute, e corrette</title>
+					<url></url>
+					<publisher>Giulio Cesare Cagnacini et Fratelli</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1585">1585</date>
+					<biblScope unit="page">54</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Madrigale.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">La bella pargoletta,</l>
+					<l xml:id="l2">Ch’ancor non sente Amore</l>
+					<l xml:id="l3">Nè pur noto hà per fama il suo valore,</l>
+					<l xml:id="l4">Co’ begli occhi saetta,</l>
+					<l xml:id="l5">E co ’l soave riso,</l>
+					<l xml:id="l6">Nè s’accorge, che l’arme hà nel bel viso.</l>
+					<l xml:id="l7">Qual colpa hà nel morire</l>
+					<l xml:id="l8">De la trafitta gente;</l>
+					<l xml:id="l9">Se non sa di ferire?</l>
+					<l xml:id="l10">O bellezza homicida, &amp; innocente.</l>
+					<l xml:id="l11">Tempo è; ch’Amor ti mostri</l>
+					<l xml:id="l12">Homai ne le tue piaghe i dolor nostri.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

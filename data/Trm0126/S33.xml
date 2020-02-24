@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Tre gran donne vid'io ch'in esser belle</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S33</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S33">
+					<title>Delle rime et prose del Sig. Torquato Tasso. Parte prima. Di nuovo ristampate, con diligenza rivedute, e corrette</title>
+					<url></url>
+					<publisher>Giulio Cesare Cagnacini et Fratelli</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1585">1585</date>
+					<biblScope unit="page">39</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">S’nnamorò d’una Donna, mentre era in compagnia di due altre.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Trè gran Donne vid’io, ch’in esser belle</l>
+					<l xml:id="l2">Mostran disparità, ma somigliante</l>
+					<l xml:id="l3">Sì che ne gli atti, e ’n ogni lor sembiante</l>
+					<l xml:id="l4">Scriver natura par; Noi siam tre sorelle.</l>
+					<l xml:id="l5">Ben ciascun’ io lodai, pur una d’elle</l>
+					<l xml:id="l6">Mi piacque sì, ch’io ne divenni Amante,</l>
+					<l xml:id="l7">Et ancor fia, ch’io ne sospiri, e cante,</l>
+					<l xml:id="l8">E ’l mio foco, e ’l suo nome alzi à le stelle:</l>
+					<l xml:id="l9">Lei sol vagheggio; e, se pur altre io miro,</l>
+					<l xml:id="l10">Guardo nel vago altrui quel, ch’è in lei vago,</l>
+					<l xml:id="l11">E ne gl’Idoli suoi vien, ch’io l’adore;</l>
+					<l xml:id="l12">Ma cotanto somiglia al ver l’imago,</l>
+					<l xml:id="l13">Ch’erro, e dolc’è l’error; pur ne sospiro,</l>
+					<l xml:id="l14">Come d’ingiusta Idolatria d’Amore.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

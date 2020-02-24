@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Già non son io contento</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S141</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S141">
+					<title>Rime del Signor Torquato Tasso, divise in sei parti</title>
+					<url></url>
+					<publisher>Evangelista Deuchino &amp; Giovanni Battista Pulciani</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1608">1608</date>
+					<biblScope unit="page">Quarta parte delle Rime, 205</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Già non son’io contento</l>
+					<l xml:id="l2">Lunge da voi, che sete il mio tormento;</l>
+					<l xml:id="l3">In così dolce modo</l>
+					<l xml:id="l4">M’arde il pensier: ma s’egli a voi mi giungo,</l>
+					<l xml:id="l5">Io vi rimiro, &amp; odo</l>
+					<l xml:id="l6">Allhora piu vicin, che son più lunge;</l>
+					<l xml:id="l7">Et amo, &amp; ardo, e godo</l>
+					<l xml:id="l8">Piu del mio foco, se maggior' il sento.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

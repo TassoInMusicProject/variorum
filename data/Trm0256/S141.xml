@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Amor, che qui d'intorno</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S141</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S141">
+					<title>Rime del Signor Torquato Tasso, divise in sei parti</title>
+					<url></url>
+					<publisher>Evangelista Deuchino &amp; Giovanni Battista Pulciani</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1608">1608</date>
+					<biblScope unit="page">Parte quarta delle Rime, 172</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Ad Amore pregandolo a dire alla sua D. ch’egli vive solo, accioche la pena sua viva.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Amor, che quì d’intorno</l>
+					<l xml:id="l2">Hor fai ben mille scherzi, e mille giri</l>
+					<l xml:id="l3">S’ardisci numerar tante mie pene,</l>
+					<l xml:id="l4">E tanti miei sospiri,</l>
+					<l xml:id="l5">Che son piu de l’ arene,</l>
+					<l xml:id="l6">Piu de l’onde del mar, piu de le stelle:</l>
+					<l xml:id="l7">Racconta a la mia Donna, e queste, e quelle</l>
+					<l xml:id="l8">E dì ch’io vivo, accioche resti in vita</l>
+					<l xml:id="l9">La mia doglia infinita.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

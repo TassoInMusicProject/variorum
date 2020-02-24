@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>M'apre talor madonna il suo celeste</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S67</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S67">
+					<title>Rime, et prose del Sig. Torquato Tasso. Parte prima. Accresciute, et corrette, con diligenza in questa nuova impressione</title>
+					<url>https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10190157_00005.html</url>
+					<publisher>Giulio Vasalini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1589">1589</date>
+					<biblScope unit="page">13</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">ASSENTE</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">M’apre talhor Madonna il suo celeste</l>
+					<l xml:id="l2">Riso fra perle, e bei rubini ardenti,</l>
+					<l xml:id="l3">E l’orecchie inchinando a’ miei lamenti;</l>
+					<l xml:id="l4">Di dolce affetto il ciglio adorna, e veste.</l>
+					<l xml:id="l5">Ma non avvien però, ch’ella mai deste</l>
+					<l xml:id="l6">Nel crudo sen pietà de miei tormenti:</l>
+					<l xml:id="l7">Anzi mi a cetra, e i miei non rozi accenti,</l>
+					<l xml:id="l8">E me disprezza, e le mie voglie honeste.</l>
+					<l xml:id="l9">Nè pietà è quella, che negli occhi accoglie,</l>
+					<l xml:id="l10">Ma crudeltà, che in tal forma si mostri,</l>
+					<l xml:id="l11">Perche l’alma ingannata, arda e consumi.</l>
+					<l xml:id="l12">Specchi dal cor fallaci, infidi lumi,</l>
+					<l xml:id="l13">Ben conosco in voi gl’inganni vostri:</l>
+					<l xml:id="l14">Ma che prò, se schivargli amor mi toglie?</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

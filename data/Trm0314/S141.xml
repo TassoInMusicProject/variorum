@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Perché di seno in seno</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S141</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S141">
+					<title>Rime del Signor Torquato Tasso, divise in sei parti</title>
+					<url></url>
+					<publisher>Evangelista Deuchino &amp; Giovanni Battista Pulciani</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1608">1608</date>
+					<biblScope unit="page">Parte terza delle Rime, 149</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Domanda onde avenga, che egli sia amato, o odiato, e che si senta tanto dall’amore, quanto dall’odio distruggersi.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Perché di seno in seno</l>
+					<l xml:id="l2">Così trasporti, Amore,</l>
+					<l xml:id="l3">Questo vermiglio, lieto, e vago fiore?</l>
+					<l xml:id="l4">Ben dei saper, che l’uno</l>
+					<l xml:id="l5">Tutto d’honesto foco,</l>
+					<l xml:id="l6">E pien di casto gelo è l’altro loco.</l>
+					<l xml:id="l7">Ma s’egli danno alcuno</l>
+					<l xml:id="l8">Non ha tra fiamma e ghiaccio,</l>
+					<l xml:id="l9">Perche tra l’uno, e l’altro i mi disfaccio?</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

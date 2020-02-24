@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Qual cervo errando suole</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S141</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S141">
+					<title>Rime del Signor Torquato Tasso, divise in sei parti</title>
+					<url></url>
+					<publisher>Evangelista Deuchino &amp; Giovanni Battista Pulciani</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1608">1608</date>
+					<biblScope unit="page">Parte terza delle Rime, 126</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Dimostra, che quando men pensava d'inamorarsi, s'innamorasse.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Qual Cervo errando sole</l>
+					<l xml:id="l2">Fuggir saette, o dardi,</l>
+					<l xml:id="l3">Io fuggiva i begli occhi, e i dolci sguardi</l>
+					<l xml:id="l4">Fra l’herbe, e le viole:</l>
+					<l xml:id="l5">Quando costei mi giunse, e col suo riso,</l>
+					<l xml:id="l6">Non pur con le parole,</l>
+					<l xml:id="l7">Vita, e morte mi diè così gradita:</l>
+					<l xml:id="l8">Morte, perche diviso</l>
+					<l xml:id="l9">Fui da me stesso, e vita,</l>
+					<l xml:id="l10">Perche l’alma felice è seco unita.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

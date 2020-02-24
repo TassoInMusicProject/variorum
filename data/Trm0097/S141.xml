@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>A chi creder degg'io</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S141</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S141">
+					<title>Rime del Signor Torquato Tasso, divise in sei parti</title>
+					<url></url>
+					<publisher>Evangelista Deuchino &amp; Giovanni Battista Pulciani</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1608">1608</date>
+					<biblScope unit="page">Parte terza delle Rime,101</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Parla con Amore, &amp; dice di non voler più credere alle parole, ma a fatti. Il nostro P. voleva venire alla conclusione, era alquanto impatiente.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">A chi creder degg’io,</l>
+					<l xml:id="l2">Se vani sono i detti,</l>
+					<l xml:id="l3">E ’l vento se ne porta le parole?</l>
+					<l xml:id="l4">Non a le voci sole,</l>
+					<l xml:id="l5">Che scompagnate sian da veri effetti,</l>
+					<l xml:id="l6">Amor, crederò mai:</l>
+					<l xml:id="l7">Ma tanto hor temo, quanto già sperai:</l>
+					<l xml:id="l8">Amor, se vuoi, ch’io creda,</l>
+					<l xml:id="l9">Convien, che ’l core altrui ne’ fatti veda.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

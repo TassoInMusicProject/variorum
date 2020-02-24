@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Questo riposto bel vago boschetto</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S141</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S141">
+					<title>Rime del Signor Torquato Tasso, divise in sei parti</title>
+					<url></url>
+					<publisher>Evangelista Deuchino &amp; Giovanni Battista Pulciani</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1608">1608</date>
+					<biblScope unit="page">Parte prima delle Rime, 202</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Loda un boschetto molto vago, &amp delitioso, il quale Tirsi consacra ad Amore, accioche quando è lasso, trovi dove riposarsi, &amp lo priega di rendere il cuor della sua donna piu molle, &amp piu compassionevole.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Questo riposto bel vago boschetto</l>
+					<l xml:id="l2">D’ombrosi mirti, e d’indorati allori,</l>
+					<l xml:id="l3">Non de’ rozi Bifolchi, ò de’ Pastori:</l>
+					<l xml:id="l4">Ma d’amorose Dee stanze, e ricetto:</l>
+					<l xml:id="l5">Ch’asconde in grembo un picciol ruscelletto</l>
+					<l xml:id="l6">Le cui rive ambe son pinte di fiori,</l>
+					<l xml:id="l7">Ove soglion tal’ hor Zefiro, e Clori</l>
+					<l xml:id="l8">Quando Febo arde il ciel, starsi à diletto:</l>
+					<l xml:id="l9">Ti sacra Tirsi, ò faretrato arciero:</l>
+					<l xml:id="l10">Perche, qual’ hor di saettar sei stanco.</l>
+					<l xml:id="l11">Quivi ti posi al mormorar de l’acque.</l>
+					<l xml:id="l12">Ma tu di lei, che tanto, oime, ti piacque</l>
+					<l xml:id="l13">Alquanto rendi il cor men crudo, e fiero,</l>
+					<l xml:id="l14">Ond’ei vinto dal duol non vegna manco.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Amor, se fia giamai che dolce i' tócchi</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S33</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S33">
+					<title>Delle rime et prose del Sig. Torquato Tasso. Parte prima. Di nuovo ristampate, con diligenza rivedute, e corrette</title>
+					<url></url>
+					<publisher>Giulio Cesare Cagnacini et Fratelli</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1585">1585</date>
+					<biblScope unit="page">5</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Fa voto ad Amore di offerirgli una cordella, la quale egli havea involato alla sua Donna; se gli concederà mai, che possa vagheggiarla da presso; e danzar con esso lei.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Amor, se fia giamai, che dolce i tocchi</l>
+					<l xml:id="l2">Il terso avorio de la bianca mano,</l>
+					<l xml:id="l3">E ’l lampeggiar del riso humile, e piano</l>
+					<l xml:id="l4">Veggia d’ appresso, e ’l folgorar de gli occhi,</l>
+					<l xml:id="l5">E notar possa, come quindi scocchi</l>
+					<l xml:id="l6">Lo stral tuo dolce, e mai non parta in vano</l>
+					<l xml:id="l7">E come al cor dal bel sembiante humano</l>
+					<l xml:id="l8">D’amorose faville un nembo fiocchi;</l>
+					<l xml:id="l9">Tuo fia questo legame, ond’hora il braccio</l>
+					<l xml:id="l10">Non pur, ma via più stretto il core avvolgo</l>
+					<l xml:id="l11">Caro furto, ond’il crin Madona cinse.</l>
+					<l xml:id="l12">Gradisci il voto, che piu forte laccio</l>
+					<l xml:id="l13">Da man più dotta ordito alma non strinse</l>
+					<l xml:id="l14">Nè, perch’ à te lo doni, indi mi sciolgo.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

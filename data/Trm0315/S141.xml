@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Quella candida mano/Ch'a mezzo il verno i vaghi fiori accinse</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S141</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S141">
+					<title>Rime del Signor Torquato Tasso, divise in sei parti</title>
+					<url></url>
+					<publisher>Evangelista Deuchino &amp; Giovanni Battista Pulciani</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1608">1608</date>
+					<biblScope unit="page">Parte terza delle Rime, 125</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Vide un giorno tagliare alla D. sua alcuni fiori, &amp farne un mazzetto, dice, che torrebbe ad esser cosi legato, &amp perche poi godesse di baciarle il petto.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Quella candida mano,</l>
+					<l xml:id="l2">Ch’a mezo il verno i vaghi fiori accinse,</l>
+					<l xml:id="l3">Me con leggiadri nodi ancora strinse.</l>
+					<l xml:id="l4">Deh, s’un medesmo fato</l>
+					<l xml:id="l5">Hanno i bei fiori, &amp io,</l>
+					<l xml:id="l6">Non bramo di morir, se non legato,</l>
+					<l xml:id="l7">Ma ’n sì bel petto di morir desio.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

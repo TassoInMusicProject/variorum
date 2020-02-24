@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>S'a sdegno voi prendete</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S141</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S141">
+					<title>Rime del Signor Torquato Tasso, divise in sei parti</title>
+					<url></url>
+					<publisher>Evangelista Deuchino &amp; Giovanni Battista Pulciani</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1608">1608</date>
+					<biblScope unit="page">Parte seconda delle Rime, 185</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">La sua Donna priega, che se si reca a sdegno che egli la guardi, almen gli conceda l'imagine sua.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">S’à sdegno voi prendete</l>
+					<l xml:id="l2">Ch’il cor vostro vi chieda,</l>
+					<l xml:id="l3">L’imagin vostra almen mi si conceda.</l>
+					<l xml:id="l4">Ma, chi fia, che l’ammiri</l>
+					<l xml:id="l5">L’ami, e sen mostri vago</l>
+					<l xml:id="l6">Se non segue il mio cor la vostra imago?</l>
+					<l xml:id="l7">Dunque il cor mi rendete,</l>
+					<l xml:id="l8">Che perche in me respiri</l>
+					<l xml:id="l9">Non fia men vostro in fatti i suoi desiri.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

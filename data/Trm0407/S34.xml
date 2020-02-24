@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>La natura compose</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S34</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S34">
+					<title>Delle rime et prose del Sig. Torquato Tasso. Parte seconda. Di nuovo ristampate, con diligenza rivedute, e corrette</title>
+					<url></url>
+					<publisher>Giulio Cesare Cagnacini et Fratelli</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1585">1585</date>
+					<biblScope unit="page">51</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Per il S. Giulio Mosti.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">La natura compose</l>
+					<l xml:id="l2">Cotesto vago fiore,</l>
+					<l xml:id="l3">O pur bel magistero egl’ è d’Amore?</l>
+					<l xml:id="l4">Deh, chi cosi vicine</l>
+					<l xml:id="l5">Le pene, e i dolci premi in lui ripose?</l>
+					<l xml:id="l6">E chi d’acute spine</l>
+					<l xml:id="l7">Cinse le belle foglie?</l>
+					<l xml:id="l8">Onde, s’incauta man tal’hora il coglie,</l>
+					<l xml:id="l9">Punta in un punto solo</l>
+					<l xml:id="l10">N’ have allegrezza, e duolo:</l>
+					<l xml:id="l11">O fior meraviglioso, ond’ancor dura</l>
+					<l xml:id="l12">Frà l’amor lite incerta, e la natura.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Mentre nubi di sdegno</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S166</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S166">
+					<title>Rime del Signor Torquato Tasso, divise in sei parti</title>
+					<url></url>
+					<publisher>Giovanni Battista Bidelli</publisher>
+					<pubPlace>Milan</pubPlace>
+					<date when="1619">1619</date>
+					<biblScope unit="page">Parte seconda delle Rime, 133</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Priega (strano disiderio) la Donna sua ad essergli cruda, poi che l'ira sua puo piu, che si possa la sua pieta intemperare il di lui tormento.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Mentre nubi di sdegno</l>
+					<l xml:id="l2">Frà i vostri occhi, e ’l mio core,</l>
+					<l xml:id="l3">Furo interposti, egli soffrì l’ardore;</l>
+					<l xml:id="l4">Hor, che chiaro si gira</l>
+					<l xml:id="l5">Il Sol di quei bei lumi,</l>
+					<l xml:id="l6">Forz’è, che si consumi</l>
+					<l xml:id="l7">L’anima esposta à si gran foco ignuda.</l>
+					<l xml:id="l8">Poiche dunque può l’ira</l>
+					<l xml:id="l9">Temprar sì ardente face,</l>
+					<l xml:id="l10">Più che pietà non face,</l>
+					<l xml:id="l11">Siatemi prego, per pietà più cruda.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

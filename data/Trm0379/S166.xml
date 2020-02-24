@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Non si levava ancor l'alba novella</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S166</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S166">
+					<title>Rime del Signor Torquato Tasso, divise in sei parti</title>
+					<url></url>
+					<publisher>Giovanni Battista Bidelli</publisher>
+					<pubPlace>Milan</pubPlace>
+					<date when="1619">1619</date>
+					<biblScope unit="page">Parte terza delle Rime, 162</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Non si levava ancor l’Alba novella,</l>
+					<l xml:id="l2">Nè spiegavano le piume</l>
+					<l xml:id="l3">Gli augelli al uovo lume,</l>
+					<l xml:id="l4">Ma fiammeggiava l’amorosa Stella.</l>
+					<l xml:id="l5">Quando i due vaghi, e leggiadretti amanti,</l>
+					<l xml:id="l6">Ch’una felice notte aggiunse insieme;</l>
+					<l xml:id="l7">Come a canto si volge in vari giri:</l>
+					<l xml:id="l8">Divise il novo raggio, e i dolci pianti</l>
+					<l xml:id="l9">Ne l’accoglienze estreme</l>
+					<l xml:id="l10">Mescolavan con baci, e co’ sospiri:</l>
+					<l xml:id="l11">Mille ardenti pensier mille desire,</l>
+					<l xml:id="l12">Mille voglie non paghe</l>
+					<l xml:id="l13">In quelle luci vaghe</l>
+					<l xml:id="l14">Scopria quest’alma innamorata, e quella.</l>
+					<l xml:id="l15">E dicea l’una sospirando all’hora,</l>
+					<l xml:id="l16">Anima a Dio, con languide parole:</l>
+					<l xml:id="l17">E l’altra, Vita a Dio, le rispondea,</l>
+					<l xml:id="l18">A Dio rimanti, e non partiansi ancora</l>
+					<l xml:id="l19">Inanzi al uovo Sole,</l>
+					<l xml:id="l20">E ’nanzi a l’Alba, che nel Ciel sorgea,</l>
+					<l xml:id="l21">E questa, e quella impallidir vedea</l>
+					<l xml:id="l22">Le bellissime rose</l>
+					<l xml:id="l23">Ne le labra amorose,</l>
+					<l xml:id="l24">E gli occhi scintillar, come facella.</l>
+					<l xml:id="l25">E come d’alma, che si parta, e svella</l>
+					<l xml:id="l26">Fu la partenza loro:</l>
+					<l xml:id="l27">A Dio, ché parto, e moro,</l>
+					<l xml:id="l28">Dolce languir, dolce partita, e fella!</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

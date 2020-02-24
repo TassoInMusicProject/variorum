@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Mentre la donna mia cangiando aspetto</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S166</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S166">
+					<title>Rime del Signor Torquato Tasso, divise in sei parti</title>
+					<url></url>
+					<publisher>Giovanni Battista Bidelli</publisher>
+					<pubPlace>Milan</pubPlace>
+					<date when="1619">1619</date>
+					<biblScope unit="page">Parte terza delle Rime, 124</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Alla Sig. Lucretia Sanese, la qual parlando seco arrossiva, &amp tanto più a lui piaceva.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Mentre la donna mia cangiando aspetto</l>
+					<l xml:id="l2">Di bianco il fà vermiglio,</l>
+					<l xml:id="l3">Mostra l’interno affetto,</l>
+					<l xml:id="l4">E pare fresca rosa, o vago giglio.</l>
+					<l xml:id="l5">E dico, s’ella muta il bel colore,</l>
+					<l xml:id="l6">Non è ferma nel core.</l>
+					<l xml:id="l7">Ma ’l variare è così dolce, e vago,</l>
+					<l xml:id="l8">Che d’altro io non m’appago.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

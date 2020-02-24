@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Giamai più dolce raggio</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S141</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S141">
+					<title>Rime del Signor Torquato Tasso, divise in sei parti</title>
+					<url></url>
+					<publisher>Evangelista Deuchino &amp; Giovanni Battista Pulciani</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1608">1608</date>
+					<biblScope unit="page">Parte terza delle Rime, 51</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Che la sua D. opera in altrui gli effetti, che il Sol di Maggio operi nella terra.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Giamai piu dolce raggio</l>
+					<l xml:id="l2">Non spiega il Sole in un fiorito Maggio</l>
+					<l xml:id="l3">Di quel, che le tue rose, e i tuoi ligustri</l>
+					<l xml:id="l4">Fà si chiari, &amp illustri;</l>
+					<l xml:id="l5">Nè caggionò giamai la state, e ’l verno;</l>
+					<l xml:id="l6">Tal c’hai l’Aprile eterno;</l>
+					<l xml:id="l7">Perpetua primavera hai nel bel viso,</l>
+					<l xml:id="l8">E ’l Sole è 'l dolce riso.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

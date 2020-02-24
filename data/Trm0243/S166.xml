@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Fuggìa di poggio in poggio</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S166</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S166">
+					<title>Rime del Signor Torquato Tasso, divise in sei parti</title>
+					<url></url>
+					<publisher>Giovanni Battista Bidelli</publisher>
+					<pubPlace>Milan</pubPlace>
+					<date when="1619">1619</date>
+					<biblScope unit="page">Parte terza delle Rime, 127</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Fu seguitato dall'amata donna, &amp pigliato all'amorosa pania, senza suo spiacere.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Fuggìa di poggio in poggio</l>
+					<l xml:id="l2">La mia dolce nemica,</l>
+					<l xml:id="l3">Et essa mi seguia bella, e pudica.</l>
+					<l xml:id="l4">Al fin mi giunse tra l’herbette, e l’acque,</l>
+					<l xml:id="l5">E mi trafisse il core, e non mi spiacque:</l>
+					<l xml:id="l6">Perche dir non saprei,</l>
+					<l xml:id="l7">S’hebbi vita più dolce, ò morte in lei,</l>
+					<l xml:id="l8">Ma vita se parlò, morte, se tacque.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

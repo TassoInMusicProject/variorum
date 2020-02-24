@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Io non posso gioire</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S166</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S166">
+					<title>Rime del Signor Torquato Tasso, divise in sei parti</title>
+					<url></url>
+					<publisher>Giovanni Battista Bidelli</publisher>
+					<pubPlace>Milan</pubPlace>
+					<date when="1619">1619</date>
+					<biblScope unit="page">Quarta parte delle Rime, 205</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Dice di non potersi rallegrare lungi dall'amata Donna.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Io non posso gioire</l>
+					<l xml:id="l2">Lunge da voi, che sete il mio desire:</l>
+					<l xml:id="l3">Ma ’l mio pensier fallace</l>
+					<l xml:id="l4">Passa monti, e campagne, e mari, e fiumi;</l>
+					<l xml:id="l5">E m’avicina, e sface</l>
+					<l xml:id="l6">Al dolce foco de’ be’ vostri lumi:</l>
+					<l xml:id="l7">E ’l languir sì mi piace</l>
+					<l xml:id="l8">Ch’infinito diletto hò nel martire.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

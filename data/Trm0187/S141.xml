@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Eran velati i crespi e biondi crini</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S141</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S141">
+					<title>Rime del Signor Torquato Tasso, divise in sei parti</title>
+					<url></url>
+					<publisher>Evangelista Deuchino &amp; Giovanni Battista Pulciani</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1608">1608</date>
+					<biblScope unit="page">Parte prima delle Rime, 64</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Eran velati i crespi, e biondi crini,</l>
+					<l xml:id="l2">E ’l bel vermiglio ,e 'lcandido colore,</l>
+					<l xml:id="l3">E la bocca, che spira un dolce odore,</l>
+					<l xml:id="l4">Fra perle orïentali, e fra rubini,</l>
+					<l xml:id="l5">E breve spatio dentro a’ suoi confine</l>
+					<l xml:id="l6">Rinchiudea maestà, gratia, &amp; honore;</l>
+					<l xml:id="l7">E solo in voi si discopriva Amore,</l>
+					<l xml:id="l8">E da voi saettava, occhi divini.</l>
+					<l xml:id="l9">E tanto m’abbagliò la vista ardita,</l>
+					<l xml:id="l10">Che pien di maraviglia, e pien d’oblio,</l>
+					<l xml:id="l11">Non conobbi lo stral, nè la ferita.</l>
+					<l xml:id="l12">Lasso, deh chi m’inganna, allhor diss’io,</l>
+					<l xml:id="l13">Lumi sereni de la oscura vita;</l>
+					<l xml:id="l14">S’erro, vostra la colpa, e ’l danno è mio.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

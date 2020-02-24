@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>L'alma con voi mandai</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S166</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S166">
+					<title>Rime del Signor Torquato Tasso, divise in sei parti</title>
+					<url></url>
+					<publisher>Giovanni Battista Bidelli</publisher>
+					<pubPlace>Milan</pubPlace>
+					<date when="1619">1619</date>
+					<biblScope unit="page">Parte terza delle Rime, 105</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Che al partirsi della sua D. seco le mandasse il cuore suo, onde che da lei si vive.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">L’alma con voi mandai</l>
+					<l xml:id="l2">Ne la vostra partita,</l>
+					<l xml:id="l3">Onde, se vivo pur, senz’alma hò vita.</l>
+					<l xml:id="l4">E ben di viver parmi,</l>
+					<l xml:id="l5">Ch’anco fervido è ‘l core</l>
+					<l xml:id="l6">Di quel, che lei sì ardea, soave ardore.</l>
+					<l xml:id="l7">Ma se vita può darmi</l>
+					<l xml:id="l8">Foco de’ vostri rai,</l>
+					<l xml:id="l9">Come, mentr’egli vive, io morrò mai?</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

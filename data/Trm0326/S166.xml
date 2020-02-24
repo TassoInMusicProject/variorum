@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Lunge da gli occhi vostri</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S166</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S166">
+					<title>Rime del Signor Torquato Tasso, divise in sei parti</title>
+					<url></url>
+					<publisher>Giovanni Battista Bidelli</publisher>
+					<pubPlace>Milan</pubPlace>
+					<date when="1619">1619</date>
+					<biblScope unit="page">Parte quarta delle Rime, 199</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Ritrovavasi lungi dall’amata D. &amp con la speranza, che alla tornata sua ella se gli debba mostrar benigna, &amp cortese, si consola.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Lunge da gli occhi vostri</l>
+					<l xml:id="l2">Io vivo del pensiero</l>
+					<l xml:id="l3">Pensosa vita, e vivo, perche i spero.</l>
+					<l xml:id="l4">Spero il lieto ritorno,</l>
+					<l xml:id="l5">E s’averrà, che nel felice giorno</l>
+					<l xml:id="l6">La mia dolce speranza in me si moia,</l>
+					<l xml:id="l7">Spero viver di gioia.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

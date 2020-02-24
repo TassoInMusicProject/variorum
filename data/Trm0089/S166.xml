@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Mentre Madonna s'appoggiò pensosa</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S166</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S166">
+					<title>Rime del Signor Torquato Tasso, divise in sei parti</title>
+					<url></url>
+					<publisher>Giovanni Battista Bidelli</publisher>
+					<pubPlace>Milan</pubPlace>
+					<date when="1619">1619</date>
+					<biblScope unit="page">Parte prima delle Rime, 32</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Invidia un'ape, la quale havea mordute le labra della sua Donna, mentre ch'ella, dopo un lungo passeggiare, si sedea in un giardino.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Mentre Madonna s’appoggiò pensosa,</l>
+					<l xml:id="l2">Dopo i suoi lieti, e volontari errori,</l>
+					<l xml:id="l3">Al fiorito soggiorno, i dolci humori</l>
+					<l xml:id="l4">Depredò sussurrando, Ape ingegnosa.</l>
+					<l xml:id="l5">E ne’ labri nudria l’aura amorosa</l>
+					<l xml:id="l6">Al Sol de gli occhi suoi perpetui fiori:</l>
+					<l xml:id="l7">E volando, a’ dolcissimi colori,</l>
+					<l xml:id="l8">Ella sugger pensò vermiglia rosa.</l>
+					<l xml:id="l9">Ah troppo bello error, troppo felice.</l>
+					<l xml:id="l10">Quel, ch' à l’ardente, &amp; immortal desio,</l>
+					<l xml:id="l11">Già tant’anni si nega, à lei pur lice.</l>
+					<l xml:id="l12">Vile Ape Amor, cara mercè rapio,</l>
+					<l xml:id="l13">Che più ti resta; s’altri il mel n’elice,</l>
+					<l xml:id="l14">Da temprar il tuo assentio, e ’l dolor mio?</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

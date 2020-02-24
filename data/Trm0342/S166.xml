@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Già fu mia dolce speme</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S166</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S166">
+					<title>Rime del Signor Torquato Tasso, divise in sei parti</title>
+					<url></url>
+					<publisher>Giovanni Battista Bidelli</publisher>
+					<pubPlace>Milan</pubPlace>
+					<date when="1619">1619</date>
+					<biblScope unit="page">Parte seconda delle Rime, 188</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Mostra come la sua speranza di dover cogliere gli amorosi frutti, nel cominciamento fosse debole, ma che andasse crescendo, senza però venire a goderli.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Gia fù mia dolce speme</l>
+					<l xml:id="l2">Assai debile, e lenta,</l>
+					<l xml:id="l3">Hor cresce si, ch’ella piacer diventa.</l>
+					<l xml:id="l4">Ma perch’io speri insieme.</l>
+					<l xml:id="l5">E ’ninsieme habbia diletto,</l>
+					<l xml:id="l6">Mai non adempie Amor ogni mio affetto</l>
+					<l xml:id="l7">E sempre il mio piacere</l>
+					<l xml:id="l8">Temprando và, perch’io maggior lo spere.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

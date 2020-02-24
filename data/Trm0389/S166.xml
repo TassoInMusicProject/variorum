@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Donna, se ben le chiome ho già ripiene</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S166</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S166">
+					<title>Rime del Signor Torquato Tasso, divise in sei parti</title>
+					<url></url>
+					<publisher>Giovanni Battista Bidelli</publisher>
+					<pubPlace>Milan</pubPlace>
+					<date when="1619">1619</date>
+					<biblScope unit="page">Parte prima delle Rime, 94</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Cerca con belle similitudini di far credere alla sua donna, che perch’egli habbia il capo canuto, che nondimeno egli è d’Amor ferito.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Donna, se ben le chiome ho già ripiene</l>
+					<l xml:id="l2">D’algente neve, il cor però non verna.</l>
+					<l xml:id="l3">Sasselo Amor; che tacito ’l governa,</l>
+					<l xml:id="l4">E in lui conserva del suo amor mantiene.</l>
+					<l xml:id="l5">Etna cosi sul dorso alto sostiene</l>
+					<l xml:id="l6">Le brine, e ’l gelo, e dentro ha fiamma eterna</l>
+					<l xml:id="l7">Selce cosi gelata è ne l’esterna</l>
+					<l xml:id="l8">Parte, e ’l foco nativo ha ne le vene.</l>
+					<l xml:id="l9">Ben, se ’l petto tal’hor mi ripercote,</l>
+					<l xml:id="l10">Colpo de’ tuoi begli occhi, à più d’un segno</l>
+					<l xml:id="l11">Vengon le fiamme mie nel mio sembiante.</l>
+					<l xml:id="l12">Ma tu rispiarmi i colpi, e vuoi, che ignote</l>
+					<l xml:id="l13">Siano. forse è pietà, forse è disdegno,</l>
+					<l xml:id="l14">Ch’alzi tanto il desio canuto amante.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

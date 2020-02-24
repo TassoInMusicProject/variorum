@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Arsi gran tempo, e del mio foco indegno</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S67</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S67">
+					<title>Rime, et prose del Sig. Torquato Tasso. Parte prima. Accresciute, et corrette, con diligenza in questa nuova impressione</title>
+					<url>https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10190157_00005.html</url>
+					<publisher>Giulio Vasalini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1589">1589</date>
+					<biblScope unit="page">17</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Accusatione, che fa l’ Autore a se stesso.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Arsi gran tempo, e del mio foco indegno</l>
+					<l xml:id="l2">Esca fù sol beltà terrena, e frale,</l>
+					<l xml:id="l3">E qual palustre augel, pur sempre l’ale</l>
+					<l xml:id="l4">Volsi di fango asperse ad humil segno.</l>
+					<l xml:id="l5">Hor, che può gelo di si giusto sdegno</l>
+					<l xml:id="l6">Spegner nel cor l’incendio aspro, e mortale,</l>
+					<l xml:id="l7">Scosso d’ogni vil soma al Ciel ne sale</l>
+					<l xml:id="l8">Con pronto volo il mio non pronto ingegno.</l>
+					<l xml:id="l9">Lasso, e conosco hor ben, che quando i’ dissi,</l>
+					<l xml:id="l10">Fù voce d’huom, cui ne’ tormenti astringa</l>
+					<l xml:id="l11">Giudice ingiusto à traviar dal vero.</l>
+					<l xml:id="l12">Perfida ancor ne la mia lingua io spero,</l>
+					<l xml:id="l13">Che donde pria ti trasse ella ti spinga</l>
+					<l xml:id="l14">D’un cieco oblio ne’ più profondi abissi.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

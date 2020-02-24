@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Amor, ch'aspro tormento</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S141</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S141">
+					<title>Rime del Signor Torquato Tasso, divise in sei parti</title>
+					<url></url>
+					<publisher>Evangelista Deuchino &amp; Giovanni Battista Pulciani</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1608">1608</date>
+					<biblScope unit="page">Parte quarta delle Rime, 102</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Fa vedere ad Amore, qual’egli si sia.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Amor, ch’aspro tormento</l>
+					<l xml:id="l2">Sei fra mortali in terra,</l>
+					<l xml:id="l3">E mal secura tregua, e certa guerra,</l>
+					<l xml:id="l4">E terribil procelle, e fiero vento,</l>
+					<l xml:id="l5">Che turbi i nostri ingegni,</l>
+					<l xml:id="l6">E ’n guisa d’onde movi altri disdegni:</l>
+					<l xml:id="l7">Sei fra gli Angeli in Ciel senza difetto,</l>
+					<l xml:id="l8">Contentezza, e diletto,</l>
+					<l xml:id="l9">E tranquilla quiete, e stabil pace,</l>
+					<l xml:id="l10">E gioia eterna con piacer verace.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

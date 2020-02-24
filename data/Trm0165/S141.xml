@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Vorrei lagnarmi a pieno</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S141</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S141">
+					<title>Rime del Signor Torquato Tasso, divise in sei parti</title>
+					<url></url>
+					<publisher>Evangelista Deuchino &amp; Giovanni Battista Pulciani</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1608">1608</date>
+					<biblScope unit="page">Parte seconda delle Rime, 184.</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Vorrebbe dolersi della sua Donna, ma teme d'iritarla a sdegno, onde si determina di sofferir tacendo.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Vorrei lagnarmi à pieno</l>
+					<l xml:id="l2">Sfogando il duol, ch’io sento,</l>
+					<l xml:id="l3">Ma vostro sdegno d'irritar pavento.</l>
+					<l xml:id="l4">Dunque il meglio è ch’io taccia</l>
+					<l xml:id="l5">E quel dolor sopporte.</l>
+					<l xml:id="l6">Ch’ove s’accresca, sia dolor di morte.</l>
+					<l xml:id="l7">Ma se fia che vi piaccia</l>
+					<l xml:id="l8">Il mio silenzio almeno</l>
+					<l xml:id="l9">Me 'l mostri un balenar d’occhi sereno.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

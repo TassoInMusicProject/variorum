@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Donna, nel mio ritorno</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S166</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S166">
+					<title>Rime del Signor Torquato Tasso, divise in sei parti</title>
+					<url></url>
+					<publisher>Giovanni Battista Bidelli</publisher>
+					<pubPlace>Milan</pubPlace>
+					<date when="1619">1619</date>
+					<biblScope unit="page">Parte terza delle Rime, 103</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Dice, che ritornando alla D. S. che si trovava seco col pensiero.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Donna nel mio ritorno</l>
+					<l xml:id="l2">Il mio pensiero, à cui nulla pon freno,</l>
+					<l xml:id="l3">Precorre, dove il Cielo è più sereno,</l>
+					<l xml:id="l4">E sen viene a far con voi soggiorno;</l>
+					<l xml:id="l5">Nè da voi si diparte</l>
+					<l xml:id="l6">Giamai la notte, e 'l giorno,</l>
+					<l xml:id="l7">Perche l’annoia ciascun’altra parte:</l>
+					<l xml:id="l8">Onde sol per virtù del pensier mio,</l>
+					<l xml:id="l9">Mentre piu vengo a voi con voi son'io.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

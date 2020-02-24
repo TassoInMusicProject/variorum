@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Or che l'aura mia dolce altrove spira</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S141</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S141">
+					<title>Rime del Signor Torquato Tasso, divise in sei parti</title>
+					<url></url>
+					<publisher>Evangelista Deuchino &amp; Giovanni Battista Pulciani</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1608">1608</date>
+					<biblScope unit="page">Parte prima delle Rime, 58</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Dice che la sua Donna con la sua dolce presenza fa miracolosi effetti, rendendo con l'absenza sua le Città selvatiche, &amp i Boschi civili.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Hor, che l’aura mia dolce altrove spira</l>
+					<l xml:id="l2">Fra selve, e campi; ahi ben di ferro ha ’l core,</l>
+					<l xml:id="l3">Che riman quì solingo, ove d’horrore</l>
+					<l xml:id="l4">È cieca valle, di miseria, e d’ira.</l>
+					<l xml:id="l5">Qui nessun raggio di beltà si mira.</l>
+					<l xml:id="l6">Rustico è fatto, e co’ Bifolci, Amore</l>
+					<l xml:id="l7">Pasce gli armenti, e ’n sù l’estivo ardore</l>
+					<l xml:id="l8">Hor tratta il rastro, &amp; hor la falce aggira.</l>
+					<l xml:id="l9">Ò fortunata selva, ò liete piagge,</l>
+					<l xml:id="l10">Ove le fere, ove le piante, e i sassi,</l>
+					<l xml:id="l11">Appreso han di valor senso, e costume.</l>
+					<l xml:id="l12">Hor, che far non potria quel dolce lume,</l>
+					<l xml:id="l13">Se fà, d’ond’egli parte, ov’egli stassi</l>
+					<l xml:id="l14">Civili, i boschi, e le Città selvagge.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

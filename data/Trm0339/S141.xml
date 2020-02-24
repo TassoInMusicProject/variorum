@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Dolcissimi legami</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S141</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S141">
+					<title>Rime del Signor Torquato Tasso, divise in sei parti</title>
+					<url></url>
+					<publisher>Evangelista Deuchino &amp; Giovanni Battista Pulciani</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1608">1608</date>
+					<biblScope unit="page">Parte terza delle Rime, 125</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Si compiace d’essere inamorato.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Dolcissimi legami</l>
+					<l xml:id="l2">Di parole amorose,</l>
+					<l xml:id="l3">Chi mi legò da scherzo e non mi scioglie?</l>
+					<l xml:id="l4">Così egli dunque scherza, e cosi coglie?</l>
+					<l xml:id="l5">Cosi l’alme legate</l>
+					<l xml:id="l6">Sono ne le catene insidïose?</l>
+					<l xml:id="l7">Almen, chi si m’allaccia,</l>
+					<l xml:id="l8">Mi leghi ancor fra quelle dolci braccia.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

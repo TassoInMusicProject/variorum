@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Né di feconda conca in ricco mare</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S68</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S68">
+					<title>Rime, et prose del Sig. Torquato Tasso. Parte seconda. Di nuovo ristampate, con diligenza rivedute, et corrette</title>
+					<url>https://books.google.com/books?id=RiY8AAAAcAAJ&amp;printsec=frontcover&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false</url>
+					<publisher>Giulio Vasalini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1589">1589</date>
+					<biblScope unit="page">44</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Nè di feconda conca in ricco Mare</l>
+					<l xml:id="l2">Perla uscì mai si luminosa, e bella,</l>
+					<l xml:id="l3">Nè si vago monil giamai fece ella</l>
+					<l xml:id="l4">A l’altre unita pretiose, e care,</l>
+					<l xml:id="l5">Come costei, c’haver simil non pare,</l>
+					<l xml:id="l6">Di regio albergo esce in età novella,</l>
+					<l xml:id="l7">Nè gemma pur frà l’altre par, ma stella</l>
+					<l xml:id="l8">Che risplenda nel Ciel fra le men chiare.</l>
+					<l xml:id="l9">Quella, ch’innanzi l’Alba in Oriente</l>
+					<l xml:id="l10">L’alme amorose à sospirar invita,</l>
+					<l xml:id="l11">E riede poi con Himeneo la sera,</l>
+					<l xml:id="l12">Simiglia appunto in giovenile schiera,</l>
+					<l xml:id="l13">La fronte e gli occhi candida, e lucente,</l>
+					<l xml:id="l14">Pretiosa, e mirabil Margherita.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

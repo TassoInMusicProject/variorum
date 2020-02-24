@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>D'aria un tempo nudrimmi, e cibo e vita</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S141</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S141">
+					<title>Rime del Signor Torquato Tasso, divise in sei parti</title>
+					<url></url>
+					<publisher>Evangelista Deuchino &amp; Giovanni Battista Pulciani</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1608">1608</date>
+					<biblScope unit="page">Parte prima delle Rime, 67</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Essendosi fino allhora nudrido del soave cibo della dolce vista della sua Donna, &amp veggendosene privato da sdegno, &amp ira, non sa più come potersi sostentare. Et sprime molto bene il molto desiderio ch'egli havea rivederla in qual si voglia maniera.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">D’aria un tempo nudrimmi: e cibo, e vita,</l>
+					<l xml:id="l2">L’aura mi fù, che d’un bel volto spira;</l>
+					<l xml:id="l3">Hor che lei mi contende orgoglio, ed ira:</l>
+					<l xml:id="l4">Di qual esca sarà l’alma nudrita?</l>
+					<l xml:id="l5">I famelici spirti in vano aita</l>
+					<l xml:id="l6">Chiamano, e ’n darno il cor langue, e sospira:</l>
+					<l xml:id="l7">Ma se pur l’empio à darli morte aspira,</l>
+					<l xml:id="l8">Muoia non non per digiun, ma per ferita.</l>
+					<l xml:id="l9">Armi gli occhi di sdegno, e strali aventi</l>
+					<l xml:id="l10">À mille, à mille: à feri colpi, ignuda</l>
+					<l xml:id="l11">Io porgo l’alma, non ch’inerme il seno.</l>
+					<l xml:id="l12">Faccia il mio stratio i suoi desir contenti.</l>
+					<l xml:id="l13">Ben fia pietà, ch’io la riveggia almeno;</l>
+					<l xml:id="l14">Non dico pia: ma disdegnosa, e cruda.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

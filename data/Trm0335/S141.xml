@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Voi bramate, ben mio</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S141</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S141">
+					<title>Rime del Signor Torquato Tasso, divise in sei parti</title>
+					<url></url>
+					<publisher>Evangelista Deuchino &amp; Giovanni Battista Pulciani</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1608">1608</date>
+					<biblScope unit="page">Parte terza delle Rime, 103</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Dice sentire piacere del dolore che patisce per lei, poiche vede ch’ella hà piacere di vederlo penare.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Voi bramate, ben mio,</l>
+					<l xml:id="l2">Che m’uccida il dolore,</l>
+					<l xml:id="l3">Però crescete pena in questo core.</l>
+					<l xml:id="l4">Ma pur mentre mi doglio</l>
+					<l xml:id="l5">Sento un piacer si novo</l>
+					<l xml:id="l6">Del piacer, che vi porge il mio cordoglio,</l>
+					<l xml:id="l7">O amara voglia, e quasi avien, ch’allora</l>
+					<l xml:id="l8">Per doglia nò, ma per diletto io mora.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

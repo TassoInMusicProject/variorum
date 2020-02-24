@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Poiché madonna sdegna</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S141</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S141">
+					<title>Rime del Signor Torquato Tasso, divise in sei parti</title>
+					<url></url>
+					<publisher>Evangelista Deuchino &amp; Giovanni Battista Pulciani</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1608">1608</date>
+					<biblScope unit="page">Parte seconda delle Rime, 107</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Priega Amore a mostrargli il mezzo da furare alla sua Donna alcuno sguardo, poi ch'ella fuori dell'uso suo, gliele negava</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Poi, che Madonna sdegna.</l>
+					<l xml:id="l2">Fuor d’ogni suo costume,</l>
+					<l xml:id="l3">Volger in me da’ suoi begli occhi il Sole;</l>
+					<l xml:id="l4">Qualch’arte Amor, m’insegna,</l>
+					<l xml:id="l5">Ond’io del vago lume</l>
+					<l xml:id="l6">Alcun bel raggio ascosamente invole;</l>
+					<l xml:id="l7">Nè giusto fia, che teco ella se ’n doglia:</l>
+					<l xml:id="l8">Che se furommi il core,</l>
+					<l xml:id="l9">Fia ’l mio furto minore,</l>
+					<l xml:id="l10">Quando in dolce vendetta un guardo i’ toglia.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

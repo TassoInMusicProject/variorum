@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Soletto Amor tendea</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S166</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S166">
+					<title>Rime del Signor Torquato Tasso, divise in sei parti</title>
+					<url></url>
+					<publisher>Giovanni Battista Bidelli</publisher>
+					<pubPlace>Milan</pubPlace>
+					<date when="1619">1619</date>
+					<biblScope unit="page">Parte terza delle Rime, 54</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Mostra, che amor cercasse di mettere sotto il suo amoroso giogo l’honesta, come bella, la Sig. Laura Peperara.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Soletto Amor tendea,</l>
+					<l xml:id="l2">Qual pescator, le reti</l>
+					<l xml:id="l3">Fra cari scogli per diporto un giorno.</l>
+					<l xml:id="l4">Et un bel fior vedea.</l>
+					<l xml:id="l5">Ch’à tutti i fior più lieti</l>
+					<l xml:id="l6">Facea ne l’onde amare un dolce scorno;</l>
+					<l xml:id="l7">E pien di maraviglia</l>
+					<l xml:id="l8">Dicea felice preda, e chi la piglia.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

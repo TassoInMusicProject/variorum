@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Dolcemente dormiva la mia Clori</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S166</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S166">
+					<title>Rime del Signor Torquato Tasso, divise in sei parti</title>
+					<url></url>
+					<publisher>Giovanni Battista Bidelli</publisher>
+					<pubPlace>Milan</pubPlace>
+					<date when="1619">1619</date>
+					<biblScope unit="page">Parte quarta delle Rime, 210</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Sopra un bacio tolto alla S. D. che dormiva.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Dolcemente dormiva la mia Clori,</l>
+					<l xml:id="l2">E ’ntorno al suo bel volto</l>
+					<l xml:id="l3">Givan scherzando i pargoletti Amori.</l>
+					<l xml:id="l4">Mirav’io da me tolto</l>
+					<l xml:id="l5">Con gran diletto lei,</l>
+					<l xml:id="l6">Quando dir mi sentì, stolto, che fai?</l>
+					<l xml:id="l7">Tempo perduto non s’acquista mai.</l>
+					<l xml:id="l8">Allor’ io mi chinai così pian piano,</l>
+					<l xml:id="l9">E baciandole il viso</l>
+					<l xml:id="l10">Provai quanta dolcezza hà il paradiso.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>In un fonte tranquillo</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S141</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S141">
+					<title>Rime del Signor Torquato Tasso, divise in sei parti</title>
+					<url></url>
+					<publisher>Evangelista Deuchino &amp; Giovanni Battista Pulciani</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1608">1608</date>
+					<biblScope unit="page">Parte terza delle rime, 55</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Si duole della crudeltà dell’amata Donna.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">In un fonte tranquillo</l>
+					<l xml:id="l2">Si specchiava Neera,</l>
+					<l xml:id="l3">E Tirsi le dicea piangendo intanto.</l>
+					<l xml:id="l4">Mentr’io così mi stillo,</l>
+					<l xml:id="l5">Ninfa selvaggia, e fera,</l>
+					<l xml:id="l6">Spero Fontana divenir di pianto.</l>
+					<l xml:id="l7">Allora in me vedrete,</l>
+					<l xml:id="l8">Quanto voi bella, e quanto cruda sete.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

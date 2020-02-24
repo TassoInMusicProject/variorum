@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Io veggio in cielo scintillar le stelle</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S141</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S141">
+					<title>Rime del Signor Torquato Tasso, divise in sei parti</title>
+					<url></url>
+					<publisher>Evangelista Deuchino &amp; Giovanni Battista Pulciani</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1608">1608</date>
+					<biblScope unit="page">Parte prima delle Rime, 11</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Andando di notte tempo a furti amorosi, &amp veggendo le Stelle più dell'usato lor costume risplenderi le priega, che gli sieno fedel guida nel suo viaggio.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Io veggio in Cielo scintillar le stelle,</l>
+					<l xml:id="l2">Oltre l’usato, e lampeggiar tremanti;</l>
+					<l xml:id="l3">Come ne gli occhi de’ cortesi amanti</l>
+					<l xml:id="l4">Noi rimiriam tal' hor vive facelle.</l>
+					<l xml:id="l5">Aman forse la suso, ò pur son' elle</l>
+					<l xml:id="l6">Pietose a’ nostri affanni, a’ nostri pianti;</l>
+					<l xml:id="l7">Mentre scorgon le insidie, e i passi erranti,</l>
+					<l xml:id="l8">La dove altri d’Amor goda, e favelle?</l>
+					<l xml:id="l9">Cortesi luci se Leandro in Mare,</l>
+					<l xml:id="l10">O traviato peregrin foss’io,</l>
+					<l xml:id="l11">Non mi sareste di soccorso avare.</l>
+					<l xml:id="l12">Così vi faccia il Sol più belle, e chiare,</l>
+					<l xml:id="l13">Siate nel dubbio corso al desir mio,</l>
+					<l xml:id="l14">Fide mie duci, e scorte amate, e care.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

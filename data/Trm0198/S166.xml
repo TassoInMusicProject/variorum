@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Chi la felice pianta d'orïente</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S166</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S166">
+					<title>Rime del Signor Torquato Tasso, divise in sei parti</title>
+					<url></url>
+					<publisher>Giovanni Battista Bidelli</publisher>
+					<pubPlace>Milan</pubPlace>
+					<date when="1619">1619</date>
+					<biblScope unit="page">Parte terza delle Rime, 101</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Loda la Sig. Laura Peperara.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Chi la felice pianta d’Oriente</l>
+					<l xml:id="l2">Portò ne l’Occidente?</l>
+					<l xml:id="l3">E di qual mano aventurosa è questo</l>
+					<l xml:id="l4">Maraviglioso inesto?</l>
+					<l xml:id="l5">Felice, chi raccoglie</l>
+					<l xml:id="l6">Pepe nel Lauro tra le verdi foglie,</l>
+					<l xml:id="l7">Ond’Amor, e Natura, &amp Arte unite</l>
+					<l xml:id="l8">Fanne amicitia, e lite.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

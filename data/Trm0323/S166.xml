@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Lontano dal mio cuore</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S166</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S166">
+					<title>Rime del Signor Torquato Tasso, divise in sei parti</title>
+					<url></url>
+					<publisher>Giovanni Battista Bidelli</publisher>
+					<pubPlace>Milan</pubPlace>
+					<date when="1619">1619</date>
+					<biblScope unit="page">Parte terza delle Rime, 150</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Dice che i dolori, che patisce per la S. D. sono eterni, &amp che la speranza di rivederla è la fine.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Lontano dal mio core</l>
+					<l xml:id="l2">Infinito è ’l dolore,</l>
+					<l xml:id="l3">Infinite le pene, e i miei tormenti,</l>
+					<l xml:id="l4">Infiniti i martiri,</l>
+					<l xml:id="l5">Infiniti i sospiri,</l>
+					<l xml:id="l6">Infiniti le lagrime, e i lamenti:</l>
+					<l xml:id="l7">Sol la speranza hà fine</l>
+					<l xml:id="l8">Di rivedervi mai luci divine:</l>
+					<l xml:id="l9">Sol fine hà la speranza,</l>
+					<l xml:id="l10">E nel fondo de mali hor non avanza.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

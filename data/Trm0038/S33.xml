@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Stavasi Amor quasi in regno assiso</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S33</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S33">
+					<title>Delle rime et prose del Sig. Torquato Tasso. Parte prima. Di nuovo ristampate, con diligenza rivedute, e corrette</title>
+					<url></url>
+					<publisher>Giulio Cesare Cagnacini et Fratelli</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1585">1585</date>
+					<biblScope unit="page">16</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Per le bellezze della sua Donna.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Stavasi Amor, quasi in suo regno, assiso</l>
+					<l xml:id="l2">Nel seren di due luci ardenti, &amp; alme,</l>
+					<l xml:id="l3">Mille vittrici insigne, e mille palme</l>
+					<l xml:id="l4">Trionfali spiegando entro ’l belviso;</l>
+					<l xml:id="l5">Quando rivolto à me, che intento, e fiso</l>
+					<l xml:id="l6">Mirava le sue ricche altere salme,</l>
+					<l xml:id="l7">Disse: Cantarai tu, come tant’alme</l>
+					<l xml:id="l8">Habbia, e te stesso ancor vinto, e conquiso.</l>
+					<l xml:id="l9">Nè tua cetra sonar l’arme di Marte</l>
+					<l xml:id="l10">Più s’oda homai, ma l’alte, e chiare glorie</l>
+					<l xml:id="l11">E i divin preghi nostri; e di costei.</l>
+					<l xml:id="l12">Cosi convien, c’ hor ne l’altrui vittorie</l>
+					<l xml:id="l13">Canti mia servitude, e i lacci miei;</l>
+					<l xml:id="l14">E tessa de’ miei danni  historia in carte.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

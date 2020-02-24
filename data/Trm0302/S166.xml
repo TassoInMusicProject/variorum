@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Siepe, che gli orti vaghi</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S166</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S166">
+					<title>Rime del Signor Torquato Tasso, divise in sei parti</title>
+					<url></url>
+					<publisher>Giovanni Battista Bidelli</publisher>
+					<pubPlace>Milan</pubPlace>
+					<date when="1619">1619</date>
+					<biblScope unit="page">Parte quarta delle Rime, 169</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Si duole d’un’impedimento, o di muro, o d’altro, che non gli lasciava godere cosa alcun’altra, che la mano.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Siepe, che gli horti vaghi,</l>
+					<l xml:id="l2">E me da me dividi,</l>
+					<l xml:id="l3">Si bella rosa in te giammai non vidi,</l>
+					<l xml:id="l4">Com’è la Donna mia</l>
+					<l xml:id="l5">Bella, amorosa, e pia:</l>
+					<l xml:id="l6">E mentr’io stendo sovra te la mano,</l>
+					<l xml:id="l7">La mi stringe pian piano.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

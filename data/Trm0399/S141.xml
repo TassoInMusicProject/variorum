@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>O vaga tortorella</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S141</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S141">
+					<title>Rime del Signor Torquato Tasso, divise in sei parti</title>
+					<url></url>
+					<publisher>Evangelista Deuchino &amp; Giovanni Battista Pulciani</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1608">1608</date>
+					<biblScope unit="page">Parte quarta delle Rime, 99</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Ad instanza del Sig. Giulio Molti piange, &amp; si duole della morte della Sig. Flaminia… nobil Ferrarese.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">O vaga Tortorella,</l>
+					<l xml:id="l2">Tu la tua compagnia</l>
+					<l xml:id="l3">Et io piango colei, che non fu mia.</l>
+					<l xml:id="l4">Misera vedovella,</l>
+					<l xml:id="l5">Tu sovra il nudo ramo,</l>
+					<l xml:id="l6">A’ piè del secco tronco io la richiamo.</l>
+					<l xml:id="l7">Ma l’aura solo, e ’l vento</l>
+					<l xml:id="l8">Risponde mormorando al mio lamento.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

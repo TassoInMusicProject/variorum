@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Vaghe Ninfe del Po, Ninfe sorelle</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S141</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S141">
+					<title>Rime del Signor Torquato Tasso, divise in sei parti</title>
+					<url></url>
+					<publisher>Evangelista Deuchino &amp; Giovanni Battista Pulciani</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1608">1608</date>
+					<biblScope unit="page">Parte seconda delle Rime, 91</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Invita in questa artificiosa corona di Madriali tutte le nobili Donne Ferrarese ad incoronar la Donna sua.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Vaghe Ninfe del Pò, Ninfe sorelle,</l>
+					<l xml:id="l2">E voi de’ boschi, e voi d’onda marina,</l>
+					<l xml:id="l3">E voi de’ fonti, e de l’alpestri cime,</l>
+					<l xml:id="l4">Tessiam hor care ghirlandette ,e belle</l>
+					<l xml:id="l5">A questa giovinetta peregrina:</l>
+					<l xml:id="l6">Voi di fronde, e di fiori, &amp io di rime;</l>
+					<l xml:id="l7">E mentre io sua beltà lodo, &amp; honoro:</l>
+					<l xml:id="l8">Cingete à Laura voi le treccie d'oro.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

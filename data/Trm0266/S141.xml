@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Dolcissimi colori</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S141</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S141">
+					<title>Rime del Signor Torquato Tasso, divise in sei parti</title>
+					<url></url>
+					<publisher>Evangelista Deuchino &amp; Giovanni Battista Pulciani</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1608">1608</date>
+					<biblScope unit="page">Parte terza delle Rime, 124</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Arrossendo la sua D. egli arrossiva, che chiama cambiar colore, non per questo dice, cambiava consiglio.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Dolcissimi colori,</l>
+					<l xml:id="l2">Voi vi mutate, &amp io</l>
+					<l xml:id="l3">Color muto con voi, ma non desio.</l>
+					<l xml:id="l4">Sempre vorrei mirarvi, e se fiorire</l>
+					<l xml:id="l5">Un bel purpureo veggio,</l>
+					<l xml:id="l6">Et un vago candor sempre io vagheggio,</l>
+					<l xml:id="l7">Sempre soglio gioire.</l>
+					<l xml:id="l8">E perche vario segno al mio pensiero,</l>
+					<l xml:id="l9">E costante l’arciero.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

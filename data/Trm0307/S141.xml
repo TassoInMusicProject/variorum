@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Non sono in queste rive</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S141</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S141">
+					<title>Rime del Signor Torquato Tasso, divise in sei parti</title>
+					<url></url>
+					<publisher>Evangelista Deuchino &amp; Giovanni Battista Pulciani</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1608">1608</date>
+					<biblScope unit="page">Parte terza per le Rime, 55</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Sentendo con suo piacere cantar la sua donna, non vorrebbe, che altre cose le interrompesse il canto, che i vicendevoli lor baci.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Non sono in queste rive</l>
+					<l xml:id="l2">Fiori così vermigli,</l>
+					<l xml:id="l3">Come le labra de la Donna mia.</l>
+					<l xml:id="l4">Nè ’l suon de l’aure estive</l>
+					<l xml:id="l5">Tra fonti, e Rose, e Gigli</l>
+					<l xml:id="l6">Fan del suo canto più dolce armonia.</l>
+					<l xml:id="l7">Canto, che m’ardi, e piaci,</l>
+					<l xml:id="l8">T’interrompano solo i nostri baci.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

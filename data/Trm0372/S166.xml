@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Bruna sei tu ma bella</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S166</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S166">
+					<title>Rime del Signor Torquato Tasso, divise in sei parti</title>
+					<url></url>
+					<publisher>Giovanni Battista Bidelli</publisher>
+					<pubPlace>Milan</pubPlace>
+					<date when="1619">1619</date>
+					<biblScope unit="page">Parte seconda delle Rime, 184</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Loda la bruna carnagione della sua amante, dicendo, che ogni bianchezza paragonata a quella perde.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Bruna sei tu, ma bella,</l>
+					<l xml:id="l2">Et ogni bel candore</l>
+					<l xml:id="l3">Perde co ’l bruno tuo, giudice Amore;</l>
+					<l xml:id="l4">Bella sei tu; ma bruna;</l>
+					<l xml:id="l5">Pur se ne cade incolto</l>
+					<l xml:id="l6">Bianco ligustro, e negro fiore; e colto.</l>
+					<l xml:id="l7">Chi coglie aduna ad una</l>
+					<l xml:id="l8">Le tue lodi più elette</l>
+					<l xml:id="l9">Che se ne tesse in rime ghirlandette.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

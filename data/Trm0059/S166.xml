@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Lunge da voi, ben mio</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S166</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S166">
+					<title>Rime del Signor Torquato Tasso, divise in sei parti</title>
+					<url></url>
+					<publisher>Giovanni Battista Bidelli</publisher>
+					<pubPlace>Milan</pubPlace>
+					<date when="1619">1619</date>
+					<biblScope unit="page">Parte quarta delle Rime, 217</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Ch'egli non è un'hora lungi dalla sua Donna.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Lunge da voi, ben mio,</l>
+					<l xml:id="l2">Non hò vita, né core, e non son' io:</l>
+					<l xml:id="l3">Non sono (oime) non sono</l>
+					<l xml:id="l4">Quel, ch’altra volta fui, ma un’ombra mesta,</l>
+					<l xml:id="l5">Un lagrimevol suono,</l>
+					<l xml:id="l6">Una voce dolente, e ciò mi resta</l>
+					<l xml:id="l7">Solo per vostro dono,</l>
+					<l xml:id="l8">Ma resta il male, onde morir desio.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

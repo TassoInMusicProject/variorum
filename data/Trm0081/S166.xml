@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Costei, che su la fronte ha sparsa al vento</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S166</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S166">
+					<title>Rime del Signor Torquato Tasso, divise in sei parti</title>
+					<url></url>
+					<publisher>Giovanni Battista Bidelli</publisher>
+					<pubPlace>Milan</pubPlace>
+					<date when="1619">1619</date>
+					<biblScope unit="page">Parte prima delle Rime, 32-33</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Vide la sua Donna co' crini sù la fronte, onde l'assomiglia alla Fortuna, anzi la fa vera Fortuna, &amp ciò prova da gli effetti, che ella fa, perche può far misero di felice, &amp felice di misero.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Costei, che sù la fronte ha sparso al vento</l>
+					<l xml:id="l2">L’errante chioma d’or, Fortuna pare;</l>
+					<l xml:id="l3">Anzi è vera Fortuna, è può beare,</l>
+					<l xml:id="l4">E misero può far il più contento.</l>
+					<l xml:id="l5">Dispensatrice nò d’oro, ò d’argento,</l>
+					<l xml:id="l6">Ò di gemme, chè mandi estraneo Mare:</l>
+					<l xml:id="l7">Ma tesori d’Amor, cose più care</l>
+					<l xml:id="l8">Fura, dona, e ritoglie in un momento:</l>
+					<l xml:id="l9">Cieca non già, ma solo a’ miei martiri,</l>
+					<l xml:id="l10">Par, che s’infinga tale, e cieco huom rende</l>
+					<l xml:id="l11">Con due luci serene, e sfavillanti.</l>
+					<l xml:id="l12">Chiedi qual sia la rota, ove gli amanti</l>
+					<l xml:id="l13">Travolve, e ’l corso lor ferma, e sospende?</l>
+					<l xml:id="l14">La rota fanno hor de’ begli occhi i giri.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

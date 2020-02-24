@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title><span class="name">Angioletta</span> cortese</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S68</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S68">
+					<title>Rime, et prose del Sig. Torquato Tasso. Parte seconda. Di nuovo ristampate, con diligenza rivedute, et corrette</title>
+					<url>https://books.google.com/books?id=RiY8AAAAcAAJ&amp;printsec=frontcover&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false</url>
+					<publisher>Giulio Vasalini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1589">1589</date>
+					<biblScope unit="page">34</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Madrigali.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">ANGIOLETTA cortese,</l>
+					<l xml:id="l2">Odi dal terzo cielo,</l>
+					<l xml:id="l3">Le mie calde parole, e ’l vivo zelo,</l>
+					<l xml:id="l4">E porta innanzi à Giove</l>
+					<l xml:id="l5">Le mie preghiere nove,</l>
+					<l xml:id="l6">Sì che da lui sien con pietade intese.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>D'aria un tempo nudrimmi, e cibo e vita</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S33</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S33">
+					<title>Delle rime et prose del Sig. Torquato Tasso. Parte prima. Di nuovo ristampate, con diligenza rivedute, e corrette</title>
+					<url></url>
+					<publisher>Giulio Cesare Cagnacini et Fratelli</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1585">1585</date>
+					<biblScope unit="page">39</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Trovasi essergli vietato la sua Donna per colpa di lei, della qual vista egli si pascea, onde la prega, ch’ella l’uccida più tosto con le ferite, che co’l digiuno.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">D’aria un tempo nudrimmi, e cibo e vita</l>
+					<l xml:id="l2">L’aura mi fù, che d’un bel volto spira,</l>
+					<l xml:id="l3">Hor, che lei mi contende orgoglio, &amp ira.</l>
+					<l xml:id="l4">Di qual’altra esca fia l’alma nodrita?</l>
+					<l xml:id="l5">I famelici spirti indarno aita</l>
+					<l xml:id="l6">Chiamano, e ’n darno il cor langue, sospira</l>
+					<l xml:id="l7">Ma, se pur l’empia à darli morte aspira,</l>
+					<l xml:id="l8">Muoia non di digiun, ma di ferita;</l>
+					<l xml:id="l9">Armi di sdegno i begli occhi, &amp; avventi</l>
+					<l xml:id="l10">Folgori à mille à mille: ecco, ch’ ignuda</l>
+					<l xml:id="l11">Le porgo l’alma non, ch’inerme il seno;</l>
+					<l xml:id="l12">Faccia il mio stratio i suoi desir contenti</l>
+					<l xml:id="l13">Ben fia pietà, ch’io la riveggia almeno,</l>
+					<l xml:id="l14">Non dico pia, ma disdegnosa, e cruda.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

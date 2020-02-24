@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>O verdi selve, o dolci fonti, o rivi</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S141</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S141">
+					<title>Rime del Signor Torquato Tasso, divise in sei parti</title>
+					<url></url>
+					<publisher>Evangelista Deuchino &amp; Giovanni Battista Pulciani</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1608">1608</date>
+					<biblScope unit="page">Parte quarta delle Rime, 129</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">O verdi selve, o dolci fonti, o rivi</l>
+					<l xml:id="l2">O luoghi ermi, e selvaggi,</l>
+					<l xml:id="l3">Pini, abeti, ginepri, allori, e faggi:</l>
+					<l xml:id="l4">O vaghi augelli semplici, e lascivi.</l>
+					<l xml:id="l5">Ecco, e tu che rispondi al mio lamento,</l>
+					<l xml:id="l6">Chi può dar fine a si crudel fortuna?</l>
+					<l xml:id="l7">Una. Dunque sol’ una,</l>
+					<l xml:id="l8">E fà cosi lacrimevol concento?</l>
+					<l xml:id="l9">Cento. Non son già cento, e pur son molte</l>
+					<l xml:id="l10">In bella festa accolte.</l>
+					<l xml:id="l11">Come una potrà dunque il mal fornire?</l>
+					<l xml:id="l12">Ire; Per ira mai ne per dispetto</l>
+					<l xml:id="l13">Non havrà fine Amor nel nostro petto.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

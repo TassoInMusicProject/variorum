@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Mentre nubi di sdegno</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S67</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S67">
+					<title>Rime, et prose del Sig. Torquato Tasso. Parte prima. Accresciute, et corrette, con diligenza in questa nuova impressione</title>
+					<url>https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10190157_00005.html</url>
+					<publisher>Giulio Vasalini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1589">1589</date>
+					<biblScope unit="page">114</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Prega la sua Donna, poiche non la vede pietosa, ad esserle crudele per il suo meglio.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">MENTRE nubi di sdegno</l>
+					<l xml:id="l2">Frà vostri occhi, e ’l mio core,</l>
+					<l xml:id="l3">Furo interposti, egli soffrì l’ardore;</l>
+					<l xml:id="l4">Hor, che chiaro si gira</l>
+					<l xml:id="l5">Il Sol di quei bei lumi,</l>
+					<l xml:id="l6">Forz’è, che si consumi</l>
+					<l xml:id="l7">L’anima esposta à si gran foco ignuda.</l>
+					<l xml:id="l8">Poiche dunque può l’ira</l>
+					<l xml:id="l9">Temprar sì ardente face,</l>
+					<l xml:id="l10">Più che pietà non face,</l>
+					<l xml:id="l11">Siatemi; prego; per pietà più cruda.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

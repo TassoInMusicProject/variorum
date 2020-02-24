@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Io vidi già sotto l'ardente sole</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S166</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S166">
+					<title>Rime del Signor Torquato Tasso, divise in sei parti</title>
+					<url></url>
+					<publisher>Giovanni Battista Bidelli</publisher>
+					<pubPlace>Milan</pubPlace>
+					<date when="1619">1619</date>
+					<biblScope unit="page">Parte quarta delle Rime, 210</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Sopra la palidezza della sua Donna.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Io vidi già sotto l’ardente Sole</l>
+					<l xml:id="l2">Discoloriti i fiori,</l>
+					<l xml:id="l3">Come la mia Licori.</l>
+					<l xml:id="l4">Come i gigli del volto, e le viole,</l>
+					<l xml:id="l5">Che d’irrigar desio</l>
+					<l xml:id="l6">Con lagrimoso rio.</l>
+					<l xml:id="l7">E seco insieme impallidir anch’io,</l>
+					<l xml:id="l8">Seco mutar sembiante</l>
+					<l xml:id="l9">Aventuroso amante.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>
