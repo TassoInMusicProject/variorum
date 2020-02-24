@@ -15,13 +15,13 @@
 			<sourceDesc>
 				<bibl type="music" xml:id="Trm0560o-Canto">
 					<title>Il primo libro de madrigali a cinque voci</title>
-					<url>http://www.bibliotecamusica.it/cmbm/viewschedatwbca.asp?path=/cmbm/images/ripro/gaspari/BB/BB344/</url>
-					<author role="composer">Spano, Donato Antonio</author>
-					<publisher>Bonino</publisher>
+					<url>http://orka.bibliothek.uni-kassel.de/viewer/image/1365591513538/5/LOG_0002/</url>
+					<author role="composer">Mayone, Ascanio</author>
+					<publisher>Sottile</publisher>
 					<pubPlace>Naples</pubPlace>
-					<date when="1608">1608</date>
-					<idno type="RISM">S 4049</idno>
-					<biblScope unit="page">11</biblScope>
+					<date when="1604">1604</date>
+					<idno type="RISM">M 1489</idno>
+					<biblScope unit="page">5</biblScope>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -34,13 +34,13 @@
 			<div>
 				<lg>
 					<l xml:id="l1">Mentre mia stella miri</l>
-					<l xml:id="l2">I bei celesti giri</l>
-					<l xml:id="l3">Il ciel esser vorrei</l>
-					<l xml:id="l4">Perche ne gl’occhi miei</l>
-					<l xml:id="l5">Fiso tu rivolgessi</l>
-					<l xml:id="l6">Le tue dolci faville</l>
-					<l xml:id="l7">Io vagheggiar potessi</l>
-					<l xml:id="l8">Mille bellezze tue con luci mille.</l>
+					<l xml:id="l2">i bei celesti giri</l>
+					<l xml:id="l3">il Ciel’esser vorrei</l>
+					<l xml:id="l4">perche ne gli occhi miei</l>
+					<l xml:id="l5">fiso tu rivolgessi</l>
+					<l xml:id="l6">le tue dolci faville</l>
+					<l xml:id="l7">io vagheggiar potessi</l>
+					<l xml:id="l8">mille bellezze tue con luce mille.</l>
 				</lg>
 			</div>
 		</body>

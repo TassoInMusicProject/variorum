@@ -9,11 +9,11 @@
 			<publicationStmt>
 				<publisher></publisher>
 				<availability status=""></availability>
-			<idno type="local">Trm0560h</idno>
-			<idno type="label">Trm0560h (Quinto)</idno>
+			<idno type="local">Trm0560i</idno>
+			<idno type="label">Trm0560i (Tenore)</idno>
 			</publicationStmt>
 			<sourceDesc>
-				<bibl type="music" xml:id="Trm0560h-Quinto">
+				<bibl type="music" xml:id="Trm0560i-Tenore">
 					<title>Il sesto libro de madrigali a sei voci</title>
 					<url>http://www.bibliotecamusica.it/cmbm/viewschedatwbca.asp?path=/cmbm/images/ripro/gaspari/_T/T179/</url>
 					<author role="composer">Monte, Filippo di</author>
@@ -36,7 +36,7 @@
 					<l xml:id="l1">Mentre mia stella miri</l>
 					<l xml:id="l2">I bei celesti giri</l>
 					<l xml:id="l3">Il ciel esser vorrei</l>
-					<l xml:id="l4">Perche ne gl'occhi miei</l>
+					<l xml:id="l4">[TACET]</l>
 					<l xml:id="l5">Fiso tu rivolgessi</l>
 					<l xml:id="l6">Le tue dolci faville</l>
 					<l xml:id="l7">Io vagheggiar potessi</l>

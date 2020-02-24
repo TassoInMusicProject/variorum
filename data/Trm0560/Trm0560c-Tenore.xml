@@ -14,14 +14,14 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl type="music" xml:id="Trm0560c-Tenore">
-					<title>Corona de madrigali a sei voci</title>
+					<title>Il primo libro de madrigali a cinque voci</title>
 					<url></url>
-					<author role="composer">Merulo, Claudio</author>
+					<author role="composer">Bellasio, Paolo</author>
 					<publisher>Scotto</publisher>
 					<pubPlace>Venice</pubPlace>
-					<date when="1579">1579</date>
-					<idno type="RISM">1579-2</idno>
-					<biblScope unit="page">8</biblScope>
+					<date when="1578">1578</date>
+					<idno type="RISM">B 1713</idno>
+					<biblScope unit="page">22</biblScope>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -35,10 +35,10 @@
 				<lg>
 					<l xml:id="l1">Mentre mia stella miri</l>
 					<l xml:id="l2">I bei celesti giri</l>
-					<l xml:id="l3">Il ciel’esser vorrei</l>
-					<l xml:id="l4">Perche tu rivolgessi</l>
-					<l xml:id="l5">Fisso ne’ lumi miei</l>
-					<l xml:id="l6">Le tue dolci faville</l>
+					<l xml:id="l3">Il ciel esser vorrei</l>
+					<l xml:id="l4">Acciò tu rivolgessi</l>
+					<l xml:id="l5">[TACET]</l>
+					<l xml:id="l6">Le tue ardenti faville</l>
 					<l xml:id="l7">Io vagheggiar potessi</l>
 					<l xml:id="l8">Mille bellezze tue con occhi mille.</l>
 				</lg>

@@ -9,19 +9,19 @@
 			<publicationStmt>
 				<publisher></publisher>
 				<availability status=""></availability>
-			<idno type="local">Trm0560c</idno>
-			<idno type="label">Trm0560c (Quinto)</idno>
+			<idno type="local">Trm0560l</idno>
+			<idno type="label">Trm0560l (Tenore)</idno>
 			</publicationStmt>
 			<sourceDesc>
-				<bibl type="music" xml:id="Trm0560c-Quinto">
-					<title>Il primo libro de madrigali a cinque voci</title>
+				<bibl type="music" xml:id="Trm0560l-Tenore">
+					<title>Il secondo libro de madrigali a cinque voci</title>
 					<url></url>
-					<author role="composer">Bellasio, Paolo</author>
+					<author role="composer">Nanino, Giovanni Bernardino</author>
 					<publisher>Scotto</publisher>
 					<pubPlace>Venice</pubPlace>
-					<date when="1578">1578</date>
-					<idno type="RISM">B 1713</idno>
-					<biblScope unit="page">22</biblScope>
+					<date when="1599">1599</date>
+					<idno type="RISM">1599-16</idno>
+					<biblScope unit="page">18-19</biblScope>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -35,12 +35,12 @@
 				<lg>
 					<l xml:id="l1">Mentre mia stella miri</l>
 					<l xml:id="l2">I bei celesti giri</l>
-					<l xml:id="l3">Il ciel esser vorrei</l>
-					<l xml:id="l4">Acciò tu rivolgessi</l>
-					<l xml:id="l5">Spesso ne lumi miei</l>
-					<l xml:id="l6">Le tue ardenti faville</l>
+					<l xml:id="l3">Il Ciel esser vorrei</l>
+					<l xml:id="l4">Perche ne gli occhi miei</l>
+					<l xml:id="l5">fisso tu rivolgessi</l>
+					<l xml:id="l6">le tue dolci faville</l>
 					<l xml:id="l7">Io vagheggiar potessi</l>
-					<l xml:id="l8">Mille bellezze tue con occhi mille.</l>
+					<l xml:id="l8">Mille bellezze tue con luci mille.</l>
 				</lg>
 			</div>
 		</body>
