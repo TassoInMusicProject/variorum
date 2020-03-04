@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Con la saetta de la punta d'oro</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S35</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S35">
+					<title>Delle rime et prose del Sig. Torquato Tasso. Parte terza. Di nuovo ristampate, con diligenza rivedute, e corrette</title>
+					<url></url>
+					<publisher>Giulio Cesare Cagnacini et Fratelli</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1585">1585</date>
+					<biblScope unit="page">52r</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Con la saetta da la punta d’oro</l>
+					<l xml:id="l2">Ond’hebbi al petto sì mortal ferita</l>
+					<l xml:id="l3">Scrisse per leggi Amor de la mia vita</l>
+					<l xml:id="l4">Nel verde tronco d’un frondoso alloro:</l>
+					<l xml:id="l5">Ama, &amp; ardi; e ristoro</l>
+					<l xml:id="l6">Sia quest’ombra à l’ardor, che stilla il pianto.</l>
+					<l xml:id="l7">Dolci mie leggi, ond’io mi glorio, e vanto</l>
+					<l xml:id="l8">Temute; e care, ond’io gioisco, e moro:</l>
+					<l xml:id="l9">Se non basta nel tronco, Amor v’imprima</l>
+					<l xml:id="l10">In questo cor, perch’io ne canti in rima.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

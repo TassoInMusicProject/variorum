@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Non è questa la mano</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0047b</idno>
+			<idno type="label">Trm0047b (Canto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0047b-Canto">
+					<title>Il primo libro de madrigali a sei voci</title>
+					<url>http://www.bibliotecamusica.it/cmbm/viewschedatwbca.asp?path=/cmbm/images/ripro/gaspari/_T/T036/ https://books.google.com/books?id=p48dkhOeM8AC&amp;printsec=frontcover&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false</url>
+					<author role="composer">Marenzio, Luca</author>
+					<publisher>Gardano</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1581">1581</date>
+					<idno type="RISM">M 500</idno>
+					<biblScope unit="page">15</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Non e questa la mano</l>
+					<l xml:id="l2">Che tante e si mortali</l>
+					<l xml:id="l3">Avento nel mio cor fiammelle e strali.</l>
+				</lg>
+				<lg>
+					<l xml:id="l4">Ecco ch’hor pur si trova</l>
+					<l xml:id="l5">Tra le mie man ristretta</l>
+					<l xml:id="l6">Ne forza od arte per fuggir le giova</l>
+					<l xml:id="l7">Ne tien face o saetta</l>
+					<l xml:id="l8">Che da me la difenda</l>
+					<l xml:id="l9">Giusto è ben ch’io ne prenda</l>
+					<l xml:id="l10">Amor qualche vendetta</l>
+					<l xml:id="l11">E se piaghe mi die baci le renda.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

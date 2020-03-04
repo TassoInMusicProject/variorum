@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Se taccio, il duol s'avanza</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S35</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S35">
+					<title>Delle rime et prose del Sig. Torquato Tasso. Parte terza. Di nuovo ristampate, con diligenza rivedute, e corrette</title>
+					<url></url>
+					<publisher>Giulio Cesare Cagnacini et Fratelli</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1585">1585</date>
+					<biblScope unit="page">59v</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">SE taccio, il duol s’avanza;</l>
+					<l xml:id="l2">Se parlo, accresco l’ira;</l>
+					<l xml:id="l3">Donna bella, e crudel; che mi martira</l>
+					<l xml:id="l4">Ma pur prendo speranza,</l>
+					<l xml:id="l5">Che l’humiltà vi pieghi:</l>
+					<l xml:id="l6">Che nel silentio ancor son voci, e prieghi:</l>
+					<l xml:id="l7">E prego Amor, che spieghi</l>
+					<l xml:id="l8">Nel mio doglioso aspetto</l>
+					<l xml:id="l9">Con lettre di pietà l’occulto affetto.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

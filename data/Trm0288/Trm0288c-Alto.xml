@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Amatemi, ben mio</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0288c</idno>
+			<idno type="label">Trm0288c (Alto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0288c-Alto">
+					<title>Il primo libro de madrigali a cinque voci</title>
+					<url>http://pbc.gda.pl/dlibra/docmetadata?id=78003&amp;from=&amp;dirids=1&amp;ver_id=&amp;lp=1&amp;QI=</url>
+					<author role="composer">Giovannelli, Ruggiero</author>
+					<publisher>Gardano</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1586">1586</date>
+					<idno type="RISM">G 2459</idno>
+					<biblScope unit="page">6-7</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Amatemi ben mio</l>
+					<l xml:id="l2">Poi che sdegn’il mio core</l>
+					<l xml:id="l3">Ogn’altro cibo e vive sol d’amore</l>
+					<l xml:id="l4">V’amerò se m’amate</l>
+					<l xml:id="l5">Ne men della mia vita</l>
+					<l xml:id="l6">L’Amor fia lungo &amp; fia con lui finita</l>
+					<l xml:id="l7">Ma s’amarmi negate</l>
+					<l xml:id="l8">Morirò desperato</l>
+					<l xml:id="l9">Per non amarvi non essendo amato.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

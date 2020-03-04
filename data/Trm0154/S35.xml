@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>S'a sdegno voi prendete</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S35</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S35">
+					<title>Delle rime et prose del Sig. Torquato Tasso. Parte terza. Di nuovo ristampate, con diligenza rivedute, e corrette</title>
+					<url></url>
+					<publisher>Giulio Cesare Cagnacini et Fratelli</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1585">1585</date>
+					<biblScope unit="page">40</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">[page missing in the exemplar cosulted]</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">[MISSING</l>
+					<l xml:id="l2">MISSING</l>
+					<l xml:id="l3">MISSING</l>
+					<l xml:id="l4">MISSING</l>
+					<l xml:id="l5">MISSING</l>
+					<l xml:id="l6">MISSING</l>
+					<l xml:id="l7">MISSING</l>
+					<l xml:id="l8">MISSING</l>
+					<l xml:id="l9">MISSING]</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

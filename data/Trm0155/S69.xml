@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Se l'imagine vostra</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S69</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S69">
+					<title>Rime, et prose del Sig. Torquato Tasso. Parte terza. Ristampate, rivedute, et corrette. Con aggiunta d'altre rime del medesimo auttore</title>
+					<url>https://books.google.com/books?id=riY8AAAAcAAJ&amp;printsec=frontcover&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false</url>
+					<publisher>Giulio Vasalini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1589">1589</date>
+					<biblScope unit="page">40</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">[page missing in the exemplar cosulted]</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">[MISSING</l>
+					<l xml:id="l2">MISSING</l>
+					<l xml:id="l3">MISSING</l>
+					<l xml:id="l4">MISSING</l>
+					<l xml:id="l5">MISSING</l>
+					<l xml:id="l6">MISSING</l>
+					<l xml:id="l7">MISSING</l>
+					<l xml:id="l8">MISSING</l>
+					<l xml:id="l9">MISSING]</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

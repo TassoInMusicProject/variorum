@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Mentre Madonna s'appoggiò pensosa</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">I4</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="I4">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Bologna</settlement>
+						<repository>Biblioteca Universitaria</repository>
+						<idno>ms. 1072 XII, 3</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<p>miscellaneous codex, containing copies of 177 lyric poems by Tasso</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Torquato Tasso. Per l'istessa Sig.ra Contessa di Scandiano.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Mentre madonna il lasso fianco posa</l>
+					<l xml:id="l2">Dopo i suoi vaghi, e volontari errorij,</l>
+					<l xml:id="l3">Al fiorito soggiorno i dolci humori</l>
+					<l xml:id="l4">Sussurrando predava ape ingegnosa,</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Ch'à le la<del>b</del>bra in cuj nutre aura amorosa</l>
+					<l xml:id="l6">Al sol di due begl'occhi, eterni fiorij,</l>
+					<l xml:id="l7">Ingannata à i dolcissimij colori</l>
+					<l xml:id="l8">Corse, et sugger credea purpurea rosa.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Ahi troppo saggia nell'errar, felice</l>
+					<l xml:id="l10">Temerità, che quel; che à le mie voglie</l>
+					<l xml:id="l11">Timide si contende, à te sol lice.</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">Vile ape, Amor, cara mercé ne toglie</l>
+					<l xml:id="l13">Che piu ti resta? S'altri il mel n’elice,</l>
+					<l xml:id="l14">Con che tempri i tuoi assenzij, e le mie voglie?</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

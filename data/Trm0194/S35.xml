@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>La giovinetta scorza</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S35</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S35">
+					<title>Delle rime et prose del Sig. Torquato Tasso. Parte terza. Di nuovo ristampate, con diligenza rivedute, e corrette</title>
+					<url></url>
+					<publisher>Giulio Cesare Cagnacini et Fratelli</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1585">1585</date>
+					<biblScope unit="page">3v</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">La giovinetta scorza,</l>
+					<l xml:id="l2">Ch’involge il tronco, e i rami</l>
+					<l xml:id="l3">D’un verde lauro Amor vuol, ch’io sempr’ ami.</l>
+					<l xml:id="l4">E le tenere fronde,</l>
+					<l xml:id="l5">Fra cui vaghi concenti</l>
+					<l xml:id="l6">Fan gli augelletti al mormorar de’ venti.</l>
+					<l xml:id="l7">E l’ombra fresca, e lieta,</l>
+					<l xml:id="l8">Che da le foglie acerbe</l>
+					<l xml:id="l9">Cade co’ dolci sonni in grembo à l’herbe.</l>
+					<l xml:id="l10">Quivi le reti asconde,</l>
+					<l xml:id="l11">Nè ’n parte più secreta</l>
+					<l xml:id="l12">Stanco di saettare Amor s’acqueta.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

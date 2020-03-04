@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Donna cortese e bella</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S35</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S35">
+					<title>Delle rime et prose del Sig. Torquato Tasso. Parte terza. Di nuovo ristampate, con diligenza rivedute, e corrette</title>
+					<url></url>
+					<publisher>Giulio Cesare Cagnacini et Fratelli</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1585">1585</date>
+					<biblScope unit="page">10r</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">ALMA cortese, e bella,</l>
+					<l xml:id="l2">Deh non voler, ch’io moia</l>
+					<l xml:id="l3">Di temenza, e di noia;</l>
+					<l xml:id="l4">Liber ail corpo, e fà l’anima ancella;</l>
+					<l xml:id="l5">E se disdegni signoria sì bassa</l>
+					<l xml:id="l6">Altrui mi dona, ò lassa;</l>
+					<l xml:id="l7">Che trà pastori forse, ò trà bifolci</l>
+					<l xml:id="l8">Havrò l’hore più dolci.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

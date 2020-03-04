@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>La bella e vaga man che le sonore</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S69</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S69">
+					<title>Rime, et prose del Sig. Torquato Tasso. Parte terza. Ristampate, rivedute, et corrette. Con aggiunta d'altre rime del medesimo auttore</title>
+					<url>https://books.google.com/books?id=riY8AAAAcAAJ&amp;printsec=frontcover&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false</url>
+					<publisher>Giulio Vasalini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1589">1589</date>
+					<biblScope unit="page">36r</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">La bella, e vaga man, che le sonore</l>
+					<l xml:id="l2">Corde, hor leggiera, e presta; hor tarda, e grave</l>
+					<l xml:id="l3">Percuote, e son ne trahe, varie , e soave</l>
+					<l xml:id="l4">E’l dolce canto tuo, che forma Amore.</l>
+					<l xml:id="l5">Son l’arme dolci, onde piagate è il core</l>
+					<l xml:id="l6">In guise tal, che di morir non pave;</l>
+					<l xml:id="l7">Ma vago fatto di languir sol’have</l>
+					<l xml:id="l8">Di risonar quasi di mal timore.</l>
+					<l xml:id="l9">Ondè per languir sempre hor questa piaga,</l>
+					<l xml:id="l10">Et hor quell’altra col pensier imona</l>
+					<l xml:id="l11">Vera vittoria, e vera vincitrice.</l>
+					<l xml:id="l12">Che renda l’alma di penar sì vaga</l>
+					<l xml:id="l13">Che quell, ch’altrui più noce, à lei più giova</l>
+					<l xml:id="l14">Ne’sospir lieta, e ne’martir felice.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

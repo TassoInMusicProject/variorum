@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Odi, Filli, che tuona; odi che 'n gelo</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S35</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S35">
+					<title>Delle rime et prose del Sig. Torquato Tasso. Parte terza. Di nuovo ristampate, con diligenza rivedute, e corrette</title>
+					<url></url>
+					<publisher>Giulio Cesare Cagnacini et Fratelli</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1585">1585</date>
+					<biblScope unit="page">30v</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Odi, Fili, che tuona; odi che ’n gelo</l>
+					<l xml:id="l2">Il vapor di la sù converso piove</l>
+					<l xml:id="l3">Ma che curar debbian, che faccia Giove?</l>
+					<l xml:id="l4">Godiam noi quì, s’egli è turbato in Cielo.</l>
+					<l xml:id="l5">Godiam amando, e un dolce ardente zelo</l>
+					<l xml:id="l6">Queste gioie notturne in noi rinove</l>
+					<l xml:id="l7">Tema il volgo i suoi tuoni, e porti altrove</l>
+					<l xml:id="l8">Fortuna, ò caso il suo fulmineo telo.</l>
+					<l xml:id="l9">Ben folle, &amp; à se stesso empio è colui</l>
+					<l xml:id="l10">Che spera, e teme, e in aspettando il male</l>
+					<l xml:id="l11">Gli si fà incontro, e sua miseria affretta.</l>
+					<l xml:id="l12">Pera il mondo, e rovini à me non cale</l>
+					<l xml:id="l13">Se non di quel, che più piace, e diletta</l>
+					<l xml:id="l14">Che se terra sarò, terra ancor fui.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

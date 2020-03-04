@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Cantava in riva al fiume</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S69</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S69">
+					<title>Rime, et prose del Sig. Torquato Tasso. Parte terza. Ristampate, rivedute, et corrette. Con aggiunta d'altre rime del medesimo auttore</title>
+					<url>https://books.google.com/books?id=riY8AAAAcAAJ&amp;printsec=frontcover&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false</url>
+					<publisher>Giulio Vasalini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1589">1589</date>
+					<biblScope unit="page">39r</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">CANTAVA in riva al fiume</l>
+					<l xml:id="l2">Tirsi d’Eleonora,</l>
+					<l xml:id="l3">E rispondean le selve, e l’onde honora,</l>
+					<l xml:id="l4">E parea mormorando</l>
+					<l xml:id="l5">Dir l’ora, hora, ch’apare.</l>
+					<l xml:id="l6">L’Aurora par, che lieta esca del mare.</l>
+					<l xml:id="l7">Hor, chi l’honora amando?</l>
+					<l xml:id="l8">E l’acque insieme, e i rami;</l>
+					<l xml:id="l9">Hor chi fia, che l’honori, e che non l’ami?</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

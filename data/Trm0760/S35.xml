@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Quant'io sono infelice</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S35</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S35">
+					<title>Delle rime et prose del Sig. Torquato Tasso. Parte terza. Di nuovo ristampate, con diligenza rivedute, e corrette</title>
+					<url></url>
+					<publisher>Giulio Cesare Cagnacini et Fratelli</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1585">1585</date>
+					<biblScope unit="page">10v</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Quanto io sono infelice,</l>
+					<l xml:id="l2">Tanto voi bella sete</l>
+					<l xml:id="l3">E con gli occhi il mio duol temprar potete.</l>
+					<l xml:id="l4">Nè miracol, nè mostro</l>
+					<l xml:id="l5">Altro è di voi maggiore,</l>
+					<l xml:id="l6">Io di fortuna mostro, e voi d’Amore.</l>
+					<l xml:id="l7">Ma s’ad un guardo vostro</l>
+					<l xml:id="l8">In me tanto pur lice</l>
+					<l xml:id="l9">Debbo forsi sperar d’esser felice?</l>
+					<l xml:id="l10">Nel’habito di duolo</l>
+					<l xml:id="l11">Miro odorati fiori,</l>
+					<l xml:id="l12">E più vaghi in bel negro i bei colori.</l>
+					<l xml:id="l13">E se pur son di quelli,</l>
+					<l xml:id="l14">Che già nacquer di piante</l>
+					<l xml:id="l15">Ben son reposti nel funebre manto.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Disdegno e gelosia</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S69</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S69">
+					<title>Rime, et prose del Sig. Torquato Tasso. Parte terza. Ristampate, rivedute, et corrette. Con aggiunta d'altre rime del medesimo auttore</title>
+					<url>https://books.google.com/books?id=riY8AAAAcAAJ&amp;printsec=frontcover&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false</url>
+					<publisher>Giulio Vasalini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1589">1589</date>
+					<biblScope unit="page">44v</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Disdegno, è gelosia,</l>
+					<l xml:id="l2">Vostri custodi, donna, e miei nemici,</l>
+					<l xml:id="l3">Fan gli occhi miei famelici e mendici.</l>
+					<l xml:id="l4">Et insieme col raggio</l>
+					<l xml:id="l5">De’ vostr’occhi i bei cortesi detti</l>
+					<l xml:id="l6">Pien di spirti, o d’affetti</l>
+					<l xml:id="l7">Mi toglie de duo dardi il doppio oltraggio,</l>
+					<l xml:id="l8">Ond’io lasso d’intorno</l>
+					<l xml:id="l9">A le guardate mura</l>
+					<l xml:id="l10">Erro la notte solitario, e’l giorno,</l>
+					<l xml:id="l11">Qual predator ch’insidi</l>
+					<l xml:id="l12">D’errante fera i boscarecci nidi.</l>
+					<l xml:id="l13">Ma non vuol mia ventura</l>
+					<l xml:id="l14">Ch’io voli senza pena onde divegno</l>
+					<l xml:id="l15">Preda di predator, d’arcier segno.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>
