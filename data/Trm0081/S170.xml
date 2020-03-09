@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Costei, che su la fronte ha sparsa al vento</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S170</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S170">
+					<title>Alcuni sonetti del Signor Torquato Tasso et alcuni del Sig. Gabriello Chiabrera composti sopra le medesime materie</title>
+					<url></url>
+					<publisher>Fratelli Cavalleris</publisher>
+					<pubPlace>Turin</pubPlace>
+					<date when="1623">1623</date>
+					<biblScope unit="page">4</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">[DEL SIGNOR TORQUATO TASSO.] Per donna mascherata in forma di fortuna. II.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Costei, che su la fronte hà sparsa al vento</l>
+					<l xml:id="l2">L’errante chioma d’or, fortuna pare,</l>
+					<l xml:id="l3">Anzi è vera fortuna, e può beare,</l>
+					<l xml:id="l4">E pò miseri farne in un momento;</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Dispensatrice no d’oro, e d’argento,</l>
+					<l xml:id="l6">O di gemme, che mandi estraneo mare,</l>
+					<l xml:id="l7">Ma tesori d’amor, cose più care</l>
+					<l xml:id="l8">Fura, dona, e ritoglie in un momento;</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Cieca non già; ma solo à miei martiri</l>
+					<l xml:id="l10">Par, che s’infinga tale; e cieco hom rende</l>
+					<l xml:id="l11">Con due luci serene, e sfavillanti;</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">Chiedi qual sia la rota, ove gli amanti</l>
+					<l xml:id="l13">Travolve, e’l corso lor volve, e sospende?</l>
+					<l xml:id="l14">La rota fan di duo begli occhi i giri.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>
