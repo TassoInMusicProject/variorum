@@ -18,6 +18,53 @@
 	<text>
 		<body>
 			<ab>
+				<app>
+					<rdg wit="#Flc2">
+						<ptr target="Flc2.xml#l1v1"></ptr>
+					</rdg>
+					<rdg wit="#Trm0356a-Basso">
+						<ptr target="Trm0356a-Basso.xml#l1v1"></ptr>
+					</rdg>
+				</app>
+				<app>
+					<rdg wit="#Flc2">
+						<ptr target="Flc2.xml#l6v1"></ptr>
+					</rdg>
+					<rdgGrp n="1">
+						<rdg wit="#Trm0356a-Canto">
+							<ptr target="Trm0356a-Canto.xml#l6v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm0356a-Basso">
+							<ptr target="Trm0356a-Basso.xml#l6v1"></ptr>
+						</rdg>
+					</rdgGrp>
+				</app>
+				<app>
+					<rdg wit="#Flc2">
+						<ptr target="Flc2.xml#l9v1"></ptr>
+					</rdg>
+					<rdgGrp n="1">
+						<rdg wit="#Trm0356a-Canto">
+							<ptr target="Trm0356a-Canto.xml#l9v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm0356a-Basso">
+							<ptr target="Trm0356a-Basso.xml#l9v1"></ptr>
+						</rdg>
+					</rdgGrp>
+				</app>
+				<app>
+					<rdg wit="#Flc2">
+						<ptr target="Flc2.xml#l13v1"></ptr>
+					</rdg>
+					<rdgGrp n="1">
+						<rdg wit="#Trm0356a-Canto">
+							<ptr target="Trm0356a-Canto.xml#l13v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm0356a-Basso">
+							<ptr target="Trm0356a-Basso.xml#l13v1"></ptr>
+						</rdg>
+					</rdgGrp>
+				</app>
 			</ab>
 		</body>
 	</text>

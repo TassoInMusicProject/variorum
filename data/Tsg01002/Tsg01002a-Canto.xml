@@ -35,14 +35,14 @@
 				<lg>
 					<l xml:id="l1">O Musa tù che di caduchi allori</l>
 					<l xml:id="l2">non circondi la fronte in Elicona,</l>
-					<l xml:id="l3">Ma sù nel Cielo tra beati chori</l>
-					<l xml:id="l4">Hai di stelle immortal sacra corona.</l>
+					<l xml:id="l3">Ma sù nel Cielo <seg xml:id="l3v1">tra</seg> beati chori</l>
+					<l xml:id="l4">Hai di stelle immortal <seg xml:id="l4v1">sacra</seg> corona.</l>
 				</lg>
 				<lg>
 					<l xml:id="l5">Tu spira al petto mio celesti ardori,</l>
-					<l xml:id="l6">Tu rischiara la voce, e tu perdona,</l>
-					<l xml:id="l7">Se con rozzi concenti adombro in parte</l>
-					<l xml:id="l8">delle gran lodi tue queste mie carte.</l>
+					<l xml:id="l6">Tu rischiara <seg xml:id="l6v1">la voce</seg>, e tu perdona,</l>
+					<l xml:id="l7"><seg xml:id="l7v1">Se con rozzi concenti adombro</seg> in parte</l>
+					<l xml:id="l8"><seg xml:id="l8v1">delle gran lodi tue queste mie</seg> carte.</l>
 				</lg>
 			</div>
 		</body>

@@ -40,18 +40,18 @@
 				</lg>
 				<lg>
 					<l xml:id="l5">Mirate le vaghezze altere, e sole,</l>
-					<l xml:id="l6">Un bel crin vago, e biondo a l’aria sciolto,</l>
+					<l xml:id="l6">Un bel crin vago, e biondo a l’<seg xml:id="l6v1">aria</seg> sciolto,</l>
 					<l xml:id="l7">Che sol senz’arte hà tolto</l>
 					<l xml:id="l8">Il pregio a l’oro, e la sua luce al Sole.</l>
 				</lg>
 				<lg>
-					<l xml:id="l9">Udite l'armonia celese, e'l canto</l>
+					<l xml:id="l9">Udite <seg xml:id="l9v1">l'armonia celese, e</seg>'l canto</l>
 					<l xml:id="l10">Fra bianche perle, e bei rubini accolto,</l>
 					<l xml:id="l11">Che in un sospiro hà tolto</l>
 					<l xml:id="l12">A Febo l’arte, a le Sirene il vanto.</l>
 				</lg>
 				<lg>
-					<l xml:id="l13">Come fuggir dunque potrete omai</l>
+					<l xml:id="l13">Come <seg xml:id="l13v1">fuggir dunque</seg> potrete omai</l>
 					<l xml:id="l14">Che ne l’udirla, ò vagheggiarle il volto</l>
 					<l xml:id="l15">Il cor non vi sia tolto,</l>
 					<l xml:id="l16">E che ritorni al vostro petto mai.</l>
