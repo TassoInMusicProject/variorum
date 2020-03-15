@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Oh fortunato Aminta, oh te felice</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">A-1580D</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="A-1580D">
+					<title>L'Aminta pastorale del sig. Torquato Tasso</title>
+					<url></url>
+					<publisher>Cristoforo Draconi</publisher>
+					<pubPlace>Cremona</pubPlace>
+					<date when="1580">1580</date>
+					<biblScope unit="page"></biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">ATTO QVINTO. ELPINO, CHORO.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">E.	O fortunato Aminta, ò te felice</l>
+					<l xml:id="l2">Tanto più, quanto misero più fosti:</l>
+					<l xml:id="l3">Hor col tuo essempio à me lice sperare,</l>
+					<l xml:id="l4">Quando che sia, che quella bella, &amp; empia,</l>
+					<l xml:id="l5">Che sotto riso di pietà, ricopre</l>
+					<l xml:id="l6">Il mortal ferro di sua feritate,</l>
+					<l xml:id="l7">Sani le piaghe mie con pietà vera,</l>
+					<l xml:id="l8">Che con finta pietade al cor mi fece.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

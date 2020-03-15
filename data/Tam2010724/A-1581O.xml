@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Picciola è l'ape e fa col picciol morso</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">A-1581O</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="A-1581O">
+					<title>Aminta pastorale del sig. Torquato Tasso. Novamente ristampata, et con somma diligentia revista, ampliata e ricorretta</title>
+					<url>http://www.opal.unito.it/psixsite/Teatro%20italiano%20del%20XVI%20e%20XVII%20secolo/Elenco%20opere/image219.pdf</url>
+					<publisher>Francesco Osanna</publisher>
+					<pubPlace>Mantua</pubPlace>
+					<date when="1581">1581</date>
+					<biblScope unit="page">39</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">ATTO SECONDO SCENA PRIMA. Satiro solo.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">PICCIOLA è l’ape, e fà col picciol morso</l>
+					<l xml:id="l2">Pur gravi e pur molesti le ferite,</l>
+					<l xml:id="l3">Mà qual cosa è più picciola d’Amore?</l>
+					<l xml:id="l4">Se’n ogni breve spacio entra, e s’asconde</l>
+					<l xml:id="l5">In ogni breve spacio? hor sotto à l'ombra</l>
+					<l xml:id="l6">De le palpebre, hor tra minuti ricci</l>
+					<l xml:id="l7">D'un biondo crine, hor dento à le pozzette,</l>
+					<l xml:id="l8">Che forma un dolce riso in bella guancia,</l>
+					<l xml:id="l9">E pur fà tanto grandi e sì mortali,</l>
+					<l xml:id="l10">E cosi immedicabili le piaghe,</l>
+					<l xml:id="l11">Oime che tutte piaga; e tutte sangue</l>
+					<l xml:id="l12">Son le viscere mie, e mille spiedi</l>
+					<l xml:id="l13">Hà ne gl’ occhi di Silvia il crudo Amore,</l>
+					<l xml:id="l14">Crudele Amor, Silvia crudele, &amp; empia</l>
+					<l xml:id="l15">Più che le selve, ò come à te confassi</l>
+					<l xml:id="l16">Tal nome, e quanto vidde chi tel pose;</l>
+					<l xml:id="l17">Celan le selve Angui, Leoni, &amp; Orsi</l>
+					<l xml:id="l18">Dentro il lor verde, e tu dentro il bel petto</l>
+					<l xml:id="l19">Nascondi odio, disdegno, &amp; impietate.</l>
+					<l xml:id="l20">Fere peggior, ch’Angui, Leoni, &amp; Orsi,</l>
+					<l xml:id="l21">Che si placano quei, questi placarsi</l>
+					<l xml:id="l22">Non possono per prego, nè per dono.</l>
+					<l xml:id="l23">Ohime, quando ti porto i fior novelli,</l>
+					<l xml:id="l24">Tu li ricusi, ritrosetta, forse,</l>
+					<l xml:id="l25">Perche fior via più belli hai nel bel volto.</l>
+					<l xml:id="l26">Ohime, quando io ti porgo i vaghi pomi,</l>
+					<l xml:id="l27">Tu li rifiuti, disdegnosa, forse,</l>
+					<l xml:id="l28">Perche pomi più vaghi hai nel bel seno,</l>
+					<l xml:id="l29">Lasso, quand'io offerisco il dolce mele,</l>
+					<l xml:id="l30">Tù lo disprezzi, dispettosa, forse,</l>
+					<l xml:id="l31">Perche mel via più dolce hai ne le labbra.</l>
+					<l xml:id="l32">Mà, se mia povertà non può donarti</l>
+					<l xml:id="l33">Cosa, ch'in te non sia più bella, e dolce,</l>
+					<l xml:id="l34">Me medesmo ti dono hor, perche iniqua</l>
+					<l xml:id="l35">Scherni, &amp; abhorri il dono? non son'io</l>
+					<l xml:id="l36">Da disprezzar, se ben me stesso viddi</l>
+					<l xml:id="l37">Nel liquido del mar, quando l'altr' hieri</l>
+					<l xml:id="l38">Taceano i venti, &amp; ei giacea senz' onda,</l>
+					<l xml:id="l39">Questa mia faccia di color sanguigno</l>
+					<l xml:id="l40">Queste mie spalle large, e queste braccia</l>
+					<l xml:id="l41">Torrose, e nerborute, e questo petto</l>
+					<l xml:id="l42">Setoso, e queste mie velate coscie</l>
+					<l xml:id="l43">Son di virilità, di robustezza</l>
+					<l xml:id="l44">Indicio: e, se no'l credi, fanne prova.</l>
+					<l xml:id="l45">Che voi tu far di questi tenerelli,</l>
+					<l xml:id="l46">Che di molle lanugine fiorite</l>
+					<l xml:id="l47">Hanno à pena le guancie: e che con arte</l>
+					<l xml:id="l48">Dispongono i capelli in ordinanza?</l>
+					<l xml:id="l49">Femine nel sembiante, e ne le forze</l>
+					<l xml:id="l50">Sono costoro. hor dì, ch'alcun ti segua</l>
+					<l xml:id="l51">Per le selve, e pe i monti, e'n contra gl'orsi;</l>
+					<l xml:id="l52">Et in contra i Cighiai per te combatta;</l>
+					<l xml:id="l53">Non son'io brutto nò, nè tu mi sprezzi</l>
+					<l xml:id="l54">Perche si fatto io sia; ma solamente,</l>
+					<l xml:id="l55">Perche povero sono. ahi; che le ville</l>
+					<l xml:id="l56">Seguon l’essempio de le gran Cittadi:</l>
+					<l xml:id="l57">E veramente il secol d’oro è questo,</l>
+					<l xml:id="l58">Poiche sol l’oro vince, e regna loro.</l>
+					<l xml:id="l59">O chiunque tu fosti, che insegnasti</l>
+					<l xml:id="l60">Primo à vender l'amor, sia maledetto</l>
+					<l xml:id="l61">Il tuo cener sepolto, e l'ossa fredde;</l>
+					<l xml:id="l62">E non si trovi mai Pastore, ò Ninfa,</l>
+					<l xml:id="l63">Che lor dica passando, Habbiate pace;</l>
+					<l xml:id="l64">Mà le bagni la pioggia, e movai il vento,</l>
+					<l xml:id="l65">E con piè immondo la greggia il calpestri,</l>
+					<l xml:id="l66">E'l peregrin. Tu prima svergognasti</l>
+					<l xml:id="l67">La nobiltà d’amor: tù le sue liete</l>
+					<l xml:id="l68">Dolcezze inamaristi. Amor venale,</l>
+					<l xml:id="l69">Amor servo de l’oro, è il maggior mostro</l>
+					<l xml:id="l70">Et il più abominevol, è il piu sozzo,</l>
+					<l xml:id="l71">Che produca la terra, e’l mar fra l’onde.</l>
+					<l xml:id="l72">Mà perche in van mi lagno? Usa ciascuno</l>
+					<l xml:id="l73">Quell’armi, che gli hà date la natura</l>
+					<l xml:id="l74">Per sua salute: il cervo adopra il corso,</l>
+					<l xml:id="l75">Il Leone gli artigli, &amp; il bavoso</l>
+					<l xml:id="l76">Cinghiale il dente: son potenza, &amp; armi</l>
+					<l xml:id="l77">Ne la Donna bellezza, e leggiadria.</l>
+					<l xml:id="l78">Io, perche non, per mia salute adopro</l>
+					<l xml:id="l79">La violenza, se mi fè Natura</l>
+					<l xml:id="l80">Atto à far violenza, &amp; à rapire?</l>
+					<l xml:id="l81">Sforzerò, rapirò quel che costei</l>
+					<l xml:id="l82">Mi niega ingrata, in merto de l'amore:</l>
+					<l xml:id="l83">Che per quanto un Caprar testè mi hà detto,</l>
+					<l xml:id="l84">Ch'osservato hà suo stile, ella hà per uso</l>
+					<l xml:id="l85">D'andar sovente à rinfrescarsi à un fonte,</l>
+					<l xml:id="l86">E mostrato m'hà il luoco. iv'io disegno</l>
+					<l xml:id="l87">Tra i cespugli appiattarmi, e tra gl'arbusti,</l>
+					<l xml:id="l88">Et aspettar sin che vi venga: e, come</l>
+					<l xml:id="l89">Veggia l'occasion, correrle addosso.</l>
+					<l xml:id="l90">Qual contrasto col corso, ò con le braccia</l>
+					<l xml:id="l91">Potrà fare una tenera fanciulla</l>
+					<l xml:id="l92">Contra me si veloce, e si possente?</l>
+					<l xml:id="l93">Pianga, e sospiri pure, usi ogni sforzo</l>
+					<l xml:id="l94">Di pietà, di bellezza: che, s'io posso</l>
+					<l xml:id="l95">Questa mano ravvoglierle nel crine,</l>
+					<l xml:id="l96">Indi non partirà, ch’io pria non tinga</l>
+					<l xml:id="l97">L’armi mie per vendetta nel suo sangue.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

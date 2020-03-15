@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Bisogna a maggior prova ardir più grande</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">A-1580D</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="A-1580D">
+					<title>L'Aminta pastorale del sig. Torquato Tasso</title>
+					<url></url>
+					<publisher>Cristoforo Draconi</publisher>
+					<pubPlace>Cremona</pubPlace>
+					<date when="1580">1580</date>
+					<biblScope unit="page">27r</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">ATTO SECONDO. AMINTA, E TIRSI.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">T.	Bisogna à minor vopo ardir più grande.</l>
+					<l xml:id="l2">A.	Andrò per mezo i rapidi torrenti,</l>
+					<l xml:id="l3">Quando la neve si discioglie, e gonfi</l>
+					<l xml:id="l4">Gli manda al mare, andrò per mezo al foco,</l>
+					<l xml:id="l5">E nell'Inferno, quando ella vi sia,</l>
+					<l xml:id="l6">S’esser può Inferno, ov’è cosa si bella.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

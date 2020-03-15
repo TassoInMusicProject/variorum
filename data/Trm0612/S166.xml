@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Del puro lume onde i celesti giri</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S166</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S166">
+					<title>Rime del Signor Torquato Tasso, divise in sei parti</title>
+					<url></url>
+					<publisher>Giovanni Battista Bidelli</publisher>
+					<pubPlace>Milan</pubPlace>
+					<date when="1619">1619</date>
+					<biblScope unit="page">Parte prima delle Rime, 6</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Loda i begli occhi della sua Donna, dicendo che son di purissimo lume, come il Sole, la cui fiamma, non arde, &amp; non consuma. Pone amore ne gli occhi di quella, come una intelligenza.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Del puro lume, onde i celesti giri,</l>
+					<l xml:id="l2">Fece, e ’l Sole, e le Stelle il Mastro eterno,</l>
+					<l xml:id="l3">Formò i vostri occhi ancora, &amp; al governo</l>
+					<l xml:id="l4">Vi pose Amor, perche gli informi, e giri.</l>
+					<l xml:id="l5">E solo un raggio, che di lor si miri,</l>
+					<l xml:id="l6">Lunge sgombra da noi la notte, e ’l verno</l>
+					<l xml:id="l7">De gli affetti terreni, e’l foco interno</l>
+					<l xml:id="l8">Di leggiadri v’accende alti desiri.</l>
+					<l xml:id="l9">La fiamma fa gli spirti à lei sembianti,</l>
+					<l xml:id="l10">E non consuma i nostri cori, ò sface,</l>
+					<l xml:id="l11">Ben che purghi le voglie impure, e miste.</l>
+					<l xml:id="l12">Non è tema, ò dolor, che mai n’attriste,</l>
+					<l xml:id="l13">Serena è come voi la vostra pace,</l>
+					<l xml:id="l14">E son pianti di gioia, i nostri pianti.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

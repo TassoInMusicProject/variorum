@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Ben può ritrar le tue fattezze conte</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S166</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S166">
+					<title>Rime del Signor Torquato Tasso, divise in sei parti</title>
+					<url></url>
+					<publisher>Giovanni Battista Bidelli</publisher>
+					<pubPlace>Milan</pubPlace>
+					<date when="1619">1619</date>
+					<biblScope unit="page">Parte quarta delle Rime, 111</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Loda il Sig. Duca di Gioiosa, che fu alloggiato dal Serenissimo Duca Alfonso di Ferrara nella camera degli specchi.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Ben può ritrar le tue fatezze conte</l>
+					<l xml:id="l2">Lucido vetro, o pur tranquillo humore:</l>
+					<l xml:id="l3">Ma non quella beltà; nè quel valore,</l>
+					<l xml:id="l4">Che può fare a la morte oltraggi, &amp; onte.</l>
+					<l xml:id="l5">Perche degno non è cristallo, o fonte</l>
+					<l xml:id="l6">D’immortal fama, o di celeste honore:</l>
+					<l xml:id="l7">Ma specchio sol d’angelico splendore,</l>
+					<l xml:id="l8">Dove il primo amator mirò la fronte.</l>
+					<l xml:id="l9">La sù la tua virtute, e la sua luce</l>
+					<l xml:id="l10">Si vedrà fiammeggiare, en si bel viso</l>
+					<l xml:id="l11">Apena un raggio hora s’adombra, e scerne.</l>
+					<l xml:id="l12">E mentre a gli occhi altrui vago traluce,</l>
+					<l xml:id="l13">Non divieni, Signor, novo Narciso,</l>
+					<l xml:id="l14">Anzi ti volgi a le bellezze eterne.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

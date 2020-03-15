@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Giacea la mia virtù vinta e smarrita</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0028a</idno>
+			<idno type="label">Trm0028a (Basso)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0028a-Basso">
+					<title>Il primo libro de madrigali a cinque voci</title>
+					<url></url>
+					<author role="composer">Zanotti, Camillo</author>
+					<publisher>Gardano</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1587">1587</date>
+					<idno type="RISM">Z 74</idno>
+					<biblScope unit="page">7-10 [i.e., 7-8]</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Giacea la mia virtù vinta e smarita</l>
+					<l xml:id="l2">Dal duol in sua ragion sempre piu forte</l>
+					<l xml:id="l3">[TACET]</l>
+					<l xml:id="l4">Seco addusse Madonna à darli aita</l>
+					<l xml:id="l5">[TACET]</l>
+					<l xml:id="l6">La doglia a nova speme aprio le porte</l>
+					<l xml:id="l7">Cosi alhor nell'imagine di morte</l>
+					<l xml:id="l8">Trovò l’egro mio cuor salute e vita.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">[TACET]</l>
+					<l xml:id="l10">Di pietà vera ardenti A che pur tanto</l>
+					<l xml:id="l11">O mio fedel t’affliggi e ti consumi</l>
+					<l xml:id="l12">Ben temp'ancor verrà ch'al chiaro sole</l>
+					<l xml:id="l13">Di quest'amate luci asciughi il pianto</l>
+					<l xml:id="l14">E'l fosco di tua vita in lui rallumi.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

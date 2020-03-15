@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Non so se il molto amaro</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">A-1581O</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="A-1581O">
+					<title>Aminta pastorale del sig. Torquato Tasso. Novamente ristampata, et con somma diligentia revista, ampliata e ricorretta</title>
+					<url>http://www.opal.unito.it/psixsite/Teatro%20italiano%20del%20XVI%20e%20XVII%20secolo/Elenco%20opere/image219.pdf</url>
+					<publisher>Francesco Osanna</publisher>
+					<pubPlace>Mantua</pubPlace>
+					<date when="1581">1581</date>
+					<biblScope unit="page">85</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">ATTO QVINTO. CHORO.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Non sò se'l molto amaro,</l>
+					<l xml:id="l2">Che provato hà costui servendo, amando,</l>
+					<l xml:id="l3">Piangendo, e disperando</l>
+					<l xml:id="l4">Raddolcito esser puote pienamente</l>
+					<l xml:id="l5">D’alcun dolce presente,</l>
+					<l xml:id="l6">Mà se più caro viene,</l>
+					<l xml:id="l7">E più si gusta doppo il male, il bene,</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

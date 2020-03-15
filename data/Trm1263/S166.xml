@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Ciò che morte rallenta, Amor ristringi</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S166</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S166">
+					<title>Rime del Signor Torquato Tasso, divise in sei parti</title>
+					<url></url>
+					<publisher>Giovanni Battista Bidelli</publisher>
+					<pubPlace>Milan</pubPlace>
+					<date when="1619">1619</date>
+					<biblScope unit="page">Parte seconda delle Rime, 46</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Loda in questa Canzone (fatta per le nozze di D. Cesare d’Este, hoggi Duca di Modona, &amp; della Sign. Donna Virginia de Medici, le due illustrissime famiglie d’Este, &amp; de Medici, &amp; anchora gli sposi.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Ciò che morte rallenta, Amor rstringi,</l>
+					<l xml:id="l2">Amico tù di pace, ella di guerra,</l>
+					<l xml:id="l3">E del suo trionfar, trionfi, e regni:</l>
+					<l xml:id="l4">E mentre due bell’alme annodi, e cingi,</l>
+					<l xml:id="l5">Cosi rendi sembiante al ciel la terra,</l>
+					<l xml:id="l6">Che d’habitarla tù non fuggi, ò sdegni,</l>
+					<l xml:id="l7">Non sono ire la sù; gli humani ingegni</l>
+					<l xml:id="l8">Tu placidi ne rendi, e l’odio interno</l>
+					<l xml:id="l9">Sgombri signor da mansueti cori,</l>
+					<l xml:id="l10">Sgombri mille furori,</l>
+					<l xml:id="l11">E quasi fai col tuo valor superno,</l>
+					<l xml:id="l12">de le cose mortali un giro eterno.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Ma la mia bella Silvia disse: "Taci</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">A-1581O</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="A-1581O">
+					<title>Aminta pastorale del sig. Torquato Tasso. Novamente ristampata, et con somma diligentia revista, ampliata e ricorretta</title>
+					<url>http://www.opal.unito.it/psixsite/Teatro%20italiano%20del%20XVI%20e%20XVII%20secolo/Elenco%20opere/image219.pdf</url>
+					<publisher>Francesco Osanna</publisher>
+					<pubPlace>Mantua</pubPlace>
+					<date when="1581">1581</date>
+					<biblScope unit="page">29</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">ATTO PRIMO. SCENA SECONDA. Aminta. Tirsi.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">AM.	Ma la mia bella Silvia disse, taci,</l>
+					<l xml:id="l2">Taci, non ti lagnar, Filli, perch’io</l>
+					<l xml:id="l3">Con parole d’incanto leverotti</l>
+					<l xml:id="l4">Il dolor de la picciola ferita.</l>
+					<l xml:id="l5">A me insegnò già questo segreto.</l>
+					<l xml:id="l6">La saggia Aretia, e n’hebbe per mercede</l>
+					<l xml:id="l7">Quel mio corno d’Avolio ornato d’oro.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

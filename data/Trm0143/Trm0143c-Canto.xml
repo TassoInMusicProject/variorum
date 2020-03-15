@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Ecco mormorar l'onde</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0143c</idno>
+			<idno type="label">Trm0143c (Canto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0143c-Canto">
+					<title>Il primo libro de madrigali a cinque voci</title>
+					<url></url>
+					<author role="composer">Ferro, Giulio</author>
+					<publisher>Amadino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1594">1594</date>
+					<idno type="RISM">1594-12</idno>
+					<biblScope unit="page">11-12</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Ecco mormorar l’onde</l>
+					<l xml:id="l2">Et tremolar le frondi</l>
+					<l xml:id="l3">A l’aura matutina &amp; gli arboscelli</l>
+					<l xml:id="l4">Et sovra i verdi rami i vaghi augelli</l>
+					<l xml:id="l5">Cantar soavemente</l>
+					<l xml:id="l6">E rider l’oriente</l>
+					<l xml:id="l7">Ecco già l’alba appare</l>
+					<l xml:id="l8">Et si specchia nel mare</l>
+					<l xml:id="l9">Et rasserena il cielo</l>
+					<l xml:id="l10">Et le campagne imperla il dolce gelo</l>
+					<l xml:id="l11">Et gli alti monti indora.</l>
+				</lg>
+				<lg>
+					<l xml:id="l12">O bella &amp; vag'aurora</l>
+					<l xml:id="l13">L’alba è tua messaggiera &amp; tu de l'alba</l>
+					<l xml:id="l14">Ch’ogni egro cor ristaura.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Questa vita è la selva, il verde e l'ombra</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S141</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S141">
+					<title>Rime del Signor Torquato Tasso, divise in sei parti</title>
+					<url></url>
+					<publisher>Evangelista Deuchino &amp; Giovanni Battista Pulciani</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1608">1608</date>
+					<biblScope unit="page">Parte terza delle Rime, 152</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Descrive la vita amorosa sua infelice.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Questa vita è la selva, il verde, e l’ombre</l>
+					<l xml:id="l2">Son fallaci speranze, e son le reti</l>
+					<l xml:id="l3">Piacer dolci, e secreti:</l>
+					<l xml:id="l4">E sono hispidi dumi</l>
+					<l xml:id="l5">Crude voglie, e costumi:</l>
+					<l xml:id="l6">La fera è la mia Donna, Amor l’arciero,</l>
+					<l xml:id="l7">Il veltro il mio pensiero.</l>
+					<l xml:id="l8">Ella ratta sen và senza ritegno,</l>
+					<l xml:id="l9">Nè fugge per timor, ma per disdegno,</l>
+					<l xml:id="l10">Non servitù, ma pace,</l>
+					<l xml:id="l11">E quanto è più superba, è più fugace.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

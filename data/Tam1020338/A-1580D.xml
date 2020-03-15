@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Ho visto al pianto mio</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">A-1580D</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="A-1580D">
+					<title>L'Aminta pastorale del sig. Torquato Tasso</title>
+					<url></url>
+					<publisher>Cristoforo Draconi</publisher>
+					<pubPlace>Cremona</pubPlace>
+					<date when="1580">1580</date>
+					<biblScope unit="page">14r</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">ATTO PRIMO. AMINTA, E TIRSI.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">A.	Ho visto al pianto mio,</l>
+					<l xml:id="l2">Risponder per pietade i sassi, e l’onde,</l>
+					<l xml:id="l3">E sospirar le fronde</l>
+					<l xml:id="l4">Hò visto al pianto mio:</l>
+					<l xml:id="l5">Mà non hò visto mai,</l>
+					<l xml:id="l6">Ne spero di vedere</l>
+					<l xml:id="l7">Compassion ne la crudele, e bella,</l>
+					<l xml:id="l8">Che non so, se mi chiami, ò donna, ò fera:</l>
+					<l xml:id="l9">Mà nega d’esser donna,</l>
+					<l xml:id="l10">Poi che nega pietade</l>
+					<l xml:id="l11">A chi non la negaro</l>
+					<l xml:id="l12">Le cose inanimate.</l>
+					<l xml:id="l13">T.	 Pasce l’agna l’herbette, il lupo l’agna:</l>
+					<l xml:id="l14">Mà il crudo Amor di lagrime si pasce,</l>
+					<l xml:id="l15">Ne se ne mostra mai satollo. A. Ahi lasso,</l>
+					<l xml:id="l16">Ch'Amor satollo è del mio pianto homai,</l>
+					<l xml:id="l17">E solo hà sete del mio sangue, e tosto</l>
+					<l xml:id="l18">Voglio, ch’egli, e quest’empia il sangue mio</l>
+					<l xml:id="l19">Bevan con gli occhi.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

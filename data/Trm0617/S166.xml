@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>L'aura con armonia dolce e soave</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S166</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S166">
+					<title>Rime del Signor Torquato Tasso, divise in sei parti</title>
+					<url></url>
+					<publisher>Giovanni Battista Bidelli</publisher>
+					<pubPlace>Milan</pubPlace>
+					<date when="1619">1619</date>
+					<biblScope unit="page">Parte prima delle Rime, 161</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Desidera di venire a conoscere le cose celestiali per mezzo delle naturali.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">L’aura con armonia dolce, è soave</l>
+					<l xml:id="l2">Fan l’auree stelle, e i bei corpi celesti</l>
+					<l xml:id="l3">Mentre lenti i maggiori, e’ minor presti</l>
+					<l xml:id="l4">Si raggiran con suono acuto, e grave.</l>
+					<l xml:id="l5">Cosi l’anima ciò, che spera, e pave,</l>
+					<l xml:id="l6">E s’allegra, e si duol, temprar sapesti,</l>
+					<l xml:id="l7">E ’l bel concento di costumi honesti,</l>
+					<l xml:id="l8">N’ode chi la ragion sorda non have.</l>
+					<l xml:id="l9">Ben udirlo io vorrei, ben prego Amore,</l>
+					<l xml:id="l10">Che ’l chiaro suon, che ne’ canori accenti</l>
+					<l xml:id="l11">Di fuor s’ascolta, e ne lusinga i sensi.</l>
+					<l xml:id="l12">Ebro sì di dolcezza, e di stupore</l>
+					<l xml:id="l13">Non mi renda giamai, ch’a quel non pensi,</l>
+					<l xml:id="l14">Ch’entro a lei piace, e leva al ciel le menti.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

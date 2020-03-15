@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>E fatto, non so come, astuto e scaltro</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">A-1580D</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="A-1580D">
+					<title>L'Aminta pastorale del sig. Torquato Tasso</title>
+					<url></url>
+					<publisher>Cristoforo Draconi</publisher>
+					<pubPlace>Cremona</pubPlace>
+					<date when="1580">1580</date>
+					<biblScope unit="page">16v</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">ATTO PRIMO. AMINTA, E TIRSI.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">A.	E fatto, e non sò,  come, astuto e scaltro,</l>
+					<l xml:id="l2">Più de l’usato (guarda quanto Amore</l>
+					<l xml:id="l3">Aguzza l’intelletto) mi sovenne</l>
+					<l xml:id="l4">D’un inganno gentile, col qual'io</l>
+					<l xml:id="l5">Recar potessi à fine il mio talento;</l>
+					<l xml:id="l6">Che, fingendo, ch'un ape havesse morso</l>
+					<l xml:id="l7">Il mio labbro disotto, incominciai</l>
+					<l xml:id="l8">A lamentarmi di cotal maniera,</l>
+					<l xml:id="l9">Che quella medicina, che la lingua</l>
+					<l xml:id="l10">Non richiedeva, il volto il richiedeva.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Credi tu dunque, sciocco. che mai Dafne</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">A-1580D</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="A-1580D">
+					<title>L'Aminta pastorale del sig. Torquato Tasso</title>
+					<url></url>
+					<publisher>Cristoforo Draconi</publisher>
+					<pubPlace>Cremona</pubPlace>
+					<date when="1580">1580</date>
+					<biblScope unit="page">28r</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">ATTO SECONDO. AMINTA, E TIRSI.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">T.	Credi dunque tu sciocco, che mai Dafne</l>
+					<l xml:id="l2">Consigliasse l’andar, se non vedesse</l>
+					<l xml:id="l3">In parte il cor di Silvia? E forse, ch’ella</l>
+					<l xml:id="l4">Il sà ne vuol però, ch’altri risappia,</l>
+					<l xml:id="l5">Ch’ella ciò sappia. Hor, se’l contento espresso</l>
+					<l xml:id="l6">Cerchi da lei, non vedi, che tu cerchi</l>
+					<l xml:id="l7">Quel, che più le dispiace? Hor dove è adunq;</l>
+					<l xml:id="l8">Questo tuo desiderio di piacerle?</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

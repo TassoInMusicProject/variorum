@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Forse è cagion l'aurora</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S166</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S166">
+					<title>Rime del Signor Torquato Tasso, divise in sei parti</title>
+					<url></url>
+					<publisher>Giovanni Battista Bidelli</publisher>
+					<pubPlace>Milan</pubPlace>
+					<date when="1619">1619</date>
+					<biblScope unit="page">Parte quarta delle Rime, 105</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">In lode della Sig. Tarquinia Molza.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Forse è cagion d’Aurora</l>
+					<l xml:id="l2">Di questo bel concento,</l>
+					<l xml:id="l3">Che fan le fronde, e i rami, e l’acque, e ’l vento?</l>
+					<l xml:id="l4">O con si dolce modo</l>
+					<l xml:id="l5">Il Ciel Tarquinia honora,</l>
+					<l xml:id="l6">E per lei de la terra s’innamora?</l>
+					<l xml:id="l7">I odo (ò parmi) i odo</l>
+					<l xml:id="l8">La voce, ella è pur dessa,</l>
+					<l xml:id="l9">Ecco Tarquinia viene, Amor s’appressa.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Non so se il molto amaro</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">A-1580D</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="A-1580D">
+					<title>L'Aminta pastorale del sig. Torquato Tasso</title>
+					<url></url>
+					<publisher>Cristoforo Draconi</publisher>
+					<pubPlace>Cremona</pubPlace>
+					<date when="1580">1580</date>
+					<biblScope unit="page">46r</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">ATTO QUINTO. ELPINO, CHORO.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">C.	Non sò, se'l molto amaro,</l>
+					<l xml:id="l2">Che provato hà costui servendo, amando,</l>
+					<l xml:id="l3">Piangendo, e disperando</l>
+					<l xml:id="l4">Raddolcito esser pote pienamente</l>
+					<l xml:id="l5">D’alcun dolce presente:</l>
+					<l xml:id="l6">Mà, se più caro viene,</l>
+					<l xml:id="l7">E più si gusta dopò ’l mal il bene,</l>
+					<l xml:id="l8">Io non ti cheggio Amore</l>
+					<l xml:id="l9">Questa beatitudine maggiore.</l>
+					<l xml:id="l10">Bea pur gli altri in tal guise;</l>
+					<l xml:id="l11">Me la mia Ninfa accoglia</l>
+					<l xml:id="l12">Dopò brevi preghiere, e server breve:</l>
+					<l xml:id="l13">E siano I condiment</l>
+					<l xml:id="l14">Delle nostre dolcezze,</l>
+					<l xml:id="l15">Non si gravi tormenti;</l>
+					<l xml:id="l16">Mà soavi disdegni,</l>
+					<l xml:id="l17">E soave ripulse,</l>
+					<l xml:id="l18">Risse, e guerre, cui segua</l>
+					<l xml:id="l19">Reintegrando i cori, ò pace, ò tregua.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

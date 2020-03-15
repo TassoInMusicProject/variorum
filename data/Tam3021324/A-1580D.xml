@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Dispietata pietate</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">A-1580D</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="A-1580D">
+					<title>L'Aminta pastorale del sig. Torquato Tasso</title>
+					<url></url>
+					<publisher>Cristoforo Draconi</publisher>
+					<pubPlace>Cremona</pubPlace>
+					<date when="1580">1580</date>
+					<biblScope unit="page">33r</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">ATTO TERZO.AMINTA, DAFNE, ET HERINA.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">A.	DISPIETATA pietate</l>
+					<l xml:id="l2">Fù la tua veramente, ò Dafne allhora,</l>
+					<l xml:id="l3">Che ritenesti il dardo;</l>
+					<l xml:id="l4">Però che ’l mio morire</l>
+					<l xml:id="l5">Più amaro sarà, quanto più tardo,</l>
+					<l xml:id="l6">Et hor; perche m’avolgi</l>
+					<l xml:id="l7">Per si diverse strade, e per si vani</l>
+					<l xml:id="l8">Ragionamenti in vano. Di che temi?</l>
+					<l xml:id="l9">Ch’io non m’uccida? Temi del mio bene.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

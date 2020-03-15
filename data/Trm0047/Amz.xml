@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Non è questa la mano</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">Amz</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Amz">
+					<msIdentifier>
+						<region>United Kingdom</region>
+						<settlement>London</settlement>
+						<repository>British Museum</repository>
+						<idno>Greenville 10772</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 47</locus>
+							<p>exemplar of print <span class="print">8</span>, with Aldo Manuzio's autograph annotations and corrections</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">[Madrigale] [To the right of the poem is the number 26, underlined]</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Non è questa la mano,</l>
+					<l xml:id="l2">Che tante, <del>&amp;</del> si mortali</l>
+					<l xml:id="l3">Avventò nel mio cor fiammelle, e strali?</l>
+					<l xml:id="l4">Ecco, che pur si tr<del>u</del>ova</l>
+					<l xml:id="l5">Fra le mie man ristretta,</l>
+					<l xml:id="l6">Nè forza, od arte per fuggir le giova,</l>
+					<l xml:id="l7">Nè tien face, ò saetta,</l>
+					<l xml:id="l8">Che da me la difenda;</l>
+					<l xml:id="l9">Giusto è ben, ch’io ne prenda,</l>
+					<l xml:id="l10">Amor, qualche vendetta,</l>
+					<l xml:id="l11">Et, se piaghe mi diè, baci le renda.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Questa lieve zanzara</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S166</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S166">
+					<title>Rime del Signor Torquato Tasso, divise in sei parti</title>
+					<url></url>
+					<publisher>Giovanni Battista Bidelli</publisher>
+					<pubPlace>Milan</pubPlace>
+					<date when="1619">1619</date>
+					<biblScope unit="page">Parte quarta delle Rime, 104</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Mostra che la zenzara habbia miglior sorte della Farfalla, questa si pasce del fupco, ove s’abbruccia, &amp; quella del dolce sangue delle belle, &amp; delicate donne.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Questa lieve zenzara</l>
+					<l xml:id="l2">Quanto hà sorte migliore</l>
+					<l xml:id="l3">De la farfalla, che s’infiamma, e more.</l>
+					<l xml:id="l4">L’una di chiaro foco,</l>
+					<l xml:id="l5">Di gentil sangue è vaga</l>
+					<l xml:id="l6">L’altra, che vive di si bella piaga.</l>
+					<l xml:id="l7">O fortunato loco</l>
+					<l xml:id="l8">Tra ’l mento, e ’l casto petto,</l>
+					<l xml:id="l9">Altrove non fu mai maggior diletto.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Di questo parlo, ahi lasso! Vissi a questa</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">A-1580D</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="A-1580D">
+					<title>L'Aminta pastorale del sig. Torquato Tasso</title>
+					<url></url>
+					<publisher>Cristoforo Draconi</publisher>
+					<pubPlace>Cremona</pubPlace>
+					<date when="1580">1580</date>
+					<biblScope unit="page">15r</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">ATTO PRIMO. AMINTA, E TIRSI.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">A.	Di questa parlo, ahi lasso, vissi à questa,</l>
+					<l xml:id="l2">Cosi unito alcun tempo, che frà due</l>
+					<l xml:id="l3">Tortorelle più fida compagnia,</l>
+					<l xml:id="l4">Non sarà mai, ne fue.</l>
+					<l xml:id="l5">Congiunti eran gli alberghi;</l>
+					<l xml:id="l6">Mà più congiunti i cori,</l>
+					<l xml:id="l7">Conforme era l’etade:</l>
+					<l xml:id="l8">Mà il pensier più conforme.</l>
+					<l xml:id="l9">Seco tendeva insidie con le reti,</l>
+					<l xml:id="l10">A i pesci, &amp; à gli augelli, e seguitava</l>
+					<l xml:id="l11">I cervi seco, e le veloci damme,</l>
+					<l xml:id="l12">E’l diletto, e la preda era communi.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

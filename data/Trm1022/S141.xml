@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Voi sete bella, ma fugage e presta</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S141</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S141">
+					<title>Rime del Signor Torquato Tasso, divise in sei parti</title>
+					<url></url>
+					<publisher>Evangelista Deuchino &amp; Giovanni Battista Pulciani</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1608">1608</date>
+					<biblScope unit="page">Parte quarta delle Rime, 171</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Loda la D. sua di bell’aspetto, ma di poco amore.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Voi sete bella, ma fugace e presta,</l>
+					<l xml:id="l2">Come Cervetta sole,</l>
+					<l xml:id="l3">Che fugge per le selve ombrose, e sole,</l>
+					<l xml:id="l4">E cerca fiume, o rio,</l>
+					<l xml:id="l5">Talche ne seguo hidarno; e vi desio.</l>
+					<l xml:id="l6">Voi sete bella, ma si dura, e fredda.</l>
+					<l xml:id="l7">Come gelata fonte</l>
+					<l xml:id="l8">In horrid’alpe, o bel cristallo in monte:</l>
+					<l xml:id="l9">Nè vi riscalda il foco</l>
+					<l xml:id="l10">De’ miei pensieri, e sono acceso, e roco.</l>
+					<l xml:id="l11">Voi sete bella, ma fallace, e ria,</l>
+					<l xml:id="l12">Come scoglio tra l’onde,</l>
+					<l xml:id="l13">O lento visco fra le verdi fronde:</l>
+					<l xml:id="l14">O ’n mezo l’herba il laccio,</l>
+					<l xml:id="l15">Soave mio ritegno, e caro impaccio.</l>
+					<l xml:id="l16">Voi sete bella, ma sdegnosa, e schiva</l>
+					<l xml:id="l17">Come Dafne, e Siringa:</l>
+					<l xml:id="l18">O s’altra ninfa in bosco è più solinga:</l>
+					<l xml:id="l19">Come lei; che d’Orfeo</l>
+					<l xml:id="l20">Fuggì sotterra, e sotto al mare Alfeo.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

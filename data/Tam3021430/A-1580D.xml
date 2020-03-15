@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Bello e dolce morir mi fu certo allora</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">A-1580D</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="A-1580D">
+					<title>L'Aminta pastorale del sig. Torquato Tasso</title>
+					<url></url>
+					<publisher>Cristoforo Draconi</publisher>
+					<pubPlace>Cremona</pubPlace>
+					<date when="1580">1580</date>
+					<biblScope unit="page">35r</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">ATTO TERZO.AMINTA, DAFNE, ET HERINA.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">A.	Bello e dolce morir fù certo allhora,</l>
+					<l xml:id="l2">Ch’ uccider io mi volsi.</l>
+					<l xml:id="l3">Tu me'l negasti, e’l Ciel, à cui parea,</l>
+					<l xml:id="l4">Ch’io precoressi col morir la noia,</l>
+					<l xml:id="l5">Ch’apprestata m’havea,</l>
+					<l xml:id="l6">Hor, che fatto hà l’estremo</l>
+					<l xml:id="l7">Della sua crudeltate,</l>
+					<l xml:id="l8">Ben soffrirà, ch’io moia,</l>
+					<l xml:id="l9">E tu soffrir lo dei.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

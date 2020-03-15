@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Silvia io ti seguo, io vengo</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">A-1581O</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="A-1581O">
+					<title>Aminta pastorale del sig. Torquato Tasso. Novamente ristampata, et con somma diligentia revista, ampliata e ricorretta</title>
+					<url>http://www.opal.unito.it/psixsite/Teatro%20italiano%20del%20XVI%20e%20XVII%20secolo/Elenco%20opere/image219.pdf</url>
+					<publisher>Francesco Osanna</publisher>
+					<pubPlace>Mantua</pubPlace>
+					<date when="1581">1581</date>
+					<biblScope unit="page">75</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">ATTO QUARTO SCENA SECONDA. Nuncio. Choro. Silvia. Dafne.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">NUN.	Silvia, io ti seguo, io vengo</l>
+					<l xml:id="l2">A farti compagnia,</l>
+					<l xml:id="l3">Se non la sdegnerai:</l>
+					<l xml:id="l4">E morirei contento:</l>
+					<l xml:id="l5">S’io fossi certo almeno,</l>
+					<l xml:id="l6">Che'l mio venirti dietro</l>
+					<l xml:id="l7">Turbar non ti dovesse,</l>
+					<l xml:id="l8">E che fosse finita</l>
+					<l xml:id="l9">L’ira tua con la vita:</l>
+					<l xml:id="l10">Silvia, io ti seguo: io vengo. Cosi detto,</l>
+					<l xml:id="l11">Precipitossi d'alto</l>
+					<l xml:id="l12">Co’l capo in giuso, &amp; io restai di ghiaccio,</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

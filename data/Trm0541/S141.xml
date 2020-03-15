@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Tolse <span class="name">Barbara</span> gente il pregio a Roma</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S141</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S141">
+					<title>Rime del Signor Torquato Tasso, divise in sei parti</title>
+					<url></url>
+					<publisher>Evangelista Deuchino &amp; Giovanni Battista Pulciani</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1608">1608</date>
+					<biblScope unit="page">Parte prima delle Rime, 119</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Loda la Sig. Barbara Sanseverina Contessa di Sala, gentildonna di bellezza, &amp; di valore inestimabile.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Tolse Barbara gente il pregio à Roma,</l>
+					<l xml:id="l2">De l’impero, e de l’armi, e serva fella.</l>
+					<l xml:id="l3">O nome à lei fatale. Ecco novella</l>
+					<l xml:id="l4">Barbara vincitrice anco la doma.</l>
+					<l xml:id="l5">E à quale in lei più, per beltà si noma</l>
+					<l xml:id="l6">Tolto lo scettro, e ’l titolo di bella,</l>
+					<l xml:id="l7">Spiega sue squadre in Campidoglio, e quella</l>
+					<l xml:id="l8">Di suoi prigioni, incatenata, e doma.</l>
+					<l xml:id="l9">Sono i guerrieri suoi molle rigore</l>
+					<l xml:id="l10">Con pudica beltà, sdegno cortese,</l>
+					<l xml:id="l11">Che, quanto sfida più, tanto più piace.</l>
+					<l xml:id="l12">I vinti un sesso, e l’altro, e l’un d’Amore,</l>
+					<l xml:id="l13">L’altro d’Invidia: hor com’è, che la face</l>
+					<l xml:id="l14">Medesma agghiacci l’un che l’altro accese.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

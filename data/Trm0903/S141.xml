@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>O fuggitiva e timidetta fiera</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S141</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S141">
+					<title>Rime del Signor Torquato Tasso, divise in sei parti</title>
+					<url></url>
+					<publisher>Evangelista Deuchino &amp; Giovanni Battista Pulciani</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1608">1608</date>
+					<biblScope unit="page">Parte terza delle Rime, 129</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Chiama felice la fiera cacciata, &amp; pigliata dalla D. sua, perch’egli si contenterebbe o di pigliar lei, overo esser a quella pigliato.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">O fuggitiva, e timidetta fera,</l>
+					<l xml:id="l2">Che sei cacciata, dove in carro adorno</l>
+					<l xml:id="l3">Madonna fà soggiorno:</l>
+					<l xml:id="l4">Deh non t’incresca, ch’in si caro loco</l>
+					<l xml:id="l5">Havrei la morte à gioco,</l>
+					<l xml:id="l6">Perche dov’ella caccia, o pur mel creda,</l>
+					<l xml:id="l7">Esser’ io bramo, o predatore, o preda.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

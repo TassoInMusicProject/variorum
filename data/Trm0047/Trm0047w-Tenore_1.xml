@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Non è questa la mano</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0047w</idno>
+			<idno type="label">Trm0047w (Tenore_1)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0047w-Tenore_1">
+					<title>Il primo libro de madrigali a due, tre, e quattro voci</title>
+					<url>http://www.bibliotecamusica.it/cmbm/viewschedatwbca.asp?path=/cmbm/images/ripro/gaspari/_Z/Z024/</url>
+					<author role="composer">Costa, Giovanni Maria</author>
+					<publisher>G. Vincenzi</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1640">1640</date>
+					<idno type="RISM">C 4221</idno>
+					<biblScope unit="page">33-34</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Due Tenori, e Basso</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Non è questa la mano</l>
+					<l xml:id="l2">che tant'e si mortali</l>
+					<l xml:id="l3">Avventò nel mio cor fiammelle e strali</l>
+					<l xml:id="l4">ecco che pur si trova</l>
+					<l xml:id="l5">nelle mie man ristretta</l>
+					<l xml:id="l6">ne forza od'arte per fuggir li giova</l>
+					<l xml:id="l7">ne tien face o saetta</l>
+					<l xml:id="l8">che da me la diffenda</l>
+					<l xml:id="l9">Giust'è ben ch’io ne prenda</l>
+					<l xml:id="l10">amor qualche vendetta</l>
+					<l xml:id="l11">e se piaghe mi fè baci le renda.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

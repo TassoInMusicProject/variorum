@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Silvia io ti seguo, io vengo</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">A-1580D</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="A-1580D">
+					<title>L'Aminta pastorale del sig. Torquato Tasso</title>
+					<url></url>
+					<publisher>Cristoforo Draconi</publisher>
+					<pubPlace>Cremona</pubPlace>
+					<date when="1580">1580</date>
+					<biblScope unit="page">41r</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">ATTO QUARTO. NUNCIO, CHORO, SILVIA, E DAFNE.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">N.	Silvia io ti seguo, io vengo</l>
+					<l xml:id="l2">A farti compagnia,</l>
+					<l xml:id="l3">Se non la sdegnerai,</l>
+					<l xml:id="l4">E morirei contento,</l>
+					<l xml:id="l5">S’io fossi certo almeno,</l>
+					<l xml:id="l6">Che'l mio venirti dietro,</l>
+					<l xml:id="l7">Turbar non ti dovesse,</l>
+					<l xml:id="l8">E, che fosse finita</l>
+					<l xml:id="l9">L’ira tua con la vita.</l>
+					<l xml:id="l10">Silvia, io ti seguo, io vengo, e cosi detto,</l>
+					<l xml:id="l11">Precipitossi d'alto</l>
+					<l xml:id="l12">Col capo in giuso, &amp; io restai di ghiaccio.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

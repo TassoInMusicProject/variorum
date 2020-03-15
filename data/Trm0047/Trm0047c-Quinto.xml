@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Non è questa la mano</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0047c</idno>
+			<idno type="label">Trm0047c (Quinto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0047c-Quinto">
+					<title>Il terzo libro de madrigali a cinque et a sei voci</title>
+					<url>http://www.bibliotecamusica.it/cmbm/viewschedatwbca.asp?path=/cmbm/images/ripro/gaspari/_U/U198/</url>
+					<author role="composer">Serafico, Benedetto</author>
+					<publisher>Scotto</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1581">1581</date>
+					<idno type="RISM">N 53</idno>
+					<biblScope unit="page">9</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Non è questa la mano</l>
+					<l xml:id="l2">[TACET]</l>
+					<l xml:id="l3">Aventò nel mio cor fiammell'e strali</l>
+					<l xml:id="l4">Ecco che pur si trova</l>
+					<l xml:id="l5">Nelle mie man ristretta</l>
+					<l xml:id="l6">[TACET?]</l>
+					<l xml:id="l7">Ne tien face o saetta</l>
+					<l xml:id="l8">Che da me la difenda</l>
+					<l xml:id="l9">Giust'è ben ch’io ne prenda</l>
+					<l xml:id="l10">Amor qualche vendetta</l>
+					<l xml:id="l11">[TACET] bacci li renda.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

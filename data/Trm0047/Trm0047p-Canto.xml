@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Non è questa la mano</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0047p</idno>
+			<idno type="label">Trm0047p (Canto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0047p-Canto">
+					<title>Il primo libro de madrigali a cinque voci</title>
+					<url></url>
+					<author role="composer">Ferro, Pier Matheo</author>
+					<publisher>Amadino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1594">1594</date>
+					<idno type="RISM">1594-12</idno>
+					<biblScope unit="page">17</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Non è questa la mano</l>
+					<l xml:id="l2">Che tante &amp; si mortali</l>
+					<l xml:id="l3">Avento nel mio cor fiammelle e strali</l>
+					<l xml:id="l4">Ecco che pur si trova</l>
+					<l xml:id="l5">Fra le mie man ristretta</l>
+					<l xml:id="l6">Ne forza od arte per fuggir le giova</l>
+					<l xml:id="l7">Ne tien face o saetta</l>
+					<l xml:id="l8">[TACET]</l>
+					<l xml:id="l9">Giusto è ben ch’io ne prenda</l>
+					<l xml:id="l10">Amor qualche vendetta</l>
+					<l xml:id="l11">Et se piaghe mi diè baci le renda.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

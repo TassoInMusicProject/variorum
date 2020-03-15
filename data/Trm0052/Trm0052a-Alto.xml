@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>O nemica d'Amor, che sì ti rendi</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0052a</idno>
+			<idno type="label">Trm0052a (Alto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0052a-Alto">
+					<title>Il primo libro de madrigali a cinque voci</title>
+					<url></url>
+					<author role="composer">Zanotti, Camillo</author>
+					<publisher>Gardano</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1587">1587</date>
+					<idno type="RISM">Z 74</idno>
+					<biblScope unit="page">23-24</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">O nemica d’amor Che se ti rendi</l>
+					<l xml:id="l2">schiva di Quel ch'altrui da pace e vita</l>
+					<l xml:id="l3">E dolce schier'a suoi diporti unita</l>
+					<l xml:id="l4">Dispergi e parti e lui turbi et offendi</l>
+					<l xml:id="l5">Se de l’altrui bellezza invidia prendi</l>
+					<l xml:id="l6">[TACET]</l>
+					<l xml:id="l7">Lassa che non t’ascondi &amp; in romita</l>
+					<l xml:id="l8">Parte selvaggia i giorni estremi spendi.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Che non conviensi già tra le felici</l>
+					<l xml:id="l10">Squadre d’amor e tra’l diletto e’l gioco</l>
+					<l xml:id="l11">Donn'antica in imagine di morte</l>
+					<l xml:id="l12">Deh fuggi homai dal sole in chiuso loco</l>
+					<l xml:id="l13">Come notturno augel ne tristi auspici</l>
+					<l xml:id="l14">Il tuo apparir à lieti amanti apporte.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

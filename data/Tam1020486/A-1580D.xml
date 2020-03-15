@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>La semplicetta Silvia</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">A-1580D</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="A-1580D">
+					<title>L'Aminta pastorale del sig. Torquato Tasso</title>
+					<url></url>
+					<publisher>Cristoforo Draconi</publisher>
+					<pubPlace>Cremona</pubPlace>
+					<date when="1580">1580</date>
+					<biblScope unit="page">16v</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">ATTO PRIMO. AMINTA, E TIRSI.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">A.	La semplicetta Silvia,</l>
+					<l xml:id="l2">Pietosa del mio male,</l>
+					<l xml:id="l3">S'offrì di dare aita</l>
+					<l xml:id="l4">A la finta ferita, ahi lasso, e fece,</l>
+					<l xml:id="l5">Più cupa, più mortale</l>
+					<l xml:id="l6">La mia piaga verace,</l>
+					<l xml:id="l7">Quando le labbia sue</l>
+					<l xml:id="l8">Giunse à le labbia mie.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

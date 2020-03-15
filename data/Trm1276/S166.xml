@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Tu, bianca e vaga Luna</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S166</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S166">
+					<title>Rime del Signor Torquato Tasso, divise in sei parti</title>
+					<url></url>
+					<publisher>Giovanni Battista Bidelli</publisher>
+					<pubPlace>Milan</pubPlace>
+					<date when="1619">1619</date>
+					<biblScope unit="page">Parte seconda delle Rime, 25</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Priega i pianetti piu nobili ad esser propitij alla sua Donna.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Tu bianca, e vaga Luna,</l>
+					<l xml:id="l2">C’hai tanti specchi, quanti sono i mari,</l>
+					<l xml:id="l3">Mira questo candor, ch’è senza pari.</l>
+					<l xml:id="l4">A lei mena i tuoi balli, à lei distilla</l>
+					<l xml:id="l5">Le tue dolci rugiade;</l>
+					<l xml:id="l6">Specchiati in lei con amoroso affetto;</l>
+					<l xml:id="l7">E tu Venere all’hor con lei scintilla,</l>
+					<l xml:id="l8">Che ’l Sole inchina, e cade:</l>
+					<l xml:id="l9">Tù, Giove, ò Marte con benigno aspetto,</l>
+					<l xml:id="l10">Lumi sereni, e chiari</l>
+					<l xml:id="l11">Non siate à lei de’ vostri doni avari.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

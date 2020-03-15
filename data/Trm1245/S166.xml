@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Passa la nave tua che porta il core</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S166</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S166">
+					<title>Rime del Signor Torquato Tasso, divise in sei parti</title>
+					<url></url>
+					<publisher>Giovanni Battista Bidelli</publisher>
+					<pubPlace>Milan</pubPlace>
+					<date when="1619">1619</date>
+					<biblScope unit="page">Parte prima delle Rime, 38</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Dimostra la prosperità nell’amore.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Passa la nave mia, che porta il core</l>
+					<l xml:id="l2">Sotto un sereno ciel di stelle adorno,</l>
+					<l xml:id="l3">Per queto mare, e stà là notte, e ’l giorno,</l>
+					<l xml:id="l4">Spiando i venti al suo governo Amore.</l>
+					<l xml:id="l5">A ciascun remo un bel desìo d’honore.</l>
+					<l xml:id="l6">Non teme di fortuna oltraggio, o scorno:</l>
+					<l xml:id="l7">Empie la vela, e rasserena intorno,</l>
+					<l xml:id="l8">Aura di gioia, e tempra il dolce ardore.</l>
+					<l xml:id="l9">Nebbia non lenta mai di feri sdegni</l>
+					<l xml:id="l10">Le sarte, che di fede, e di speranza,</l>
+					<l xml:id="l11">Ha di sua mano il tuo Signore attorto.</l>
+					<l xml:id="l12">E scopro i duo lucenti amici segni,</l>
+					<l xml:id="l13">E vive la ragione, e l’arte avanza:</l>
+					<l xml:id="l14">Talch’io già prendo il desiato porto.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

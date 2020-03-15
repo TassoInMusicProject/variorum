@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Misero Aminta!</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">A-1580D</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="A-1580D">
+					<title>L'Aminta pastorale del sig. Torquato Tasso</title>
+					<url></url>
+					<publisher>Cristoforo Draconi</publisher>
+					<pubPlace>Cremona</pubPlace>
+					<date when="1580">1580</date>
+					<biblScope unit="page">38v</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">ATTO QUARTO. DAFNE, SILVIA, E CHORO.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">D.	Mandi sovra costei. Misero amante</l>
+					<l xml:id="l2">Tu, in guisa d’ape, che ferendo muore,</l>
+					<l xml:id="l3">E nelle piaghe altrui lascia la vita,</l>
+					<l xml:id="l4">Con la tua morte hai pur trafitto al fine,</l>
+					<l xml:id="l5">Quel duro cor, che non potesti mai</l>
+					<l xml:id="l6">Punger, vivendo. Hor, se tu, spirto errante,</l>
+					<l xml:id="l7">Si come io credo, e delle membra ignudo</l>
+					<l xml:id="l8">Qui intorno sei, mira ’l suo pianto, godi,</l>
+					<l xml:id="l9">Amante in vita, amato in morte è, s'era</l>
+					<l xml:id="l10">Tuo destin, che sol fosti in morte amato,</l>
+					<l xml:id="l11">E, se questa crudel volea l’amore</l>
+					<l xml:id="l12">Venderti sol con prezzo cosi caro,</l>
+					<l xml:id="l13">Desti quel prezzo tu, ch’ella richiese,</l>
+					<l xml:id="l14">E l’amor suo, col tuo morir comprasti.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

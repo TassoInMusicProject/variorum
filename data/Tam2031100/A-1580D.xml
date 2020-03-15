@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Perché dunque non osi oltra sua voglia</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">A-1580D</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="A-1580D">
+					<title>L'Aminta pastorale del sig. Torquato Tasso</title>
+					<url></url>
+					<publisher>Cristoforo Draconi</publisher>
+					<pubPlace>Cremona</pubPlace>
+					<date when="1580">1580</date>
+					<biblScope unit="page">27v</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">ATTO SECONDO. AMINTA, E TIRSI.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">T.	Perche dunque non osi oltra sua voglia,</l>
+					<l xml:id="l2">Prenderne quel, che, se ben grave in prima,</l>
+					<l xml:id="l3">Al fin al fin le sarà caro e dolce,</l>
+					<l xml:id="l4">Che t’habbi preso? A. Ahi. T. Amor risponda</l>
+					<l xml:id="l5">Per me, che quanto in mezo al cor mi parla,</l>
+					<l xml:id="l6">Non sò ridir. Tu troppo scaltro sei</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

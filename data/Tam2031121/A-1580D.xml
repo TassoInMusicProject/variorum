@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>E s'ella vuol che 'l tuo diletto sia</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">A-1580D</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="A-1580D">
+					<title>L'Aminta pastorale del sig. Torquato Tasso</title>
+					<url></url>
+					<publisher>Cristoforo Draconi</publisher>
+					<pubPlace>Cremona</pubPlace>
+					<date when="1580">1580</date>
+					<biblScope unit="page">28r</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">ATTO SECONDO. AMINTA, E TIRSI.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">T.	E, s’ella vuol, che’l tuo diletto sia</l>
+					<l xml:id="l2">Tuo furto, e tua rapina, e non suo dono,</l>
+					<l xml:id="l3">Ne sua mercede, à te folle, ch’ importa</l>
+					<l xml:id="l4">Più l’un modo, che l’altro? A. E chi m’accerta</l>
+					<l xml:id="l5">Ch ’l suo desir sia tale? T. O mentecatto,</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

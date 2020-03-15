@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Vorrò veder ciò che Tirsi avrà fatto</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">A-1581O</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="A-1581O">
+					<title>Aminta pastorale del sig. Torquato Tasso. Novamente ristampata, et con somma diligentia revista, ampliata e ricorretta</title>
+					<url>http://www.opal.unito.it/psixsite/Teatro%20italiano%20del%20XVI%20e%20XVII%20secolo/Elenco%20opere/image219.pdf</url>
+					<publisher>Francesco Osanna</publisher>
+					<pubPlace>Mantua</pubPlace>
+					<date when="1581">1581</date>
+					<biblScope unit="page">50</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">ATTO SECONDO SCENA TERZA Aminta. Tirsi.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Vorrò veder ciò che Tirsi havrà fatto:</l>
+					<l xml:id="l2">E, s’havrà fatto nulla</l>
+					<l xml:id="l3">Prima ch’io vada in nulla,</l>
+					<l xml:id="l4">Uccider vò me stesso, inanzi à gl'occhi</l>
+					<l xml:id="l5">De la crudel fanciulla.</l>
+					<l xml:id="l6">A lei, cui tanto spiace</l>
+					<l xml:id="l7">La piaga del mio core,</l>
+					<l xml:id="l8">Colpo de' suoi begl’ occhi,</l>
+					<l xml:id="l9">Altrettanto piacer devrà per certo</l>
+					<l xml:id="l10">La piaga del mio petto,</l>
+					<l xml:id="l11">Colpo de la mia mano.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

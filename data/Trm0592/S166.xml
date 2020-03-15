@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Negli anni acerbi tua purpurea rosa</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S166</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S166">
+					<title>Rime del Signor Torquato Tasso, divise in sei parti</title>
+					<url></url>
+					<publisher>Giovanni Battista Bidelli</publisher>
+					<pubPlace>Milan</pubPlace>
+					<date when="1619">1619</date>
+					<biblScope unit="page">Parte prima delle Rime, 90</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Sotto la comparatione della rosa descrive la rara beltà della Donna sua, &amp; dice che quantunque fosse nella sua gioventù bella, nell’età più matura non è men bella.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Negli anni acerbi tuoi purpurea rosa</l>
+					<l xml:id="l2">Sembravi tu, che à i rai tepidi, à l’ora</l>
+					<l xml:id="l3">Non apre ’l sen, ma nel suo verde ancora</l>
+					<l xml:id="l4">Virginella s’asconde, e vergognosa</l>
+					<l xml:id="l5">O più tosto parei (che mortal cosa</l>
+					<l xml:id="l6">Non s’assomiglia à te) celeste Aurora,</l>
+					<l xml:id="l7">Che le Campagne imperla, e i Monti indora</l>
+					<l xml:id="l8">Lucida in Ciel sereno, e rugiadosa:</l>
+					<l xml:id="l9">Hor la men verde età nulla à te toglie,</l>
+					<l xml:id="l10">Nè te, benche negletta, in manto adorno</l>
+					<l xml:id="l11">Giovinetta beltà vince, o pareggia.</l>
+					<l xml:id="l12">Cosi è più vago il fior, poi che le foglie</l>
+					<l xml:id="l13">Spiega odorate, e ’l Sol nel mezo giorno</l>
+					<l xml:id="l14">Via più, che nel mattino, luce, e fiammeggia.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

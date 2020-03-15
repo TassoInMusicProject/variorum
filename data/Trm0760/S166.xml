@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Quant'io sono infelice</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S166</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S166">
+					<title>Rime del Signor Torquato Tasso, divise in sei parti</title>
+					<url></url>
+					<publisher>Giovanni Battista Bidelli</publisher>
+					<pubPlace>Milan</pubPlace>
+					<date when="1619">1619</date>
+					<biblScope unit="page">Parte seconda delle Rime, 176</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Il Poeta si stima tanto infelice, quanto è bella la Donna sua, però dice, che ella, con un suo dolce guardo, possa renderlo felice.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Quanto io sono infelice,</l>
+					<l xml:id="l2">Tanto voi bella sete,</l>
+					<l xml:id="l3">E con gli occhi il mio duol temprar potete.</l>
+					<l xml:id="l4">Nè miracol, né mostro</l>
+					<l xml:id="l5">Altre è di voi maggiore,</l>
+					<l xml:id="l6">Io di fortuna mostro, e voi d’Amore.</l>
+					<l xml:id="l7">Ma, s’ad un guardo vostro</l>
+					<l xml:id="l8">In me tanto pur lice</l>
+					<l xml:id="l9">Debbo forse sperar d’esser felice?</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

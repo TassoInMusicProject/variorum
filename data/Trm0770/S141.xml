@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Né di feconda conca in ricco mare</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">S141</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="S141">
+					<title>Rime del Signor Torquato Tasso, divise in sei parti</title>
+					<url></url>
+					<publisher>Evangelista Deuchino &amp; Giovanni Battista Pulciani</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1608">1608</date>
+					<biblScope unit="page">Parte prima delle Rime, 160</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Loda una donna, che havea nome Margherita, &amp; perche in Latino la perla si noma Margjerita, dice, che giamai conca marina ne produsse una tale.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Nè di feconda conca in ricco Mare</l>
+					<l xml:id="l2">Perla uscì mai si luminosa, e bella,</l>
+					<l xml:id="l3">Nè si vago monil giamai fece ella</l>
+					<l xml:id="l4">A l’altre unita pretiose, e care,</l>
+					<l xml:id="l5">Come costei, ch’haver simil non pare;</l>
+					<l xml:id="l6">Di regio albergo esce in età novella,</l>
+					<l xml:id="l7">Nè gemma pur fra l’altre par, ma stella</l>
+					<l xml:id="l8">Che risplenda nel Ciel fra le men chiare.</l>
+					<l xml:id="l9">Quella, ch’innanzi l’Alba in Oriente</l>
+					<l xml:id="l10">L’alme amorose à sospirar invita.</l>
+					<l xml:id="l11">E riede poi con Himeneo la sera.</l>
+					<l xml:id="l12">Simiglia appunto in giovinile schiera,</l>
+					<l xml:id="l13">La fronte, e gli occhi candida, e lucente,</l>
+					<l xml:id="l14">Pretiosa, e mirabil Margherita.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

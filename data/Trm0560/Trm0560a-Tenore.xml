@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Tarquinia, se rimiri</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0560a</idno>
+			<idno type="label">Trm0560a (Tenore)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0560a-Tenore">
+					<title>Il primo libro de' madrigali a cinque voci</title>
+					<url></url>
+					<author role="composer">Luzzaschi, Luzzasco</author>
+					<publisher>De' Rossi</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1571">1571</date>
+					<idno type="RISM">L 3122</idno>
+					<biblScope unit="page">34</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Mentre l'ardenti stelle</l>
+					<l xml:id="l2">Con due più chiare e belle</l>
+					<l xml:id="l3">Tarquinia contemplate,</l>
+					<l xml:id="l4">Il ciel esser vorrei</l>
+					<l xml:id="l5">Per poter la beltate,</l>
+					<l xml:id="l6">Che tutta non appare,</l>
+					<l xml:id="l7">Ahi deboli occhi miei,</l>
+					<l xml:id="l8">Con mille altri in un sol sguardo mirare.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

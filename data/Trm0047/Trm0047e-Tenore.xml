@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Non è questa la mano</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0047e</idno>
+			<idno type="label">Trm0047e (Tenore)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0047e-Tenore">
+					<title>Il primo libro de madrigali a sei voi</title>
+					<url>https://pbc.gda.pl/dlibra/publication/87733/edition/79479</url>
+					<author role="composer">Malvezzi, Christofano</author>
+					<publisher>Scotto</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1584">1584</date>
+					<idno type="RISM">M 261</idno>
+					<biblScope unit="page">23</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Non è questa la mano</l>
+					<l xml:id="l2">[TACET]</l>
+					<l xml:id="l3">Avventò nel mio cor fiammell'e strali</l>
+					<l xml:id="l4">Ecco che pur si trova</l>
+					<l xml:id="l5">Tra le mie man ristretta</l>
+					<l xml:id="l6">Ne forz'od'arte per fuggir li giova</l>
+					<l xml:id="l7">Ne tien face o saetta</l>
+					<l xml:id="l8">Che da me la difenda</l>
+					<l xml:id="l9">Giusto è ben ch’io ne prend'</l>
+					<l xml:id="l10">Amor qualche vendetta</l>
+					<l xml:id="l11">e se piaghe mie die baci le renda.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>
