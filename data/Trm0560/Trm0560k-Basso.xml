@@ -33,14 +33,14 @@
 			</div>
 			<div>
 				<lg>
-					<l xml:id="l1">[TACET]</l>
-					<l xml:id="l2">[TACET]</l>
-					<l xml:id="l3">Il Ciel esser vorrei</l>
-					<l xml:id="l4">Perche negl'occhi miei</l>
-					<l xml:id="l5">Fisso tu rivolgessi</l>
-					<l xml:id="l6">Le tue dolci faville</l>
-					<l xml:id="l7">Io vagheggiar potessi</l>
-					<l xml:id="l8">Mille bellezze tue con occhi mille.</l>
+					<l xml:id="l1"><seg xml:id="l1v1">[TACET]</seg></l>
+					<l xml:id="l2"><seg xml:id="l2v1">[TACET]</seg></l>
+					<l xml:id="l3"><seg xml:id="l3v1">Il Ciel esser vorrei</seg></l>
+					<l xml:id="l4"><seg xml:id="l4v1">Perche negl'occhi miei</seg></l>
+					<l xml:id="l5"><seg xml:id="l5v1">Fisso tu rivolgessi</seg></l>
+					<l xml:id="l6"><seg xml:id="l6v1">Le tue dolci faville</seg></l>
+					<l xml:id="l7"><seg xml:id="l7v1">Io vagheggiar potessi</seg></l>
+					<l xml:id="l8"><seg xml:id="l8v1">Mille bellezze tue con occhi mille.</seg></l>
 				</lg>
 			</div>
 		</body>

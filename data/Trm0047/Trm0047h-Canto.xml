@@ -33,17 +33,17 @@
 			</div>
 			<div>
 				<lg>
-					<l xml:id="l1">Non è questa la mano,</l>
-					<l xml:id="l2">[TACET]</l>
-					<l xml:id="l3">Avventò nel mio cor fiammell’,ò strali,</l>
+					<l xml:id="l1"><seg xml:id="l1v1">Non è questa la</seg> mano,</l>
+					<l xml:id="l2"><seg xml:id="l2v1">[TACET]</seg></l>
+					<l xml:id="l3"><seg xml:id="l3v1">Avventò nel mio</seg> cor <seg xml:id="l3v2">fiammell',ò strali,</seg></l>
 					<l xml:id="l4">Ecco [TACET]</l>
 					<l xml:id="l5">[TACET]</l>
 					<l xml:id="l6">ne di fuggir li giova,</l>
 					<l xml:id="l7">[OMITTED]</l>
 					<l xml:id="l8">[OMITTED]</l>
-					<l xml:id="l9">Hor ch’è senza saetta</l>
+					<l xml:id="l9">Hor ch'è senza saetta</l>
 					<l xml:id="l10">Amore, tanti baci</l>
-					<l xml:id="l11">prendo da lei, quant’avventò già faci.</l>
+					<l xml:id="l11"><seg xml:id="l11v1">prendo da lei, quant'avventò già faci.</seg></l>
 				</lg>
 			</div>
 		</body>

@@ -42,13 +42,13 @@
 			<div>
 				<lg>
 					<l xml:id="l1"><del>Ta</del>Tarquinia mentre miri</l>
-					<l xml:id="l2">i bei celesti giri</l>
-					<l xml:id="l3">il cielo esser vorrei</l>
-					<l xml:id="l4">perche negli occhi miei</l>
-					<l xml:id="l5">fiso tu rivolgessi</l>
-					<l xml:id="l6">le tue dolci faville</l>
-					<l xml:id="l7">io vaghegiar potessi</l>
-					<l xml:id="l8">Mille bellezze tue, con luci mille.</l>
+					<l xml:id="l2"><seg xml:id="l2v1">i bei celesti giri</seg></l>
+					<l xml:id="l3"><seg xml:id="l3v1">il cielo esser vorrei</seg></l>
+					<l xml:id="l4"><seg xml:id="l4v1">perche negli occhi miei</seg></l>
+					<l xml:id="l5"><seg xml:id="l5v1">fiso tu rivolgessi</seg></l>
+					<l xml:id="l6"><seg xml:id="l6v1">le tue dolci faville</seg></l>
+					<l xml:id="l7"><seg xml:id="l7v1">io vaghegiar potessi</seg></l>
+					<l xml:id="l8"><seg xml:id="l8v1">Mille bellezze tue, con luci mille.</seg></l>
 				</lg>
 			</div>
 		</body>

@@ -33,17 +33,17 @@
 			</div>
 			<div>
 				<lg>
-					<l xml:id="l1">Non è questa la mano</l>
-					<l xml:id="l2">Che tanti e si mortali</l>
-					<l xml:id="l3">Avventò nel mio cor fiammell'e strali</l>
+					<l xml:id="l1"><seg xml:id="l1v1">Non è questa la</seg> mano</l>
+					<l xml:id="l2">Che <seg xml:id="l2v1">tanti e si mortali</seg></l>
+					<l xml:id="l3"><seg xml:id="l3v1">Avventò nel mio</seg> cor <seg xml:id="l3v2">fiammell'e strali</seg></l>
 					<l xml:id="l4">[TACET]</l>
 					<l xml:id="l5">[TACET]</l>
 					<l xml:id="l6">Ne forz'od'arte per fuggir li giova</l>
 					<l xml:id="l7">Ne tien face o saetta</l>
 					<l xml:id="l8">[TACET]</l>
-					<l xml:id="l9">Giusto è ben ch’io ne prend'</l>
+					<l xml:id="l9">Giusto è ben ch'io ne prend'</l>
 					<l xml:id="l10">Amor qualche vendetta</l>
-					<l xml:id="l11">e se piaghe mi die baci le renda.</l>
+					<l xml:id="l11"><seg xml:id="l11v1">e se piaghe mi die baci le renda.</seg></l>
 				</lg>
 			</div>
 		</body>

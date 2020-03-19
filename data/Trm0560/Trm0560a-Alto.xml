@@ -33,14 +33,14 @@
 			</div>
 			<div>
 				<lg>
-					<l xml:id="l1">Mentre l'ardenti stelle</l>
-					<l xml:id="l2">Con due più chiare e belle</l>
-					<l xml:id="l3">Tarquinia contemplate,</l>
-					<l xml:id="l4">Il ciel esser vorrei</l>
-					<l xml:id="l5">Per poter la beltate,</l>
-					<l xml:id="l6">Che tutta non appare,</l>
-					<l xml:id="l7">Ahi deboli occhi miei,</l>
-					<l xml:id="l8">Con mille altri in un sol sguardo mirare.</l>
+					<l xml:id="l1"><seg xml:id="l1v1">Mentre l'ardenti stelle</seg></l>
+					<l xml:id="l2"><seg xml:id="l2v1">Con due più chiare e belle</seg></l>
+					<l xml:id="l3"><seg xml:id="l3v1">Tarquinia contemplate,</seg></l>
+					<l xml:id="l4"><seg xml:id="l4v1">Il ciel esser vorrei</seg></l>
+					<l xml:id="l5"><seg xml:id="l5v1">Per poter la beltate,</seg></l>
+					<l xml:id="l6"><seg xml:id="l6v1">Che tutta non appare,</seg></l>
+					<l xml:id="l7"><seg xml:id="l7v1">Ahi deboli occhi miei</seg></l>
+					<l xml:id="l8"><seg xml:id="l8v1">Con mille altri in un sol sguardo mirare.</seg></l>
 				</lg>
 			</div>
 		</body>
