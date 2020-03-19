@@ -41,7 +41,7 @@
 			</div>
 			<div>
 				<lg>
-					<l xml:id="l1"><del>Ta</del>Tarquinia mentre miri</l>
+					<l xml:id="l1"><seg xml:id="l1v1"><del>Ta</del>Tarquinia mentre miri</seg></l>
 					<l xml:id="l2"><seg xml:id="l2v1">i bei celesti giri</seg></l>
 					<l xml:id="l3"><seg xml:id="l3v1">il cielo esser vorrei</seg></l>
 					<l xml:id="l4"><seg xml:id="l4v1">perche negli occhi miei</seg></l>

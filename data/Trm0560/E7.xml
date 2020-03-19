@@ -41,7 +41,7 @@
 			</div>
 			<div>
 				<lg>
-					<l xml:id="l1">Mentre mia stella miri</l>
+					<l xml:id="l1"><seg xml:id="l1v1">Mentre mia stella miri</seg></l>
 					<l xml:id="l2"><seg xml:id="l2v1">I bei celesti giri</seg></l>
 					<l xml:id="l3"><seg xml:id="l3v1">Il Ciel esser vorrei</seg></l>
 					<l xml:id="l4"><seg xml:id="l4v1">Perche negli occhi miei</seg></l>

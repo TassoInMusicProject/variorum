@@ -20,6 +20,12 @@
 			<ab>
 				<app>
 					<rdgGrp n="1">
+						<rdg wit="#A3">
+							<ptr target="A3.xml#l1v1"></ptr>
+						</rdg>
+						<rdg wit="#E7">
+							<ptr target="E7.xml#l1v1"></ptr>
+						</rdg>
 						<rdg wit="#S8">
 							<ptr target="S8.xml#l1v1"></ptr>
 						</rdg>
@@ -249,7 +255,18 @@
 							<ptr target="Trm0560q-Basso.xml#l1v1"></ptr>
 						</rdg>
 					</rdgGrp>
+					<rdg wit="#C">
+						<ptr target="C.xml#l1v1"></ptr>
+					</rdg>
 					<rdgGrp n="2">
+						<rdg wit="#E1">
+							<ptr target="E1.xml#l1v1"></ptr>
+						</rdg>
+						<rdg wit="#F2">
+							<ptr target="F2.xml#l1v1"></ptr>
+						</rdg>
+					</rdgGrp>
+					<rdgGrp n="3">
 						<rdg wit="#Trm0560a-Alto">
 							<ptr target="Trm0560a-Alto.xml#l1v1"></ptr>
 						</rdg>

@@ -20,6 +20,14 @@
 			<ab>
 				<app>
 					<rdg wit="#Flc2">
+						<ptr target="Flc2.xml#l1v1"></ptr>
+					</rdg>
+					<rdg wit="#Trm0356a-Basso">
+						<ptr target="Trm0356a-Basso.xml#l1v1"></ptr>
+					</rdg>
+				</app>
+				<app>
+					<rdg wit="#Flc2">
 						<ptr target="Flc2.xml#l6v1"></ptr>
 					</rdg>
 					<rdgGrp n="1">
