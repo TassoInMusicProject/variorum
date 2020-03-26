@@ -12312,7 +12312,7 @@ var Variorum = function (_Backbone$Router) {
         value: function show(TEI) {
             // Reset containers
             (0, _jquery2.default)("#TEI").empty();
-            (0, _jquery2.default)("#variant_info").empty();
+            (0, _jquery2.default)("#variant_info1").empty();
 
             // Go:
             var model = null;
@@ -13173,7 +13173,7 @@ var VariantsView = function (_Backbone$View) {
                     var variant = _step.value;
 
 
-                    new _readingView2.default({ "collection": variant, "source": sourceid, "el": "#variant_info" }).render();
+                    new _readingView2.default({ "collection": variant, "source": sourceid, "el": "#variant_info1" }).render();
                 }
             } catch (err) {
                 _didIteratorError = true;
