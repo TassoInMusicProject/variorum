@@ -33,9 +33,9 @@
 			</div>
 			<div>
 				<lg>
-					<l xml:id="l1"><seg xml:id="l1v1">[TACET]</seg></l>
-					<l xml:id="l2"><seg xml:id="l2v1">[TACET]</seg></l>
-					<l xml:id="l3"><seg xml:id="l3v1">[TACET]</seg></l>
+					<l xml:id="l1">[TACET]</l>
+					<l xml:id="l2">[TACET]</l>
+					<l xml:id="l3">[TACET]</l>
 					<l xml:id="l4"><seg xml:id="l4v1">Ecco che pur si trova</seg></l>
 					<l xml:id="l5"><seg xml:id="l5v1">Fra le mie man ristretta</seg></l>
 					<l xml:id="l6"><seg xml:id="l6v1">Ne forza od arte per fuggir le giova</seg></l>

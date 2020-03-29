@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Di nettare amoroso ebro la mente</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0183a</idno>
+			<idno type="label">Trm0183a (Basso)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0183a-Basso">
+					<title>Il primo libro de madrigali a quattro voci</title>
+					<url>https://stimmbuecher.digitale-sammlungen.de/view?id=bsb00073112</url>
+					<author role="composer">Dalla Gostena, Giovanni Battista</author>
+					<publisher>Gardano</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1582">1582</date>
+					<idno type="RISM">D 810</idno>
+					<biblScope unit="page">19-20</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Di Nettare amoroso ebbro la mente</l>
+					<l xml:id="l2">Rapto fui non so come a chiusa chiostra</l>
+					<l xml:id="l3">Et due belle d'amor guerriere in giostra</l>
+					<l xml:id="l4">Vidi con l'armi ond'egli e si possente</l>
+					<l xml:id="l5">Vidi ch’in dolce Arringo altieramente</l>
+					<l xml:id="l6">Fer pria di lor belta leggiadra mostra</l>
+					<l xml:id="l7">Poi movendosi incontra ove s'innostra</l>
+					<l xml:id="l8">La bocca si ferir di baccio ardente.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Suonar le labbia &amp; vi restaro i segni</l>
+					<l xml:id="l10">De i colpi impressi Amor deh perche a vuoto</l>
+					<l xml:id="l11">Tant'arme &amp; tai percosse usar da scherzo</l>
+					<l xml:id="l12">Provinsi in vera pugna e non si sdegni</l>
+					<l xml:id="l13">Scontro d'amante Amor me tuo devoto</l>
+					<l xml:id="l14">Opponi a l'una o fra le due fa terzo.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

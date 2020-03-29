@@ -332,17 +332,6 @@
 							<ptr target="Trm0047b-Sesto.xml#l1v1"></ptr>
 						</rdg>
 					</rdgGrp>
-					<rdgGrp n="3">
-						<rdg wit="#Trm0047f-Tenore">
-							<ptr target="Trm0047f-Tenore.xml#l1v1"></ptr>
-						</rdg>
-						<rdg wit="#Trm0047f-Basso">
-							<ptr target="Trm0047f-Basso.xml#l1v1"></ptr>
-						</rdg>
-						<rdg wit="#Trm0047o-Alto">
-							<ptr target="Trm0047o-Alto.xml#l1v1"></ptr>
-						</rdg>
-					</rdgGrp>
 				</app>
 				<app>
 					<rdg wit="#Amz">
@@ -561,41 +550,6 @@
 						</rdg>
 					</rdgGrp>
 					<rdgGrp n="5">
-						<rdg wit="#Trm0047c-Quinto">
-							<ptr target="Trm0047c-Quinto.xml#l2v1"></ptr>
-						</rdg>
-						<rdg wit="#Trm0047e-Alto">
-							<ptr target="Trm0047e-Alto.xml#l2v1"></ptr>
-						</rdg>
-						<rdg wit="#Trm0047e-Tenore">
-							<ptr target="Trm0047e-Tenore.xml#l2v1"></ptr>
-						</rdg>
-						<rdg wit="#Trm0047e-Basso">
-							<ptr target="Trm0047e-Basso.xml#l2v1"></ptr>
-						</rdg>
-						<rdg wit="#Trm0047f-Tenore">
-							<ptr target="Trm0047f-Tenore.xml#l2v1"></ptr>
-						</rdg>
-						<rdg wit="#Trm0047f-Basso">
-							<ptr target="Trm0047f-Basso.xml#l2v1"></ptr>
-						</rdg>
-						<rdg wit="#Trm0047h-Canto">
-							<ptr target="Trm0047h-Canto.xml#l2v1"></ptr>
-						</rdg>
-						<rdg wit="#Trm0047h-Quinto">
-							<ptr target="Trm0047h-Quinto.xml#l2v1"></ptr>
-						</rdg>
-						<rdg wit="#Trm0047o-Alto">
-							<ptr target="Trm0047o-Alto.xml#l2v1"></ptr>
-						</rdg>
-						<rdg wit="#Trm0047q-Canto">
-							<ptr target="Trm0047q-Canto.xml#l2v1"></ptr>
-						</rdg>
-						<rdg wit="#Trm0047q-Quinto">
-							<ptr target="Trm0047q-Quinto.xml#l2v1"></ptr>
-						</rdg>
-					</rdgGrp>
-					<rdgGrp n="6">
 						<rdg wit="#Trm0047h-Alto">
 							<ptr target="Trm0047h-Alto.xml#l2v1"></ptr>
 						</rdg>
@@ -606,7 +560,7 @@
 							<ptr target="Trm0047h-Basso.xml#l2v1"></ptr>
 						</rdg>
 					</rdgGrp>
-					<rdgGrp n="7">
+					<rdgGrp n="6">
 						<rdg wit="#Trm0047i-Canto">
 							<ptr target="Trm0047i-Canto.xml#l2v1"></ptr>
 						</rdg>
@@ -623,7 +577,7 @@
 							<ptr target="Trm0047i-Quinto.xml#l2v1"></ptr>
 						</rdg>
 					</rdgGrp>
-					<rdgGrp n="8">
+					<rdgGrp n="7">
 						<rdg wit="#Trm0047m-Canto">
 							<ptr target="Trm0047m-Canto.xml#l2v1"></ptr>
 						</rdg>
@@ -640,7 +594,7 @@
 							<ptr target="Trm0047w-Tenore_2.xml#l2v1"></ptr>
 						</rdg>
 					</rdgGrp>
-					<rdgGrp n="9">
+					<rdgGrp n="8">
 						<rdg wit="#Trm0047q-Alto">
 							<ptr target="Trm0047q-Alto.xml#l2v1"></ptr>
 						</rdg>
@@ -651,7 +605,7 @@
 							<ptr target="Trm0047q-Basso.xml#l2v1"></ptr>
 						</rdg>
 					</rdgGrp>
-					<rdgGrp n="10">
+					<rdgGrp n="9">
 						<rdg wit="#Trm0047s-Canto">
 							<ptr target="Trm0047s-Canto.xml#l2v1"></ptr>
 						</rdg>
@@ -665,7 +619,7 @@
 							<ptr target="Trm0047s-Basso.xml#l2v1"></ptr>
 						</rdg>
 					</rdgGrp>
-					<rdgGrp n="11">
+					<rdgGrp n="10">
 						<rdg wit="#Trm0047t-Canto">
 							<ptr target="Trm0047t-Canto.xml#l2v1"></ptr>
 						</rdg>
@@ -981,24 +935,13 @@
 							<ptr target="Trm0047p-Canto.xml#l3v1"></ptr>
 						</rdg>
 					</rdgGrp>
-					<rdgGrp n="4">
-						<rdg wit="#Trm0047f-Tenore">
-							<ptr target="Trm0047f-Tenore.xml#l3v1"></ptr>
-						</rdg>
-						<rdg wit="#Trm0047f-Basso">
-							<ptr target="Trm0047f-Basso.xml#l3v1"></ptr>
-						</rdg>
-						<rdg wit="#Trm0047h-Tenore">
-							<ptr target="Trm0047h-Tenore.xml#l3v1"></ptr>
-						</rdg>
-						<rdg wit="#Trm0047o-Alto">
-							<ptr target="Trm0047o-Alto.xml#l3v1"></ptr>
-						</rdg>
-					</rdgGrp>
+					<rdg wit="#Trm0047h-Tenore">
+						<ptr target="Trm0047h-Tenore.xml#l3v1"></ptr>
+					</rdg>
 					<rdg wit="#Trm0047h-Basso">
 						<ptr target="Trm0047h-Basso.xml#l3v1"></ptr>
 					</rdg>
-					<rdgGrp n="5">
+					<rdgGrp n="4">
 						<rdg wit="#Trm0047s-Canto">
 							<ptr target="Trm0047s-Canto.xml#l3v1"></ptr>
 						</rdg>
@@ -1309,9 +1252,6 @@
 						</rdg>
 					</rdgGrp>
 					<rdgGrp n="7">
-						<rdg wit="#Trm0047h-Tenore">
-							<ptr target="Trm0047h-Tenore.xml#l3v2"></ptr>
-						</rdg>
 						<rdg wit="#Trm0047h-Basso">
 							<ptr target="Trm0047h-Basso.xml#l3v2"></ptr>
 						</rdg>
@@ -1639,17 +1579,6 @@
 						</rdg>
 					</rdgGrp>
 					<rdgGrp n="7">
-						<rdg wit="#Trm0047e-Basso">
-							<ptr target="Trm0047e-Basso.xml#l4v1"></ptr>
-						</rdg>
-						<rdg wit="#Trm0047e-Quinto">
-							<ptr target="Trm0047e-Quinto.xml#l4v1"></ptr>
-						</rdg>
-						<rdg wit="#Trm0047e-Sesto">
-							<ptr target="Trm0047e-Sesto.xml#l4v1"></ptr>
-						</rdg>
-					</rdgGrp>
-					<rdgGrp n="8">
 						<rdg wit="#Trm0047h-Canto">
 							<ptr target="Trm0047h-Canto.xml#l4v1"></ptr>
 						</rdg>
@@ -1660,7 +1589,7 @@
 					<rdg wit="#Trm0047h-Basso">
 						<ptr target="Trm0047h-Basso.xml#l4v1"></ptr>
 					</rdg>
-					<rdgGrp n="9">
+					<rdgGrp n="8">
 						<rdg wit="#Trm0047i-Canto">
 							<ptr target="Trm0047i-Canto.xml#l4v1"></ptr>
 						</rdg>
@@ -1986,32 +1915,6 @@
 							<ptr target="Trm0047g-Quinto.xml#l5v1"></ptr>
 						</rdg>
 					</rdgGrp>
-					<rdgGrp n="6">
-						<rdg wit="#Trm0047e-Basso">
-							<ptr target="Trm0047e-Basso.xml#l5v1"></ptr>
-						</rdg>
-						<rdg wit="#Trm0047e-Quinto">
-							<ptr target="Trm0047e-Quinto.xml#l5v1"></ptr>
-						</rdg>
-						<rdg wit="#Trm0047e-Sesto">
-							<ptr target="Trm0047e-Sesto.xml#l5v1"></ptr>
-						</rdg>
-						<rdg wit="#Trm0047f-Quinto">
-							<ptr target="Trm0047f-Quinto.xml#l5v1"></ptr>
-						</rdg>
-						<rdg wit="#Trm0047h-Canto">
-							<ptr target="Trm0047h-Canto.xml#l5v1"></ptr>
-						</rdg>
-						<rdg wit="#Trm0047h-Quinto">
-							<ptr target="Trm0047h-Quinto.xml#l5v1"></ptr>
-						</rdg>
-						<rdg wit="#Trm0047p-Tenore">
-							<ptr target="Trm0047p-Tenore.xml#l5v1"></ptr>
-						</rdg>
-						<rdg wit="#Trm0047p-Basso">
-							<ptr target="Trm0047p-Basso.xml#l5v1"></ptr>
-						</rdg>
-					</rdgGrp>
 				</app>
 				<app>
 					<rdgGrp n="1">
@@ -2032,6 +1935,12 @@
 						</rdg>
 						<rdg wit="#S29">
 							<ptr target="S29.xml#l6v1"></ptr>
+						</rdg>
+						<rdg wit="#S33">
+							<ptr target="S33.xml#l6v1"></ptr>
+						</rdg>
+						<rdg wit="#S67">
+							<ptr target="S67.xml#l6v1"></ptr>
 						</rdg>
 						<rdg wit="#Trm0047d-Tenore">
 							<ptr target="Trm0047d-Tenore.xml#l6v1"></ptr>
@@ -2177,18 +2086,10 @@
 							<ptr target="S13.xml#l6v1"></ptr>
 						</rdg>
 					</rdgGrp>
-					<rdgGrp n="6">
-						<rdg wit="#S33">
-							<ptr target="S33.xml#l6v1"></ptr>
-						</rdg>
-						<rdg wit="#S67">
-							<ptr target="S67.xml#l6v1"></ptr>
-						</rdg>
-					</rdgGrp>
 					<rdg wit="#S145">
 						<ptr target="S145.xml#l6v1"></ptr>
 					</rdg>
-					<rdgGrp n="7">
+					<rdgGrp n="6">
 						<rdg wit="#Trm0047a-Canto">
 							<ptr target="Trm0047a-Canto.xml#l6v1"></ptr>
 						</rdg>
@@ -2229,10 +2130,7 @@
 							<ptr target="Trm0047l-Quinto.xml#l6v1"></ptr>
 						</rdg>
 					</rdgGrp>
-					<rdg wit="#Trm0047c-Quinto">
-						<ptr target="Trm0047c-Quinto.xml#l6v1"></ptr>
-					</rdg>
-					<rdgGrp n="8">
+					<rdgGrp n="7">
 						<rdg wit="#Trm0047e-Canto">
 							<ptr target="Trm0047e-Canto.xml#l6v1"></ptr>
 						</rdg>
@@ -2252,7 +2150,7 @@
 							<ptr target="Trm0047e-Sesto.xml#l6v1"></ptr>
 						</rdg>
 					</rdgGrp>
-					<rdgGrp n="9">
+					<rdgGrp n="8">
 						<rdg wit="#Trm0047f-Canto">
 							<ptr target="Trm0047f-Canto.xml#l6v1"></ptr>
 						</rdg>
@@ -2281,7 +2179,7 @@
 							<ptr target="Trm0047n-Basso.xml#l6v1"></ptr>
 						</rdg>
 					</rdgGrp>
-					<rdgGrp n="10">
+					<rdgGrp n="9">
 						<rdg wit="#Trm0047g-Canto">
 							<ptr target="Trm0047g-Canto.xml#l6v1"></ptr>
 						</rdg>
@@ -2298,7 +2196,7 @@
 							<ptr target="Trm0047g-Quinto.xml#l6v1"></ptr>
 						</rdg>
 					</rdgGrp>
-					<rdgGrp n="11">
+					<rdgGrp n="10">
 						<rdg wit="#Trm0047h-Canto">
 							<ptr target="Trm0047h-Canto.xml#l6v1"></ptr>
 						</rdg>
@@ -2318,7 +2216,7 @@
 					<rdg wit="#Trm0047m-Tenore">
 						<ptr target="Trm0047m-Tenore.xml#l6v1"></ptr>
 					</rdg>
-					<rdgGrp n="12">
+					<rdgGrp n="11">
 						<rdg wit="#Trm0047q-Canto">
 							<ptr target="Trm0047q-Canto.xml#l6v1"></ptr>
 						</rdg>
@@ -2338,7 +2236,7 @@
 					<rdg wit="#Trm0047r-Quinto">
 						<ptr target="Trm0047r-Quinto.xml#l6v1"></ptr>
 					</rdg>
-					<rdgGrp n="13">
+					<rdgGrp n="12">
 						<rdg wit="#Trm0047s-Canto">
 							<ptr target="Trm0047s-Canto.xml#l6v1"></ptr>
 						</rdg>
@@ -2675,14 +2573,6 @@
 						<ptr target="Trm0047k-Canto.xml#l7v1"></ptr>
 					</rdg>
 					<rdgGrp n="5">
-						<rdg wit="#Trm0047o-Quinto">
-							<ptr target="Trm0047o-Quinto.xml#l7v1"></ptr>
-						</rdg>
-						<rdg wit="#Trm0047t-Quinto">
-							<ptr target="Trm0047t-Quinto.xml#l7v1"></ptr>
-						</rdg>
-					</rdgGrp>
-					<rdgGrp n="6">
 						<rdg wit="#Trm0047q-Alto">
 							<ptr target="Trm0047q-Alto.xml#l7v1"></ptr>
 						</rdg>
@@ -2698,6 +2588,21 @@
 						</rdg>
 						<rdg wit="#Brn">
 							<ptr target="Brn.xml#l8v1"></ptr>
+						</rdg>
+						<rdg wit="#C">
+							<ptr target="C.xml#l8v1"></ptr>
+						</rdg>
+						<rdg wit="#F2">
+							<ptr target="F2.xml#l8v1"></ptr>
+						</rdg>
+						<rdg wit="#M7">
+							<ptr target="M7.xml#l8v1"></ptr>
+						</rdg>
+						<rdg wit="#P4">
+							<ptr target="P4.xml#l8v1"></ptr>
+						</rdg>
+						<rdg wit="#Tr2">
+							<ptr target="Tr2.xml#l8v1"></ptr>
 						</rdg>
 						<rdg wit="#S8">
 							<ptr target="S8.xml#l8v1"></ptr>
@@ -2716,23 +2621,6 @@
 						</rdg>
 						<rdg wit="#S20">
 							<ptr target="S20.xml#l8v1"></ptr>
-						</rdg>
-					</rdgGrp>
-					<rdgGrp n="2">
-						<rdg wit="#C">
-							<ptr target="C.xml#l8v1"></ptr>
-						</rdg>
-						<rdg wit="#F2">
-							<ptr target="F2.xml#l8v1"></ptr>
-						</rdg>
-						<rdg wit="#M7">
-							<ptr target="M7.xml#l8v1"></ptr>
-						</rdg>
-						<rdg wit="#P4">
-							<ptr target="P4.xml#l8v1"></ptr>
-						</rdg>
-						<rdg wit="#Tr2">
-							<ptr target="Tr2.xml#l8v1"></ptr>
 						</rdg>
 						<rdg wit="#S29">
 							<ptr target="S29.xml#l8v1"></ptr>
@@ -2912,7 +2800,7 @@
 					<rdg wit="#E1">
 						<ptr target="E1.xml#l8v1"></ptr>
 					</rdg>
-					<rdgGrp n="3">
+					<rdgGrp n="2">
 						<rdg wit="#I3">
 							<ptr target="I3.xml#l8v1"></ptr>
 						</rdg>
@@ -2944,30 +2832,7 @@
 							<ptr target="Trm0047h-Quinto.xml#l8v1"></ptr>
 						</rdg>
 					</rdgGrp>
-					<rdgGrp n="4">
-						<rdg wit="#Trm0047e-Alto">
-							<ptr target="Trm0047e-Alto.xml#l8v1"></ptr>
-						</rdg>
-						<rdg wit="#Trm0047e-Basso">
-							<ptr target="Trm0047e-Basso.xml#l8v1"></ptr>
-						</rdg>
-						<rdg wit="#Trm0047e-Quinto">
-							<ptr target="Trm0047e-Quinto.xml#l8v1"></ptr>
-						</rdg>
-						<rdg wit="#Trm0047k-Basso">
-							<ptr target="Trm0047k-Basso.xml#l8v1"></ptr>
-						</rdg>
-						<rdg wit="#Trm0047l-Basso">
-							<ptr target="Trm0047l-Basso.xml#l8v1"></ptr>
-						</rdg>
-						<rdg wit="#Trm0047p-Canto">
-							<ptr target="Trm0047p-Canto.xml#l8v1"></ptr>
-						</rdg>
-						<rdg wit="#Trm0047p-Alto">
-							<ptr target="Trm0047p-Alto.xml#l8v1"></ptr>
-						</rdg>
-					</rdgGrp>
-					<rdgGrp n="5">
+					<rdgGrp n="3">
 						<rdg wit="#Trm0047j-Canto">
 							<ptr target="Trm0047j-Canto.xml#l8v1"></ptr>
 						</rdg>
@@ -3327,14 +3192,6 @@
 						</rdg>
 					</rdgGrp>
 					<rdgGrp n="6">
-						<rdg wit="#Trm0047f-Basso">
-							<ptr target="Trm0047f-Basso.xml#l9v1"></ptr>
-						</rdg>
-						<rdg wit="#Trm0047j-Canto">
-							<ptr target="Trm0047j-Canto.xml#l9v1"></ptr>
-						</rdg>
-					</rdgGrp>
-					<rdgGrp n="7">
 						<rdg wit="#Trm0047h-Canto">
 							<ptr target="Trm0047h-Canto.xml#l9v1"></ptr>
 						</rdg>
@@ -3360,6 +3217,9 @@
 						<rdg wit="#Amz">
 							<ptr target="Amz.xml#l10v1"></ptr>
 						</rdg>
+						<rdg wit="#Brn">
+							<ptr target="Brn.xml#l10v1"></ptr>
+						</rdg>
 						<rdg wit="#C">
 							<ptr target="C.xml#l10v1"></ptr>
 						</rdg>
@@ -3380,6 +3240,18 @@
 						</rdg>
 						<rdg wit="#S8">
 							<ptr target="S8.xml#l10v1"></ptr>
+						</rdg>
+						<rdg wit="#S9">
+							<ptr target="S9.xml#l10v1"></ptr>
+						</rdg>
+						<rdg wit="#S11">
+							<ptr target="S11.xml#l10v1"></ptr>
+						</rdg>
+						<rdg wit="#S12">
+							<ptr target="S12.xml#l10v1"></ptr>
+						</rdg>
+						<rdg wit="#S13">
+							<ptr target="S13.xml#l10v1"></ptr>
 						</rdg>
 						<rdg wit="#S20">
 							<ptr target="S20.xml#l10v1"></ptr>
@@ -3628,30 +3500,10 @@
 							<ptr target="Trm0047w-Basso.xml#l10v1"></ptr>
 						</rdg>
 					</rdgGrp>
-					<rdgGrp n="2">
-						<rdg wit="#Brn">
-							<ptr target="Brn.xml#l10v1"></ptr>
-						</rdg>
-						<rdg wit="#S9">
-							<ptr target="S9.xml#l10v1"></ptr>
-						</rdg>
-						<rdg wit="#S11">
-							<ptr target="S11.xml#l10v1"></ptr>
-						</rdg>
-						<rdg wit="#S12">
-							<ptr target="S12.xml#l10v1"></ptr>
-						</rdg>
-						<rdg wit="#S13">
-							<ptr target="S13.xml#l10v1"></ptr>
-						</rdg>
-					</rdgGrp>
 					<rdg wit="#I3">
 						<ptr target="I3.xml#l10v1"></ptr>
 					</rdg>
-					<rdg wit="#Trm0047f-Basso">
-						<ptr target="Trm0047f-Basso.xml#l10v1"></ptr>
-					</rdg>
-					<rdgGrp n="3">
+					<rdgGrp n="2">
 						<rdg wit="#Trm0047h-Canto">
 							<ptr target="Trm0047h-Canto.xml#l10v1"></ptr>
 						</rdg>
@@ -3668,7 +3520,7 @@
 					<rdg wit="#Trm0047h-Basso">
 						<ptr target="Trm0047h-Basso.xml#l10v1"></ptr>
 					</rdg>
-					<rdgGrp n="4">
+					<rdgGrp n="3">
 						<rdg wit="#Trm0047s-Canto">
 							<ptr target="Trm0047s-Canto.xml#l10v1"></ptr>
 						</rdg>

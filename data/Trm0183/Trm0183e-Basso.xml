@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Di nettare amoroso ebro la mente</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0183e</idno>
+			<idno type="label">Trm0183e (Basso)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0183e-Basso">
+					<title>Il secondo libro de madrigali a cinque voci</title>
+					<url></url>
+					<author role="composer">Cirullo, Giovanni Antonio</author>
+					<publisher>G. Vincenzi</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1598">1598</date>
+					<idno type="RISM"></idno>
+					<biblScope unit="page">7-8</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">[TACET]</l>
+					<l xml:id="l2">[TACET]</l>
+					<l xml:id="l3">[TACET] guerrier'in giostra</l>
+					<l xml:id="l4">Vidi con l'arme ond'egli si possente</l>
+					<l xml:id="l5">Vidi ch’in dolc'arringo altieramente</l>
+					<l xml:id="l6">[TACET]</l>
+					<l xml:id="l7">Poi movendosi incontro ove s’inostra</l>
+					<l xml:id="l8">La bocca si ferir di bacio ardente.</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Sonar le labra e vi restaro i segni</l>
+					<l xml:id="l10">De colpi impressi Amor deh perche à voto</l>
+					<l xml:id="l11">tant'arme [TACET] usar da scherzo</l>
+					<l xml:id="l12">Provas'in vera pugna e non si sdegni</l>
+					<l xml:id="l13">Scontro d'amante [TACET]</l>
+					<l xml:id="l14">Opponi à l'una ò frà le due fà terzo.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

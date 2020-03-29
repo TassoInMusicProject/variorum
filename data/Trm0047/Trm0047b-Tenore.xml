@@ -35,7 +35,7 @@
 				<lg>
 					<l xml:id="l1"><seg xml:id="l1v1">Non e questa la</seg> mano</l>
 					<l xml:id="l2">Che <seg xml:id="l2v1">tante e si mortali</seg></l>
-					<l xml:id="l3"><seg xml:id="l3v1">Avento nel mio</seg> cor <seg xml:id="l3v2">fiammelle e strali.</seg></l>
+					<l xml:id="l3"><seg xml:id="l3v1">Avento nel mio</seg> cor <seg xml:id="l3v2">fiammelle e strali</seg>.</l>
 				</lg>
 				<lg>
 					<l xml:id="l4"><seg xml:id="l4v1">[TACET] ch'hor pur si trova</seg></l>
@@ -45,7 +45,7 @@
 					<l xml:id="l8"><seg xml:id="l8v1">Che da me la difenda</seg></l>
 					<l xml:id="l9"><seg xml:id="l9v1">Giusto è ben ch'io ne prenda</seg></l>
 					<l xml:id="l10"><seg xml:id="l10v1">Amor qualche vendetta</seg></l>
-					<l xml:id="l11"><seg xml:id="l11v1">E se piaghe mi die baci le renda.</seg></l>
+					<l xml:id="l11"><seg xml:id="l11v1">E se piaghe mi die baci le renda</seg>.</l>
 				</lg>
 			</div>
 		</body>
