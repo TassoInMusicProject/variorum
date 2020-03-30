@@ -345,7 +345,7 @@ function compareSources(a, b) {
 		}
 
 		if (atype > btype) {
-			return 1;
+			return +1;
 		} else if (atype < btype) {
 			return -1;
 		}
@@ -401,6 +401,20 @@ function compareSources(a, b) {
 			if (testA > testB) { return 1; }
 			if (testA < testB) { return -1; }
 			return 0;
+		}
+
+		var pmatchA = a.match(/^S(\d+)/);
+		var pmatchB = a.match(/^S(\d+)/);
+		if (pmatchA && pmatchB) {
+			var valueA = parseInt(pmatchA[1]);
+			var valueB = parseInt(pmatchB[1]);
+			if (valueA < valueB) {
+				return -1;
+			} else if (valueA < valueB) {
+				return +1;
+			} else {
+				return 0;
+			}
 		}
 
 		return a.localeCompare(b);
