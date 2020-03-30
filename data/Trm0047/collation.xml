@@ -1252,6 +1252,9 @@
 						</rdg>
 					</rdgGrp>
 					<rdgGrp n="7">
+						<rdg wit="#Trm0047h-Tenore">
+							<ptr target="Trm0047h-Tenore.xml#l3v2"></ptr>
+						</rdg>
 						<rdg wit="#Trm0047h-Basso">
 							<ptr target="Trm0047h-Basso.xml#l3v2"></ptr>
 						</rdg>

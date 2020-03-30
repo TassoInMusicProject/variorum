@@ -29,7 +29,7 @@ permalink: /variorum/index.html
 
 		<!-- div class="col-sm-3 col-sm-offset-9 col-md-2 col-md-offset-10 sidebar" -->
 		<div id="vinfo" class="col-sm-3 col-sm-offset-9 col-md-2 col-md-offset-10">
-			<h4>Variant info</h4>
+			<h4 style="display:none;">Variant info</h4>
 			<div id="variant_info"></div>
 			<div style="display:none;" id="variant_info1"></div>
 		</div>
@@ -44,8 +44,13 @@ permalink: /variorum/index.html
 function adjustVariants() {
 
 	var active = document.querySelector("tei-seg.variant.active");
+	var cleanactive = "";
 	if (active) {
-		active = cleanText(active.textContent);
+		active = active.textContent;
+		cleanactive = cleanText(active);
+	} else {
+		active = null;
+		cleanactive = null;
 	}
 
 	var newroot = document.querySelector("#variant_info");
@@ -92,7 +97,7 @@ function adjustVariants() {
 		
 	}
 	data = mergeSimilarVariants(data);
-	content = createContent(data, active);
+	content = createContent(data, cleanactive, active);
 	newroot = document.querySelector("#variant_info");
 	if (newroot) {
 		console.log("UPDATING OUTPUT");
@@ -161,13 +166,43 @@ function extractSourceList(text) {
 // createContent --
 //
 
-function createContent(data, active) {
+function createContent(data, cleanactive, rawactive) {
 	var output = "";
-	for (var i=0; i<data.length; i++) {
-		output += createEntryText(data[i], active);
+	var newdata = data.sort(function(a, b) {
+		var testingA = a.compare_text;
+		var testingB = b.compare_text;
+		if (testingA == cleanactive) {
+			return +1;
+		}
+		if (testingB == cleanactive) {
+			return +1;
+		}
+		return compareSources(a.sources[0], b.sources[0]);
+	});
+
+	var start = 0;
+	output += "<h1>Concordances</h1>";
+	if (newdata[start].compare_text == cleanactive) {
+		output += createEntryText(newdata[0], cleanactive, rawactive);
+		start++;
+	} else {
+		output += "<h2>None</h2>";
+		output += "<hr/>";
+	}
+
+	output += "<h1>Variants</h1> ";
+
+	if (start == newdata.length) {
+		output += "<h2>None</h2>";
+	} else {
+		for (var i=start; i<newdata.length; i++) {
+			output += createEntryText(newdata[i], cleanactive, rawactive);
+		}
 	}
 	return output;
 }
+
+
 
 
 //////////////////////////////
@@ -175,14 +210,14 @@ function createContent(data, active) {
 // createEntryText --
 //
 
-function createEntryText(entry, active) {
+function createEntryText(entry, cleanactive, rawactive) {
 	var output = "";
 	output += "<div>";
 	output += "<p>";
 	output += createSourceList(entry.sources);
 	output += "</p>";
 	output += "<p class='variant_text'>";
-	output += createVariantText(entry.variant_text, active);
+	output += createVariantText(entry.variant_text, cleanactive, rawactive);
 	output += "</p>";
 	output += "<hr/>";
 	output += "</div>";
@@ -268,7 +303,6 @@ function compactList(list) {
 			output.push(entry);
 		}
 	}
-console.log("------------------- OUTPUT", output);
 
 	return output;
 }
@@ -281,8 +315,16 @@ console.log("------------------- OUTPUT", output);
 //
 
 function sortSourceList(list) {
-console.log("OLDLIST", list);
-	var newlist =  list.sort(function(a, b) {
+	return list.sort(function(a, b) { return compareSources(a, b); });
+}
+
+
+//////////////////////////////
+//
+// compareSources --
+//
+
+function compareSources(a, b) {
 		var atype = 0;
 		var btype = 0;
 
@@ -362,9 +404,8 @@ console.log("OLDLIST", list);
 		}
 
 		return a.localeCompare(b);
-	});
-	return newlist;
-}
+	}
+
 
 
 
@@ -373,12 +414,29 @@ console.log("OLDLIST", list);
 // createVariantText --
 //
 
-function createVariantText(list, active) {
+function createVariantText(list, cleanactive, rawactive) {
 	var output = "";
 	var testing;
-	for (var i=0; i<list.length; i++) {
+	var best = "";
+	var i;
+
+	// display exact match:
+	for (i=0; i<list.length; i++) {
+		if (list[i] === rawactive) {
+			output += "<span class='variant active'>";
+			output += list[i];
+			output += "</span>";
+			output += "<br/>";
+		}
+	}
+
+	// display non-exact matches:
+	for (i=0; i<list.length; i++) {
+		if (list[i] === rawactive) {
+			continue;
+		}
 		testing = cleanText(list[i]);
-		if (testing === active) {
+		if (testing === cleanactive) {
 			output += "<span class='variant active'>";
 			output += list[i];
 			output += "</span>";
@@ -389,6 +447,7 @@ function createVariantText(list, active) {
 			output += "<br/>";
 		}	
 	}
+
 	return output;
 }
 
@@ -439,7 +498,6 @@ function mergeSimilarVariants(data) {
 //
 
 function mergeEntries(obj1, obj2) {
-console.log("OBJ1", obj1, "OBJ2", obj2);
 	// obj1.variant_text = obj1.variant_text.concat(obj2.variant_text);
 	obj1.variant_text = addVariant(obj1.variant_text, obj2.variant_text);
 	obj1.sources = obj1.sources.concat(obj2.sources);
