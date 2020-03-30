@@ -527,6 +527,8 @@ function mergeEntries(obj1, obj2) {
 
 function cleanText(text) {
 	text = text.toLowerCase();
+	text = text.replace(/ & /g, " e ");   // &  => e
+	text = text.replace(/\bet\b/g, "e");  // et => e
 
 	text = text.replace(/é/g, "e");
 	text = text.replace(/è/g, "e");
