@@ -92,9 +92,9 @@ function adjustVariants() {
 		if (!ps) {
 			continue;
 		}
-		
+
 		data[i].sources = extractSourceList(ps.innerHTML);
-		
+
 	}
 	data = mergeSimilarVariants(data);
 	content = createContent(data, cleanactive, active);
@@ -459,7 +459,7 @@ function createVariantText(list, cleanactive, rawactive) {
 		}
 		if (i < list.length - 1) {
 			output += "<br/>";
-		}	
+		}
 	}
 
 	return output;
@@ -527,9 +527,8 @@ function mergeEntries(obj1, obj2) {
 
 function cleanText(text) {
 	text = text.toLowerCase();
-	text = text.replace(/ & /g, " e ");   // &  => e
-	text = text.replace(/\bet\b/g, "e");  // et => e
 
+	// remove accents
 	text = text.replace(/é/g, "e");
 	text = text.replace(/è/g, "e");
 	text = text.replace(/ó/g, "o");
@@ -540,6 +539,99 @@ function cleanText(text) {
 	text = text.replace(/ù/g, "u");
 	text = text.replace(/á/g, "a");
 	text = text.replace(/à/g, "a");
+
+	// replace spelling variants
+	text = text.replace(/ & /g, " e ");   // &  => e
+	text = text.replace(/\bet\b/g, "e");  // et => e
+	text = text.replace(/\bhai\b/g, "ahi");
+	text = text.replace(/\bh?aime\b/g, "ahime");
+	text = text.replace(/\ball'?h?ora?/g, "allora");
+	text = text.replace(/\banc'?h?ora?/g, "ancora");
+	text = text.replace(/\bapria\b/g, "apriva");
+	text = text.replace(/\bardiva\b/g, "ardia");
+	text = text.replace(/\bbeltade\b/g, "beltate");
+	text = text.replace(/\bben ch'?e\b/g, "benche");
+	text = text.replace(/\bch'\b/g, "che ");
+	text = text.replace(/\bciel'?\b/g, "cielo ");
+	text = text.replace(/\bcu?or'?e?\b/g, "cuore");
+	text = text.replace(/\bin ?vano?\b/g, "invano");
+	text = text.replace(/\bfra\b/g, "tra");
+	text = text.replace(/\btruova\b/g, "trova");
+	text = text.replace(/\bdifendia\b/g, "difenda");
+	text = text.replace(/\bei\b/g, "egli");
+	text = text.replace(/\bsia\b/g, "fia");
+	text = text.replace(/\boltra\b/g, "oltre");
+	text = text.replace(/\bonesta\b/g, "honesta");
+	text = text.replace(/\bonesto\b/g, "honesto");
+	text = text.replace(/\bore\b/g, "hore");
+
+/* 
+face o	fac'o	fac',o
+facelle	facelli
+facelle e	facell'e
+forza od	forz'od	forza o d'	forz'o d'	forz'od
+fossi	fussi	foss'	fuss'
+fu	fue	fu'
+fuoco	foco	fuoc'	foc'
+giamai	gia mai
+gli	gl'
+guardo	sguardo
+hoime	oime	ohime
+humile	umile	humil	umil	humil'	umil'
+humili	umili	humil	umil	humil'	umil'
+il	l
+in	n
+la	l'
+li	gli	le
+lo	l'
+mano	man	man'
+mi	m'
+ne	n'
+ne gli	negli	ne gl'	negl'
+ne la	nella	nell'	ne l'
+ne lo	nello	nel	nell'	ne l'	ne 'l
+nei	ne i	ne'
+non lo	no 'l
+onde	ond'
+ora	hora	hor'	or
+orecchie 	orecchi
+per la	per l'
+per lo	per l'
+perche	per che
+poiche	poi che
+prenda	prend'
+seno	sen	sen'
+sole	sol	sol'
+sono	son	son'
+strali	strai
+sulla	su la	sull'	su l'
+sullo	su lo	sull'	su l'	su 'l
+suoli	soli
+suono	sono	suon	suon'	son	son'
+talora	talhora	talhor	talor	tal'hora	tal'hor
+vaga	vagha
+vago	vagho
+vedea 	vedeva
+*/
+
+// martire	martir
+//X martiri	martir
+// di	d'
+// dei	de i	de'
+// ai	a i	a'
+// bella	bell'
+// bello	bel	bell'
+// de	de'
+// de la	della	dell'	de l'
+// de lo	dello	del	dell'	de l'	de 'l
+
+// desire	desir
+//X desiri	desir
+// tanto e	tant'e
+//X tanti e	tant'e
+
+
+
 
 	text = text.replace(/[^A-Za-z'<>]/g, " ");
 	text = text.replace(/\s+/g, " ");
