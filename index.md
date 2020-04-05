@@ -3,6 +3,7 @@ layout: plainvar
 vim: ts=3
 style-local: true
 scripts-local: true
+aton: true
 permalink: /variorum/index.html
 ---
 
@@ -253,6 +254,7 @@ function createSourceList(list) {
 //
 
 function compactList(list) {
+console.log("LIST", list);
 	var output = [];
 	var matches;
 	var entry;
@@ -299,7 +301,44 @@ function compactList(list) {
 			}
 			previous = testp;
 		} else {
-			entry = "<a href'#/source/" + list[i] + "'>" + list[i] + "</a>";
+			var popup = null;
+			var info = MANUSCRIPTS[list[i]];
+			if (info) {
+				popup = list[i] + ": " + info.SIGLUM + ", " + info.LOCATION;
+				if (info.DATING) {
+					popup += ", " + info.DATING;
+				}
+				if (info.DESCRIPTION) {
+					popup += ", " + info.DESCRIPTION;
+				}
+				popup = popup.replace(/"/g, "");
+				popup = popup.replace(/<.*?>/g, "");
+			}
+			if (!info) {
+				info = PRINTS[list[i]];
+				if (info) {
+					popup = list[i] + ": " + info.PRINTTITLE;
+					if (info.PUBLISHER) {
+						popup += ", " + info.PUBLISHER;
+					}
+					if (info.PUBLOCATION) {
+						popup += ", " + info.PUBLOCATION;
+					}
+					if (info.PUBYEAR) {
+						popup += ", " + info.PUBYEAR;
+					}
+					popup = popup.replace(/"/g, "");
+					popup = popup.replace(/<.*?>/g, "");
+				}
+			}
+
+			if (popup) {
+				entry = "<a ";
+				entry += "title=\"" + popup + "\"";
+				entry += " href'#/source/" + list[i] + "'>" + list[i] + "</a>";
+			} else {
+				entry = "<a href'#/source/" + list[i] + "'>" + list[i] + "</a>";
+			}
 			output.push(entry);
 		}
 	}
@@ -643,6 +682,54 @@ vedea 	vedeva
 	return text;
 }
 
+
+//////////////////////////////
+//
+// DOMContentLoaded event listener -- Prepare MANUSCRIPT database for popups.
+//
+
+var MANUSCRIPTS = {};
+document.addEventListener("DOMContentLoaded", function() {
+	var i;
+	var request = new XMLHttpRequest();
+	request.open("GET", "/data/indexes/rime-manuscripts.aton");
+	request.send();
+	request.onload = function() {
+		var aton = new ATON;
+		var data = aton.parse(this.responseText).MANUSCRIPT;
+		for (i=0; i<data.length; i++) {
+			var id = data[i].SMSIGLUM;
+			id = id.replace(/<.*?>/g, "");
+			MANUSCRIPTS[id] = data[i];
+		}
+		console.log("MANUSCRIPTS", MANUSCRIPTS);
+	};
+});
+
+
+
+//////////////////////////////
+//
+// DOMContentLoaded event listener -- Prepare PRINTS database for popups.
+//
+
+var PRINTS = {};
+document.addEventListener("DOMContentLoaded", function() {
+	var i;
+	var request = new XMLHttpRequest();
+	request.open("GET", "/data/indexes/rime-prints.aton");
+	request.send();
+	request.onload = function() {
+		var aton = new ATON;
+		var data = aton.parse(this.responseText).PRINT;
+		for (i=0; i<data.length; i++) {
+			var id = "S" + data[i].SPRINTNUM;
+			id = id.replace(/<.*?>/g, "");
+			PRINTS[id] = data[i];
+		}
+		console.log("PRINTS", PRINTS);
+	};
+});
 
 
 </script>
