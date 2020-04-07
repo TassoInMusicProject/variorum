@@ -75,7 +75,7 @@ function adjustVariants() {
 		} 
 		return;
 	}
-	console.log("DIVS", divs);
+	// console.log("DIVS", divs);
 	var data = [];
 	var ps;
 	var i;
@@ -114,12 +114,12 @@ function adjustVariants() {
 	content = createContent(data, cleanactive, active);
 	newroot = document.querySelector("#variant_info");
 	if (newroot) {
-		console.log("UPDATING OUTPUT");
+		// console.log("UPDATING OUTPUT");
 		newroot.innerHTML = content;
 	} else {
 		console.log("CANNOT FIND #variant_info");
 	}
-	console.log("OUTPUT data = ", data);
+	// console.log("OUTPUT data = ", data);
 }
 
 
@@ -550,6 +550,74 @@ function compareSources(a, b) {
 
 //////////////////////////////
 //
+// getPopupTitleForRawVariant -- returns a title that is a list of the
+//    sources that use that exact variant spelling/punctuation.
+//
+
+function getPopupTitleForRawVariant(vinfo, matchtext) {
+	if (!vinfo) {
+		return "";
+	}
+	var title = "";
+	var list = [];
+	var keys = Object.keys(vinfo);
+	for (var j=0; j<keys.length; j++) {
+		if (vinfo[keys[j]] === matchtext) {
+			list.push(keys[j]);
+		}
+	}
+	var pid;
+	var id;
+	var voice;
+	var value;
+	var matches;
+	var pmatches;
+	if (list.length > 0) {
+		for (j=0; j<list.length; j++) {
+			value = list[j];
+			matches = value.match(/^(T[a-z][a-z]\d+[a-z]+)-([A-Z].*)/);
+			if (matches) {
+				// a musical setting.
+				id = matches[1];
+				voice = matches[2];
+				voice = voice.replace(/[a-z_]+/g, "");
+
+				// check if the previous entry is the same setting and
+				// contract if so.
+				pmatches = null;
+				if (j > 0) {
+					pmatches = list[j-1].match(/^(T[a-z][a-z]\d+[a-z]+)-(.*)/);
+				}
+				if (pmatches) {
+					pid = pmatches[1];
+					if (pid === id) {
+						// contract with last entry
+						title = title.replace(/,\s*$/, "");
+						title += voice;
+					} else {
+						// new entry for setting
+						title += id + "-" + voice;
+					}
+				} else {
+					// new entry for setting
+					title += id + "-" + voice;
+				}
+			} else {
+				// a manuscript or a print, so no contracting of the ids:
+				title += list[j];
+			}
+			if (j < list.length - 1) {
+				title += ", ";
+			}
+		}
+	}
+	return title;
+}
+
+
+
+//////////////////////////////
+//
 // createVariantText --
 //
 
@@ -558,11 +626,20 @@ function createVariantText(list, cleanactive, rawactive) {
 	var testing;
 	var best = "";
 	var i;
+	var vinfo;
+	if (VARIANTID) {
+		vinfo = READINGS[VARIANTID];
+	}
 
 	// display exact match:
 	for (i=0; i<list.length; i++) {
 		if (list[i] === rawactive) {
-			output += "<span class='variant active'>";
+			title = getPopupTitleForRawVariant(vinfo, list[i]);
+			output += "<span";
+			if (title) {	
+				output += " title='" + title + "'";
+			}
+			output += " class='variant active'>";
 			output += list[i];
 			output += "</span>";
 			output += "<br/>";
@@ -575,13 +652,18 @@ function createVariantText(list, cleanactive, rawactive) {
 			continue;
 		}
 		testing = cleanText(list[i]);
-		if (testing === cleanactive) {
-			output += "<span class='variant active'>";
-			output += list[i];
-			output += "</span>";
-		} else {
-			output += list[i];
+		output += "<span";
+		title = getPopupTitleForRawVariant(vinfo, list[i]);
+		if (title) {	
+			output += " title='" + title + "'";
 		}
+		if (testing === cleanactive) {
+			output += " class='variant active'>";
+		} else {
+			output += ">";
+		}
+		output += list[i];
+		output += "</span>";
 		if (i < list.length - 1) {
 			output += "<br/>";
 		}
@@ -618,7 +700,7 @@ function mergeSimilarVariants(data) {
 			entries[id] = data[i];
 			continue;
 		}
-		console.log("MERGING", data[i].variant_text[0], "WITH", id);
+		// console.log("MERGING", data[i].variant_text[0], "WITH", id);
 		entries[id] = mergeEntries(entries[id], data[i]);
 	}
 	var keys = Object.keys(entries);
