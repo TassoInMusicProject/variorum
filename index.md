@@ -41,10 +41,14 @@ permalink: /variorum/index.html
 
 <script>
 
+READINGS = {};
 
 function adjustVariants() {
-
 	var active = document.querySelector("tei-seg.variant.active");
+
+	if (VARIANTID) {
+		READINGS[VARIANTID] = {};
+	}
 	var cleanactive = "";
 	if (active) {
 		active = active.textContent;
@@ -75,7 +79,9 @@ function adjustVariants() {
 	var data = [];
 	var ps;
 	var i;
+	var j;
 	var sources;
+	var rawtext;
 	var pieces;
 	for (i=0; i<divs.length; i++) {
 		data[i] = {};
@@ -87,15 +93,22 @@ function adjustVariants() {
 		var value = ps[0].textContent;
 		// Remove punctuation at the end of the string
 		value = value.replace(/[:;,.?!]\s*$/, "");
+		rawtext = value;
 		data[i].variant_text.push(value);
 		data[i].compare_text = cleanText(value);
 		ps = divs[i].querySelector("p");
 		if (!ps) {
 			continue;
 		}
-
 		data[i].sources = extractSourceList(ps.innerHTML);
-
+		if (VARIANTID) {
+			var vinfo = READINGS[VARIANTID];
+			if (vinfo) {
+				for (j=0; j<data[i].sources.length; j++) {
+					vinfo[data[i].sources[j]] = rawtext;
+				}
+			}
+		}
 	}
 	data = mergeSimilarVariants(data);
 	content = createContent(data, cleanactive, active);
@@ -274,6 +287,7 @@ function compactList(list) {
 	var testp;;
 	var name;
 	var abbr;
+	var rawtext;
 	var id;
 	var nabbr;
 	var popup;
@@ -319,6 +333,18 @@ function compactList(list) {
 				if (info.PRINCEPSRISM) {
 					popup += " (RISM " + info.PRINCEPSRISM + ")";
 				}
+
+				if (VARIANTID) {
+					var vinfo = READINGS[VARIANTID];
+					if (vinfo) {
+						rawtext = vinfo[list[i]]
+						if (rawtext) {
+							rawtext = rawtext.replace(/["]/g, "");
+							popup += '. Variant text: ' + rawtext;
+						}
+					}
+				}
+
 			}
 			if (testp === previous) {
 				entry = output[output.length-1];
@@ -378,6 +404,19 @@ function compactList(list) {
 					}
 					popup = popup.replace(/"/g, "");
 					popup = popup.replace(/<.*?>/g, "");
+				}
+			}
+
+			if (popup) {
+				if (VARIANTID) {
+					var vinfo = READINGS[VARIANTID];
+					if (vinfo) {
+						rawtext = vinfo[list[i]]
+						if (rawtext) {
+							rawtext = rawtext.replace(/["]/g, "");
+							popup += '. Variant text: ' + rawtext;
+						}
+					}
 				}
 			}
 
@@ -657,12 +696,13 @@ function cleanText(text) {
 	text = text.replace(/\bfacell'e\b/g, "facelle e");
 	text = text.replace(/\bfacelli\b/g, "facelle");
 	text = text.replace(/\bfu?oco?'?\b/g, "fuoco");
-	text = text.replace(/\bgl'\b/g, "il");
-	text = text.replace(/\ble\b/g, "il");
+	//text = text.replace(/\bgl'\b/g, "il");
+	// text = text.replace(/\ble\b/g, "il");
 	text = text.replace(/\bsguardo\b/g, "guardo");
 	text = text.replace(/\boh?ime\b/g, "hoime");
 	text = text.replace(/\bfue?'?\s/g, "fu ");
-	text = text.replace(/\bnella?'?\b/g, "ne la ");
+	text = text.replace(/\bnell?e?'?\b/g, "ne le ");
+	text = text.replace(/\bnell?a?'?\b/g, "ne la ");
 	text = text.replace(/\bne l'?\b/g, "ne la ");  // could be "ne lo"
 	text = text.replace(/\bl\b/g, "il");
 	text = text.replace(/\bn\b/g, "in");
@@ -809,12 +849,14 @@ document.addEventListener("DOMContentLoaded", function() {
 	TEI = document.querySelector("#TEI");
 	console.log("TEI =================== ", TEI);
 	poemobserver.observe(TEI, { childList: true, subtree: true })
-	TEI.addListener("click", clickingOnVariant);
+	TEI.addEventListener("click", clickingOnVariant);
 });
 
 function clickingOnVariant(event) {
-	console.log("++++++++++ CLICK EVENT", event);
-	console.log("TARGET", event.target);
+	// console.log("++++++++++ CLICK EVENT", event);
+	// console.log("TARGET", event.target);
+	// this is no longer used because the click event
+	// is processed in the variorum.js file now.
 }
 
 
