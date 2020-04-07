@@ -13061,6 +13061,9 @@ var ReadingView = function (_Backbone$View) {
 			this.$textEl = this.collection.where({ "source": this.source })[0].get("elementRef");
 			if (this.$textEl) {
 				this.$textEl.click(function (e) {
+                    // VARIANTID is used to keep track of the same
+                    // variant position when selecting a new source.
+                    VARIANTID = e.target.getAttribute("xml:id");
 					e.preventDefault();
 					_this2.showInfo();
 				});

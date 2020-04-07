@@ -117,7 +117,6 @@ function adjustVariants() {
 //
 
 function addVariant(list1, list2) {
-console.log("LIST1", list1, "LIST2", list2);
 	var found;
 	var i;
 	var j;
@@ -164,22 +163,37 @@ function extractSourceList(text) {
 
 //////////////////////////////
 //
+// putConcordancesFirst --
+//
+
+function putConcordancesFirst(a, b) {
+	var testingA = a.compare_text;
+	var testingB = b.compare_text;
+	if (testingA === CLEANACTIVE) {
+		// force concordance to top of list
+		return -1;
+	}
+	if (testingB === CLEANACTIVE) {
+		// force concordance to top of list
+		return +1;
+	}
+	// otherwise sort by manuscript/print/setting:
+	return compareSources(a.sources[0], b.sources[0]);
+}
+
+
+
+//////////////////////////////
+//
 // createContent --
 //
 
+var CLEANACTIVE;
+
 function createContent(data, cleanactive, rawactive) {
+	CLEANACTIVE = cleanactive;
 	var output = "";
-	var newdata = data.sort(function(a, b) {
-		var testingA = a.compare_text;
-		var testingB = b.compare_text;
-		if (testingA == cleanactive) {
-			return +1;
-		}
-		if (testingB == cleanactive) {
-			return +1;
-		}
-		return compareSources(a.sources[0], b.sources[0]);
-	});
+	var newdata = data.sort(putConcordancesFirst);
 
 	var start = 0;
 	output += "<h1>Concordances</h1>";
@@ -254,18 +268,26 @@ function createSourceList(list) {
 //
 
 function compactList(list) {
-console.log("LIST", list);
 	var output = [];
 	var matches;
 	var entry;
 	var testp;;
 	var name;
 	var abbr;
+	var id;
 	var nabbr;
+	var popup;
+	var info;
+	var voice;
 	var previous = "";
 	for (var i=0; i<list.length; i++) {
 		matches = list[i].match(/^(T[a-z][a-z]\d+[a-z]+)-(.*)/)
+
 		if (matches) {
+			voice = matches[2];
+			id = list[i].replace(/-.*/, "");
+			var vid = id + "-" + voice;
+			// A musical setting source;
 			testp = matches[1];
 			name = matches[2];
 			matches = name.match(/^([A-Z])/);
@@ -280,9 +302,31 @@ console.log("LIST", list);
 			} else {
 				nabbr = "";
 			}
+			popup = null;
+			info = SETTINGS[id];
+			if (info) {
+				popup = info.CATALOGNUM + ": ";
+				popup += info.COMPOSER;
+				if (info.NORMPUBSHORT) {
+					popup += "; " + info.NORMPUBSHORT;
+				}
+				if (info.PRINCEPSLOC) {
+					popup += ": " + info.PRINCEPSLOC;
+				}
+				if (info.PRINCEPSYEAR) {
+					popup += ", " + info.PRINCEPSYEAR;
+				}
+				if (info.PRINCEPSRISM) {
+					popup += " (RISM " + info.PRINCEPSRISM + ")";
+				}
+			}
 			if (testp === previous) {
 				entry = output[output.length-1];
-				entry += "<a href='#/source/" + list[i] + "'>";
+				entry += '<a';
+				if (popup) {
+					entry += ' title="' + popup + '"';
+				}
+				entry += ' href="#/source/' + vid + '">';
 				entry += abbr;
 				if (nabbr) {
 					entry += "<sub>" + nabbr + "</sub>";
@@ -291,7 +335,11 @@ console.log("LIST", list);
 				output[output.length-1] = entry;
 			} else {
 				entry = testp + ":";
-				entry += "<a href='#/source/" + list[i] + "'>";
+				entry += '<a';
+				if (popup) {
+					entry += ' title="' + popup + '"';
+				}
+				entry += ' href="#/source/' + vid + '">';
 				entry += abbr;
 				if (nabbr) {
 					entry += "<sub>" + nabbr + "</sub>";
@@ -301,8 +349,9 @@ console.log("LIST", list);
 			}
 			previous = testp;
 		} else {
-			var popup = null;
-			var info = MANUSCRIPTS[list[i]];
+			// Either a manuscript or a print source
+			popup = null;
+			info = MANUSCRIPTS[list[i]];
 			if (info) {
 				popup = list[i] + ": " + info.SIGLUM + ", " + info.LOCATION;
 				if (info.DATING) {
@@ -332,13 +381,11 @@ console.log("LIST", list);
 				}
 			}
 
+			entry = "<a ";
 			if (popup) {
-				entry = "<a ";
 				entry += "title=\"" + popup + "\"";
-				entry += " href'#/source/" + list[i] + "'>" + list[i] + "</a>";
-			} else {
-				entry = "<a href'#/source/" + list[i] + "'>" + list[i] + "</a>";
 			}
+			entry += " href='#/source/" + list[i] + "'>" + list[i] + "</a>";
 			output.push(entry);
 		}
 	}
@@ -584,7 +631,6 @@ function cleanText(text) {
 	text = text.replace(/\bet\b/g, "e");  // et => e
 	text = text.replace(/\bhai\b/g, "ahi");
 	text = text.replace(/\bh?aime\b/g, "ahime");
-	text = text.replace(/\ball'?h?ora?/g, "allora");
 	text = text.replace(/\banc'?h?ora?/g, "ancora");
 	text = text.replace(/\bapria\b/g, "apriva");
 	text = text.replace(/\bardiva\b/g, "ardia");
@@ -603,74 +649,73 @@ function cleanText(text) {
 	text = text.replace(/\bonesta\b/g, "honesta");
 	text = text.replace(/\bonesto\b/g, "honesto");
 	text = text.replace(/\bore\b/g, "hore");
+	text = text.replace(/\bod'arte\b/g, "od arte");
+	text = text.replace(/\borecchi\b/g, "orecchie");
+	text = text.replace(/\bgia\s+mai\b/g, "giamai");
+	text = text.replace(/\borecchi\b/g, "orecchie");
+	text = text.replace(/\bh?ora?'?\b/g, "ora");
+	text = text.replace(/\bfacell'e\b/g, "facelle e");
+	text = text.replace(/\bfacelli\b/g, "facelle");
+	text = text.replace(/\bfu?oco?'?\b/g, "fuoco");
+	text = text.replace(/\bgl'\b/g, "il");
+	text = text.replace(/\ble\b/g, "il");
+	text = text.replace(/\bsguardo\b/g, "guardo");
+	text = text.replace(/\boh?ime\b/g, "hoime");
+	text = text.replace(/\bfue?'?\s/g, "fu ");
+	text = text.replace(/\bnella?'?\b/g, "ne la ");
+	text = text.replace(/\bne l'?\b/g, "ne la ");  // could be "ne lo"
+	text = text.replace(/\bl\b/g, "il");
+	text = text.replace(/\bn\b/g, "in");
+	text = text.replace(/\bl'\s\b/g, "la "); // could be "lo" as well.
+	text = text.replace(/\bman'?\s/g, "mano ");
+	text = text.replace(/\bm'\b/g, "mi ");
+	text = text.replace(/\bn'\b/g, "ne ");
+	text = text.replace(/\bprend'\b/g, "prenda ");
+	text = text.replace(/\bpoi che\b/g, "poiche");
+	text = text.replace(/\bper che\b/g, "perche");
+	text = text.replace(/\bstrai\b/g, "strali");
+	text = text.replace(/\bvedeva\b/g, "vedea");
+	text = text.replace(/\bvagho\b/g, "vago");
+	text = text.replace(/\bvagha\b/g, "vaga");
+	text = text.replace(/\bsu?ono?'?\b/g, "suono ");
+	text = text.replace(/\btal'?h?ora?\b/g, "talora ");
+	text = text.replace(/\bsu?oli?'?\b/g, "suoli ");
+	text = text.replace(/\bsol'?\b/g, "sole ");
+	text = text.replace(/\bson'?\b/g, "sono ");
+	text = text.replace(/\bsen'?\b/g, "seno ");
+	text = text.replace(/\bper l'\b/g, "per lo");  // could be "per la"
+	text = text.replace(/\bond'?\b/g, "onde ");
+	text = text.replace(/\bh?ora?'?\b/g, "ora ");
+	text = text.replace(/\bh?umile?'?\b/g, "humile "); // coule be "humile"
 
-/* 
-face o	fac'o	fac',o
-facelle	facelli
-facelle e	facell'e
-forza od	forz'od	forza o d'	forz'o d'	forz'od
-fossi	fussi	foss'	fuss'
-fu	fue	fu'
-fuoco	foco	fuoc'	foc'
-giamai	gia mai
-gli	gl'
-guardo	sguardo
-hoime	oime	ohime
-humile	umile	humil	umil	humil'	umil'
-humili	umili	humil	umil	humil'	umil'
-il	l
-in	n
-la	l'
-li	gli	le
-lo	l'
-mano	man	man'
-mi	m'
-ne	n'
-ne gli	negli	ne gl'	negl'
-ne la	nella	nell'	ne l'
-ne lo	nello	nel	nell'	ne l'	ne 'l
-nei	ne i	ne'
-non lo	no 'l
-onde	ond'
-ora	hora	hor'	or
-orecchie 	orecchi
-per la	per l'
-per lo	per l'
-perche	per che
-poiche	poi che
-prenda	prend'
-seno	sen	sen'
-sole	sol	sol'
-sono	son	son'
-strali	strai
-sulla	su la	sull'	su l'
-sullo	su lo	sull'	su l'	su 'l
-suoli	soli
-suono	sono	suon	suon'	son	son'
-talora	talhora	talhor	talor	tal'hora	tal'hor
-vaga	vagha
-vago	vagho
-vedea 	vedeva
+/*  Other spelling equivalents to think about:
+	face o	fac'o	fac',o
+	forza od	forz'od	forza o d'	forz'o d'	forz'od
+	fossi	fussi	foss'	fuss'
+	humili	umili	humil	umil	humil'	umil'
+	ne gli	negli	ne gl'	negl'
+	ne lo	nello	nel	nell'	ne l'	ne 'l
+	nei	ne i	ne'
+	non lo	no 'l
+	sulla	su la	sull'	su l'
+	sullo	su lo	sull'	su l'	su 'l
+
+	// martire	martir
+	//X martiri	martir
+	// di	d'
+	// dei	de i	de'
+	// ai	a i	a'
+	// bella	bell'
+	// bello	bel	bell'
+	// de	de'
+	// de la	della	dell'	de l'
+	// de lo	dello	del	dell'	de l'	de 'l
+
+	/ desire	desir
+	//X desiri	desir
+	// tanto e	tant'e
+	//X tanti e	tant'e
 */
-
-// martire	martir
-//X martiri	martir
-// di	d'
-// dei	de i	de'
-// ai	a i	a'
-// bella	bell'
-// bello	bel	bell'
-// de	de'
-// de la	della	dell'	de l'
-// de lo	dello	del	dell'	de l'	de 'l
-
-// desire	desir
-//X desiri	desir
-// tanto e	tant'e
-//X tanti e	tant'e
-
-
-
 
 	text = text.replace(/[^A-Za-z'<>]/g, " ");
 	text = text.replace(/\s+/g, " ");
@@ -730,6 +775,82 @@ document.addEventListener("DOMContentLoaded", function() {
 		console.log("PRINTS", PRINTS);
 	};
 });
+
+
+
+//////////////////////////////
+//
+// DOMContentLoaded event listener -- Prepare Rime settings database for popups.
+//
+
+var SETTINGS = {};
+document.addEventListener("DOMContentLoaded", function() {
+	var i;
+	var request = new XMLHttpRequest();
+	request.open("GET", "/data/indexes/rime-settings.aton");
+	request.send();
+	request.onload = function() {
+		var aton = new ATON;
+		var data = aton.parse(this.responseText).SETTING;
+		console.log("DATA", data);
+		for (i=0; i<data.length; i++) {
+			var id = data[i].CATALOGNUM;
+			SETTINGS[id] = data[i];
+		}
+		console.log("SETTINGS", SETTINGS);
+	};
+});
+
+
+var poemobserver = new MutationObserver(selectFirstVariant);
+var TEI = null;
+
+document.addEventListener("DOMContentLoaded", function() {
+	TEI = document.querySelector("#TEI");
+	console.log("TEI =================== ", TEI);
+	poemobserver.observe(TEI, { childList: true, subtree: true })
+	TEI.addListener("click", clickingOnVariant);
+});
+
+function clickingOnVariant(event) {
+	console.log("++++++++++ CLICK EVENT", event);
+	console.log("TARGET", event.target);
+}
+
+
+var VARIANTID = null;
+
+function selectFirstVariant() {
+	var lines = TEI.querySelectorAll("tei-l");
+	var segs;
+	var seg;
+	var i;
+	var xmlid;
+	var j;
+	if (VARIANTID) {
+		for (i=0; i<lines.length; i++) {
+			var segs = lines[i].querySelectorAll("tei-seg.variant");
+			for (j=0; j<segs.length; j++) {
+				xmlid = segs[j].getAttribute("xml:id");
+				if (xmlid === VARIANTID) {
+					segs[j].click();
+					return;
+				}
+			}
+		}
+	} else {
+		for (i=0; i<lines.length; i++) {
+			seg = lines[i].querySelector("tei-seg.variant");
+			if (!seg) {
+				continue;
+			}
+			VARIANTID = seg.getAttribute("xml:id");
+			seg.click();
+			return;
+		}
+	}
+
+}
 
 
 </script>
