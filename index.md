@@ -1,6 +1,6 @@
 ---
 layout: plainvar
-vim: ts=3
+vim: ts=3:ft=text
 style-local: true
 scripts-local: true
 aton: true
@@ -41,7 +41,6 @@ permalink: /variorum/index.html
 
 <script>
 
-READINGS = {};
 
 function adjustVariants() {
 	var active = document.querySelector("tei-seg.variant.active");
@@ -855,7 +854,6 @@ function cleanText(text) {
 // DOMContentLoaded event listener -- Prepare MANUSCRIPT database for popups.
 //
 
-var MANUSCRIPTS = {};
 document.addEventListener("DOMContentLoaded", function() {
 	var i;
 	var request = new XMLHttpRequest();
@@ -869,10 +867,61 @@ document.addEventListener("DOMContentLoaded", function() {
 			id = id.replace(/<.*?>/g, "");
 			MANUSCRIPTS[id] = data[i];
 		}
-		console.log("MANUSCRIPTS", MANUSCRIPTS);
+		// console.log("MANUSCRIPTS", MANUSCRIPTS);
 	};
 });
 
+document.addEventListener("DOMContentLoaded", function() {
+	var i;
+	var request = new XMLHttpRequest();
+	request.open("GET", "/data/indexes/gerusalemme-manuscripts.aton");
+	request.send();
+	request.onload = function() {
+		var aton = new ATON;
+		var data = aton.parse(this.responseText).MANUSCRIPT;
+		for (i=0; i<data.length; i++) {
+			var id = data[i].SMSIGLUM;
+			id = id.replace(/<.*?>/g, "");
+			MANUSCRIPTS[id] = data[i];
+		}
+		// console.log("MANUSCRIPTS", MANUSCRIPTS);
+	};
+});
+
+document.addEventListener("DOMContentLoaded", function() {
+	var i;
+	var request = new XMLHttpRequest();
+	request.open("GET", "/data/indexes/aminta-manuscripts.aton");
+	request.send();
+	request.onload = function() {
+		var aton = new ATON;
+		var data = aton.parse(this.responseText).MANUSCRIPT;
+		for (i=0; i<data.length; i++) {
+			var id = data[i].SMSIGLUM;
+			id = id.replace(/<.*?>/g, "");
+			MANUSCRIPTS[id] = data[i];
+		}
+		// console.log("MANUSCRIPTS", MANUSCRIPTS);
+	};
+});
+
+
+document.addEventListener("DOMContentLoaded", function() {
+	var i;
+	var request = new XMLHttpRequest();
+	request.open("GET", "/data/indexes/other-manuscripts.aton");
+	request.send();
+	request.onload = function() {
+		var aton = new ATON;
+		var data = aton.parse(this.responseText).MANUSCRIPT;
+		for (i=0; i<data.length; i++) {
+			var id = data[i].SMSIGLUM;
+			id = id.replace(/<.*?>/g, "");
+			MANUSCRIPTS[id] = data[i];
+		}
+		// console.log("MANUSCRIPTS", MANUSCRIPTS);
+	};
+});
 
 
 //////////////////////////////
@@ -880,7 +929,6 @@ document.addEventListener("DOMContentLoaded", function() {
 // DOMContentLoaded event listener -- Prepare PRINTS database for popups.
 //
 
-var PRINTS = {};
 document.addEventListener("DOMContentLoaded", function() {
 	var i;
 	var request = new XMLHttpRequest();
@@ -894,7 +942,67 @@ document.addEventListener("DOMContentLoaded", function() {
 			id = id.replace(/<.*?>/g, "");
 			PRINTS[id] = data[i];
 		}
-		console.log("PRINTS", PRINTS);
+		// console.log("PRINTS", PRINTS);
+	};
+});
+
+document.addEventListener("DOMContentLoaded", function() {
+	var i;
+	var request = new XMLHttpRequest();
+	request.open("GET", "/data/indexes/gerusalemme-prints.aton");
+	request.send();
+	request.onload = function() {
+		var aton = new ATON;
+		var data = aton.parse(this.responseText).PRINT;
+		for (i=0; i<data.length; i++) {
+			var id = data[i].SPRINTNUM;
+			if (id.charAt(0).match(/\d/)) {
+				id = "S" + data[i].SPRINTNUM;
+			}
+			id = id.replace(/<.*?>/g, "");
+			PRINTS[id] = data[i];
+		}
+		// console.log("PRINTS", PRINTS);
+	};
+});
+
+document.addEventListener("DOMContentLoaded", function() {
+	var i;
+	var request = new XMLHttpRequest();
+	request.open("GET", "/data/indexes/aminta-prints.aton");
+	request.send();
+	request.onload = function() {
+		var aton = new ATON;
+		var data = aton.parse(this.responseText).PRINT;
+		for (i=0; i<data.length; i++) {
+			var id = data[i].SPRINTNUM;
+			if (id.charAt(0).match(/\d/)) {
+				id = "S" + data[i].SPRINTNUM;
+			}
+			id = id.replace(/<.*?>/g, "");
+			PRINTS[id] = data[i];
+		}
+		// console.log("PRINTS", PRINTS);
+	};
+});
+
+document.addEventListener("DOMContentLoaded", function() {
+	var i;
+	var request = new XMLHttpRequest();
+	request.open("GET", "/data/indexes/other-prints.aton");
+	request.send();
+	request.onload = function() {
+		var aton = new ATON;
+		var data = aton.parse(this.responseText).PRINT;
+		for (i=0; i<data.length; i++) {
+			var id = data[i].SPRINTNUM;
+			if (id.charAt(0).match(/\d/)) {
+				id = "S" + data[i].SPRINTNUM;
+			}
+			id = id.replace(/<.*?>/g, "");
+			PRINTS[id] = data[i];
+		}
+		// console.log("PRINTS", PRINTS);
 	};
 });
 
@@ -905,7 +1013,7 @@ document.addEventListener("DOMContentLoaded", function() {
 // DOMContentLoaded event listener -- Prepare Rime settings database for popups.
 //
 
-var SETTINGS = {};
+
 document.addEventListener("DOMContentLoaded", function() {
 	var i;
 	var request = new XMLHttpRequest();
@@ -919,9 +1027,82 @@ document.addEventListener("DOMContentLoaded", function() {
 			var id = data[i].CATALOGNUM;
 			SETTINGS[id] = data[i];
 		}
-		console.log("SETTINGS", SETTINGS);
+		// console.log("SETTINGS", SETTINGS);
 	};
 });
+
+
+
+//////////////////////////////
+//
+// DOMContentLoaded event listener -- Prepare Gerusalemme settings database for popups.
+//
+
+document.addEventListener("DOMContentLoaded", function() {
+	var i;
+	var request = new XMLHttpRequest();
+	request.open("GET", "/data/indexes/gerusalemme-settings.aton");
+	request.send();
+	request.onload = function() {
+		var aton = new ATON;
+		var data = aton.parse(this.responseText).SETTING;
+		// console.log("DATA", data);
+		for (i=0; i<data.length; i++) {
+			var id = data[i].CATALOGNUM;
+			SETTINGS[id] = data[i];
+		}
+		// console.log("SETTINGS", SETTINGS);
+	};
+});
+
+
+
+//////////////////////////////
+//
+// DOMContentLoaded event listener -- Prepare Aminta settings database for popups.
+//
+
+document.addEventListener("DOMContentLoaded", function() {
+	var i;
+	var request = new XMLHttpRequest();
+	request.open("GET", "/data/indexes/aminta-settings.aton");
+	request.send();
+	request.onload = function() {
+		var aton = new ATON;
+		var data = aton.parse(this.responseText).SETTING;
+		console.log("AMINTA DATA", data);
+		for (i=0; i<data.length; i++) {
+			var id = data[i].CATALOGNUM;
+			SETTINGS[id] = data[i];
+		}
+		// console.log("SETTINGS", SETTINGS);
+	};
+});
+
+
+
+//////////////////////////////
+//
+// DOMContentLoaded event listener -- Prepare Other settings database for popups.
+//
+
+document.addEventListener("DOMContentLoaded", function() {
+	var i;
+	var request = new XMLHttpRequest();
+	request.open("GET", "/data/indexes/other-settings.aton");
+	request.send();
+	request.onload = function() {
+		var aton = new ATON;
+		var data = aton.parse(this.responseText)
+		// console.log("OTHER DATA", data).SETTING;
+		for (i=0; i<data.length; i++) {
+			var id = data[i].CATALOGNUM;
+			SETTINGS[id] = data[i];
+		}
+		// console.log("SETTINGS", SETTINGS);
+	};
+});
+
 
 
 var poemobserver = new MutationObserver(selectFirstVariant);
