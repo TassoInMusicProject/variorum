@@ -1,5 +1,7 @@
 [
+"Amz.xml",
 "Ber.xml",
+"Brn.xml",
 "C.xml",
 "Mi.xml",
 "Ts1.xml",
@@ -10,7 +12,9 @@
 "S11.xml",
 "S12.xml",
 "S13.xml",
+"S15.xml",
 "S20.xml",
+"S24.xml",
 "S29.xml",
 "S33.xml",
 "S67.xml",

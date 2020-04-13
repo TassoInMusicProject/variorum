@@ -280,6 +280,9 @@
 					<rdg wit="#Trm0560g-Basso">
 						<ptr target="Trm0560g-Basso.xml#l1v1"></ptr>
 					</rdg>
+					<rdg wit="#Trm0560k-Basso">
+						<ptr target="Trm0560k-Basso.xml#l1v1"></ptr>
+					</rdg>
 				</app>
 				<app>
 					<rdgGrp n="1">
@@ -527,6 +530,14 @@
 						</rdg>
 					</rdgGrp>
 					<rdgGrp n="3">
+						<rdg wit="#Trm0560g-Basso">
+							<ptr target="Trm0560g-Basso.xml#l2v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm0560k-Basso">
+							<ptr target="Trm0560k-Basso.xml#l2v1"></ptr>
+						</rdg>
+					</rdgGrp>
+					<rdgGrp n="4">
 						<rdg wit="#Trm0560n-Canto">
 							<ptr target="Trm0560n-Canto.xml#l2v1"></ptr>
 						</rdg>
@@ -802,6 +813,14 @@
 							<ptr target="Trm0560o-Quinto.xml#l3v1"></ptr>
 						</rdg>
 					</rdgGrp>
+					<rdgGrp n="5">
+						<rdg wit="#Trm0560g-Tenore">
+							<ptr target="Trm0560g-Tenore.xml#l3v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm0560m-Basso">
+							<ptr target="Trm0560m-Basso.xml#l3v1"></ptr>
+						</rdg>
+					</rdgGrp>
 				</app>
 				<app>
 					<rdgGrp n="1">
@@ -1034,6 +1053,23 @@
 						</rdg>
 					</rdgGrp>
 					<rdgGrp n="9">
+						<rdg wit="#Trm0560f-Basso">
+							<ptr target="Trm0560f-Basso.xml#l4v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm0560f-Quinto">
+							<ptr target="Trm0560f-Quinto.xml#l4v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm0560i-Alto">
+							<ptr target="Trm0560i-Alto.xml#l4v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm0560i-Tenore">
+							<ptr target="Trm0560i-Tenore.xml#l4v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm0560p-Basso">
+							<ptr target="Trm0560p-Basso.xml#l4v1"></ptr>
+						</rdg>
+					</rdgGrp>
+					<rdgGrp n="10">
 						<rdg wit="#Trm0560j-Basso">
 							<ptr target="Trm0560j-Basso.xml#l4v1"></ptr>
 						</rdg>
@@ -1044,7 +1080,7 @@
 							<ptr target="Trm0560m-Basso.xml#l4v1"></ptr>
 						</rdg>
 					</rdgGrp>
-					<rdgGrp n="10">
+					<rdgGrp n="11">
 						<rdg wit="#Trm0560n-Canto">
 							<ptr target="Trm0560n-Canto.xml#l4v1"></ptr>
 						</rdg>
@@ -1061,7 +1097,7 @@
 					<rdg wit="#Trm0560o-Quinto">
 						<ptr target="Trm0560o-Quinto.xml#l4v1"></ptr>
 					</rdg>
-					<rdgGrp n="11">
+					<rdgGrp n="12">
 						<rdg wit="#Trm0560q-Alto">
 							<ptr target="Trm0560q-Alto.xml#l4v1"></ptr>
 						</rdg>
@@ -1279,6 +1315,23 @@
 						</rdg>
 					</rdgGrp>
 					<rdgGrp n="7">
+						<rdg wit="#Trm0560c-Tenore">
+							<ptr target="Trm0560c-Tenore.xml#l5v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm0560f-Basso">
+							<ptr target="Trm0560f-Basso.xml#l5v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm0560f-Quinto">
+							<ptr target="Trm0560f-Quinto.xml#l5v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm0560h-Tenore">
+							<ptr target="Trm0560h-Tenore.xml#l5v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm0560h-Basso">
+							<ptr target="Trm0560h-Basso.xml#l5v1"></ptr>
+						</rdg>
+					</rdgGrp>
+					<rdgGrp n="8">
 						<rdg wit="#Trm0560d-Canto">
 							<ptr target="Trm0560d-Canto.xml#l5v1"></ptr>
 						</rdg>
@@ -1298,7 +1351,7 @@
 							<ptr target="Trm0560d-Sesto.xml#l5v1"></ptr>
 						</rdg>
 					</rdgGrp>
-					<rdgGrp n="8">
+					<rdgGrp n="9">
 						<rdg wit="#Trm0560e-Canto">
 							<ptr target="Trm0560e-Canto.xml#l5v1"></ptr>
 						</rdg>
@@ -1309,7 +1362,7 @@
 							<ptr target="Trm0560e-Basso.xml#l5v1"></ptr>
 						</rdg>
 					</rdgGrp>
-					<rdgGrp n="9">
+					<rdgGrp n="10">
 						<rdg wit="#Trm0560j-Canto">
 							<ptr target="Trm0560j-Canto.xml#l5v1"></ptr>
 						</rdg>
@@ -1323,7 +1376,7 @@
 							<ptr target="Trm0560j-Basso.xml#l5v1"></ptr>
 						</rdg>
 					</rdgGrp>
-					<rdgGrp n="10">
+					<rdgGrp n="11">
 						<rdg wit="#Trm0560m-Canto">
 							<ptr target="Trm0560m-Canto.xml#l5v1"></ptr>
 						</rdg>
@@ -1590,6 +1643,17 @@
 							<ptr target="Trm0560c-Quinto.xml#l6v1"></ptr>
 						</rdg>
 					</rdgGrp>
+					<rdgGrp n="5">
+						<rdg wit="#Trm0560e-Basso">
+							<ptr target="Trm0560e-Basso.xml#l6v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm0560f-Basso">
+							<ptr target="Trm0560f-Basso.xml#l6v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm0560f-Quinto">
+							<ptr target="Trm0560f-Quinto.xml#l6v1"></ptr>
+						</rdg>
+					</rdgGrp>
 					<rdg wit="#Trm0560o-Quinto">
 						<ptr target="Trm0560o-Quinto.xml#l6v1"></ptr>
 					</rdg>
@@ -1854,6 +1918,9 @@
 					</rdgGrp>
 					<rdg wit="#Trm0560b-Quinto">
 						<ptr target="Trm0560b-Quinto.xml#l7v1"></ptr>
+					</rdg>
+					<rdg wit="#Trm0560m-Basso">
+						<ptr target="Trm0560m-Basso.xml#l7v1"></ptr>
 					</rdg>
 					<rdg wit="#Trm0560o-Quinto">
 						<ptr target="Trm0560o-Quinto.xml#l7v1"></ptr>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Negli anni acerbi tua purpurea rosa</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+				<idno type="local">Amz</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Amz">
+					<msIdentifier>
+						<region>United Kingdom</region>
+						<settlement>London</settlement>
+						<repository>British Museum</repository>
+						<idno>Greenville 10772</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. 43	</locus>
+							<p>exemplar of print <span class="print">8</span>, with Aldo Manuzio's autograph annotations and corrections</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">[The entire poem is deleted with a diagonal strikethrough]</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Ne gli anni acerbi tuoi purpurea rosa</l>
+					<l xml:id="l2">Sembravi tu, ch<del>e</del> ^'^ a <del>i</del> rai tepidi, <del>a l’ora</del> ^allhora^</l>
+					<l xml:id="l3">Non apre <del>’</del>^i^l sen, ma nel suo verde ancora</l>
+					<l xml:id="l4">V<del>e</del>^i^rginella s’asconde, e<del>t</del> vergognosa;</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">O piu tosto pare^v^i (che mortal cosa</l>
+					<l xml:id="l6">Non s’assomiglia à te) celeste Aurora,</l>
+					<l xml:id="l7"><del>Che le campagne imperla</del> ^Ch'imperla le Campagne^, e i monti indora</l>
+					<l xml:id="l8">Lucida in <del>Ciel</del> ^bel^ seren<del>o</del>^a^, <del>&amp;</del>^e^ ru<del>g</del>giadosa;</l>
+				</lg>
+				<lg>
+					<l xml:id="l9">Hor la men verde età nulla à te toglie;</l>
+					<l xml:id="l10">Nè te, benche negletta, in manto adorno</l>
+					<l xml:id="l11">Giov<del>i</del>^a^netta beltà vince, o pareggia;</l>
+				</lg>
+				<lg>
+					<l xml:id="l12"><del>Cosi è più vago il</del> ^Così più vago è 'l^ fior, poi che le foglie</l>
+					<l xml:id="l13">Spiega <del>d</del>orate; e ’l Sol nel mezzo giorno</l>
+					<l xml:id="l14">Vi<del>a</del>^e^ più, che nel mattin^,^ luce, <del>&amp;</del>^e^ fiammeggia.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

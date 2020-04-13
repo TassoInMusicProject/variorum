@@ -9,16 +9,16 @@
 			<publicationStmt>
 				<publisher></publisher>
 				<availability status=""></availability>
-				<idno type="local">S141</idno>
+				<idno type="local">S15</idno>
 			</publicationStmt>
 			<sourceDesc>
-				<bibl xml:id="S141">
-					<title>Rime del Signor Torquato Tasso, divise in sei parti</title>
-					<url></url>
-					<publisher>Evangelista Deuchino &amp; Giovanni Battista Pulciani</publisher>
+				<bibl xml:id="S15">
+					<title>Delle rime, et prose del S. Torquato tasso, di nuovo con diligenza rivedute, corrette, et di vaghe figure adornate, parte prima</title>
+					<url>https://books.google.com/books?id=_YW1k56G_M4C&amp;printsec=frontcover&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false</url>
+					<publisher>Aldo [Manuzio]</publisher>
 					<pubPlace>Venice</pubPlace>
-					<date when="1608">1608</date>
-					<biblScope unit="page">Parte prima delle Rime, 90</biblScope>
+					<date when="1583">1583</date>
+					<biblScope unit="page">43</biblScope>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -26,14 +26,14 @@
 	<text>
 		<body xml:space="preserve">
 			<div type="dedication">
-				<p xml:id="p1">Sotto la comparatione della rosa descrive la rara beltà della Donna sua, &amp; dice che quantunque fosse nella sua gioventù bella, nell’età più matura non è men bella.</p>
+				<p xml:id="p1">Alla Mad. Lucrezia, D. di Urbino.</p>
 			</div>
 			<div>
 				<lg>
-					<l xml:id="l1">Negli anni acerbi tuoi purpurea rosa</l>
+					<l xml:id="l1">Ne gli anni acerbi tuoi purpurea rosa</l>
 					<l xml:id="l2">Sembravi tu, che à i rai tepidi, à l’ora</l>
 					<l xml:id="l3">Non apre ’l sen, ma nel suo verde ancora</l>
-					<l xml:id="l4">Virginella s’asconde, e vergognosa</l>
+					<l xml:id="l4">Verginella s’asconde, e vergognosa;</l>
 				</lg>
 				<lg>
 					<l xml:id="l5">O più tosto parei (che mortal cosa</l>
@@ -44,12 +44,12 @@
 				<lg>
 					<l xml:id="l9">Hor la men verde età nulla à te toglie,</l>
 					<l xml:id="l10">Nè te, benche negletta, in manto adorno</l>
-					<l xml:id="l11">Giovinetta beltà vince, o pareggia.</l>
+					<l xml:id="l11">Giovinetta beltà vince, ò pareggia.</l>
 				</lg>
 				<lg>
 					<l xml:id="l12">Cosi è più vago il fior, poi che le foglie</l>
 					<l xml:id="l13">Spiega odorate, e ’l Sol nel mezo giorno</l>
-					<l xml:id="l14">Via più, che nel mattino, luce, e fiammeggia.</l>
+					<l xml:id="l14">Via più, che nel mattin, luce, e fiammeggia.</l>
 				</lg>
 			</div>
 		</body>

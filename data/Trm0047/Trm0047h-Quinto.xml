@@ -34,10 +34,10 @@
 			<div>
 				<lg>
 					<l xml:id="l1"><seg xml:id="l1v1">Non è questa la</seg> mano,</l>
-					<l xml:id="l2">[TACET]</l>
+					<l xml:id="l2"><seg xml:id="l2v1">[TACET]</seg></l>
 					<l xml:id="l3"><seg xml:id="l3v1">Avventò nel mio</seg> cor <seg xml:id="l3v2">fiammell',ò strai</seg>,</l>
 					<l xml:id="l4"><seg xml:id="l4v1">Ecco [TACET]</seg></l>
-					<l xml:id="l5">[TACET]</l>
+					<l xml:id="l5"><seg xml:id="l5v1">[TACET]</seg></l>
 					<l xml:id="l6"><seg xml:id="l6v1">Ne di fuggir li giova</seg>,</l>
 					<l xml:id="l7"><seg xml:id="l7v1">[OMITTED]</seg></l>
 					<l xml:id="l8"><seg xml:id="l8v1">[OMITTED]</seg></l>

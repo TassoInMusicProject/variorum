@@ -81,10 +81,15 @@
 							<ptr target="Trm0246c-Sesto.xml#l7v1"></ptr>
 						</rdg>
 					</rdgGrp>
-					<rdg wit="#Trm0246d-Canto">
-						<ptr target="Trm0246d-Canto.xml#l7v1"></ptr>
-					</rdg>
 					<rdgGrp n="2">
+						<rdg wit="#Trm0246d-Canto">
+							<ptr target="Trm0246d-Canto.xml#l7v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm0246d-Quinto">
+							<ptr target="Trm0246d-Quinto.xml#l7v1"></ptr>
+						</rdg>
+					</rdgGrp>
+					<rdgGrp n="3">
 						<rdg wit="#Trm0246d-Tenore">
 							<ptr target="Trm0246d-Tenore.xml#l7v1"></ptr>
 						</rdg>
@@ -92,9 +97,6 @@
 							<ptr target="Trm0246d-Basso.xml#l7v1"></ptr>
 						</rdg>
 					</rdgGrp>
-					<rdg wit="#Trm0246d-Quinto">
-						<ptr target="Trm0246d-Quinto.xml#l7v1"></ptr>
-					</rdg>
 				</app>
 				<app>
 					<rdgGrp n="1">

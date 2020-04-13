@@ -9,17 +9,28 @@
 			<publicationStmt>
 				<publisher></publisher>
 				<availability status=""></availability>
-				<idno type="local">S11</idno>
+				<idno type="local">Brn</idno>
 			</publicationStmt>
 			<sourceDesc>
-				<bibl xml:id="S11">
-					<title>Scielta delle rime del Sig. Torquato Tasso. Parte prima [e seconda]</title>
-					<url></url>
-					<publisher>Vittorio Baldini</publisher>
-					<pubPlace>Ferrara</pubPlace>
-					<date when="1582">1582</date>
-					<biblScope unit="page">Parte Prima, 32</biblScope>
-				</bibl>
+				<msDesc xml:id="Brn">
+					<msIdentifier>
+						<region>Italy</region>
+						<settlement>Bergamo</settlement>
+						<repository>Civica Biblioteca Angelo Mai</repository>
+						<idno>Tassiana A.10.35</idno>
+					</msIdentifier>
+					<msContents>
+						<msItem>
+							<locus>f. Parte Prima, 32</locus>
+							<p>exemplar of print <span class="print">11</span>, with Gian Antonio Verdani's copy of Biagio Bernardi's corrections and annotations</p>
+						</msItem>
+					</msContents>
+					<history>
+						<origin>
+							<origDate>16th century</origDate>
+						</origin>
+					</history>
+				</msDesc>
 			</sourceDesc>
 		</fileDesc>
 	</teiHeader>
@@ -30,7 +41,7 @@
 			</div>
 			<div>
 				<lg>
-					<l xml:id="l1">Ne gli anni acerbi tuoi purpurea rosa</l>
+					<l xml:id="l1">Negli anni acerbi tuoi purpurea rosa</l>
 					<l xml:id="l2">Sembravi tù, che à i rai tepidi, à l’ora</l>
 					<l xml:id="l3">Non apre’l sen, ma nel suo verde ancora</l>
 					<l xml:id="l4">Verginella s’asconde, e vergognosa;</l>
@@ -38,7 +49,7 @@
 				<lg>
 					<l xml:id="l5">O’ più tosto parei (che mortal cosa</l>
 					<l xml:id="l6">Non s’assomiglia à te) celeste Aurora,</l>
-					<l xml:id="l7">Che le campagne imperla, e i monti indora</l>
+					<l xml:id="l7"><del>Che le campagne imperla</del> ^Ch'imperla le Campagne^, e i monti indora</l>
 					<l xml:id="l8">Lucida in Ciel sereno, e ruggiadosa;</l>
 				</lg>
 				<lg>
@@ -47,8 +58,8 @@
 					<l xml:id="l11">Giovinetta beltà vince, ò pareggia;</l>
 				</lg>
 				<lg>
-					<l xml:id="l12">Cosi più vago è’l fior, poi che le foglie</l>
-					<l xml:id="l13">Spiega odorate, e’l Sol nel mezzo giorno</l>
+					<l xml:id="l12">Cosi più vago è ’l fior, poi che le foglie</l>
+					<l xml:id="l13">Spiega <del>d</del>orate, e ’l Sol nel mezzo giorno</l>
 					<l xml:id="l14">Via più, che nel mattin luce, e fiammeggia.</l>
 				</lg>
 			</div>

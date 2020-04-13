@@ -9,15 +9,15 @@
 			<publicationStmt>
 				<publisher></publisher>
 				<availability status=""></availability>
-				<idno type="local">S67</idno>
+				<idno type="local">S15</idno>
 			</publicationStmt>
 			<sourceDesc>
-				<bibl xml:id="S67">
-					<title>Rime, et prose del Sig. Torquato Tasso. Parte prima. Accresciute, et corrette, con diligenza in questa nuova impressione</title>
-					<url>https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10190157_00005.html</url>
-					<publisher>Giulio Vasalini</publisher>
-					<pubPlace>Ferrara</pubPlace>
-					<date when="1589">1589</date>
+				<bibl xml:id="S15">
+					<title>Delle rime, et prose del S. Torquato tasso, di nuovo con diligenza rivedute, corrette, et di vaghe figure adornate, parte prima</title>
+					<url>https://books.google.com/books?id=_YW1k56G_M4C&amp;printsec=frontcover&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false</url>
+					<publisher>Aldo [Manuzio]</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1583">1583</date>
 					<biblScope unit="page">3</biblScope>
 				</bibl>
 			</sourceDesc>
@@ -26,30 +26,30 @@
 	<text>
 		<body xml:space="preserve">
 			<div type="dedication">
-				<p xml:id="p1">Per le bellezze della sua Donna.</p>
+				<p xml:id="p1"></p>
 			</div>
 			<div>
 				<lg>
 					<l xml:id="l1">Sù l’ampia fronte il crespo oro lucente</l>
 					<l xml:id="l2">Sparso ondeggiava, e de’ begli occhi il raggio</l>
 					<l xml:id="l3">Al terreno adducea fiorito Maggio,</l>
-					<l xml:id="l4">E luglio à i cori oltra misura ardente:</l>
+					<l xml:id="l4">E Luglio à i cori oltra misura ardente:</l>
 				</lg>
 				<lg>
 					<l xml:id="l5">Nel bianco seno Amor vezzosamente</l>
-					<l xml:id="l6">Scherzava, e non ardía di fargli oltraggio,</l>
+					<l xml:id="l6">Scherzava, e non ardìa di fargli oltraggio,</l>
 					<l xml:id="l7">E l’aura del parlar cortese, e saggio</l>
-					<l xml:id="l8">Fra le rose spirar s’udía sovente.</l>
+					<l xml:id="l8">Fra le rose spirar s’udia sovente.</l>
 				</lg>
 				<lg>
 					<l xml:id="l9">Io, che forma celeste in terra scorsi,</l>
-					<l xml:id="l10">Rinchiusi i lumi e dissí: Ahí, come è stolto</l>
-					<l xml:id="l11">Sguardo, che ’n lei sia d’affisarsi ardito?</l>
+					<l xml:id="l10">Rinchiusi i lumi, e dissi: Ahi come è stolto</l>
+					<l xml:id="l11">Sguardo, che’n lei sia d’affisarsi ardito?</l>
 				</lg>
 				<lg>
-					<l xml:id="l12">Ma de l’altro periglio non m’accòrsi,</l>
-					<l xml:id="l13">Che mi fu per l’orecchie il cor ferito,</l>
-					<l xml:id="l14">E i detti andaro, ove non giunse in volto.</l>
+					<l xml:id="l12">Ma de l’altro periglio non m’accorsi,</l>
+					<l xml:id="l13">Che mi fù per l’orecchie il cor ferito,</l>
+					<l xml:id="l14">E i detti andaro, ove non giunse il volto.</l>
 				</lg>
 			</div>
 		</body>

@@ -9,26 +9,24 @@
 			<publicationStmt>
 				<publisher></publisher>
 				<availability status=""></availability>
-				<idno type="local">E1</idno>
+				<idno type="local">F2</idno>
 			</publicationStmt>
 			<sourceDesc>
-				<msDesc xml:id="E1">
+				<msDesc xml:id="F2">
 					<msIdentifier>
 						<region>Italy</region>
-						<settlement>Modena</settlement>
-						<repository>Biblioteca Estense Universitaria</repository>
-						<idno>It. 385</idno>
+						<settlement>Ferrara</settlement>
+						<repository>Biblioteca Comunale Ariostea</repository>
+						<idno>II.306A</idno>
 					</msIdentifier>
 					<msContents>
 						<msItem>
-							<locus>f. 22</locus>
-							<url>http://bibliotecaestense.beniculturali.it/info/img/mss/i-mo-beu-alfa.v.7.8.pdf</url>
-							<p>codex containing copies of 322 lyric poems by Tasso, some with autograph annotations and corrections</p>
+							<p>partial copy of <span class="manuscript">E<sub>1</sub></span></p>
 						</msItem>
 					</msContents>
 					<history>
 						<origin>
-							<origDate>16th century (ca. 1584&#x2013;85?)</origDate>
+							<origDate>16th century</origDate>
 						</origin>
 					</history>
 				</msDesc>
@@ -38,12 +36,12 @@
 	<text>
 		<body xml:space="preserve">
 			<div type="dedication">
-				<p xml:id="p1">Loda la bellezza della Signora Duchessa d'Urbino la qual non scema perché cresca l'età</p>
+				<p xml:id="p1"></p>
 			</div>
 			<div>
 				<lg>
-					<l xml:id="l1">Già solevi<del>volevi[?]</del> parer vermiglia rosa,</l>
-					<l xml:id="l2">Ch’à <del>caldi</del>dolci raggi, a lo spirar de l’ora</l>
+					<l xml:id="l1">Già solevi parer vermiglia rosa,</l>
+					<l xml:id="l2">Ch’à dolci raggi, a lo spirar de l’ora</l>
 					<l xml:id="l3">Rinchiude il grembo, e nel suo verde ancora</l>
 					<l xml:id="l4">Verginella s’asconde, e vergognosa.</l>
 				</lg>
@@ -54,12 +52,12 @@
 					<l xml:id="l8">Lucida in Ciel sereno e rugiadosa:</l>
 				</lg>
 				<lg>
-					<l xml:id="l9">Ma nulla a te l’età men fresca ^hor^ toglie</l>
+					<l xml:id="l9">Ma nulla a te l’età men fresca hor toglie</l>
 					<l xml:id="l10">Ne beltà giovinetta in manto adorno,</l>
 					<l xml:id="l11">Vince la tua negletta, ò la pareggia.</l>
 				</lg>
 				<lg>
-					<l xml:id="l12">Così più vago <del>e</del> l’odorate foglie,</l>
+					<l xml:id="l12">Così più vago l’odorate foglie,</l>
 					<l xml:id="l13">Il fior dispiega, e’l sol a mezzo giorno</l>
 					<l xml:id="l14">Via piu, che nel mattino, arde e fiammeggia.</l>
 				</lg>
