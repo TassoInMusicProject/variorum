@@ -41,26 +41,26 @@
 			</div>
 			<div>
 				<lg>
-					<l xml:id="l1">Sù l’ampia fronte il crespo oro lucente</l>
+					<l xml:id="l1">Sù l’ampia fronte <seg xml:id="l1v1">il crespo oro</seg> lucente</l>
 					<l xml:id="l2">Sparso ondeggiava, e de’ begli occhi il raggio</l>
 					<l xml:id="l3">Al terreno adducea fiorito Maggio,</l>
 					<l xml:id="l4">E Luglio à i cori oltra misura ardente:</l>
 				</lg>
 				<lg>
-					<l xml:id="l5">Nel bianco seno Amor vezzosamente</l>
-					<l xml:id="l6">Scherzava, e non ardia di fargli oltraggio,</l>
+					<l xml:id="l5">Nel <seg xml:id="l5v1">bianco</seg> seno Amor <seg xml:id="l5v2">vezzosamente</seg></l>
+					<l xml:id="l6">Scherzava, <seg xml:id="l6v1">e non ardia di fargli oltraggio,</seg></l>
 					<l xml:id="l7">E l’aura del parlar cortese, e saggio</l>
 					<l xml:id="l8">Fra le rose spirar s’udia sovente.</l>
 				</lg>
 				<lg>
 					<l xml:id="l9">Io, che forma celeste in terra scorsi,</l>
 					<l xml:id="l10">Rinchiusi i lumi, e dissi: Ahi come è stolto</l>
-					<l xml:id="l11"><del>Sguardo, che’n lei sia d’affisarsi ardito.</del> ^Chi di mirarla fiso è troppo ardito^</l>
+					<l xml:id="l11"><seg xml:id="l11v1"><del>Sguardo, che’n lei sia d’affisarsi ardito.</del> ^Chi di mirarla fiso è troppo ardito^</seg></l>
 				</lg>
 				<lg>
-					<l xml:id="l12">Ma de l’altro periglio non m’accorsi,</l>
+					<l xml:id="l12">Ma de l’<seg xml:id="l12v1">altro periglio non</seg> m’accorsi,</l>
 					<l xml:id="l13">Che mi fu per l’orecchie il cor ferito,</l>
-					<l xml:id="l14">E i detti andaro, ove non giunse in volto.</l>
+					<l xml:id="l14"><seg xml:id="l14v1">E i detti andaro</seg>, ove non giunse <seg xml:id="l14v2">in</seg> volto.</l>
 				</lg>
 			</div>
 		</body>

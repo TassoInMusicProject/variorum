@@ -41,26 +41,26 @@
 			</div>
 			<div>
 				<lg>
-					<l xml:id="l1">Sù l’ampia fronte il crespo oro lucente</l>
+					<l xml:id="l1">Sù l’ampia fronte <seg xml:id="l1v1">il crespo oro</seg> lucente</l>
 					<l xml:id="l2">Sparso ondeggiava, e^t^ de’ begli occhi il raggio</l>
 					<l xml:id="l3">Al terreno adducea fiorito Maggio,</l>
 					<l xml:id="l4">E Luglio a i cori oltra misura ardente:</l>
 				</lg>
 				<lg>
-					<l xml:id="l5">Nel <del>bianco</del> ^vago^ seno Amor vezzosamente</l>
-					<l xml:id="l6">Scherzava, e^t^ non ardia di fargli oltraggio,</l>
+					<l xml:id="l5">Nel <seg xml:id="l5v1"><del>bianco</del> ^vago^</seg> seno Amor <seg xml:id="l5v2">vezzosamente</seg></l>
+					<l xml:id="l6">Scherzava, <seg xml:id="l6v1">e^t^ non ardia di fargli oltraggio,</seg></l>
 					<l xml:id="l7">E l’aura del parlar cortese, e^t^ saggio</l>
 					<l xml:id="l8">Fra le rose spirar s’udia sovente.</l>
 				</lg>
 				<lg>
 					<l xml:id="l9">Io, che forma Celeste in terra scorsi,</l>
 					<l xml:id="l10">Rinchiusi i lumi, e dissi: Ahi, com<del>e</del>^'^ è stolto</l>
-					<l xml:id="l11">Sguardo, che’n lei sia d’affisarsi ^<del>arrischiarsi</del>^ ardito.</l>
+					<l xml:id="l11"><seg xml:id="l11v1">Sguardo, che’n lei sia d’affisarsi ^<del>arrischiarsi</del>^ ardito.</seg></l>
 				</lg>
 				<lg>
-					<l xml:id="l12">Ma de l’altro periglio non m’accorsi,</l>
+					<l xml:id="l12">Ma de l’<seg xml:id="l12v1">altro periglio non</seg> m’accorsi,</l>
 					<l xml:id="l13">Che mi fu per l’orecchie il cor ferito,</l>
-					<l xml:id="l14"><del>E i detti andaro</del>^Et giro i detti^, ove non giunse i<del>n</del>^l^ volto.</l>
+					<l xml:id="l14"><seg xml:id="l14v1"><del>E i detti andaro</del>^Et giro i detti^</seg>, ove non giunse i<del>n</del>^l^ volto.</l>
 				</lg>
 			</div>
 		</body>

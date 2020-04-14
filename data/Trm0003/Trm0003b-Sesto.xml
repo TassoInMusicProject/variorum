@@ -33,12 +33,12 @@
 			</div>
 			<div>
 				<lg>
-					<l xml:id="l1">Su l’ampia fronte il cresp’oro lucente</l>
+					<l xml:id="l1">Su l’ampia fronte <seg xml:id="l1v1">il cresp’oro</seg> lucente</l>
 					<l xml:id="l2">Sparso ondeggiava e de begl’occhi il raggio</l>
 					<l xml:id="l3">Al terren’ adducea fiorito Maggio</l>
 					<l xml:id="l4">E Lugl’ ai cori oltra misur’ ardente</l>
-					<l xml:id="l5">Nel bianco seno Amor vezzosamente</l>
-					<l xml:id="l6">Scherzava e non ardia di fargl’ oltraggio</l>
+					<l xml:id="l5">Nel <seg xml:id="l5v1">bianco</seg> seno Amor <seg xml:id="l5v2">vezzosamente</seg></l>
+					<l xml:id="l6">Scherzava <seg xml:id="l6v1">e non ardia di fargl’ oltraggio</seg></l>
 					<l xml:id="l7">E l’aura del parlar cortese e saggio</l>
 					<l xml:id="l8">Frà le rose spirar s’udia sovente.</l>
 				</lg>
@@ -46,9 +46,9 @@
 					<l xml:id="l9">Io che forma [TACET]</l>
 					<l xml:id="l10">Rinchiusi i lumi e dissi Ahi come è stolso</l>
 					<l xml:id="l11">sguardo [TACET]</l>
-					<l xml:id="l12">Ma de l’altro periglio non m’accorsi</l>
+					<l xml:id="l12">Ma de l’<seg xml:id="l12v1">altro periglio non</seg> m’accorsi</l>
 					<l xml:id="l13">Che mi fù per l’orech’ il cor ferito</l>
-					<l xml:id="l14">[TACET] ove non giuns’ in volto.</l>
+					<l xml:id="l14"><seg xml:id="l14v1">[TACET]</seg> ove non giuns’ <seg xml:id="l14v2">in</seg> volto.</l>
 				</lg>
 			</div>
 		</body>
