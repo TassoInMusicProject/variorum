@@ -33,22 +33,22 @@
 			</div>
 			<div>
 				<lg>
-					<l xml:id="l1">Di nettare amoroso ebro la mente</l>
-					<l xml:id="l2">Ratto firì nè sò com'in chiusa chiostra</l>
+					<l xml:id="l1">Di nettare amoroso <seg xml:id="l1v1">ebro</seg> la mente</l>
+					<l xml:id="l2"><seg xml:id="l2v1">Ratto firì nè sò com'in chiusa</seg> chiostra</l>
 					<l xml:id="l3">[TACET]</l>
-					<l xml:id="l4">Vidi con l'arme ond'egli si possente</l>
-					<l xml:id="l5">Vidi ch’in dolc'arringo altieramente</l>
-					<l xml:id="l6">Fer pria di lor belta leggiadra mostra</l>
+					<l xml:id="l4">Vidi con l'arme <seg xml:id="l4v1">ond'egli si possente</seg></l>
+					<l xml:id="l5">Vidi ch’in dolc'<seg xml:id="l5v1">arringo altieramente</seg></l>
+					<l xml:id="l6"><seg xml:id="l6v1">Fer pria di lor belta</seg> leggiadra mostra</l>
 					<l xml:id="l7">Poi movendosi incontr'ove s’inostra</l>
 					<l xml:id="l8">La bocca si ferir di bacio ardente.</l>
 				</lg>
 				<lg>
-					<l xml:id="l9">[TACET]</l>
-					<l xml:id="l10">[TACET] Amor deh perche à voto</l>
-					<l xml:id="l11">tant'arme E tai percosse usar da scherzo</l>
+					<l xml:id="l9"><seg xml:id="l9v1">[TACET]</seg></l>
+					<l xml:id="l10"><seg xml:id="l10v1">[TACET]</seg> Amor deh perche à voto</l>
+					<l xml:id="l11">tant'arme <seg xml:id="l11v1">E tai</seg> percosse usar <seg xml:id="l11v2">da</seg> scherzo</l>
 					<l xml:id="l12">Provas'in vera pugna e non si sdegni</l>
-					<l xml:id="l13">Scontro d'amante Amor me tuo devoto</l>
-					<l xml:id="l14">Opponi à l'una ò frà le due fà terzo.</l>
+					<l xml:id="l13"><seg xml:id="l13v1">Scontro</seg> d'amante Amor <seg xml:id="l13v2">me</seg> tuo devoto</l>
+					<l xml:id="l14">Opponi à l'una <seg xml:id="l14v1">ò frà le due fà terzo</seg>.</l>
 				</lg>
 			</div>
 		</body>

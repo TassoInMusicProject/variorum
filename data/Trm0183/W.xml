@@ -41,26 +41,26 @@
 			</div>
 			<div>
 				<lg>
-					<l xml:id="l1">Di nettare amoroso ebro la mente</l>
-					<l xml:id="l2">Ratto fui ne so come a chiusa chiostra</l>
+					<l xml:id="l1">Di nettare amoroso <seg xml:id="l1v1">ebro</seg> la mente</l>
+					<l xml:id="l2"><seg xml:id="l2v1">Ratto fui ne so come a chiusa</seg> chiostra</l>
 					<l xml:id="l3">Et due belle d’Amor guerriere in giostra</l>
-					<l xml:id="l4">Vidi con l’arme ond’egli è si possente</l>
+					<l xml:id="l4">Vidi con l’arme <seg xml:id="l4v1">ond’egli è si possente</seg></l>
 				</lg>
 				<lg>
-					<l xml:id="l5">Vidi ch'in dolce aringo alteramente</l>
-					<l xml:id="l6">Fer pria di lor belta leggiadra mostra</l>
+					<l xml:id="l5">Vidi ch'in dolce <seg xml:id="l5v1">aringo alteramente</seg></l>
+					<l xml:id="l6"><seg xml:id="l6v1">Fer pria di lor belta</seg> leggiadra mostra</l>
 					<l xml:id="l7">Poi movendosi incontra ove s’inostra</l>
 					<l xml:id="l8">La bocca, si ferir di bacio ardente</l>
 				</lg>
 				<lg>
-					<l xml:id="l9">Sonar le labbra, et vi restaro i segni</l>
-					<l xml:id="l10">De colpi impressi. Amor deh perche a voto</l>
-					<l xml:id="l11">Tal armi et tai percosse usar da scherzo?</l>
+					<l xml:id="l9"><seg xml:id="l9v1">Sonar</seg> le labbra, et vi restaro i segni</l>
+					<l xml:id="l10">De <seg xml:id="l10v1">colpi</seg> impressi. Amor deh perche a voto</l>
+					<l xml:id="l11">Tal armi <seg xml:id="l11v1">et tai</seg> percosse usar <seg xml:id="l11v2">da</seg> scherzo?</l>
 				</lg>
 				<lg>
 					<l xml:id="l12">Provinsi in vera pugna, et non si sdegni</l>
-					<l xml:id="l13">Scontro d’Amante. Amor me tuo devoto</l>
-					<l xml:id="l14">Opponi al’una, <del>et</del> o fra le due fa terzo</l>
+					<l xml:id="l13"><seg xml:id="l13v1">Scontro</seg> d’Amante. Amor <seg xml:id="l13v2">me</seg> tuo devoto</l>
+					<l xml:id="l14">Opponi al’una, <seg xml:id="l14v1"><del>et</del> o fra le due fa terzo</seg></l>
 				</lg>
 			</div>
 		</body>

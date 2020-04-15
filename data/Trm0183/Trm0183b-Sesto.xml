@@ -33,22 +33,22 @@
 			</div>
 			<div>
 				<lg>
-					<l xml:id="l1">[TACET]</l>
-					<l xml:id="l2">[TACET]</l>
+					<l xml:id="l1"><seg xml:id="l1v1">[TACET]</seg></l>
+					<l xml:id="l2"><seg xml:id="l2v1">[TACET]</seg></l>
 					<l xml:id="l3">[TACET]</l>
-					<l xml:id="l4">[TACET]</l>
-					<l xml:id="l5">Vidi ch’in dolce arringo alteramente</l>
-					<l xml:id="l6">Fer pria di lor beltà leggiadra mostra</l>
+					<l xml:id="l4"><seg xml:id="l4v1">[TACET]</seg></l>
+					<l xml:id="l5">Vidi ch’in dolce <seg xml:id="l5v1">arringo alteramente</seg></l>
+					<l xml:id="l6"><seg xml:id="l6v1">Fer pria di lor beltà</seg> leggiadra mostra</l>
 					<l xml:id="l7">Poi [TACET] ove s’inostra</l>
 					<l xml:id="l8">La bocca si ferir di bacio ardente.</l>
 				</lg>
 				<lg>
-					<l xml:id="l9">Sonar le labra e vi restaro i segni</l>
-					<l xml:id="l10">di colpi impressi amor deh perche a voto</l>
-					<l xml:id="l11">Tant'arme e tai percosse usar da scherzo</l>
+					<l xml:id="l9"><seg xml:id="l9v1">Sonar</seg> le labra e vi restaro i segni</l>
+					<l xml:id="l10">di <seg xml:id="l10v1">colpi</seg> impressi amor deh perche a voto</l>
+					<l xml:id="l11">Tant'arme <seg xml:id="l11v1">e tai</seg> percosse usar <seg xml:id="l11v2">da</seg> scherzo</l>
 					<l xml:id="l12">Provinsi in vera pugna e non si sdegni</l>
-					<l xml:id="l13">Scontro d'amante amor me tuo devoto</l>
-					<l xml:id="l14">Opponi all'una o fra le due fa terzo.</l>
+					<l xml:id="l13"><seg xml:id="l13v1">Scontro</seg> d'amante amor <seg xml:id="l13v2">me</seg> tuo devoto</l>
+					<l xml:id="l14">Opponi all'una <seg xml:id="l14v1">o fra le due fa terzo</seg>.</l>
 				</lg>
 			</div>
 		</body>

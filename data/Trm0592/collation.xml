@@ -18,6 +18,1198 @@
 	<text>
 		<body>
 			<ab>
+				<app>
+					<rdgGrp n="1">
+						<rdg wit="#Amz">
+							<ptr target="Amz.xml#l1v1"></ptr>
+						</rdg>
+						<rdg wit="#S8">
+							<ptr target="S8.xml#l1v1"></ptr>
+						</rdg>
+						<rdg wit="#S9">
+							<ptr target="S9.xml#l1v1"></ptr>
+						</rdg>
+						<rdg wit="#S11">
+							<ptr target="S11.xml#l1v1"></ptr>
+						</rdg>
+						<rdg wit="#S15">
+							<ptr target="S15.xml#l1v1"></ptr>
+						</rdg>
+						<rdg wit="#S33">
+							<ptr target="S33.xml#l1v1"></ptr>
+						</rdg>
+						<rdg wit="#S67">
+							<ptr target="S67.xml#l1v1"></ptr>
+						</rdg>
+						<rdg wit="#S86">
+							<ptr target="S86.xml#l1v1"></ptr>
+						</rdg>
+					</rdgGrp>
+					<rdgGrp n="2">
+						<rdg wit="#Brn">
+							<ptr target="Brn.xml#l1v1"></ptr>
+						</rdg>
+						<rdg wit="#S12">
+							<ptr target="S12.xml#l1v1"></ptr>
+						</rdg>
+						<rdg wit="#S13">
+							<ptr target="S13.xml#l1v1"></ptr>
+						</rdg>
+						<rdg wit="#S20">
+							<ptr target="S20.xml#l1v1"></ptr>
+						</rdg>
+						<rdg wit="#S24">
+							<ptr target="S24.xml#l1v1"></ptr>
+						</rdg>
+						<rdg wit="#S29">
+							<ptr target="S29.xml#l1v1"></ptr>
+						</rdg>
+						<rdg wit="#S141">
+							<ptr target="S141.xml#l1v1"></ptr>
+						</rdg>
+						<rdg wit="#S166">
+							<ptr target="S166.xml#l1v1"></ptr>
+						</rdg>
+						<rdg wit="#S169">
+							<ptr target="S169.xml#l1v1"></ptr>
+						</rdg>
+					</rdgGrp>
+					<rdgGrp n="3">
+						<rdg wit="#E1">
+							<ptr target="E1.xml#l1v1"></ptr>
+						</rdg>
+						<rdg wit="#Ts1">
+							<ptr target="Ts1.xml#l1v1"></ptr>
+						</rdg>
+					</rdgGrp>
+					<rdgGrp n="4">
+						<rdg wit="#F2">
+							<ptr target="F2.xml#l1v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm0592a-Canto">
+							<ptr target="Trm0592a-Canto.xml#l1v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm0592a-Alto">
+							<ptr target="Trm0592a-Alto.xml#l1v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm0592a-Quinto">
+							<ptr target="Trm0592a-Quinto.xml#l1v1"></ptr>
+						</rdg>
+					</rdgGrp>
+					<rdg wit="#I4">
+						<ptr target="I4.xml#l1v1"></ptr>
+					</rdg>
+					<rdg wit="#W">
+						<ptr target="W.xml#l1v1"></ptr>
+					</rdg>
+					<rdg wit="#S7">
+						<ptr target="S7.xml#l1v1"></ptr>
+					</rdg>
+					<rdgGrp n="5">
+						<rdg wit="#S85">
+							<ptr target="S85.xml#l1v1"></ptr>
+						</rdg>
+						<rdg wit="#S87">
+							<ptr target="S87.xml#l1v1"></ptr>
+						</rdg>
+					</rdgGrp>
+					<rdgGrp n="6">
+						<rdg wit="#Trm0592a-Tenore">
+							<ptr target="Trm0592a-Tenore.xml#l1v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm0592a-Basso">
+							<ptr target="Trm0592a-Basso.xml#l1v1"></ptr>
+						</rdg>
+					</rdgGrp>
+				</app>
+				<app>
+					<rdgGrp n="1">
+						<rdg wit="#Amz">
+							<ptr target="Amz.xml#l2v1"></ptr>
+						</rdg>
+						<rdg wit="#E1">
+							<ptr target="E1.xml#l2v1"></ptr>
+						</rdg>
+						<rdg wit="#Ts1">
+							<ptr target="Ts1.xml#l2v1"></ptr>
+						</rdg>
+					</rdgGrp>
+					<rdgGrp n="2">
+						<rdg wit="#Brn">
+							<ptr target="Brn.xml#l2v1"></ptr>
+						</rdg>
+						<rdg wit="#S11">
+							<ptr target="S11.xml#l2v1"></ptr>
+						</rdg>
+						<rdg wit="#S12">
+							<ptr target="S12.xml#l2v1"></ptr>
+						</rdg>
+						<rdg wit="#S13">
+							<ptr target="S13.xml#l2v1"></ptr>
+						</rdg>
+					</rdgGrp>
+					<rdg wit="#F2">
+						<ptr target="F2.xml#l2v1"></ptr>
+					</rdg>
+					<rdg wit="#I4">
+						<ptr target="I4.xml#l2v1"></ptr>
+					</rdg>
+					<rdgGrp n="3">
+						<rdg wit="#S7">
+							<ptr target="S7.xml#l2v1"></ptr>
+						</rdg>
+						<rdg wit="#S169">
+							<ptr target="S169.xml#l2v1"></ptr>
+						</rdg>
+					</rdgGrp>
+					<rdgGrp n="4">
+						<rdg wit="#S8">
+							<ptr target="S8.xml#l2v1"></ptr>
+						</rdg>
+						<rdg wit="#S9">
+							<ptr target="S9.xml#l2v1"></ptr>
+						</rdg>
+					</rdgGrp>
+					<rdgGrp n="5">
+						<rdg wit="#S15">
+							<ptr target="S15.xml#l2v1"></ptr>
+						</rdg>
+						<rdg wit="#S29">
+							<ptr target="S29.xml#l2v1"></ptr>
+						</rdg>
+						<rdg wit="#S33">
+							<ptr target="S33.xml#l2v1"></ptr>
+						</rdg>
+						<rdg wit="#S67">
+							<ptr target="S67.xml#l2v1"></ptr>
+						</rdg>
+						<rdg wit="#S141">
+							<ptr target="S141.xml#l2v1"></ptr>
+						</rdg>
+						<rdg wit="#S166">
+							<ptr target="S166.xml#l2v1"></ptr>
+						</rdg>
+					</rdgGrp>
+					<rdgGrp n="6">
+						<rdg wit="#S20">
+							<ptr target="S20.xml#l2v1"></ptr>
+						</rdg>
+						<rdg wit="#S24">
+							<ptr target="S24.xml#l2v1"></ptr>
+						</rdg>
+					</rdgGrp>
+					<rdg wit="#S85">
+						<ptr target="S85.xml#l2v1"></ptr>
+					</rdg>
+					<rdg wit="#S86">
+						<ptr target="S86.xml#l2v1"></ptr>
+					</rdg>
+					<rdg wit="#S87">
+						<ptr target="S87.xml#l2v1"></ptr>
+					</rdg>
+					<rdgGrp n="7">
+						<rdg wit="#Trm0592a-Canto">
+							<ptr target="Trm0592a-Canto.xml#l2v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm0592a-Alto">
+							<ptr target="Trm0592a-Alto.xml#l2v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm0592a-Quinto">
+							<ptr target="Trm0592a-Quinto.xml#l2v1"></ptr>
+						</rdg>
+					</rdgGrp>
+					<rdgGrp n="8">
+						<rdg wit="#Trm0592a-Tenore">
+							<ptr target="Trm0592a-Tenore.xml#l2v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm0592a-Basso">
+							<ptr target="Trm0592a-Basso.xml#l2v1"></ptr>
+						</rdg>
+					</rdgGrp>
+				</app>
+				<app>
+					<rdgGrp n="1">
+						<rdg wit="#Amz">
+							<ptr target="Amz.xml#l3v1"></ptr>
+						</rdg>
+						<rdg wit="#Ts1">
+							<ptr target="Ts1.xml#l3v1"></ptr>
+						</rdg>
+					</rdgGrp>
+					<rdgGrp n="2">
+						<rdg wit="#Brn">
+							<ptr target="Brn.xml#l3v1"></ptr>
+						</rdg>
+						<rdg wit="#S8">
+							<ptr target="S8.xml#l3v1"></ptr>
+						</rdg>
+						<rdg wit="#S9">
+							<ptr target="S9.xml#l3v1"></ptr>
+						</rdg>
+						<rdg wit="#S11">
+							<ptr target="S11.xml#l3v1"></ptr>
+						</rdg>
+						<rdg wit="#S12">
+							<ptr target="S12.xml#l3v1"></ptr>
+						</rdg>
+						<rdg wit="#S13">
+							<ptr target="S13.xml#l3v1"></ptr>
+						</rdg>
+						<rdg wit="#S20">
+							<ptr target="S20.xml#l3v1"></ptr>
+						</rdg>
+						<rdg wit="#S24">
+							<ptr target="S24.xml#l3v1"></ptr>
+						</rdg>
+						<rdg wit="#S29">
+							<ptr target="S29.xml#l3v1"></ptr>
+						</rdg>
+						<rdg wit="#S141">
+							<ptr target="S141.xml#l3v1"></ptr>
+						</rdg>
+						<rdg wit="#S166">
+							<ptr target="S166.xml#l3v1"></ptr>
+						</rdg>
+						<rdg wit="#S169">
+							<ptr target="S169.xml#l3v1"></ptr>
+						</rdg>
+					</rdgGrp>
+					<rdgGrp n="3">
+						<rdg wit="#E1">
+							<ptr target="E1.xml#l3v1"></ptr>
+						</rdg>
+						<rdg wit="#F2">
+							<ptr target="F2.xml#l3v1"></ptr>
+						</rdg>
+						<rdg wit="#S85">
+							<ptr target="S85.xml#l3v1"></ptr>
+						</rdg>
+						<rdg wit="#S87">
+							<ptr target="S87.xml#l3v1"></ptr>
+						</rdg>
+					</rdgGrp>
+					<rdgGrp n="4">
+						<rdg wit="#I4">
+							<ptr target="I4.xml#l3v1"></ptr>
+						</rdg>
+						<rdg wit="#S7">
+							<ptr target="S7.xml#l3v1"></ptr>
+						</rdg>
+						<rdg wit="#S86">
+							<ptr target="S86.xml#l3v1"></ptr>
+						</rdg>
+					</rdgGrp>
+					<rdg wit="#W">
+						<ptr target="W.xml#l3v1"></ptr>
+					</rdg>
+					<rdgGrp n="5">
+						<rdg wit="#S15">
+							<ptr target="S15.xml#l3v1"></ptr>
+						</rdg>
+						<rdg wit="#S33">
+							<ptr target="S33.xml#l3v1"></ptr>
+						</rdg>
+						<rdg wit="#S67">
+							<ptr target="S67.xml#l3v1"></ptr>
+						</rdg>
+					</rdgGrp>
+					<rdg wit="#Trm0592a-Canto">
+						<ptr target="Trm0592a-Canto.xml#l3v1"></ptr>
+					</rdg>
+					<rdgGrp n="6">
+						<rdg wit="#Trm0592a-Alto">
+							<ptr target="Trm0592a-Alto.xml#l3v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm0592a-Basso">
+							<ptr target="Trm0592a-Basso.xml#l3v1"></ptr>
+						</rdg>
+					</rdgGrp>
+					<rdgGrp n="7">
+						<rdg wit="#Trm0592a-Tenore">
+							<ptr target="Trm0592a-Tenore.xml#l3v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm0592a-Quinto">
+							<ptr target="Trm0592a-Quinto.xml#l3v1"></ptr>
+						</rdg>
+					</rdgGrp>
+				</app>
+				<app>
+					<rdg wit="#Amz">
+						<ptr target="Amz.xml#l5v1"></ptr>
+					</rdg>
+					<rdgGrp n="1">
+						<rdg wit="#Brn">
+							<ptr target="Brn.xml#l5v1"></ptr>
+						</rdg>
+						<rdg wit="#S11">
+							<ptr target="S11.xml#l5v1"></ptr>
+						</rdg>
+						<rdg wit="#S12">
+							<ptr target="S12.xml#l5v1"></ptr>
+						</rdg>
+						<rdg wit="#S13">
+							<ptr target="S13.xml#l5v1"></ptr>
+						</rdg>
+					</rdgGrp>
+					<rdgGrp n="2">
+						<rdg wit="#E1">
+							<ptr target="E1.xml#l5v1"></ptr>
+						</rdg>
+						<rdg wit="#F2">
+							<ptr target="F2.xml#l5v1"></ptr>
+						</rdg>
+						<rdg wit="#S85">
+							<ptr target="S85.xml#l5v1"></ptr>
+						</rdg>
+						<rdg wit="#S87">
+							<ptr target="S87.xml#l5v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm0592a-Canto">
+							<ptr target="Trm0592a-Canto.xml#l5v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm0592a-Alto">
+							<ptr target="Trm0592a-Alto.xml#l5v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm0592a-Tenore">
+							<ptr target="Trm0592a-Tenore.xml#l5v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm0592a-Basso">
+							<ptr target="Trm0592a-Basso.xml#l5v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm0592a-Quinto">
+							<ptr target="Trm0592a-Quinto.xml#l5v1"></ptr>
+						</rdg>
+					</rdgGrp>
+					<rdgGrp n="3">
+						<rdg wit="#I4">
+							<ptr target="I4.xml#l5v1"></ptr>
+						</rdg>
+						<rdg wit="#W">
+							<ptr target="W.xml#l5v1"></ptr>
+						</rdg>
+						<rdg wit="#S8">
+							<ptr target="S8.xml#l5v1"></ptr>
+						</rdg>
+						<rdg wit="#S9">
+							<ptr target="S9.xml#l5v1"></ptr>
+						</rdg>
+					</rdgGrp>
+					<rdg wit="#Ts1">
+						<ptr target="Ts1.xml#l5v1"></ptr>
+					</rdg>
+					<rdg wit="#S7">
+						<ptr target="S7.xml#l5v1"></ptr>
+					</rdg>
+					<rdgGrp n="4">
+						<rdg wit="#S15">
+							<ptr target="S15.xml#l5v1"></ptr>
+						</rdg>
+						<rdg wit="#S20">
+							<ptr target="S20.xml#l5v1"></ptr>
+						</rdg>
+						<rdg wit="#S24">
+							<ptr target="S24.xml#l5v1"></ptr>
+						</rdg>
+						<rdg wit="#S29">
+							<ptr target="S29.xml#l5v1"></ptr>
+						</rdg>
+						<rdg wit="#S33">
+							<ptr target="S33.xml#l5v1"></ptr>
+						</rdg>
+						<rdg wit="#S67">
+							<ptr target="S67.xml#l5v1"></ptr>
+						</rdg>
+						<rdg wit="#S86">
+							<ptr target="S86.xml#l5v1"></ptr>
+						</rdg>
+						<rdg wit="#S141">
+							<ptr target="S141.xml#l5v1"></ptr>
+						</rdg>
+						<rdg wit="#S166">
+							<ptr target="S166.xml#l5v1"></ptr>
+						</rdg>
+						<rdg wit="#S169">
+							<ptr target="S169.xml#l5v1"></ptr>
+						</rdg>
+					</rdgGrp>
+				</app>
+				<app>
+					<rdgGrp n="1">
+						<rdg wit="#Amz">
+							<ptr target="Amz.xml#l7v1"></ptr>
+						</rdg>
+						<rdg wit="#Brn">
+							<ptr target="Brn.xml#l7v1"></ptr>
+						</rdg>
+					</rdgGrp>
+					<rdgGrp n="2">
+						<rdg wit="#E1">
+							<ptr target="E1.xml#l7v1"></ptr>
+						</rdg>
+						<rdg wit="#F2">
+							<ptr target="F2.xml#l7v1"></ptr>
+						</rdg>
+						<rdg wit="#Ts1">
+							<ptr target="Ts1.xml#l7v1"></ptr>
+						</rdg>
+						<rdg wit="#S8">
+							<ptr target="S8.xml#l7v1"></ptr>
+						</rdg>
+						<rdg wit="#S9">
+							<ptr target="S9.xml#l7v1"></ptr>
+						</rdg>
+						<rdg wit="#S11">
+							<ptr target="S11.xml#l7v1"></ptr>
+						</rdg>
+						<rdg wit="#S12">
+							<ptr target="S12.xml#l7v1"></ptr>
+						</rdg>
+						<rdg wit="#S13">
+							<ptr target="S13.xml#l7v1"></ptr>
+						</rdg>
+						<rdg wit="#S15">
+							<ptr target="S15.xml#l7v1"></ptr>
+						</rdg>
+						<rdg wit="#S20">
+							<ptr target="S20.xml#l7v1"></ptr>
+						</rdg>
+						<rdg wit="#S24">
+							<ptr target="S24.xml#l7v1"></ptr>
+						</rdg>
+						<rdg wit="#S29">
+							<ptr target="S29.xml#l7v1"></ptr>
+						</rdg>
+						<rdg wit="#S33">
+							<ptr target="S33.xml#l7v1"></ptr>
+						</rdg>
+						<rdg wit="#S67">
+							<ptr target="S67.xml#l7v1"></ptr>
+						</rdg>
+						<rdg wit="#S85">
+							<ptr target="S85.xml#l7v1"></ptr>
+						</rdg>
+						<rdg wit="#S87">
+							<ptr target="S87.xml#l7v1"></ptr>
+						</rdg>
+						<rdg wit="#S141">
+							<ptr target="S141.xml#l7v1"></ptr>
+						</rdg>
+						<rdg wit="#S166">
+							<ptr target="S166.xml#l7v1"></ptr>
+						</rdg>
+						<rdg wit="#S169">
+							<ptr target="S169.xml#l7v1"></ptr>
+						</rdg>
+					</rdgGrp>
+					<rdgGrp n="3">
+						<rdg wit="#I4">
+							<ptr target="I4.xml#l7v1"></ptr>
+						</rdg>
+						<rdg wit="#S86">
+							<ptr target="S86.xml#l7v1"></ptr>
+						</rdg>
+					</rdgGrp>
+					<rdg wit="#W">
+						<ptr target="W.xml#l7v1"></ptr>
+					</rdg>
+					<rdg wit="#S7">
+						<ptr target="S7.xml#l7v1"></ptr>
+					</rdg>
+					<rdg wit="#Trm0592a-Canto">
+						<ptr target="Trm0592a-Canto.xml#l7v1"></ptr>
+					</rdg>
+				</app>
+				<app>
+					<rdgGrp n="1">
+						<rdg wit="#Amz">
+							<ptr target="Amz.xml#l8v1"></ptr>
+						</rdg>
+						<rdg wit="#Ts1">
+							<ptr target="Ts1.xml#l8v1"></ptr>
+						</rdg>
+					</rdgGrp>
+					<rdgGrp n="2">
+						<rdg wit="#Brn">
+							<ptr target="Brn.xml#l8v1"></ptr>
+						</rdg>
+						<rdg wit="#E1">
+							<ptr target="E1.xml#l8v1"></ptr>
+						</rdg>
+						<rdg wit="#F2">
+							<ptr target="F2.xml#l8v1"></ptr>
+						</rdg>
+						<rdg wit="#S8">
+							<ptr target="S8.xml#l8v1"></ptr>
+						</rdg>
+						<rdg wit="#S9">
+							<ptr target="S9.xml#l8v1"></ptr>
+						</rdg>
+						<rdg wit="#S11">
+							<ptr target="S11.xml#l8v1"></ptr>
+						</rdg>
+						<rdg wit="#S12">
+							<ptr target="S12.xml#l8v1"></ptr>
+						</rdg>
+						<rdg wit="#S13">
+							<ptr target="S13.xml#l8v1"></ptr>
+						</rdg>
+						<rdg wit="#S15">
+							<ptr target="S15.xml#l8v1"></ptr>
+						</rdg>
+						<rdg wit="#S20">
+							<ptr target="S20.xml#l8v1"></ptr>
+						</rdg>
+						<rdg wit="#S24">
+							<ptr target="S24.xml#l8v1"></ptr>
+						</rdg>
+						<rdg wit="#S29">
+							<ptr target="S29.xml#l8v1"></ptr>
+						</rdg>
+						<rdg wit="#S33">
+							<ptr target="S33.xml#l8v1"></ptr>
+						</rdg>
+						<rdg wit="#S67">
+							<ptr target="S67.xml#l8v1"></ptr>
+						</rdg>
+						<rdg wit="#S85">
+							<ptr target="S85.xml#l8v1"></ptr>
+						</rdg>
+						<rdg wit="#S87">
+							<ptr target="S87.xml#l8v1"></ptr>
+						</rdg>
+						<rdg wit="#S141">
+							<ptr target="S141.xml#l8v1"></ptr>
+						</rdg>
+						<rdg wit="#S166">
+							<ptr target="S166.xml#l8v1"></ptr>
+						</rdg>
+						<rdg wit="#S169">
+							<ptr target="S169.xml#l8v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm0592a-Canto">
+							<ptr target="Trm0592a-Canto.xml#l8v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm0592a-Alto">
+							<ptr target="Trm0592a-Alto.xml#l8v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm0592a-Tenore">
+							<ptr target="Trm0592a-Tenore.xml#l8v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm0592a-Basso">
+							<ptr target="Trm0592a-Basso.xml#l8v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm0592a-Quinto">
+							<ptr target="Trm0592a-Quinto.xml#l8v1"></ptr>
+						</rdg>
+					</rdgGrp>
+					<rdgGrp n="3">
+						<rdg wit="#I4">
+							<ptr target="I4.xml#l8v1"></ptr>
+						</rdg>
+						<rdg wit="#W">
+							<ptr target="W.xml#l8v1"></ptr>
+						</rdg>
+						<rdg wit="#S7">
+							<ptr target="S7.xml#l8v1"></ptr>
+						</rdg>
+						<rdg wit="#S86">
+							<ptr target="S86.xml#l8v1"></ptr>
+						</rdg>
+					</rdgGrp>
+				</app>
+				<app>
+					<rdgGrp n="1">
+						<rdg wit="#Amz">
+							<ptr target="Amz.xml#l9v1"></ptr>
+						</rdg>
+						<rdg wit="#Brn">
+							<ptr target="Brn.xml#l9v1"></ptr>
+						</rdg>
+						<rdg wit="#S8">
+							<ptr target="S8.xml#l9v1"></ptr>
+						</rdg>
+						<rdg wit="#S9">
+							<ptr target="S9.xml#l9v1"></ptr>
+						</rdg>
+						<rdg wit="#S11">
+							<ptr target="S11.xml#l9v1"></ptr>
+						</rdg>
+						<rdg wit="#S12">
+							<ptr target="S12.xml#l9v1"></ptr>
+						</rdg>
+						<rdg wit="#S13">
+							<ptr target="S13.xml#l9v1"></ptr>
+						</rdg>
+						<rdg wit="#S15">
+							<ptr target="S15.xml#l9v1"></ptr>
+						</rdg>
+						<rdg wit="#S20">
+							<ptr target="S20.xml#l9v1"></ptr>
+						</rdg>
+						<rdg wit="#S24">
+							<ptr target="S24.xml#l9v1"></ptr>
+						</rdg>
+						<rdg wit="#S33">
+							<ptr target="S33.xml#l9v1"></ptr>
+						</rdg>
+						<rdg wit="#S67">
+							<ptr target="S67.xml#l9v1"></ptr>
+						</rdg>
+						<rdg wit="#S86">
+							<ptr target="S86.xml#l9v1"></ptr>
+						</rdg>
+						<rdg wit="#S141">
+							<ptr target="S141.xml#l9v1"></ptr>
+						</rdg>
+						<rdg wit="#S166">
+							<ptr target="S166.xml#l9v1"></ptr>
+						</rdg>
+					</rdgGrp>
+					<rdg wit="#E1">
+						<ptr target="E1.xml#l9v1"></ptr>
+					</rdg>
+					<rdg wit="#F2">
+						<ptr target="F2.xml#l9v1"></ptr>
+					</rdg>
+					<rdgGrp n="2">
+						<rdg wit="#I4">
+							<ptr target="I4.xml#l9v1"></ptr>
+						</rdg>
+						<rdg wit="#S7">
+							<ptr target="S7.xml#l9v1"></ptr>
+						</rdg>
+						<rdg wit="#S169">
+							<ptr target="S169.xml#l9v1"></ptr>
+						</rdg>
+					</rdgGrp>
+					<rdg wit="#Ts1">
+						<ptr target="Ts1.xml#l9v1"></ptr>
+					</rdg>
+					<rdg wit="#W">
+						<ptr target="W.xml#l9v1"></ptr>
+					</rdg>
+					<rdgGrp n="3">
+						<rdg wit="#S85">
+							<ptr target="S85.xml#l9v1"></ptr>
+						</rdg>
+						<rdg wit="#S87">
+							<ptr target="S87.xml#l9v1"></ptr>
+						</rdg>
+					</rdgGrp>
+					<rdgGrp n="4">
+						<rdg wit="#Trm0592a-Canto">
+							<ptr target="Trm0592a-Canto.xml#l9v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm0592a-Alto">
+							<ptr target="Trm0592a-Alto.xml#l9v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm0592a-Tenore">
+							<ptr target="Trm0592a-Tenore.xml#l9v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm0592a-Quinto">
+							<ptr target="Trm0592a-Quinto.xml#l9v1"></ptr>
+						</rdg>
+					</rdgGrp>
+					<rdg wit="#Trm0592a-Basso">
+						<ptr target="Trm0592a-Basso.xml#l9v1"></ptr>
+					</rdg>
+				</app>
+				<app>
+					<rdgGrp n="1">
+						<rdg wit="#Amz">
+							<ptr target="Amz.xml#l10v1"></ptr>
+						</rdg>
+						<rdg wit="#Brn">
+							<ptr target="Brn.xml#l10v1"></ptr>
+						</rdg>
+						<rdg wit="#I4">
+							<ptr target="I4.xml#l10v1"></ptr>
+						</rdg>
+						<rdg wit="#Ts1">
+							<ptr target="Ts1.xml#l10v1"></ptr>
+						</rdg>
+						<rdg wit="#W">
+							<ptr target="W.xml#l10v1"></ptr>
+						</rdg>
+						<rdg wit="#S7">
+							<ptr target="S7.xml#l10v1"></ptr>
+						</rdg>
+						<rdg wit="#S8">
+							<ptr target="S8.xml#l10v1"></ptr>
+						</rdg>
+						<rdg wit="#S9">
+							<ptr target="S9.xml#l10v1"></ptr>
+						</rdg>
+						<rdg wit="#S11">
+							<ptr target="S11.xml#l10v1"></ptr>
+						</rdg>
+						<rdg wit="#S12">
+							<ptr target="S12.xml#l10v1"></ptr>
+						</rdg>
+						<rdg wit="#S13">
+							<ptr target="S13.xml#l10v1"></ptr>
+						</rdg>
+						<rdg wit="#S15">
+							<ptr target="S15.xml#l10v1"></ptr>
+						</rdg>
+						<rdg wit="#S20">
+							<ptr target="S20.xml#l10v1"></ptr>
+						</rdg>
+						<rdg wit="#S24">
+							<ptr target="S24.xml#l10v1"></ptr>
+						</rdg>
+						<rdg wit="#S33">
+							<ptr target="S33.xml#l10v1"></ptr>
+						</rdg>
+						<rdg wit="#S67">
+							<ptr target="S67.xml#l10v1"></ptr>
+						</rdg>
+						<rdg wit="#S86">
+							<ptr target="S86.xml#l10v1"></ptr>
+						</rdg>
+						<rdg wit="#S141">
+							<ptr target="S141.xml#l10v1"></ptr>
+						</rdg>
+						<rdg wit="#S166">
+							<ptr target="S166.xml#l10v1"></ptr>
+						</rdg>
+					</rdgGrp>
+					<rdgGrp n="2">
+						<rdg wit="#E1">
+							<ptr target="E1.xml#l10v1"></ptr>
+						</rdg>
+						<rdg wit="#F2">
+							<ptr target="F2.xml#l10v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm0592a-Alto">
+							<ptr target="Trm0592a-Alto.xml#l10v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm0592a-Tenore">
+							<ptr target="Trm0592a-Tenore.xml#l10v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm0592a-Basso">
+							<ptr target="Trm0592a-Basso.xml#l10v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm0592a-Quinto">
+							<ptr target="Trm0592a-Quinto.xml#l10v1"></ptr>
+						</rdg>
+					</rdgGrp>
+					<rdg wit="#S29">
+						<ptr target="S29.xml#l10v1"></ptr>
+					</rdg>
+					<rdgGrp n="3">
+						<rdg wit="#S85">
+							<ptr target="S85.xml#l10v1"></ptr>
+						</rdg>
+						<rdg wit="#S87">
+							<ptr target="S87.xml#l10v1"></ptr>
+						</rdg>
+					</rdgGrp>
+					<rdg wit="#S169">
+						<ptr target="S169.xml#l10v1"></ptr>
+					</rdg>
+					<rdg wit="#Trm0592a-Canto">
+						<ptr target="Trm0592a-Canto.xml#l10v1"></ptr>
+					</rdg>
+				</app>
+				<app>
+					<rdg wit="#Amz">
+						<ptr target="Amz.xml#l11v1"></ptr>
+					</rdg>
+					<rdgGrp n="1">
+						<rdg wit="#Brn">
+							<ptr target="Brn.xml#l11v1"></ptr>
+						</rdg>
+						<rdg wit="#I4">
+							<ptr target="I4.xml#l11v1"></ptr>
+						</rdg>
+						<rdg wit="#Ts1">
+							<ptr target="Ts1.xml#l11v1"></ptr>
+						</rdg>
+						<rdg wit="#S7">
+							<ptr target="S7.xml#l11v1"></ptr>
+						</rdg>
+						<rdg wit="#S8">
+							<ptr target="S8.xml#l11v1"></ptr>
+						</rdg>
+						<rdg wit="#S9">
+							<ptr target="S9.xml#l11v1"></ptr>
+						</rdg>
+						<rdg wit="#S11">
+							<ptr target="S11.xml#l11v1"></ptr>
+						</rdg>
+						<rdg wit="#S12">
+							<ptr target="S12.xml#l11v1"></ptr>
+						</rdg>
+						<rdg wit="#S13">
+							<ptr target="S13.xml#l11v1"></ptr>
+						</rdg>
+						<rdg wit="#S15">
+							<ptr target="S15.xml#l11v1"></ptr>
+						</rdg>
+						<rdg wit="#S20">
+							<ptr target="S20.xml#l11v1"></ptr>
+						</rdg>
+						<rdg wit="#S24">
+							<ptr target="S24.xml#l11v1"></ptr>
+						</rdg>
+						<rdg wit="#S33">
+							<ptr target="S33.xml#l11v1"></ptr>
+						</rdg>
+						<rdg wit="#S67">
+							<ptr target="S67.xml#l11v1"></ptr>
+						</rdg>
+						<rdg wit="#S86">
+							<ptr target="S86.xml#l11v1"></ptr>
+						</rdg>
+						<rdg wit="#S141">
+							<ptr target="S141.xml#l11v1"></ptr>
+						</rdg>
+						<rdg wit="#S166">
+							<ptr target="S166.xml#l11v1"></ptr>
+						</rdg>
+						<rdg wit="#S169">
+							<ptr target="S169.xml#l11v1"></ptr>
+						</rdg>
+					</rdgGrp>
+					<rdgGrp n="2">
+						<rdg wit="#E1">
+							<ptr target="E1.xml#l11v1"></ptr>
+						</rdg>
+						<rdg wit="#F2">
+							<ptr target="F2.xml#l11v1"></ptr>
+						</rdg>
+						<rdg wit="#S85">
+							<ptr target="S85.xml#l11v1"></ptr>
+						</rdg>
+						<rdg wit="#S87">
+							<ptr target="S87.xml#l11v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm0592a-Canto">
+							<ptr target="Trm0592a-Canto.xml#l11v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm0592a-Alto">
+							<ptr target="Trm0592a-Alto.xml#l11v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm0592a-Tenore">
+							<ptr target="Trm0592a-Tenore.xml#l11v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm0592a-Quinto">
+							<ptr target="Trm0592a-Quinto.xml#l11v1"></ptr>
+						</rdg>
+					</rdgGrp>
+					<rdg wit="#W">
+						<ptr target="W.xml#l11v1"></ptr>
+					</rdg>
+					<rdg wit="#S29">
+						<ptr target="S29.xml#l11v1"></ptr>
+					</rdg>
+					<rdg wit="#Trm0592a-Basso">
+						<ptr target="Trm0592a-Basso.xml#l11v1"></ptr>
+					</rdg>
+				</app>
+				<app>
+					<rdgGrp n="1">
+						<rdg wit="#Amz">
+							<ptr target="Amz.xml#l12v1"></ptr>
+						</rdg>
+						<rdg wit="#E1">
+							<ptr target="E1.xml#l12v1"></ptr>
+						</rdg>
+					</rdgGrp>
+					<rdg wit="#Brn">
+						<ptr target="Brn.xml#l12v1"></ptr>
+					</rdg>
+					<rdgGrp n="2">
+						<rdg wit="#F2">
+							<ptr target="F2.xml#l12v1"></ptr>
+						</rdg>
+						<rdg wit="#S85">
+							<ptr target="S85.xml#l12v1"></ptr>
+						</rdg>
+						<rdg wit="#S87">
+							<ptr target="S87.xml#l12v1"></ptr>
+						</rdg>
+					</rdgGrp>
+					<rdgGrp n="3">
+						<rdg wit="#I4">
+							<ptr target="I4.xml#l12v1"></ptr>
+						</rdg>
+						<rdg wit="#W">
+							<ptr target="W.xml#l12v1"></ptr>
+						</rdg>
+					</rdgGrp>
+					<rdgGrp n="4">
+						<rdg wit="#Ts1">
+							<ptr target="Ts1.xml#l12v1"></ptr>
+						</rdg>
+						<rdg wit="#S9">
+							<ptr target="S9.xml#l12v1"></ptr>
+						</rdg>
+						<rdg wit="#S11">
+							<ptr target="S11.xml#l12v1"></ptr>
+						</rdg>
+						<rdg wit="#S12">
+							<ptr target="S12.xml#l12v1"></ptr>
+						</rdg>
+						<rdg wit="#S13">
+							<ptr target="S13.xml#l12v1"></ptr>
+						</rdg>
+					</rdgGrp>
+					<rdg wit="#S7">
+						<ptr target="S7.xml#l12v1"></ptr>
+					</rdg>
+					<rdgGrp n="5">
+						<rdg wit="#S8">
+							<ptr target="S8.xml#l12v1"></ptr>
+						</rdg>
+						<rdg wit="#S15">
+							<ptr target="S15.xml#l12v1"></ptr>
+						</rdg>
+						<rdg wit="#S20">
+							<ptr target="S20.xml#l12v1"></ptr>
+						</rdg>
+						<rdg wit="#S24">
+							<ptr target="S24.xml#l12v1"></ptr>
+						</rdg>
+						<rdg wit="#S141">
+							<ptr target="S141.xml#l12v1"></ptr>
+						</rdg>
+						<rdg wit="#S166">
+							<ptr target="S166.xml#l12v1"></ptr>
+						</rdg>
+					</rdgGrp>
+					<rdg wit="#S29">
+						<ptr target="S29.xml#l12v1"></ptr>
+					</rdg>
+					<rdgGrp n="6">
+						<rdg wit="#S33">
+							<ptr target="S33.xml#l12v1"></ptr>
+						</rdg>
+						<rdg wit="#S67">
+							<ptr target="S67.xml#l12v1"></ptr>
+						</rdg>
+					</rdgGrp>
+					<rdg wit="#S86">
+						<ptr target="S86.xml#l12v1"></ptr>
+					</rdg>
+					<rdg wit="#S169">
+						<ptr target="S169.xml#l12v1"></ptr>
+					</rdg>
+					<rdgGrp n="7">
+						<rdg wit="#Trm0592a-Canto">
+							<ptr target="Trm0592a-Canto.xml#l12v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm0592a-Tenore">
+							<ptr target="Trm0592a-Tenore.xml#l12v1"></ptr>
+						</rdg>
+					</rdgGrp>
+					<rdgGrp n="8">
+						<rdg wit="#Trm0592a-Alto">
+							<ptr target="Trm0592a-Alto.xml#l12v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm0592a-Basso">
+							<ptr target="Trm0592a-Basso.xml#l12v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm0592a-Quinto">
+							<ptr target="Trm0592a-Quinto.xml#l12v1"></ptr>
+						</rdg>
+					</rdgGrp>
+				</app>
+				<app>
+					<rdgGrp n="1">
+						<rdg wit="#Amz">
+							<ptr target="Amz.xml#l13v1"></ptr>
+						</rdg>
+						<rdg wit="#Brn">
+							<ptr target="Brn.xml#l13v1"></ptr>
+						</rdg>
+					</rdgGrp>
+					<rdgGrp n="2">
+						<rdg wit="#E1">
+							<ptr target="E1.xml#l13v1"></ptr>
+						</rdg>
+						<rdg wit="#F2">
+							<ptr target="F2.xml#l13v1"></ptr>
+						</rdg>
+						<rdg wit="#S85">
+							<ptr target="S85.xml#l13v1"></ptr>
+						</rdg>
+						<rdg wit="#S87">
+							<ptr target="S87.xml#l13v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm0592a-Canto">
+							<ptr target="Trm0592a-Canto.xml#l13v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm0592a-Alto">
+							<ptr target="Trm0592a-Alto.xml#l13v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm0592a-Tenore">
+							<ptr target="Trm0592a-Tenore.xml#l13v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm0592a-Quinto">
+							<ptr target="Trm0592a-Quinto.xml#l13v1"></ptr>
+						</rdg>
+					</rdgGrp>
+					<rdgGrp n="3">
+						<rdg wit="#I4">
+							<ptr target="I4.xml#l13v1"></ptr>
+						</rdg>
+						<rdg wit="#Ts1">
+							<ptr target="Ts1.xml#l13v1"></ptr>
+						</rdg>
+						<rdg wit="#W">
+							<ptr target="W.xml#l13v1"></ptr>
+						</rdg>
+						<rdg wit="#S8">
+							<ptr target="S8.xml#l13v1"></ptr>
+						</rdg>
+						<rdg wit="#S9">
+							<ptr target="S9.xml#l13v1"></ptr>
+						</rdg>
+						<rdg wit="#S11">
+							<ptr target="S11.xml#l13v1"></ptr>
+						</rdg>
+						<rdg wit="#S12">
+							<ptr target="S12.xml#l13v1"></ptr>
+						</rdg>
+						<rdg wit="#S13">
+							<ptr target="S13.xml#l13v1"></ptr>
+						</rdg>
+						<rdg wit="#S15">
+							<ptr target="S15.xml#l13v1"></ptr>
+						</rdg>
+						<rdg wit="#S20">
+							<ptr target="S20.xml#l13v1"></ptr>
+						</rdg>
+						<rdg wit="#S24">
+							<ptr target="S24.xml#l13v1"></ptr>
+						</rdg>
+						<rdg wit="#S33">
+							<ptr target="S33.xml#l13v1"></ptr>
+						</rdg>
+						<rdg wit="#S67">
+							<ptr target="S67.xml#l13v1"></ptr>
+						</rdg>
+						<rdg wit="#S86">
+							<ptr target="S86.xml#l13v1"></ptr>
+						</rdg>
+						<rdg wit="#S141">
+							<ptr target="S141.xml#l13v1"></ptr>
+						</rdg>
+						<rdg wit="#S166">
+							<ptr target="S166.xml#l13v1"></ptr>
+						</rdg>
+						<rdg wit="#S169">
+							<ptr target="S169.xml#l13v1"></ptr>
+						</rdg>
+					</rdgGrp>
+					<rdg wit="#S7">
+						<ptr target="S7.xml#l13v1"></ptr>
+					</rdg>
+					<rdg wit="#S29">
+						<ptr target="S29.xml#l13v1"></ptr>
+					</rdg>
+					<rdg wit="#Trm0592a-Basso">
+						<ptr target="Trm0592a-Basso.xml#l13v1"></ptr>
+					</rdg>
+				</app>
+				<app>
+					<rdgGrp n="1">
+						<rdg wit="#Amz">
+							<ptr target="Amz.xml#l14v1"></ptr>
+						</rdg>
+						<rdg wit="#Brn">
+							<ptr target="Brn.xml#l14v1"></ptr>
+						</rdg>
+						<rdg wit="#I4">
+							<ptr target="I4.xml#l14v1"></ptr>
+						</rdg>
+						<rdg wit="#Ts1">
+							<ptr target="Ts1.xml#l14v1"></ptr>
+						</rdg>
+						<rdg wit="#W">
+							<ptr target="W.xml#l14v1"></ptr>
+						</rdg>
+						<rdg wit="#S7">
+							<ptr target="S7.xml#l14v1"></ptr>
+						</rdg>
+						<rdg wit="#S8">
+							<ptr target="S8.xml#l14v1"></ptr>
+						</rdg>
+						<rdg wit="#S9">
+							<ptr target="S9.xml#l14v1"></ptr>
+						</rdg>
+						<rdg wit="#S11">
+							<ptr target="S11.xml#l14v1"></ptr>
+						</rdg>
+						<rdg wit="#S12">
+							<ptr target="S12.xml#l14v1"></ptr>
+						</rdg>
+						<rdg wit="#S13">
+							<ptr target="S13.xml#l14v1"></ptr>
+						</rdg>
+						<rdg wit="#S15">
+							<ptr target="S15.xml#l14v1"></ptr>
+						</rdg>
+						<rdg wit="#S20">
+							<ptr target="S20.xml#l14v1"></ptr>
+						</rdg>
+						<rdg wit="#S24">
+							<ptr target="S24.xml#l14v1"></ptr>
+						</rdg>
+						<rdg wit="#S33">
+							<ptr target="S33.xml#l14v1"></ptr>
+						</rdg>
+						<rdg wit="#S67">
+							<ptr target="S67.xml#l14v1"></ptr>
+						</rdg>
+						<rdg wit="#S86">
+							<ptr target="S86.xml#l14v1"></ptr>
+						</rdg>
+						<rdg wit="#S141">
+							<ptr target="S141.xml#l14v1"></ptr>
+						</rdg>
+						<rdg wit="#S166">
+							<ptr target="S166.xml#l14v1"></ptr>
+						</rdg>
+						<rdg wit="#S169">
+							<ptr target="S169.xml#l14v1"></ptr>
+						</rdg>
+					</rdgGrp>
+					<rdgGrp n="2">
+						<rdg wit="#E1">
+							<ptr target="E1.xml#l14v1"></ptr>
+						</rdg>
+						<rdg wit="#F2">
+							<ptr target="F2.xml#l14v1"></ptr>
+						</rdg>
+						<rdg wit="#S85">
+							<ptr target="S85.xml#l14v1"></ptr>
+						</rdg>
+						<rdg wit="#S87">
+							<ptr target="S87.xml#l14v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm0592a-Canto">
+							<ptr target="Trm0592a-Canto.xml#l14v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm0592a-Alto">
+							<ptr target="Trm0592a-Alto.xml#l14v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm0592a-Tenore">
+							<ptr target="Trm0592a-Tenore.xml#l14v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm0592a-Basso">
+							<ptr target="Trm0592a-Basso.xml#l14v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm0592a-Quinto">
+							<ptr target="Trm0592a-Quinto.xml#l14v1"></ptr>
+						</rdg>
+					</rdgGrp>
+					<rdg wit="#S29">
+						<ptr target="S29.xml#l14v1"></ptr>
+					</rdg>
+				</app>
 			</ab>
 		</body>
 	</text>

@@ -41,26 +41,26 @@
 			</div>
 			<div>
 				<lg>
-					<l xml:id="l1">Di Nettare amoroso e^b^br<del>o</del>^a^ la mente^,^</l>
-					<l xml:id="l2">Ratto fui, ne so come, <del>in</del> ^a^ chiusa chiostra,</l>
+					<l xml:id="l1">Di Nettare amoroso <seg xml:id="l1v1">e^b^br<del>o</del>^a^</seg> la mente^,^</l>
+					<l xml:id="l2"><seg xml:id="l2v1">Ratto fui, ne so come, <del>in</del> ^a^ chiusa</seg> chiostra,</l>
 					<l xml:id="l3">E due belle d’<del>a</del>^A^mor guerriere in giostra</l>
-					<l xml:id="l4">Vidi con l’arme, ond’egli è si possente.</l>
+					<l xml:id="l4">Vidi con l’arme, <seg xml:id="l4v1">ond’egli è si possente</seg>.</l>
 				</lg>
 				<lg>
-					<l xml:id="l5">Vidi<del>,</del> ch<del>e</del>^'^ in dolce arringo <del>alter</del>^ardit^amente</l>
-					<l xml:id="l6">Fer pria di lor beltà leggiadra mostra,</l>
+					<l xml:id="l5">Vidi<del>,</del> ch<del>e</del>^'^ in dolce <seg xml:id="l5v1">arringo <del>alter</del>^ardit^amente</seg></l>
+					<l xml:id="l6"><seg xml:id="l6v1">Fer pria di lor beltà</seg> leggiadra mostra,</l>
 					<l xml:id="l7">Poi, muovendosi incontra, ove s’inostra</l>
 					<l xml:id="l8">La bocca<del>,</del> si ferir di bacio ardente.</l>
 				</lg>
 				<lg>
-					<l xml:id="l9">S^u^onar le labra, e vi restaro i segni</l>
-					<l xml:id="l10">D<del>i</del>^de'^ colpi impressi. Amor, deh perch<del>e</del>^'^ a voto</l>
-					<l xml:id="l11">Tant’arm<del>e</del>^i^, e tai percosse usar <del>da</del> ^e in^ scherzo?</l>
+					<l xml:id="l9"><seg xml:id="l9v1">S^u^onar</seg> le labra, e vi restaro i segni</l>
+					<l xml:id="l10">D<del>i</del>^de'^ <seg xml:id="l10v1">colpi</seg> impressi. Amor, deh perch<del>e</del>^'^ a voto</l>
+					<l xml:id="l11">Tant’arm<del>e</del>^i^, <seg xml:id="l11v1">e tai</seg> percosse usar <seg xml:id="l11v2"><del>da</del> ^e in^</seg> scherzo?</l>
 				</lg>
 				<lg>
 					<l xml:id="l12">Provinsi in vera pugna, e non si sdegni</l>
-					<l xml:id="l13"><del>Scontro</del> ^Colpo^ d’amante. Amor, me tuo devoto</l>
-					<l xml:id="l14">Opponi a<del>l</del>l’una, <del>o fra le due fa terzo.</del> ^o fa tra loro il terzo.^ ^e me fra lor fa terzo.^ ^o fa tra lor me terzo.^</l>
+					<l xml:id="l13"><seg xml:id="l13v1"><del>Scontro</del> ^Colpo^</seg> d’amante. Amor, <seg xml:id="l13v2">me</seg> tuo devoto</l>
+					<l xml:id="l14">Opponi a<del>l</del>l’una, <seg xml:id="l14v1"><del>o fra le due fa terzo.</del> ^o fa tra loro il terzo.^ ^e me fra lor fa terzo.^ ^o fa tra lor me terzo.^</seg></l>
 				</lg>
 			</div>
 		</body>

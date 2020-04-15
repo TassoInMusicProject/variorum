@@ -30,26 +30,26 @@
 			</div>
 			<div>
 				<lg>
-					<l xml:id="l1">GIÀ solevi parer vermiglia rosa,</l>
-					<l xml:id="l2">Ch’à dolci raggi, à lo spirar de l’ora,</l>
-					<l xml:id="l3">Rinchiude il grembo, e nel suo verde ancora,</l>
+					<l xml:id="l1"><seg xml:id="l1v1">GIÀ solevi parer vermiglia</seg> rosa,</l>
+					<l xml:id="l2"><seg xml:id="l2v1">Ch’à dolci raggi, à lo spirar de</seg> l’ora,</l>
+					<l xml:id="l3"><seg xml:id="l3v1">Rinchiude il grembo, e</seg> nel suo verde ancora,</l>
 					<l xml:id="l4">Verginella s’asconde, e vergognosa.</l>
 				</lg>
 				<lg>
-					<l xml:id="l5">O mi sembravi pur (che mortal cosa,</l>
+					<l xml:id="l5"><seg xml:id="l5v1">O mi sembravi pur</seg> (che mortal cosa,</l>
 					<l xml:id="l6">Non assomiglia à te) celeste Aurora;</l>
-					<l xml:id="l7">Che le campagne imperla, e i monti indora,</l>
-					<l xml:id="l8">Lucida in ciel sereno, e rugiadosa.</l>
+					<l xml:id="l7"><seg xml:id="l7v1">Che le campagne imperla</seg>, e i monti indora,</l>
+					<l xml:id="l8">Lucida in <seg xml:id="l8v1">ciel</seg> sereno, e rugiadosa.</l>
 				</lg>
 				<lg>
-					<l xml:id="l9">Ma nulla à te l’età men fresca hor toglie,</l>
-					<l xml:id="l10">Ne beltà giovenile in manto adorno,</l>
-					<l xml:id="l11">Vince la tua negletta, ò la pareggia.</l>
+					<l xml:id="l9"><seg xml:id="l9v1">Ma nulla à te l’età men fresca hor</seg> toglie,</l>
+					<l xml:id="l10">Ne <seg xml:id="l10v1">beltà giovenile</seg> in manto adorno,</l>
+					<l xml:id="l11"><seg xml:id="l11v1">Vince la tua negletta</seg>, ò la pareggia.</l>
 				</lg>
 				<lg>
-					<l xml:id="l12">Così più vago l’odorate foglie</l>
-					<l xml:id="l13">Il fior dispiega; e’l Sole a mezo il giorno</l>
-					<l xml:id="l14">Via più, che nel mattino, arde, e fiammeggia.</l>
+					<l xml:id="l12"><seg xml:id="l12v1">Così più vago l’odorate</seg> foglie</l>
+					<l xml:id="l13"><seg xml:id="l13v1">Il fior dispiega</seg>; e’l Sole a mezo il giorno</l>
+					<l xml:id="l14">Via più, che nel mattino, <seg xml:id="l14v1">arde</seg>, e fiammeggia.</l>
 				</lg>
 			</div>
 		</body>

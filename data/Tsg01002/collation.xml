@@ -203,68 +203,6 @@
 				<app>
 					<rdgGrp n="1">
 						<rdg wit="#G-1580CM">
-							<ptr target="G-1580CM.xml#l7v1"></ptr>
-						</rdg>
-						<rdg wit="#G-1581B">
-							<ptr target="G-1581B.xml#l7v1"></ptr>
-						</rdg>
-						<rdg wit="#G-1581MR">
-							<ptr target="G-1581MR.xml#l7v1"></ptr>
-						</rdg>
-						<rdg wit="#G-1582P">
-							<ptr target="G-1582P.xml#l7v1"></ptr>
-						</rdg>
-						<rdg wit="#G-1584O">
-							<ptr target="G-1584O.xml#l7v1"></ptr>
-						</rdg>
-						<rdg wit="#G-1588S">
-							<ptr target="G-1588S.xml#l7v1"></ptr>
-						</rdg>
-						<rdg wit="#G-1590B">
-							<ptr target="G-1590B.xml#l7v1"></ptr>
-						</rdg>
-						<rdg wit="#G-1600C">
-							<ptr target="G-1600C.xml#l7v1"></ptr>
-						</rdg>
-						<rdg wit="#G-1617P">
-							<ptr target="G-1617P.xml#l7v1"></ptr>
-						</rdg>
-						<rdg wit="#G-1625S">
-							<ptr target="G-1625S.xml#l7v1"></ptr>
-						</rdg>
-					</rdgGrp>
-					<rdg wit="#G-1581CV">
-						<ptr target="G-1581CV.xml#l7v1"></ptr>
-					</rdg>
-					<rdgGrp n="2">
-						<rdg wit="#Tsg01002a-Canto">
-							<ptr target="Tsg01002a-Canto.xml#l7v1"></ptr>
-						</rdg>
-						<rdg wit="#Tsg01002a-Tenore">
-							<ptr target="Tsg01002a-Tenore.xml#l7v1"></ptr>
-						</rdg>
-					</rdgGrp>
-					<rdgGrp n="3">
-						<rdg wit="#Tsg01002b-Canto">
-							<ptr target="Tsg01002b-Canto.xml#l7v1"></ptr>
-						</rdg>
-						<rdg wit="#Tsg01002b-Alto">
-							<ptr target="Tsg01002b-Alto.xml#l7v1"></ptr>
-						</rdg>
-						<rdg wit="#Tsg01002b-Tenore">
-							<ptr target="Tsg01002b-Tenore.xml#l7v1"></ptr>
-						</rdg>
-						<rdg wit="#Tsg01002b-Basso">
-							<ptr target="Tsg01002b-Basso.xml#l7v1"></ptr>
-						</rdg>
-						<rdg wit="#Tsg01002b-Quinto">
-							<ptr target="Tsg01002b-Quinto.xml#l7v1"></ptr>
-						</rdg>
-					</rdgGrp>
-				</app>
-				<app>
-					<rdgGrp n="1">
-						<rdg wit="#G-1580CM">
 							<ptr target="G-1580CM.xml#l8v1"></ptr>
 						</rdg>
 						<rdg wit="#G-1581B">

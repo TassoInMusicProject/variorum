@@ -41,26 +41,26 @@
 			</div>
 			<div>
 				<lg>
-					<l xml:id="l1">Di Nettare amoroso ebbro la mente</l>
-					<l xml:id="l2">Ratto fui non sò come à chiusa chiostra</l>
+					<l xml:id="l1">Di Nettare amoroso <seg xml:id="l1v1">ebbro</seg> la mente</l>
+					<l xml:id="l2"><seg xml:id="l2v1">Ratto fui non sò come à chiusa</seg> chiostra</l>
 					<l xml:id="l3">E due belle d’Amor Guerriere in giostra</l>
-					<l xml:id="l4">Viddi con l’arme, ond’egli è sì possente.</l>
+					<l xml:id="l4">Viddi con l’arme, <seg xml:id="l4v1">ond’egli è sì possente</seg>.</l>
 				</lg>
 				<lg>
-					<l xml:id="l5">Vidi, ch'in dolce aringo alteramente</l>
-					<l xml:id="l6">Fer pria di lor beltà leggiadra mostra,</l>
+					<l xml:id="l5">Vidi, ch'in dolce <seg xml:id="l5v1">aringo alteramente</seg></l>
+					<l xml:id="l6"><seg xml:id="l6v1">Fer pria di lor beltà</seg> leggiadra mostra,</l>
 					<l xml:id="l7">Poi movendosi incontra, ove s’inostra</l>
 					<l xml:id="l8">La bocca, se ferir' di bacio ardente.</l>
 				</lg>
 				<lg>
-					<l xml:id="l9">Sonar le labbra, e vi restaro i segni</l>
-					<l xml:id="l10">De colpi impressi, Amor; deh perch'à voto</l>
-					<l xml:id="l11">Tant’arme, e tai percosse usar in scherzo!</l>
+					<l xml:id="l9"><seg xml:id="l9v1">Sonar</seg> le labbra, e vi restaro i segni</l>
+					<l xml:id="l10">De <seg xml:id="l10v1">colpi</seg> impressi, Amor; deh perch'à voto</l>
+					<l xml:id="l11">Tant’arme, <seg xml:id="l11v1">e tai</seg> percosse usar <seg xml:id="l11v2">in</seg> scherzo!</l>
 				</lg>
 				<lg>
 					<l xml:id="l12">Provinsi in vera pugna, e non si sdegni</l>
-					<l xml:id="l13">Colpo d’amante, Amor un tuo devoto</l>
-					<l xml:id="l14">Opponi all’una, o fra le due fà terzo</l>
+					<l xml:id="l13"><seg xml:id="l13v1">Colpo</seg> d’amante, Amor <seg xml:id="l13v2">un</seg> tuo devoto</l>
+					<l xml:id="l14">Opponi all’una, <seg xml:id="l14v1">o fra le due fà terzo</seg></l>
 				</lg>
 			</div>
 		</body>

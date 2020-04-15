@@ -33,20 +33,20 @@
 			</div>
 			<div>
 				<lg>
-					<l xml:id="l1">[TACET]</l>
-					<l xml:id="l2">[TACET]</l>
-					<l xml:id="l3">Rinchiud'il gremb’e nel suo verde ancora</l>
+					<l xml:id="l1"><seg xml:id="l1v1">[TACET]</seg></l>
+					<l xml:id="l2"><seg xml:id="l2v1">[TACET]</seg></l>
+					<l xml:id="l3"><seg xml:id="l3v1">Rinchiud'il gremb’e</seg> nel suo verde ancora</l>
 					<l xml:id="l4">Verginella s'asconde e vergognosa</l>
-					<l xml:id="l5">O mi sembravi pur che mortal cosa</l>
+					<l xml:id="l5"><seg xml:id="l5v1">O mi sembravi pur</seg> che mortal cosa</l>
 					<l xml:id="l6">Non s’assomiglia à te celeste aurora</l>
-					<l xml:id="l7">Che le campagne imperl’e i monti indora</l>
-					<l xml:id="l8">Lucida in ciel sereno e rugiadosa</l>
-					<l xml:id="l9">Ma nulla à te l'età men fresc’hor toglie</l>
-					<l xml:id="l10">Ne beltà giovinetta in manto adorno</l>
-					<l xml:id="l11">Vince la tua negletta o la pareggia</l>
-					<l xml:id="l12">[TACET]</l>
-					<l xml:id="l13">Il fior dispiega e’l sole à mezzo giorno</l>
-					<l xml:id="l14">Via piu che nel mattin arde e fiammeggia. </l>
+					<l xml:id="l7">Che le campagne imperl’</seg>e i monti indora</l>
+					<l xml:id="l8">Lucida in <seg xml:id="l8v1">ciel</seg> sereno e rugiadosa</l>
+					<l xml:id="l9"><seg xml:id="l9v1">Ma nulla à te l'età men fresc’hor</seg> toglie</l>
+					<l xml:id="l10">Ne <seg xml:id="l10v1">beltà giovinetta</seg> in manto adorno</l>
+					<l xml:id="l11"><seg xml:id="l11v1">Vince la tua negletta</seg> o la pareggia</l>
+					<l xml:id="l12"><seg xml:id="l12v1">[TACET]</seg></l>
+					<l xml:id="l13"><seg xml:id="l13v1">Il fior dispiega</seg> e’l sole à mezzo giorno</l>
+					<l xml:id="l14">Via piu che nel mattin <seg xml:id="l14v1">arde</seg> e fiammeggia. </l>
 				</lg>
 			</div>
 		</body>

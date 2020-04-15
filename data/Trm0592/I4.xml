@@ -41,26 +41,26 @@
 			</div>
 			<div>
 				<lg>
-					<l xml:id="l1">Ne gli acerbi annj tuoi purpurea rosa</l>
-					<l xml:id="l2">Sembravi tu; ch'ài rai tepidi à l’hora</l>
-					<l xml:id="l3">Non apre il sen: ma nel suo verde anchora</l>
+					<l xml:id="l1"><seg xml:id="l1v1">Ne gli acerbi anni tuoi purpurea</seg> rosa</l>
+					<l xml:id="l2"><seg xml:id="l2v1">Sembravi tu; ch'ài rai tepidi à l’hora</seg></l>
+					<l xml:id="l3"><seg xml:id="l3v1">Non apre il sen: ma</seg> nel suo verde anchora</l>
 					<l xml:id="l4">Verginella s’asconde, e vergognosa.</l>
 				</lg>
 				<lg>
-					<l xml:id="l5">O piu tosto parei, (che mortal cosa</l>
+					<l xml:id="l5"><seg xml:id="l5v1">O piu tosto parei,</seg> (che mortal cosa</l>
 					<l xml:id="l6">Non s’assomigla à te,) celeste Aurora;</l>
-					<l xml:id="l7">Ch'imperla le campagne, e i monti indora,</l>
-					<l xml:id="l8">Lucida in bel sereno et rugiadosa.</l>
+					<l xml:id="l7"><seg xml:id="l7v1">Ch'imperla le campagne</seg>, e i monti indora,</l>
+					<l xml:id="l8">Lucida in <seg xml:id="l8v1">bel</seg> sereno et rugiadosa.</l>
 				</lg>
 				<lg>
-					<l xml:id="l9">Hor la men verde età nulla a te toglie,</l>
-					<l xml:id="l10">Ne te, benche negletta in manto adorno</l>
-					<l xml:id="l11">Giovinetta beltà vince e pareggia.</l>
+					<l xml:id="l9"><seg xml:id="l9v1">Hor la men verde età nulla a te</seg> toglie,</l>
+					<l xml:id="l10">Ne <seg xml:id="l10v1">te, benche negletta</seg> in manto adorno</l>
+					<l xml:id="l11"><seg xml:id="l11v1">Giovinetta beltà vince</seg> e pareggia.</l>
 				</lg>
 				<lg>
-					<l xml:id="l12">Cosi piu vago è fior, poiche le foglie</l>
-					<l xml:id="l13">Spiega odorate, il sol nel mezo giorno</l>
-					<l xml:id="l14">Via piu che nel mattin luce, et fiammeggia.</l>
+					<l xml:id="l12"><seg xml:id="l12v1">Cosi piu vago è fior, poiche le</seg> foglie</l>
+					<l xml:id="l13"><seg xml:id="l13v1">Spiega odorate</seg>, il sol nel mezo giorno</l>
+					<l xml:id="l14">Via piu che nel mattin <seg xml:id="l14v1">luce</seg>, et fiammeggia.</l>
 				</lg>
 			</div>
 		</body>

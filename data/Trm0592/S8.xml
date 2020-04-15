@@ -30,26 +30,26 @@
 			</div>
 			<div>
 				<lg>
-					<l xml:id="l1">Ne gli anni acerbi tuoi purpurea rosa</l>
-					<l xml:id="l2">Sembravi tu, che a i rai tepidi, a l’ora</l>
-					<l xml:id="l3">Non apre ’l sen, ma nel suo verde ancora</l>
+					<l xml:id="l1"><seg xml:id="l1v1">Ne gli anni acerbi tuoi purpurea</seg> rosa</l>
+					<l xml:id="l2"><seg xml:id="l2v1">Sembravi tu, che a i rai tepidi, a</seg> l’ora</l>
+					<l xml:id="l3"><seg xml:id="l3v1">Non apre’l sen, ma</seg> nel suo verde ancora</l>
 					<l xml:id="l4">Verginella s’asconde, et vergognosa;</l>
 				</lg>
 				<lg>
-					<l xml:id="l5">O piu tosto parei (che mortal cosa</l>
+					<l xml:id="l5"><seg xml:id="l5v1">O piu tosto parei</seg> (che mortal cosa</l>
 					<l xml:id="l6">Non s’assomiglia à te) celeste Aurora,</l>
-					<l xml:id="l7">Che le campagne imperla, e i monti indora</l>
-					<l xml:id="l8">Lucida in Ciel sereno, &amp; ruggiadosa;</l>
+					<l xml:id="l7"><seg xml:id="l7v1">Che le campagne imperla</seg>, e i monti indora</l>
+					<l xml:id="l8">Lucida in <seg xml:id="l8v1">Ciel</seg> sereno, &amp; ruggiadosa;</l>
 				</lg>
 				<lg>
-					<l xml:id="l9">Hor la men verde età nulla à te toglie;</l>
-					<l xml:id="l10">Nè te, benche negletta, in manto adorno</l>
-					<l xml:id="l11">Giovinetta beltà vince, ò pareggia;</l>
+					<l xml:id="l9"><seg xml:id="l9v1">Hor la men verde età nulla à te</seg> toglie;</l>
+					<l xml:id="l10">Nè <seg xml:id="l10v1">te, benche negletta</seg>, in manto adorno</l>
+					<l xml:id="l11"><seg xml:id="l11v1">Giovinetta beltà vince</seg>, ò pareggia;</l>
 				</lg>
 				<lg>
-					<l xml:id="l12">Cosi è più vago il fior, poi che le foglie</l>
-					<l xml:id="l13">Spiega odorate, e ’l Sol nel mezzo giorno</l>
-					<l xml:id="l14">Via più, che nel mattin luce, &amp; fiammeggia.</l>
+					<l xml:id="l12"><seg xml:id="l12v1">Cosi è più vago il fior, poi che le</seg> foglie</l>
+					<l xml:id="l13"><seg xml:id="l13v1">Spiega odorate</seg>, e ’l Sol nel mezzo giorno</l>
+					<l xml:id="l14">Via più, che nel mattin <seg xml:id="l14v1">luce</seg>, &amp; fiammeggia.</l>
 				</lg>
 			</div>
 		</body>
