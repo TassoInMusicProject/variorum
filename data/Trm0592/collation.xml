@@ -515,9 +515,23 @@
 					<rdg wit="#S7">
 						<ptr target="S7.xml#l7v1"></ptr>
 					</rdg>
-					<rdg wit="#Trm0592a-Canto">
-						<ptr target="Trm0592a-Canto.xml#l7v1"></ptr>
-					</rdg>
+					<rdgGrp n="4">
+						<rdg wit="#Trm0592a-Canto">
+							<ptr target="Trm0592a-Canto.xml#l7v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm0592a-Alto">
+							<ptr target="Trm0592a-Alto.xml#l7v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm0592a-Tenore">
+							<ptr target="Trm0592a-Tenore.xml#l7v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm0592a-Basso">
+							<ptr target="Trm0592a-Basso.xml#l7v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm0592a-Quinto">
+							<ptr target="Trm0592a-Quinto.xml#l7v1"></ptr>
+						</rdg>
+					</rdgGrp>
 				</app>
 				<app>
 					<rdgGrp n="1">
