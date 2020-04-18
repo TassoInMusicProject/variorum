@@ -155,6 +155,14 @@
 						<ptr target="I4.xml#l2v1"></ptr>
 					</rdg>
 					<rdgGrp n="3">
+						<rdg wit="#W">
+							<ptr target="W.xml#l2v1"></ptr>
+						</rdg>
+						<rdg wit="#S86">
+							<ptr target="S86.xml#l2v1"></ptr>
+						</rdg>
+					</rdgGrp>
+					<rdgGrp n="4">
 						<rdg wit="#S7">
 							<ptr target="S7.xml#l2v1"></ptr>
 						</rdg>
@@ -162,7 +170,7 @@
 							<ptr target="S169.xml#l2v1"></ptr>
 						</rdg>
 					</rdgGrp>
-					<rdgGrp n="4">
+					<rdgGrp n="5">
 						<rdg wit="#S8">
 							<ptr target="S8.xml#l2v1"></ptr>
 						</rdg>
@@ -170,7 +178,7 @@
 							<ptr target="S9.xml#l2v1"></ptr>
 						</rdg>
 					</rdgGrp>
-					<rdgGrp n="5">
+					<rdgGrp n="6">
 						<rdg wit="#S15">
 							<ptr target="S15.xml#l2v1"></ptr>
 						</rdg>
@@ -190,7 +198,7 @@
 							<ptr target="S166.xml#l2v1"></ptr>
 						</rdg>
 					</rdgGrp>
-					<rdgGrp n="6">
+					<rdgGrp n="7">
 						<rdg wit="#S20">
 							<ptr target="S20.xml#l2v1"></ptr>
 						</rdg>
@@ -201,13 +209,10 @@
 					<rdg wit="#S85">
 						<ptr target="S85.xml#l2v1"></ptr>
 					</rdg>
-					<rdg wit="#S86">
-						<ptr target="S86.xml#l2v1"></ptr>
-					</rdg>
 					<rdg wit="#S87">
 						<ptr target="S87.xml#l2v1"></ptr>
 					</rdg>
-					<rdgGrp n="7">
+					<rdgGrp n="8">
 						<rdg wit="#Trm0592a-Canto">
 							<ptr target="Trm0592a-Canto.xml#l2v1"></ptr>
 						</rdg>
@@ -218,7 +223,7 @@
 							<ptr target="Trm0592a-Quinto.xml#l2v1"></ptr>
 						</rdg>
 					</rdgGrp>
-					<rdgGrp n="8">
+					<rdgGrp n="9">
 						<rdg wit="#Trm0592a-Tenore">
 							<ptr target="Trm0592a-Tenore.xml#l2v1"></ptr>
 						</rdg>
