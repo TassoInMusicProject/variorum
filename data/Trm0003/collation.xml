@@ -449,6 +449,113 @@
 				<app>
 					<rdgGrp n="1">
 						<rdg wit="#Amz">
+							<ptr target="Amz.xml#l11v1"></ptr>
+						</rdg>
+						<rdg wit="#Brn">
+							<ptr target="Brn.xml#l11v1"></ptr>
+						</rdg>
+						<rdg wit="#Ts1">
+							<ptr target="Ts1.xml#l11v1"></ptr>
+						</rdg>
+					</rdgGrp>
+					<rdgGrp n="2">
+						<rdg wit="#Ber">
+							<ptr target="Ber.xml#l11v1"></ptr>
+						</rdg>
+						<rdg wit="#Mi">
+							<ptr target="Mi.xml#l11v1"></ptr>
+						</rdg>
+						<rdg wit="#S85">
+							<ptr target="S85.xml#l11v1"></ptr>
+						</rdg>
+						<rdg wit="#S87">
+							<ptr target="S87.xml#l11v1"></ptr>
+						</rdg>
+					</rdgGrp>
+					<rdg wit="#C">
+						<ptr target="C.xml#l11v1"></ptr>
+					</rdg>
+					<rdg wit="#S3">
+						<ptr target="S3.xml#l11v1"></ptr>
+					</rdg>
+					<rdgGrp n="3">
+						<rdg wit="#S4">
+							<ptr target="S4.xml#l11v1"></ptr>
+						</rdg>
+						<rdg wit="#S8">
+							<ptr target="S8.xml#l11v1"></ptr>
+						</rdg>
+						<rdg wit="#S9">
+							<ptr target="S9.xml#l11v1"></ptr>
+						</rdg>
+						<rdg wit="#S11">
+							<ptr target="S11.xml#l11v1"></ptr>
+						</rdg>
+						<rdg wit="#S12">
+							<ptr target="S12.xml#l11v1"></ptr>
+						</rdg>
+						<rdg wit="#S13">
+							<ptr target="S13.xml#l11v1"></ptr>
+						</rdg>
+						<rdg wit="#S15">
+							<ptr target="S15.xml#l11v1"></ptr>
+						</rdg>
+						<rdg wit="#S20">
+							<ptr target="S20.xml#l11v1"></ptr>
+						</rdg>
+						<rdg wit="#S24">
+							<ptr target="S24.xml#l11v1"></ptr>
+						</rdg>
+						<rdg wit="#S29">
+							<ptr target="S29.xml#l11v1"></ptr>
+						</rdg>
+					</rdgGrp>
+					<rdgGrp n="4">
+						<rdg wit="#S33">
+							<ptr target="S33.xml#l11v1"></ptr>
+						</rdg>
+						<rdg wit="#S67">
+							<ptr target="S67.xml#l11v1"></ptr>
+						</rdg>
+						<rdg wit="#S141">
+							<ptr target="S141.xml#l11v1"></ptr>
+						</rdg>
+						<rdg wit="#S166">
+							<ptr target="S166.xml#l11v1"></ptr>
+						</rdg>
+					</rdgGrp>
+					<rdg wit="#S169">
+						<ptr target="S169.xml#l11v1"></ptr>
+					</rdg>
+					<rdgGrp n="5">
+						<rdg wit="#Trm0003a-Canto">
+							<ptr target="Trm0003a-Canto.xml#l11v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm0003a-Alto">
+							<ptr target="Trm0003a-Alto.xml#l11v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm0003a-Tenore">
+							<ptr target="Trm0003a-Tenore.xml#l11v1"></ptr>
+						</rdg>
+					</rdgGrp>
+					<rdgGrp n="6">
+						<rdg wit="#Trm0003b-Canto">
+							<ptr target="Trm0003b-Canto.xml#l11v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm0003b-Tenore">
+							<ptr target="Trm0003b-Tenore.xml#l11v1"></ptr>
+						</rdg>
+					</rdgGrp>
+					<rdg wit="#Trm0003b-Alto">
+						<ptr target="Trm0003b-Alto.xml#l11v1"></ptr>
+					</rdg>
+					<rdg wit="#Trm0003b-Basso">
+						<ptr target="Trm0003b-Basso.xml#l11v1"></ptr>
+					</rdg>
+				</app>
+				<app>
+					<rdgGrp n="1">
+						<rdg wit="#Amz">
 							<ptr target="Amz.xml#l12v1"></ptr>
 						</rdg>
 						<rdg wit="#Brn">

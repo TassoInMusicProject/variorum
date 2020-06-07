@@ -97,6 +97,58 @@
 					</rdgGrp>
 				</app>
 				<app>
+					<rdgGrp n="1">
+						<rdg wit="#E2">
+							<ptr target="E2.xml#l3v1"></ptr>
+						</rdg>
+						<rdg wit="#S174">
+							<ptr target="S174.xml#l3v1"></ptr>
+						</rdg>
+					</rdgGrp>
+					<rdg wit="#S71">
+						<ptr target="S71.xml#l3v1"></ptr>
+					</rdg>
+					<rdgGrp n="2">
+						<rdg wit="#Trm0319a-Canto">
+							<ptr target="Trm0319a-Canto.xml#l3v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm0319a-Alto">
+							<ptr target="Trm0319a-Alto.xml#l3v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm0319a-Tenore">
+							<ptr target="Trm0319a-Tenore.xml#l3v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm0319a-Quinto">
+							<ptr target="Trm0319a-Quinto.xml#l3v1"></ptr>
+						</rdg>
+					</rdgGrp>
+				</app>
+				<app>
+					<rdg wit="#E2">
+						<ptr target="E2.xml#l3v2"></ptr>
+					</rdg>
+					<rdgGrp n="1">
+						<rdg wit="#S71">
+							<ptr target="S71.xml#l3v2"></ptr>
+						</rdg>
+						<rdg wit="#S174">
+							<ptr target="S174.xml#l3v2"></ptr>
+						</rdg>
+						<rdg wit="#Trm0319a-Canto">
+							<ptr target="Trm0319a-Canto.xml#l3v2"></ptr>
+						</rdg>
+						<rdg wit="#Trm0319a-Alto">
+							<ptr target="Trm0319a-Alto.xml#l3v2"></ptr>
+						</rdg>
+						<rdg wit="#Trm0319a-Tenore">
+							<ptr target="Trm0319a-Tenore.xml#l3v2"></ptr>
+						</rdg>
+						<rdg wit="#Trm0319a-Quinto">
+							<ptr target="Trm0319a-Quinto.xml#l3v2"></ptr>
+						</rdg>
+					</rdgGrp>
+				</app>
+				<app>
 					<rdg wit="#E2">
 						<ptr target="E2.xml#l4v1"></ptr>
 					</rdg>
