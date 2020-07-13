@@ -122,6 +122,9 @@
 						<rdg wit="#Trm0560e-Alto">
 							<ptr target="Trm0560e-Alto.xml#l1v1"></ptr>
 						</rdg>
+						<rdg wit="#Trm0560e-Tenore">
+							<ptr target="Trm0560e-Tenore.xml#l1v1"></ptr>
+						</rdg>
 						<rdg wit="#Trm0560e-Basso">
 							<ptr target="Trm0560e-Basso.xml#l1v1"></ptr>
 						</rdg>
@@ -396,6 +399,9 @@
 						</rdg>
 						<rdg wit="#Trm0560e-Alto">
 							<ptr target="Trm0560e-Alto.xml#l2v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm0560e-Tenore">
+							<ptr target="Trm0560e-Tenore.xml#l2v1"></ptr>
 						</rdg>
 						<rdg wit="#Trm0560e-Basso">
 							<ptr target="Trm0560e-Basso.xml#l2v1"></ptr>
@@ -748,6 +754,9 @@
 						<rdg wit="#Trm0560e-Alto">
 							<ptr target="Trm0560e-Alto.xml#l3v1"></ptr>
 						</rdg>
+						<rdg wit="#Trm0560e-Tenore">
+							<ptr target="Trm0560e-Tenore.xml#l3v1"></ptr>
+						</rdg>
 						<rdg wit="#Trm0560e-Basso">
 							<ptr target="Trm0560e-Basso.xml#l3v1"></ptr>
 						</rdg>
@@ -1020,6 +1029,9 @@
 						</rdg>
 						<rdg wit="#Trm0560e-Alto">
 							<ptr target="Trm0560e-Alto.xml#l4v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm0560e-Tenore">
+							<ptr target="Trm0560e-Tenore.xml#l4v1"></ptr>
 						</rdg>
 						<rdg wit="#Trm0560e-Basso">
 							<ptr target="Trm0560e-Basso.xml#l4v1"></ptr>
@@ -1358,6 +1370,9 @@
 						<rdg wit="#Trm0560e-Alto">
 							<ptr target="Trm0560e-Alto.xml#l5v1"></ptr>
 						</rdg>
+						<rdg wit="#Trm0560e-Tenore">
+							<ptr target="Trm0560e-Tenore.xml#l5v1"></ptr>
+						</rdg>
 						<rdg wit="#Trm0560e-Basso">
 							<ptr target="Trm0560e-Basso.xml#l5v1"></ptr>
 						</rdg>
@@ -1479,6 +1494,9 @@
 						</rdg>
 						<rdg wit="#Trm0560e-Alto">
 							<ptr target="Trm0560e-Alto.xml#l6v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm0560e-Tenore">
+							<ptr target="Trm0560e-Tenore.xml#l6v1"></ptr>
 						</rdg>
 						<rdg wit="#Trm0560f-Canto">
 							<ptr target="Trm0560f-Canto.xml#l6v1"></ptr>
@@ -1763,6 +1781,9 @@
 						</rdg>
 						<rdg wit="#Trm0560e-Alto">
 							<ptr target="Trm0560e-Alto.xml#l7v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm0560e-Tenore">
+							<ptr target="Trm0560e-Tenore.xml#l7v1"></ptr>
 						</rdg>
 						<rdg wit="#Trm0560e-Basso">
 							<ptr target="Trm0560e-Basso.xml#l7v1"></ptr>
@@ -2126,6 +2147,9 @@
 						</rdg>
 						<rdg wit="#Trm0560e-Alto">
 							<ptr target="Trm0560e-Alto.xml#l8v1"></ptr>
+						</rdg>
+						<rdg wit="#Trm0560e-Tenore">
+							<ptr target="Trm0560e-Tenore.xml#l8v1"></ptr>
 						</rdg>
 						<rdg wit="#Trm0560e-Basso">
 							<ptr target="Trm0560e-Basso.xml#l8v1"></ptr>
