@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Tarquinia, se rimiri</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0560e</idno>
+			<idno type="label">Trm0560e (Tenore)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0560e-Tenore">
+					<title>Il primo libro de madrigali a quattro voci</title>
+					<url>http://www.bibliotecamusica.it/cmbm/viewschedatwbca.asp?path=/cmbm/images/ripro/gaspari/_U/U076/</url>
+					<author role="composer">Pordenon, Marco Antonio</author>
+					<publisher>Gardano</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1580">1580</date>
+					<idno type="RISM">P 5106</idno>
+					<biblScope unit="page">7</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1"><seg xml:id="l1v1">Mentre mia stella miri</seg></l>
+					<l xml:id="l2"><seg xml:id="l2v1">I bei celesti giri</seg></l>
+					<l xml:id="l3"><seg xml:id="l3v1">Il cielo esser vorrei</seg></l>
+					<l xml:id="l4"><seg xml:id="l4v1">Perche tu rivolgessi</seg></l>
+					<l xml:id="l5"><seg xml:id="l5v1">Fisso ne gl'occhi miei</seg></l>
+					<l xml:id="l6"><seg xml:id="l6v1">Le tue dolci faville</seg></l>
+					<l xml:id="l7"><seg xml:id="l7v1">Io vagheggiar potessi</seg></l>
+					<l xml:id="l8"><seg xml:id="l8v1">Mille bellezze tue con occhi mille</seg>.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>
