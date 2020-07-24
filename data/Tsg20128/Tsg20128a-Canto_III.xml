@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Si volse Armida, e 'l rimirò improvviso</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tsg20128a</idno>
+			<idno type="label">Tsg20128a (Canto_III)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tsg20128a-Canto_III">
+					<title>Li Diversi Scherzi a una, a due et tre voci. Libro primo</title>
+					<url></url>
+					<author role="composer">Cifra, Antonio</author>
+					<publisher>Robletti</publisher>
+					<pubPlace>Rome</pubPlace>
+					<date when="1613">1613</date>
+					<idno type="RISM">C 2214</idno>
+					<biblScope unit="page">20-22</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Aria di Romanesca quarta a tre Soprani.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Si volse Armid'el rimirò improviso</l>
+					<l xml:id="l2">Che no'l sentì quando da prima ei venne.</l>
+				</lg>
+				<lg>
+					<l xml:id="l3">Alzò le strida e da lamato viso</l>
+					<l xml:id="l4">Torse le luci disdegnosa, e svenne.</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Ella cadea quasi fior mezz'inciso</l>
+					<l xml:id="l6">Piegand'il lento collo ei la sostenne.</l>
+				</lg>
+				<lg>
+					<l xml:id="l7">Gli fe d’un braccio al bel fianco colonna</l>
+					<l xml:id="l8">E’n tant'al sen le ralentò la gonna.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

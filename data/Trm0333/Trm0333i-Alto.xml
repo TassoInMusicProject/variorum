@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Gelo ha Madonna il seno</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0333i</idno>
+			<idno type="label">Trm0333i (Alto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0333i-Alto">
+					<title>Il primo libro de madrigali a cinque voci</title>
+					<url>http://bibliotecaestense.beniculturali.it/info/img/mus/i-mo-beu-mus.f.496.html</url>
+					<author role="composer">Gesualdo, Carlo</author>
+					<publisher>Baldini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1594">1594</date>
+					<idno type="RISM">G 1721</idno>
+					<biblScope unit="page">7</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Gel'hà madonn’il seno e fiamm’il volto</l>
+					<l xml:id="l2">Io son ghiaccio di fore</l>
+					<l xml:id="l3">E'l foc’hò dentr’accolto</l>
+					<l xml:id="l4">Quest’avvien perch’Amore</l>
+					<l xml:id="l5">Ne la sua front’alberg'e nel mio petto</l>
+					<l xml:id="l6">Ne mai cangia ricetto</l>
+					<l xml:id="l7">Sì ch’io l’habbia negl’occhi ella nel core.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

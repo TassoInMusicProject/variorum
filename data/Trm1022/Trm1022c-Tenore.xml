@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Voi sete bella, ma fugage e presta</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm1022c</idno>
+			<idno type="label">Trm1022c (Tenore)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm1022c-Tenore">
+					<title>Madrigali a sei voci. Libro secondo</title>
+					<url></url>
+					<author role="composer">Il Verso, Antonio</author>
+					<publisher>Amadino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1601">1601</date>
+					<idno type="RISM">1601-14</idno>
+					<biblScope unit="page">8</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Voi sete bella ma fugace e presta</l>
+					<l xml:id="l2">Come cervetta suole</l>
+					<l xml:id="l3">Che fugge per le selve ombrose e sole</l>
+					<l xml:id="l4">E cerca fiume o rio</l>
+					<l xml:id="l5">Tal che vi seguo indarn'e vi desio.</l>
+					<l xml:id="l6">[ABSENT]</l>
+					<l xml:id="l7">[ABSENT]</l>
+					<l xml:id="l8">[ABSENT]</l>
+					<l xml:id="l9">[ABSENT]</l>
+					<l xml:id="l10">[ABSENT]</l>
+					<l xml:id="l11">[ABSENT]</l>
+					<l xml:id="l12">[ABSENT]</l>
+					<l xml:id="l13">[ABSENT]</l>
+					<l xml:id="l14">[ABSENT]</l>
+					<l xml:id="l15">[ABSENT]</l>
+					<l xml:id="l16">[ABSENT]</l>
+					<l xml:id="l17">[ABSENT]</l>
+					<l xml:id="l18">[ABSENT]</l>
+					<l xml:id="l19">[ABSENT]</l>
+					<l xml:id="l20">[ABSENT]</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

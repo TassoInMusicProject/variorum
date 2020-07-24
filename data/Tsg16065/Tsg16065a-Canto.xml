@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Misera Armida, allor dovevi, e degno</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tsg16065a</idno>
+			<idno type="label">Tsg16065a (Canto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tsg16065a-Canto">
+					<title>Il secondo libro de madrigali a tre voci</title>
+					<url></url>
+					<author role="composer">Il Verso, Antonio</author>
+					<publisher>Amadino</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1605">1605</date>
+					<idno type="RISM">I 11</idno>
+					<biblScope unit="page">9</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Seconda parte.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Misera Armida al'hor devevi (e degno</l>
+					<l xml:id="l2">Ben era) à l'empio dar crudo martire</l>
+					<l xml:id="l3">Che tu prigion l’havesti hor tardo sdegno</l>
+					<l xml:id="l4">T’infiamma e move neghittosa à l’ire</l>
+					<l xml:id="l5">Pur se beltà può nulla ò scaltro ingegno</l>
+					<l xml:id="l6">Non fia vota d’effetto alto desire</l>
+					<l xml:id="l7">O mia sprezzata forma à te s’aspetta</l>
+					<l xml:id="l8">(Che tua l’ingiuria fù) l’alta vendetta.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

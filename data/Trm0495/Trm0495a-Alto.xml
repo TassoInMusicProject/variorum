@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Se così dolce è il duolo</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0495a</idno>
+			<idno type="label">Trm0495a (Alto)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0495a-Alto">
+					<title>Il secondo libro de madrigali a cinque voci</title>
+					<url>http://www.bibliotecamusica.it/cmbm/viewschedatwbca.asp?path=/cmbm/images/ripro/gaspari/_S/S210/</url>
+					<author role="composer">Gesualdo, Carlo</author>
+					<publisher>Baldini</publisher>
+					<pubPlace>Ferrara</pubPlace>
+					<date when="1594">1594</date>
+					<idno type="RISM">G 1725</idno>
+					<biblScope unit="page">10-11</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Se cosi dolce'l duolo</l>
+					<l xml:id="l2">Deh qual dolcezz'aspetto</l>
+					<l xml:id="l3">d’immaginato mio nuovo diletto.</l>
+				</lg>
+				<lg>
+					<l xml:id="l4">Ma s’avverrà ch’io moia</l>
+					<l xml:id="l5">di piacer'e di gioia</l>
+					<l xml:id="l6">Non ritardi la morte</l>
+					<l xml:id="l7">si lieto fin'e si felice sorte.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

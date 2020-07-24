@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Gelo ha Madonna il seno</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0333m</idno>
+			<idno type="label">Trm0333m (Canto_II)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0333m-Canto_II">
+					<title>Madrigali concertati a cinque con il basso continuo</title>
+					<url>http://www.bibliotecamusica.it/cmbm/viewschedatwbca.asp?path=/cmbm/images/ripro/gaspari/_Y/Y121/</url>
+					<author role="composer">Cifra, Antonio</author>
+					<publisher>Soldi</publisher>
+					<pubPlace>Rome</pubPlace>
+					<date when="1621">1621</date>
+					<idno type="RISM">C 2224</idno>
+					<biblScope unit="page">17</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Gelo hà Madonna il seno e fiamma il volto</l>
+					<l xml:id="l2">Io son ghiaccio di fore</l>
+					<l xml:id="l3">E'l foco hò dentr’accolto</l>
+					<l xml:id="l4">Questo avvien perch’amore</l>
+					<l xml:id="l5">Ne la sua front’alberga e nel mio petto</l>
+					<l xml:id="l6">Ne mai cangia ricetto</l>
+					<l xml:id="l7">Sì ch’io l’habbia negl’occhi ella nel core.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

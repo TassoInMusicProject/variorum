@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Vezzosi augelli infra le verdi fronde</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tsg16012f</idno>
+			<idno type="label">Tsg16012f (Canto_II)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tsg16012f-Canto_II">
+					<title>Li Diversi Scherzi a una, a due et tre voci. Libro primo</title>
+					<url></url>
+					<author role="composer">Cifra, Antonio</author>
+					<publisher>Robletti</publisher>
+					<pubPlace>Rome</pubPlace>
+					<date when="1613">1613</date>
+					<idno type="RISM">C 2214</idno>
+					<biblScope unit="page">14-17</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Aria di Romanesca à due Soprani.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Vezzos'Augelli in fra le verdi fronde</l>
+					<l xml:id="l2">Tempran’a prova lascivette note</l>
+				</lg>
+				<lg>
+					<l xml:id="l3">Mormora l’Aura, e fa le fogli'e l’onde</l>
+					<l xml:id="l4">garrir che variamente ella percote</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Quando taccion gl'Augelli alto risponde</l>
+					<l xml:id="l6">Quando cantan gl'Augei più lieve scote</l>
+				</lg>
+				<lg>
+					<l xml:id="l7">Sia cas'od arte hor accompagna ed hora</l>
+					<l xml:id="l8">Altern'i versi lor la music'hora.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>
