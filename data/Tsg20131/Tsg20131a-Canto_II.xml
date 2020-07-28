@@ -9,19 +9,19 @@
 			<publicationStmt>
 				<publisher></publisher>
 				<availability status=""></availability>
-			<idno type="local">Tsg20131b</idno>
-			<idno type="label">Tsg20131b (Canto)</idno>
+			<idno type="local">Tsg20131a</idno>
+			<idno type="label">Tsg20131a (Canto_II)</idno>
 			</publicationStmt>
 			<sourceDesc>
-				<bibl type="music" xml:id="Tsg20131b-Canto">
-					<title>L'Armida del Tasso posta in musica a cinque voci, col suo basso per suonare</title>
-					<url>http://www.bibliotecamusica.it/cmbm/viewschedatwbca.asp?path=/cmbm/images/ripro/gaspari/_Z/Z082/</url>
-					<author role="composer">Eredi, Francesco</author>
-					<publisher>A. Vincenzi</publisher>
+				<bibl type="music" xml:id="Tsg20131a-Canto_II">
+					<title>Scherzi et arie a une, due, tre, et quattro voci per cantare nel clavicembalo ò altro simile istromento</title>
+					<url>https://uurl.kbr.be/1561864</url>
+					<author role="composer">Cifra, Antonio</author>
+					<publisher>G. Vincenzi</publisher>
 					<pubPlace>Venice</pubPlace>
-					<date when="1629">1629</date>
-					<idno type="RISM">E 741</idno>
-					<biblScope unit="page">18-19</biblScope>
+					<date when="1614">1614</date>
+					<idno type="RISM">C 2216</idno>
+					<biblScope unit="page">4-6</biblScope>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -29,16 +29,18 @@
 	<text>
 		<body xml:space="preserve">
 			<div type="dedication">
-				<p xml:id="p1">Nona Parte.</p>
+				<p xml:id="p1">Aria del Gazzella. A 2. Soprani.</p>
 			</div>
 			<div>
 				<lg>
 					<l xml:id="l1">O sempre e quando parti e quando torni</l>
 					<l xml:id="l2">Egualmente crudele hor chi ti guida</l>
-					<l xml:id="l3">Gran maraviglia che ’l morir distorni</l>
-					<l xml:id="l4">E di vita cagion sia l’homicida</l>
+					<l xml:id="l3">Gran maraviglia che’l morir distorni</l>
+					<l xml:id="l4">E di vita cagion sia l’homicida.</l>
+				</lg>
+				<lg>
 					<l xml:id="l5">Tu di salvarmi cerchi a quali scorni</l>
-					<l xml:id="l6">A quali pene è riserbata Armida</l>
+					<l xml:id="l6">A quali pene e riservata Armida</l>
 					<l xml:id="l7">Conosco l’arti del fellone ignote</l>
 					<l xml:id="l8">Ma ben può nulla chi morir non puote.</l>
 				</lg>

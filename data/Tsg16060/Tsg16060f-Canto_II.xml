@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Là tra 'l sangue e le morti egro giacente</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tsg16060f</idno>
+			<idno type="label">Tsg16060f (Canto_II)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tsg16060f-Canto_II">
+					<title>Li Diversi Scherzi a una, due et tre voci. Libro secondo</title>
+					<url>https://www.loc.gov/resource/ihas.200215631.0/?sp=5</url>
+					<author role="composer">Cifra, Antonio</author>
+					<publisher>Robletti</publisher>
+					<pubPlace>Rome</pubPlace>
+					<date when="1613">1613</date>
+					<idno type="RISM">C 2215</idno>
+					<biblScope unit="page">11-12</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Aria di Romanesca terza, à due Soprani.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">La tra, l' sangu’e le morti egro giacente</l>
+					<l xml:id="l2">mi pagherai le pene empio guerriero.</l>
+				</lg>
+				<lg>
+					<l xml:id="l3">Per nom'Armida chiamerai sovente</l>
+					<l xml:id="l4">Ne gl'ultimi singulti udir ciò spero.</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Hor qui mancò lo spirt’a la dolente</l>
+					<l xml:id="l6">ne quest’ultimo suono espress’intero.</l>
+				</lg>
+				<lg>
+					<l xml:id="l7">E cade tramortita e si diffuse</l>
+					<l xml:id="l8">Di gelato sudore ei lumi chiuse.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

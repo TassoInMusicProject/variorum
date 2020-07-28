@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Usciva omai dal molle e fresco grembo</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tsg14001g</idno>
+			<idno type="label">Tsg14001g (Canto_I)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tsg14001g-Canto_I">
+					<title>Li diversi scherzi a una, a due, a tre et quattro voci. Libro quarto</title>
+					<url></url>
+					<author role="composer">Cifra, Antonio</author>
+					<publisher>Robletti</publisher>
+					<pubPlace>Rome</pubPlace>
+					<date when="1615">1615</date>
+					<idno type="RISM">C 2219</idno>
+					<biblScope unit="page">26-27</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Aria del Gazzella.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Usciva homai del molle, e fresco grembo</l>
+					<l xml:id="l2">De la gran Madre sua la nott'oscura</l>
+					<l xml:id="l3">Aure lievi portando, e largo nembo</l>
+					<l xml:id="l4">Di sua rugiada preciosa, e pura.</l>
+					<l xml:id="l5">@VERSE:</l>
+					<l xml:id="l6">E scotendo del vel l’humido lembo</l>
+					<l xml:id="l7">Ne spargeva fioretti e la verdura</l>
+					<l xml:id="l8">E i venticelli dibatendo l’ali</l>
+					<l xml:id="l9">lusingavano il sonno de mortali.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

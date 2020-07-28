@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Vattene pur, crudel, con quella pace</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tsg16059d</idno>
+			<idno type="label">Tsg16059d (Canto_I)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tsg16059d-Canto_I">
+					<title>Li Diversi Scherzi a una, due et tre voci. Libro secondo</title>
+					<url>https://www.loc.gov/resource/ihas.200215631.0/?sp=5</url>
+					<author role="composer">Cifra, Antonio</author>
+					<publisher>Robletti</publisher>
+					<pubPlace>Rome</pubPlace>
+					<date when="1613">1613</date>
+					<idno type="RISM">C 2215</idno>
+					<biblScope unit="page">7-8</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Aria prima di Romanesca à due Soprani.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Vattene pur crudel con quella pace</l>
+					<l xml:id="l2">Che lasci a me vattene iniquo homai.</l>
+				</lg>
+				<lg>
+					<l xml:id="l3">Me tost'ignudo e spirt'ombra seguace</l>
+					<l xml:id="l4">Ch'indivisibilmente a tergo havrai.</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Nova furia co serpi e con la face</l>
+					<l xml:id="l6">Tanto t’agiterò quanto t’amai.</l>
+				</lg>
+				<lg>
+					<l xml:id="l7">E se destin ch’esca del mar che schivi</l>
+					<l xml:id="l8">Gli scogl'e l’onde e ch'a la pugn'arrivi.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

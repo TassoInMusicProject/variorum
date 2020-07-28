@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Questa vostra pietate</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Trm0284j</idno>
+			<idno type="label">Trm0284j (Basso)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Trm0284j-Basso">
+					<title>Il settimo libro de madrigali a cinque voci</title>
+					<url></url>
+					<author role="composer">Luzzaschi, Luzzasco</author>
+					<publisher>G. Vincenzi</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1604">1604</date>
+					<idno type="RISM">L 3130</idno>
+					<biblScope unit="page">3</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1"></p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Questa vostra pietate</l>
+					<l xml:id="l2">Non refrigerio al core</l>
+					<l xml:id="l3">Ma da forza à l'ardore</l>
+					<l xml:id="l4">[TACET]</l>
+					<l xml:id="l5">In cosi strana guisa</l>
+					<l xml:id="l6">Che ne sia l’alma uccisa</l>
+					<l xml:id="l7">Perch’ella vi desia</l>
+					<l xml:id="l8">O in estremo crudele O'n tutto pia.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

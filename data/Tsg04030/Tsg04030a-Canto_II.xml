@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Fa nove crespe l'aura al crin disciolto</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tsg04030a</idno>
+			<idno type="label">Tsg04030a (Canto_II)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tsg04030a-Canto_II">
+					<title>Li diversi scherzi a una, a due, a tre et quattro voci. Libro quarto</title>
+					<url></url>
+					<author role="composer">Cifra, Antonio</author>
+					<publisher>Robletti</publisher>
+					<pubPlace>Rome</pubPlace>
+					<date when="1615">1615</date>
+					<idno type="RISM">C 2219</idno>
+					<biblScope unit="page">18-20</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Aria di Romanesca a 2. Soprani.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Fa nove crespe l’aura al crin disciolto,</l>
+					<l xml:id="l2">Che natura per se rincrespa in onde.</l>
+				</lg>
+				<lg>
+					<l xml:id="l3">Stassi l’avaro sguardo in se raccolto</l>
+					<l xml:id="l4">E i tesori d’amore, E i suoi nasconde.</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">Dolce color di rose in quel bel volto</l>
+					<l xml:id="l6">frà l’avorio si sparge, e si confonde.</l>
+				</lg>
+				<lg>
+					<l xml:id="l7">Ma ne la bocca, onde esce aura amorosa,</l>
+					<l xml:id="l8">Sola rosseggia, e semplice la Rosa.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

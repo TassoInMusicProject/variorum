@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Era la notte e 'l suo stellato velo</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tsg06103b</idno>
+			<idno type="label">Tsg06103b (Canto_II)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tsg06103b-Canto_II">
+					<title>Scherzi et arie a une, due, tre, et quattro voci per cantare nel clavicembalo ò altro simile istromento</title>
+					<url>https://uurl.kbr.be/1561864</url>
+					<author role="composer">Cifra, Antonio</author>
+					<publisher>G. Vincenzi</publisher>
+					<pubPlace>Venice</pubPlace>
+					<date when="1614">1614</date>
+					<idno type="RISM">C 2216</idno>
+					<biblScope unit="page">20-24</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">[Aria del Gazzella. A 4]	</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">[TACET]</l>
+					<l xml:id="l2">Chiaro spiegava e senza nube alcuna</l>
+					<l xml:id="l3">[TACET]</l>
+					<l xml:id="l4">Di vive perle la sorgente luna.</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">[TACET]</l>
+					<l xml:id="l6">Le sue fiamme sfogando ad una ad una</l>
+					<l xml:id="l7">E secretarii del suo amore antico</l>
+					<l xml:id="l8">Fea i muti campi e quel silentio amico.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>

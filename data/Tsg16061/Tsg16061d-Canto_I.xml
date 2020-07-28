@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tassotei.rng" type="application/xml" schematypens="http://relaxng.orgns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Chiudesti i lumi, Armida: il cielo avaro</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher></publisher>
+				<availability status=""></availability>
+			<idno type="local">Tsg16061d</idno>
+			<idno type="label">Tsg16061d (Canto_I)</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl type="music" xml:id="Tsg16061d-Canto_I">
+					<title>Li Diversi Scherzi a una, due et tre voci. Libro secondo</title>
+					<url>https://www.loc.gov/resource/ihas.200215631.0/?sp=5</url>
+					<author role="composer">Cifra, Antonio</author>
+					<publisher>Robletti</publisher>
+					<pubPlace>Rome</pubPlace>
+					<date when="1613">1613</date>
+					<idno type="RISM">C 2215</idno>
+					<biblScope unit="page">9-10</biblScope>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body xml:space="preserve">
+			<div type="dedication">
+				<p xml:id="p1">Aria di Romanesca seconda, à due Soprani.</p>
+			</div>
+			<div>
+				<lg>
+					<l xml:id="l1">Chiudesti i lum'Armida il cielo avaro</l>
+					<l xml:id="l2">invido l' confort'ai tuoi martiri.</l>
+				</lg>
+				<lg>
+					<l xml:id="l3">Apri misera gl'occhi il piant'amaro</l>
+					<l xml:id="l4">ne gl'occhi, al tuo nemico hor che non miri.</l>
+				</lg>
+				<lg>
+					<l xml:id="l5">O s’udir tu l' potessi ò come caro</l>
+					<l xml:id="l6">t’adolcirebb'il suon de miei sospiri.</l>
+				</lg>
+				<lg>
+					<l xml:id="l7">Da quant'ei puot'e prende e tu nol vedi</l>
+					<l xml:id="l8">pietos'in vista gl'ultimi congedi.</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+</TEI>
