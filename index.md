@@ -691,6 +691,7 @@ if (node) {
 function mergeSimilarVariants(data) {
 	var entries = {};
 	var i;
+	var j;
 	var id;
 
 	for (i=0; i<data.length; i++) {
@@ -702,12 +703,51 @@ function mergeSimilarVariants(data) {
 		// console.log("MERGING", data[i].variant_text[0], "WITH", id);
 		entries[id] = mergeEntries(entries[id], data[i]);
 	}
+
 	var keys = Object.keys(entries);
 	var output = [];
 	for (i=0; i<keys.length; i++) {
 		output[i] = entries[keys[i]];
 	}
-	return output;
+
+	// Run through the output again to deal with apostrophes:
+	var pati;
+	var patj;
+	var rei;
+	var rej;
+	var mergedjs = {};
+	for (i=0; i<output.length; i++) {
+		if (mergedjs[i]) {
+			// console.log("ALREADY MERGED, so ignore", i);
+			continue;
+		}
+		for (j=i+1; j<output.length; j++) {
+			if (mergedjs[j]) {
+				// console.log("ALREADY MERGED, so ignore", j);
+				continue;
+			}
+			pati = output[i].compare_text;
+			patj = output[j].compare_text;
+			rei = new RegExp('^' + pati + '$');
+			rej = new RegExp('^' + patj + '$');
+			if (rei.test(patj) || rej.test(pati)) {
+				// console.log("STRINGS MATCH:", pati, "AND", patj);
+				output[i] = mergeEntries(output[i], output[j]);
+				mergedjs[j] = 1;
+				output[j] = null;
+			}
+		}
+	}
+
+	// remove nulls from apostrophe cleaned list:
+	var newoutput = [];
+	for (i=0; i<output.length; i++) {
+		if (!output[i]) {
+			continue;
+		}
+		newoutput.push(output[i]);
+	}
+	return newoutput;
 }
 
 
@@ -728,7 +768,7 @@ function mergeEntries(obj1, obj2) {
 
 //////////////////////////////
 //
-// cleanText -- Remvoe punctionation
+// cleanText -- Remove punctuation
 //
 
 function cleanText(text) {
@@ -838,12 +878,15 @@ function cleanText(text) {
 	//X tanti e	tant'e
 */
 
-	text = text.replace(/[^A-Za-z'<>]/g, " ");
+	text = text.replace(/[^A-Z'’a-z<>]/g, " ");
 	text = text.replace(/\s+/g, " ");
 	text = text.replace(/^\s+/, "");
 	text = text.replace(/\s+$/, "");
 
-	text = text.replace(/[^\w\s]|(.)(?=\1)/gi, "");
+	text = text.replace(/[^\w\s'’]|(.)(?=\1)/gi, "");
+
+	// deal with apostrophes:
+	text = text.replace(/\s*['’]\s*/, ".*", "g");
 
 	return text;
 }
