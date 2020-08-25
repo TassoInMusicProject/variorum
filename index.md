@@ -715,6 +715,8 @@ function mergeSimilarVariants(data) {
 	var patj;
 	var rei;
 	var rej;
+	var leni;
+	var lenj;
 	var mergedjs = {};
 	for (i=0; i<output.length; i++) {
 		if (mergedjs[i]) {
@@ -728,13 +730,18 @@ function mergeSimilarVariants(data) {
 			}
 			pati = output[i].compare_text;
 			patj = output[j].compare_text;
-			rei = new RegExp('^' + pati + '$');
-			rej = new RegExp('^' + patj + '$');
-			if (rei.test(patj) || rej.test(pati)) {
-				// console.log("STRINGS MATCH:", pati, "AND", patj);
-				output[i] = mergeEntries(output[i], output[j]);
-				mergedjs[j] = 1;
-				output[j] = null;
+			leni = pati.length;
+			lenj = patj.length;
+			// limit any contraction from apostrophes to 10 characters max:
+			if (Math.abs(leni - lenj) < 10) {
+				rei = new RegExp('^' + pati + '$');
+				rej = new RegExp('^' + patj + '$');
+				if (rei.test(patj) || rej.test(pati)) {
+					// console.log("STRINGS MATCH:", pati, "AND", patj);
+					output[i] = mergeEntries(output[i], output[j]);
+					mergedjs[j] = 1;
+					output[j] = null;
+				}
 			}
 		}
 	}
@@ -848,6 +855,8 @@ function cleanText(text) {
 	text = text.replace(/\bond'?\b/g, "onde ");
 	text = text.replace(/\bh?ora?'?\b/g, "ora ");
 	text = text.replace(/\bh?umile?'?\b/g, "humile "); // coule be "humile"
+	text = text.replace(/che[’']n/g, "che in");
+	text = text.replace(/ch[’']in/g, "che in");
 
 /*  Other spelling equivalents to think about:
 	face o	fac'o	fac',o
@@ -878,7 +887,10 @@ function cleanText(text) {
 	//X tanti e	tant'e
 */
 
-	text = text.replace(/[^A-Z'’a-z<>]/g, " ");
+	// Escape emmendation marks
+	text = text.replace(/\^/, "%", "g");
+
+	text = text.replace(/[^%A-Z'’a-z<>]/g, " ");
 	text = text.replace(/\s+/g, " ");
 	text = text.replace(/^\s+/, "");
 	text = text.replace(/\s+$/, "");
@@ -886,7 +898,7 @@ function cleanText(text) {
 	text = text.replace(/[^\w\s'’]|(.)(?=\1)/gi, "");
 
 	// deal with apostrophes:
-	text = text.replace(/\s*['’]\s*/, ".*", "g");
+	text = text.replace(/\s*['’]\s*/, "[^%]*", "g");
 
 	return text;
 }
