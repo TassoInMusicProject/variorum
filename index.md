@@ -651,13 +651,14 @@ function createVariantText(list, cleanactive, rawactive) {
 			continue;
 		}
 		testing = cleanText(list[i]);
-		output += "<span";
+		output += "<span style='cursor:pointer;'";
 		title = getPopupTitleForRawVariant(vinfo, list[i]);
 		if (title) {	
 			output += " title='" + title + "'";
 		}
 		if (testing === cleanactive) {
-			output += " class='variant active'>";
+			// output += " class='variant active'>";
+			output += ">";
 		} else {
 			output += ">";
 		}
