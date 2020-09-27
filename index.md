@@ -865,19 +865,19 @@ function cleanText(text) {
 	text = text.replace(/ch[’']in/g, "che in");
 
 	// newer set:
-	text = text.replace(/\bhumili\b, "umili");
-	text = text.replace(/\bi\b, "io");
-	text = text.replace(/\bei\b, "egli");
-	text = text.replace(/\btrahean\b, "traean");
-	text = text.replace(/\bardor\b, "ardore");
-	text = text.replace(/\brecar\b, "recare");
-	text = text.replace(/\ball?h?ora?\b, "allora");
-	text = text.replace(/\bfuoco\b, "foco");
-	text = text.replace(/\bapria\b, "apriva");
-	text = text.replace(/\bfue\b, "fue");
-	text = text.replace(/\bsoli\b, "suoli");
-	text = text.replace(/\bin fra\b, "infra");
-	text = text.replace(/\bin tra\b, "intra");
+	text = text.replace(/\bhumili\b/, "umili");
+	text = text.replace(/\bi\b/, "io");
+	text = text.replace(/\bei\b/, "egli");
+	text = text.replace(/\btrahean\b/, "traean");
+	text = text.replace(/\bardor\b/, "ardore");
+	text = text.replace(/\brecar\b/, "recare");
+	text = text.replace(/\ball?h?ora?\b/, "allora");
+	text = text.replace(/\bfuoco\b/, "foco");
+	text = text.replace(/\bapria\b/, "apriva");
+	text = text.replace(/\bfue\b/, "fue");
+	text = text.replace(/\bsoli\b/, "suoli");
+	text = text.replace(/\bin fra\b/, "infra");
+	text = text.replace(/\bin tra\b/, "intra");
 
 
 /*  Other spelling equivalents to think about:
