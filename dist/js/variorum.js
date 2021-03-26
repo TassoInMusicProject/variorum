@@ -12981,6 +12981,7 @@ var TEIfilesView = function (_Backbone$View) {
                 var B = parseInt(b.source.replace(/^S/, ""));
                 return A - B;
             });
+            console.log("SORTED LIT_P:", lit_p);
 
             // Sort lit_ms alphabetically.
             lit_ms = lit_ms.sort(function(a, b) {
@@ -12988,6 +12989,7 @@ var TEIfilesView = function (_Backbone$View) {
                 var B = b.source;
                 return A - B;
             });
+            console.log("SORTED LIT_MS:", lit_ms);
 
 
             // Group musical sources by their idno
@@ -13000,6 +13002,13 @@ var TEIfilesView = function (_Backbone$View) {
 
                 return hash.set(idno, current);
             }, new Map()).values()));
+
+            grouped_mus = grouped_mus.sort(function(a, b) {
+                var A = a.idno;
+                var B = b.idno;
+                return A.localeCompare(B);
+            });
+            console.log("SORTED GROUPED_MUS:", grouped_mus);
 
             this.$el.find("#lit_ms").html((0, _TEIfilesTpl2.default)(lit_ms));
             this.$el.find("#lit_p").html((0, _TEIfilesTpl2.default)(lit_p));
