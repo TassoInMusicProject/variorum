@@ -12987,9 +12987,9 @@ var TEIfilesView = function (_Backbone$View) {
             lit_ms = lit_ms.sort(function(a, b) {
                 var A = a.source;
                 var B = b.source;
-                return A - B;
+                return A.localeCompare(B);
             });
-            console.log("SORTED LIT_MS:", lit_ms);
+            console.log("SORTED LIT_MS:", lit_ms, JSON.stringify(lit_ms));
 
 
             // Group musical sources by their idno
